@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-05T14:22:37",
+        "generated_at": "2026-10-05T21:31:56",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/milchprodukte/k/158816141856710103",
         "product_count": 90,
-        "content_hash": "sha256:70ded7f882fd8005dfb4a563fee1563021f28d5046552ec5bfd7a56687942661",
-        "file_id": "059efcd4-58f3-41b4-8175-c21ff63e1759",
-        "run_id": "20261005_142125-06866720"
+        "content_hash": "sha256:dfa8ea5f25549f1f9f53705cf03ef9cb7cda62152ab0c1bb769860085686c809",
+        "file_id": "616c3269-895c-4954-8f96-a5c74f03d2e4",
+        "run_id": "20261005_213026-3c61494e"
     },
     "products": [
         {
@@ -516,9 +516,9 @@
             "product_url": "https://www.hofer.at/produkt/cucina-mascarpone-000000000000667546",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/9c9b52a2-c359-4b43-a9ef-97b0ff14d162/Mascarpone",
             "category": "mlecne_vyrobky",
-            "price": "3.95",
-            "original_price": "",
-            "comparison_price": "7.90",
+            "price": "2.69",
+            "original_price": "3.95",
+            "comparison_price": "5.38",
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",

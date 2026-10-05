@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-05T14:22:14",
+        "generated_at": "2026-10-05T21:31:28",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/brot-und-backwaren/k/158816141856710104",
         "product_count": 66,
-        "content_hash": "sha256:cde7e0c1403a1ae3e67a449d7724ca650f6a2fc7b0e8dbdc6eca7fd751c98bc3",
-        "file_id": "0743e7e9-45c1-4c3d-a6f0-34df0fbab66a",
-        "run_id": "20261005_142125-06866720"
+        "content_hash": "sha256:d3ff7b62fe36cae45c0e9579f9def33baca30ce47622feab26aebff0038a5f3f",
+        "file_id": "22b50c8b-ce65-4b36-b262-a056b7498def",
+        "run_id": "20261005_213026-3c61494e"
     },
     "products": [
         {
@@ -1024,8 +1024,8 @@
             "product_url": "https://www.hofer.at/produkt/backbox-laugenstangerl-000000000000100781",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/c8c9ee24-eb1a-4170-ab37-d0b87169a9cb/Laugenstangerl",
             "category": "pecivo",
-            "price": "0.49",
-            "original_price": "",
+            "price": "0.29",
+            "original_price": "0.49",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "",
@@ -1052,8 +1052,8 @@
             "product_url": "https://www.hofer.at/produkt/backbox-laugenbrezel-000000000000100792",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/30c68b4d-fba9-4967-8c92-c363ddceb08b/Laugenbrezel",
             "category": "pecivo",
-            "price": "0.49",
-            "original_price": "",
+            "price": "0.29",
+            "original_price": "0.49",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "",

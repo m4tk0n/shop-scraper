@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-05T14:25:08",
+        "generated_at": "2026-10-05T21:35:31",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-01",
         "product_count": 29,
-        "content_hash": "sha256:cafb6382a78f52ae0b5a88ca91eea0b53a5a83915e16c6abc447a7aa6e8f62c4",
-        "file_id": "75763f42-0aea-4b80-96fc-e8414aeb9129",
-        "run_id": "20261005_142422-fd9d0c25"
+        "content_hash": "sha256:c6ff34ebf608dfd722e59d55a240f3a05268d52f69978a16c07f10be3bafb6ec",
+        "file_id": "c517e783-ce08-4374-8fa0-a697e2a14f18",
+        "run_id": "20261005_213425-06ec6154"
     },
     "products": [
         {
@@ -98,8 +98,8 @@
             "store_product_id": "000000000000708015",
             "brand": "COUNTRY'S BEST",
             "name": "Trutenschnitzel",
-            "amount": "1000",
-            "unit": "g",
+            "amount": "1",
+            "unit": "kg",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/country-s-best-trutenschnitzel-000000000000708015",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/5dd82aab-40c1-449c-945e-a013ff48d859/Trutenschnitzel",
             "category": "maso",
@@ -360,8 +360,8 @@
             "store_product_id": "000000000000776627",
             "brand": "COUNTRY'S BEST",
             "name": "Pouletbrust",
-            "amount": "0.6",
-            "unit": "kg",
+            "amount": "600",
+            "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/country-s-best-pouletbrust-000000000000776627",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/878b82ff-55a2-4c36-9996-30f8609a6b50/Pouletbrust",
             "category": "maso",

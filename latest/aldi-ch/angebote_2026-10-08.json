@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-05T14:25:52",
+        "generated_at": "2026-10-05T21:36:30",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-08",
         "product_count": 48,
-        "content_hash": "sha256:b355c27cddb5e53b8cba77f46ceb6f92ae9c0c923e99f1e1c1072218cadd5638",
-        "file_id": "1050cbc7-2ed7-4e90-beec-525f1c2cbd5e",
-        "run_id": "20261005_142422-fd9d0c25"
+        "content_hash": "sha256:3163b6d01b0431801c659cb99f457ede05add12bba6cd23dd98dcfd0789ee26c",
+        "file_id": "a71c93e9-55ef-4acb-95be-206ee42792c6",
+        "run_id": "20261005_213425-06ec6154"
     },
     "products": [
         {
@@ -1155,8 +1155,8 @@
             "store_product_id": "000000000000755961",
             "brand": "HOME CREATION",
             "name": "Halloween-Buntlack",
-            "amount": "0.4",
-            "unit": "l",
+            "amount": "400",
+            "unit": "ml",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/home-creation-halloween-buntlack-000000000000755961",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/d81fcbe3-65dd-4254-b78f-f5d91b615642/HalloweenBuntlack",
             "category": "nastroje",
