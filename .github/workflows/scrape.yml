@@ -1,0 +1,79 @@
+name: scrape
+
+on:
+  schedule:
+    - cron: "30 4 * * *"            # denně 04:30 UTC (06:30 letního času v Rakousku a Švýcarsku)
+  workflow_dispatch:
+    inputs:
+      aldi_all:
+        description: "Aldi Suisse: celý sortiment (stovky požadavků)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Tesseract (OCR původních cen)
+        run: sudo apt-get update && sudo apt-get install -y tesseract-ocr
+
+      - name: Python závislosti
+        run: pip install -r requirements.txt
+
+      - name: Přístup na weby (jen informativně)
+        run: python check_access.py
+        continue-on-error: true
+
+      - name: Hofer
+        id: hofer
+        run: python hofer_all.py
+        continue-on-error: true
+
+      - name: Aldi Suisse
+        id: aldi
+        run: python aldi_ch.py ${{ inputs.aldi_all && 'all' || '' }}
+        continue-on-error: true
+
+      - name: Kontrola výstupu
+        run: python check_output.py --latest
+
+      - name: Publikovat nejnovější data
+        run: python publish_latest.py hofer_data latest --prune
+
+      - name: Uložit celý výstup jako artefakt
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: output
+          path: hofer_data/
+          retention-days: 30
+          if-no-files-found: ignore
+
+      - name: Commit změněných dat
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add latest
+          git diff --cached --quiet || git commit -m "Data $(date -u +%F)"
+          git push
+
+      - name: Označit běh jako neúspěšný, když selhal některý obchod
+        if: steps.hofer.outcome == 'failure' || steps.aldi.outcome == 'failure'
+        run: |
+          echo "Hofer: ${{ steps.hofer.outcome }}, Aldi Suisse: ${{ steps.aldi.outcome }}"
+          exit 1
