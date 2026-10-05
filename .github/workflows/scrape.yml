@@ -2,7 +2,7 @@ name: scrape
 
 on:
   schedule:
-    - cron: "30 4 * * *"            # denně 04:30 UTC (06:30 letního času v Rakousku a Švýcarsku)
+    - cron: "20 23 * * *"            # denně 04:30 UTC (06:30 letního času v Rakousku a Švýcarsku)
   workflow_dispatch:
     inputs:
       aldi_all:
@@ -16,6 +16,15 @@ permissions:
 concurrency:
   group: scrape
   cancel-in-progress: false
+
+env:
+  FTP_HOST: ${{ secrets.FTP_HOST }}
+  FTP_USER: ${{ secrets.FTP_USER }}
+  FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+  FTP_DIR: ${{ vars.FTP_DIR }}
+  FTP_TLS: ${{ vars.FTP_TLS }}
+  FTP_PORT: ${{ vars.FTP_PORT }}
+  FTP_KEEP_DAYS: ${{ vars.FTP_KEEP_DAYS }}
 
 jobs:
   scrape:
@@ -39,6 +48,11 @@ jobs:
         run: python check_access.py
         continue-on-error: true
 
+      - name: Spojení se serverem (jen informativně)
+        if: env.FTP_HOST != ''
+        run: python upload_ftp.py --test
+        continue-on-error: true
+
       - name: Hofer
         id: hofer
         run: python hofer_all.py
@@ -52,7 +66,13 @@ jobs:
       - name: Kontrola výstupu
         run: python check_output.py --latest
 
-      - name: Publikovat nejnovější data
+      - name: Nahrát změněné soubory na server
+        id: upload
+        if: env.FTP_HOST != ''
+        run: python upload_ftp.py hofer_data
+        continue-on-error: true
+
+      - name: Publikovat nejnovější data do repozitáře
         run: python publish_latest.py hofer_data latest --prune
 
       - name: Uložit celý výstup jako artefakt
@@ -72,8 +92,8 @@ jobs:
           git diff --cached --quiet || git commit -m "Data $(date -u +%F)"
           git push
 
-      - name: Označit běh jako neúspěšný, když selhal některý obchod
-        if: steps.hofer.outcome == 'failure' || steps.aldi.outcome == 'failure'
+      - name: Označit běh jako neúspěšný, když selhal obchod nebo nahrání
+        if: steps.hofer.outcome == 'failure' || steps.aldi.outcome == 'failure' || steps.upload.outcome == 'failure'
         run: |
-          echo "Hofer: ${{ steps.hofer.outcome }}, Aldi Suisse: ${{ steps.aldi.outcome }}"
+          echo "Hofer: ${{ steps.hofer.outcome }}, Aldi Suisse: ${{ steps.aldi.outcome }}, nahrání na server: ${{ steps.upload.outcome }}"
           exit 1
