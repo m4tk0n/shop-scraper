@@ -1,0 +1,4 @@
+hofer_data/
+old/
+__pycache__/
+*.pyc
