@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-05T14:22:27",
+        "generated_at": "2026-10-05T21:55:58",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/fleisch-und-wurstwaren/k/158816141856710101",
         "product_count": 74,
-        "content_hash": "sha256:992bfe43bfd87ebc887f24bfe14c633e2bcdb297d25d750f348926527172c2fe",
-        "file_id": "90210a5e-7cba-444e-9e16-0b4c2896721c",
-        "run_id": "20261005_142125-06866720"
+        "content_hash": "sha256:01e40d5c42364da48aeb0774dc6218a24a2ceb60fc6712587415e177067f7042",
+        "file_id": "400bbdcc-3a93-4c4c-9763-1742b8af6001",
+        "run_id": "20261005_215502-94510b42"
     },
     "products": [
         {
@@ -1171,9 +1171,9 @@
             "product_url": "https://www.hofer.at/produkt/sonnhof-delikatessen-im-speckmantel-karree-000000000726752001",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/4ff7caa2-37bf-4f04-ac48-6139c59f97c3/Delikatessen%20im%20Speckmantel%20Karree",
             "category": "maso",
-            "price": "18.99",
-            "original_price": "",
-            "comparison_price": "18.99",
+            "price": "12.99",
+            "original_price": "18.98",
+            "comparison_price": "12.99",
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
@@ -1533,9 +1533,9 @@
             "product_url": "https://www.hofer.at/produkt/sonnhof-maishendl-geschnetzeltes-000000000000696879",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/80708955-1d74-4cf0-af56-13237238fa83/MaishendlGeschnetzeltes",
             "category": "maso",
-            "price": "4.99",
-            "original_price": "",
-            "comparison_price": "12.48",
+            "price": "3.49",
+            "original_price": "4.99",
+            "comparison_price": "8.73",
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",

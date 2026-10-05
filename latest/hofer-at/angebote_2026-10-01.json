@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-05T14:21:38",
+        "generated_at": "2026-10-05T21:55:13",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-01",
         "product_count": 48,
-        "content_hash": "sha256:86009ca02992c9bd0c153a1d081132494c50faf75999af1d2fef4d8b9ca4ff5e",
-        "file_id": "16518a4d-49c8-41af-a854-29db161b050b",
-        "run_id": "20261005_142125-06866720"
+        "content_hash": "sha256:15ebfa2dbbbe461ac4e8770c7e0d8da0a6655ab853ea8cfe63b4224250693e62",
+        "file_id": "0985052a-02ba-4c37-b910-07b17ec0c00d",
+        "run_id": "20261005_215502-94510b42"
     },
     "products": [
         {
@@ -256,9 +256,9 @@
             "product_url": "https://www.hofer.at/produkt/cachet-xxl-basic-katzenfutter-000000000000728946",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a7c33ae6-3d1d-443a-9907-fc41bf53df9b/XXL%20Basic%20Katzenfutter",
             "category": "zvirata",
-            "price": "8.99",
+            "price": "7.99",
             "original_price": "",
-            "comparison_price": "2.20",
+            "comparison_price": "1.96",
             "comparison_per": "1 kg",
             "valid_from": "2026-10-01",
             "valid_to": "",
