@@ -17,7 +17,7 @@ import re
 import sys
 import uuid
 from collections import Counter, defaultdict
-from datetime import datetime
+from datetime import datetime, timezone
 
 from hofer_common import COUNTRY, CURRENCY, STORE, content_hash, outdir, tokens_of
 
@@ -174,7 +174,7 @@ def build(folder, mode="sweets", categories=None, watch=()):
                   for b in brands if not b["in_watchlist"]]
 
     meta = {
-        "generated_at": datetime.now().isoformat(timespec="seconds"),
+        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "store": STORE,
         "country": COUNTRY,
         "currency": CURRENCY,
@@ -210,7 +210,7 @@ def main(argv):
     if not data["meta"]["source_files"]:
         print("Ve složce nejsou žádné soubory *_hofer-at_*.json:", folder)
         return 1
-    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+    ts = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
     suffix = "" if mode == "sweets" else f"-{mode}"
     path = os.path.join(folder, f"{ts}_{STORE.replace('_', '-')}_brands{suffix}.json")
     with open(path, "w", encoding="utf-8") as f:

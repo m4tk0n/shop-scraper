@@ -6,7 +6,7 @@ Soubor se přepíše jen když se změnil content_hash, takže commit obsahuje j
       --prune   smaže v cílové složce soubory, které už v posledním běhu obchodu nejsou (např. den, který zmizel z menu)
 """
 import glob, json, os, re, shutil, sys
-from datetime import datetime
+from datetime import datetime, timezone
 from hofer_common import outdir
 
 NAME = re.compile(r"^(\d{8}_\d{6})_(hofer-at|aldi-ch)_(?!brands)([a-z0-9_\-]+)\.json$")
@@ -29,7 +29,7 @@ for f in glob.glob(os.path.join(src_dir, "*.json")):
         newest[key] = (m.group(1), f, meta)
 
 changed, same, removed = [], 0, []
-manifest = {"generated_at": datetime.now().isoformat(timespec="seconds"), "stores": {}}
+manifest = {"generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"), "stores": {}}
 for store in sorted({k[0] for k in newest}):
     sdir = os.path.join(dst_dir, store)
     os.makedirs(sdir, exist_ok=True)

@@ -10,7 +10,7 @@ import os
 import re
 import sys
 import uuid
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 
 STORES = {"hofer_at": ("AT", "EUR"), "aldi_ch": ("CH", "CHF")}      # obchod -> (země ISO 3166-1, měna ISO 4217)
 STORE = os.environ.get("STORE", "hofer_at")
@@ -379,12 +379,12 @@ def content_hash(products):
 
 
 def write_source_json(out_dir, source, source_url, products, label="", ts=None, run_id=None):
-    ts = ts or datetime.now().strftime("%Y%m%d_%H%M%S")
+    ts = ts or datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
     name = f"{ts}_{STORE.replace('_', '-')}_{source}{'_' + label if label else ''}.json"
     path = os.path.join(out_dir, name)
     data = {
         "meta": {
-            "generated_at": datetime.now().isoformat(timespec="seconds"),
+            "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             "store": STORE,
             "country": COUNTRY,
             "currency": CURRENCY,
@@ -419,7 +419,7 @@ def run_batches(collect, argv=None, session=None):
             "args": [a for a in argv if not a.startswith("--")]}
     session = session or requests.Session(impersonate="chrome")
     out = outdir()
-    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+    ts = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
     run_id = f"{ts}-{uuid.uuid4().hex[:8]}"
     total, files = 0, []
     for b in collect(session, opts):
