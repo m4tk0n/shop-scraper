@@ -7,7 +7,7 @@ Soubory se nahrávají pod dočasným názvem *.part a teprve hotové se přejme
 
 Přihlašovací údaje jen z proměnných prostředí (GitHub Secrets):
     FTP_HOST, FTP_USER, FTP_PASSWORD            povinné
-    FTP_DIR        cílová složka, výchozí shop-scrapper/json-data
+    FTP_DIR        cílová složka, výchozí shop-scraper/json-data
     FTP_TLS        1 = FTPS (šifrovaně), výchozí běžné FTP
     FTP_PORT       výchozí 21
     FTP_KEEP_DAYS  smaže na serveru soubory starší než N dní (0 = nemazat, výchozí)
@@ -126,7 +126,7 @@ def prune(ftp, keep_days):
 
 
 def main(argv):
-    target = env("FTP_DIR", "shop-scrapper/json-data")
+    target = env("FTP_DIR", "shop-scraper/json-data")
     ftp = connect()
     state = {"ftp": ftp}
 
