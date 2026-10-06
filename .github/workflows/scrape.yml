@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "30 4 * * *" # denně 04:30 UTC (06:30 letního času v Rakousku a Švýcarsku)
     - cron: "30 16 * * *" # denně 16:30 UTC (18:30 letního času v Rakousku a Švýcarsku)
+    - cron: "20 20 * * *"
+    - cron: "20 22 * * *"
   workflow_dispatch:
     inputs:
       aldi_all:
