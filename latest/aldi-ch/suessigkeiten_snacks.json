@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-06T11:31:15",
+        "generated_at": "2026-10-06T15:48:35+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/suessigkeiten-snacks/k/1588161418433054",
         "product_count": 182,
-        "content_hash": "sha256:a62bd66149c73b48818fad808c29808311f731ba0414fea827caaf2ae3417a5a",
-        "file_id": "e0745287-60f9-46a7-afd1-243c71b359b4",
-        "run_id": "20261006_112908-547223b4"
+        "content_hash": "sha256:81e1d2d04585ed8f3c4c52ec2f5763c96a276baf868e853bb664993d17025852",
+        "file_id": "f478cc3a-7827-4b99-9521-f3530ce197a8",
+        "run_id": "20261006_154228-a9a901ea"
     },
     "products": [
         {
@@ -3930,17 +3930,17 @@
         },
         {
             "store_product_id": "000000000000271448",
-            "brand": "FARMER NATURALS",
+            "brand": "ALDI",
             "name": "Erdnüsse in der Schale, geröstet",
-            "amount": "",
-            "unit": "",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/farmer-naturals-erdnuesse-in-der-schale-geroestet-000000000000271448",
+            "amount": "400",
+            "unit": "g",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/aldi-erdnuesse-in-der-schale-geroestet-000000000000271448",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/dc4722f0-cd86-4348-9844-0a694f640d4c/Erdnsse%20in%20der%20Schale%20gerstet",
             "category": "orisky",
             "price": "2.29",
             "original_price": "",
-            "comparison_price": "",
-            "comparison_per": "",
+            "comparison_price": "0.57",
+            "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
             "source_date": "2026-10-06",

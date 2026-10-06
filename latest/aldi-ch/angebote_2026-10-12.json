@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-06T11:30:50",
+        "generated_at": "2026-10-06T15:44:34+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-12",
         "product_count": 46,
-        "content_hash": "sha256:2463ebebf74f19856271da2f72cbf02f93305850ce90b398c643d7b3447ae724",
-        "file_id": "6b639a3b-de1e-4c41-9b2b-d8143c18b724",
-        "run_id": "20261006_112908-547223b4"
+        "content_hash": "sha256:92c2b257f0483121c747c634536182f04ddb518a49e2991d5c6391833a9666de",
+        "file_id": "7e80544c-331f-46c9-b112-2bcb7d88284a",
+        "run_id": "20261006_154228-a9a901ea"
     },
     "products": [
         {
@@ -276,7 +276,7 @@
         {
             "store_product_id": "000000000000617528",
             "brand": "LINDT",
-            "name": "Lindor Kugeln Milch",
+            "name": "Lindor Kugeln, Milch",
             "amount": "200",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/lindt-lindor-kugeln-milch-000000000000617528",
@@ -563,15 +563,15 @@
             "store_product_id": "000000000000767959",
             "brand": "M&M'S",
             "name": "M&M's Cookie Dough",
-            "amount": "",
-            "unit": "",
+            "amount": "675",
+            "unit": "kg",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/m-m-s-m-m-s-cookie-dough-000000000000767959",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/4447e1f1-84c9-4eec-b9d0-c9019fd294b8/MMs%20Cookie%20Dough",
             "category": "susenky",
             "price": "9.49",
             "original_price": "",
-            "comparison_price": "",
-            "comparison_per": "",
+            "comparison_price": "0.01",
+            "comparison_per": "1 kg",
             "valid_from": "2026-10-12",
             "valid_to": "",
             "source_date": "2026-10-12",
