@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-05T14:21:47",
+        "generated_at": "2026-10-06T11:26:30",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-05",
         "product_count": 32,
-        "content_hash": "sha256:fc57e956b06a2a954fc0be4a79d5b9bc1ac9141cd2cbd9985f10e2cf104ae40f",
-        "file_id": "bf3798ec-ef3c-4bc4-8076-9f42a8164873",
-        "run_id": "20261005_142125-06866720"
+        "content_hash": "sha256:7cfaa82598e58dbb78f69d8b1122608d2176d17240de84ab3a38e77dc3801f74",
+        "file_id": "f249522a-69df-4175-93cb-d8b5ac157b6f",
+        "run_id": "20261006_112610-bed6b542"
     },
     "products": [
         {
@@ -594,7 +594,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/lily-dan-kleinkinder-thermostiefel-000000000000742970",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new%20%281%29",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e671b8a8-e889-4df1-8c25-d46c0120e06e/KleinkinderThermostiefel",
             "category": "nonfood",
             "price": "11.99",
             "original_price": "",

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-06T01:14:06",
+        "generated_at": "2026-10-06T11:31:15",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/suessigkeiten-snacks/k/1588161418433054",
         "product_count": 182,
-        "content_hash": "sha256:35683cc0d8a3d5216d5f504b713f301a81edfb5034f20b1152b2805da20df72d",
-        "file_id": "febccb12-6c60-4ec1-aa3e-6a9779914cc7",
-        "run_id": "20261006_010827-e70fe8c3"
+        "content_hash": "sha256:a62bd66149c73b48818fad808c29808311f731ba0414fea827caaf2ae3417a5a",
+        "file_id": "e0745287-60f9-46a7-afd1-243c71b359b4",
+        "run_id": "20261006_112908-547223b4"
     },
     "products": [
         {
@@ -3986,15 +3986,15 @@
             "store_product_id": "000000000000496381",
             "brand": "ALDI",
             "name": "Walnüsse in der Schale",
-            "amount": "",
-            "unit": "",
+            "amount": "1",
+            "unit": "kg",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/aldi-walnuesse-in-der-schale-000000000000496381",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/6d797088-ac01-493b-a5e7-c29c9e7ad07f/Walnsse%20in%20der%20Schale",
             "category": "orisky",
             "price": "5.89",
             "original_price": "",
-            "comparison_price": "",
-            "comparison_per": "",
+            "comparison_price": "5.89",
+            "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
             "source_date": "2026-10-06",

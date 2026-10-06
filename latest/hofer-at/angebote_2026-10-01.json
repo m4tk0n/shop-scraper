@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-05T21:55:13",
+        "generated_at": "2026-10-06T11:26:20",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-01",
         "product_count": 48,
-        "content_hash": "sha256:15ebfa2dbbbe461ac4e8770c7e0d8da0a6655ab853ea8cfe63b4224250693e62",
-        "file_id": "0985052a-02ba-4c37-b910-07b17ec0c00d",
-        "run_id": "20261005_215502-94510b42"
+        "content_hash": "sha256:df818474f332b22fb8750cf51f08f7712d2995b838cf89702ddcc8cb9123aa81",
+        "file_id": "fe2498c8-b39e-420a-8807-28908330fdee",
+        "run_id": "20261006_112610-bed6b542"
     },
     "products": [
         {
@@ -1250,9 +1250,9 @@
             "product_url": "https://www.hofer.at/produkt/home-creation-spruehfolie-000000000000756659",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/c66d85e7-6e67-4dd2-9337-4ae813715d41/Sprhfolie",
             "category": "domacnost",
-            "price": "7.99",
-            "original_price": "",
-            "comparison_price": "19.98",
+            "price": "6.29",
+            "original_price": "7.99",
+            "comparison_price": "15.73",
             "comparison_per": "1 l",
             "valid_from": "2026-10-01",
             "valid_to": "",

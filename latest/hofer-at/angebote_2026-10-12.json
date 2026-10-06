@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-06T01:05:59",
+        "generated_at": "2026-10-06T11:26:48",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-12",
         "product_count": 28,
-        "content_hash": "sha256:d66dc373579f449acf09b552cd83b98fa0cfb8f11cf1913d1f9632b61142bb7e",
-        "file_id": "1ba1e1ef-3064-4fc9-9ee8-e4dd3f690b59",
-        "run_id": "20261006_010517-130b657a"
+        "content_hash": "sha256:505b6d077ca77a6c2466ca101ff5de5afc3d9504f40eea1e17187faa4f0c22df",
+        "file_id": "47cecc8a-e8f6-45c0-97c0-deb7fa6b0883",
+        "run_id": "20261006_112610-bed6b542"
     },
     "products": [
         {
@@ -180,7 +180,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/workzone-praezisionswerkzeuge-messer-set-000000000000700220",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/630aa435-4004-419f-84c2-c8f61360969b/PrzisionswerkzeugeMesserSet",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/38966698-121e-403b-ae25-d5ca90a40f57/PrzisionswerkzeugeMesserSet",
             "category": "nonfood",
             "price": "3.99",
             "original_price": "",
@@ -388,7 +388,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/workzone-energiesparhelfer-000000000000739601",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/ce680fc8-9c4a-4356-b653-37e8cc8e6971/Energiesparhelfer",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a6187903-4827-4a03-a9c9-fafcdf207123/Energiesparhelfer",
             "category": "nonfood",
             "price": "2.99",
             "original_price": "",
@@ -424,9 +424,7 @@
             "valid_to": "",
             "source_date": "2026-10-12",
             "theme": "Heimwerker",
-            "tags": [
-                "tiefpreisaktion"
-            ],
+            "tags": [],
             "deposit": "",
             "deposit_type": "",
             "approx_amount": false,
@@ -572,7 +570,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/nola-lichtbogenfeuerzeug-usb-c-7512891588161434530136",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/673c5433-c166-4303-b32d-1beb372aced4/Lichtbogenfeuerzeug%20%20USBC",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/7d6d4803-cc6a-4fff-9c1e-4795fc0dc84d/Lichtbogenfeuerzeug%20%20USBC",
             "category": "nonfood",
             "price": "3.99",
             "original_price": "",
