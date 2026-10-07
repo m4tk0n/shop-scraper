@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-07T06:36:28+00:00",
+        "generated_at": "2026-10-07T11:21:02+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-09-28",
         "product_count": 110,
-        "content_hash": "sha256:1831bbbbec2e8c1900688921b9c93e38f81485a0644ab437b38521ca0eac8cd2",
-        "file_id": "6dd1ca60-38a7-4b41-8fc2-ac9539bdee55",
-        "run_id": "20261007_063602-e9f21072"
+        "content_hash": "sha256:5ce55c43ceec06c130b74b274bf018052aee29341cc435b6f422f1181b78da4e",
+        "file_id": "14a16cae-7491-4965-a993-0d6fbeba227a",
+        "run_id": "20261007_112031-f5853524"
     },
     "products": [
         {
@@ -20,7 +20,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/kokett-toilettenpapier-000000000000200631",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/f36b0216-dd78-46a6-9e76-a757e1a18e55/Toilettenpapier",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/1a5de0d9-4ec9-4961-9b7d-c377f7bf7ebb/Toilettenpapier",
             "category": "hygiena",
             "price": "4.99",
             "original_price": "",
