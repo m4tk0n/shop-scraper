@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-07T11:21:47+00:00",
+        "generated_at": "2026-10-07T21:31:06+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-05",
         "product_count": 154,
-        "content_hash": "sha256:790bf758315e4501b3d787428c4573e00a488f5304f13acdc3b72d2237be0307",
-        "file_id": "74dc466f-d0bb-4b45-a1b0-38eb9a4fbe2a",
-        "run_id": "20261007_112031-f5853524"
+        "content_hash": "sha256:748c07ffed2f057c8f58bf5e2a8394982152e8f1efaf45e93c0ad696d32a01de",
+        "file_id": "6a583fa6-5af4-47d6-a9ec-d34b70690abe",
+        "run_id": "20261007_212958-5659d86f"
     },
     "products": [
         {
@@ -1472,11 +1472,11 @@
         {
             "store_product_id": "000000000000774062",
             "brand": "SAVEURS SUISSES",
-            "name": "Speck-Würfel",
+            "name": "Speckwürfel",
             "amount": "400",
             "unit": "g",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/saveurs-suisses-speck-wuerfel-000000000000774062",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/617bd9f0-60dc-4640-8bfe-82c22f5de6ce/SpeckWrfel",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/saveurs-suisses-speckwuerfel-000000000000774062",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/617bd9f0-60dc-4640-8bfe-82c22f5de6ce/Speckwrfel",
             "category": "uzeniny",
             "price": "3.99",
             "original_price": "",
