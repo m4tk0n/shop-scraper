@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-05T21:35:31",
+        "generated_at": "2026-10-08T11:36:21+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-01",
         "product_count": 29,
-        "content_hash": "sha256:c6ff34ebf608dfd722e59d55a240f3a05268d52f69978a16c07f10be3bafb6ec",
-        "file_id": "c517e783-ce08-4374-8fa0-a697e2a14f18",
-        "run_id": "20261005_213425-06ec6154"
+        "content_hash": "sha256:05e0b44b78912e7a915f77175fdc6ece7fcc1b617bd7ad03ffae7fbcda94ae82",
+        "file_id": "e972862e-b4c3-408d-8475-9ac373e4a9e9",
+        "run_id": "20261008_113603-a85f8563"
     },
     "products": [
         {
@@ -22,8 +22,8 @@
             "product_url": "https://www.aldi-suisse.ch/de/produkt/gardenline-calluna-000000000000518237",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/5acd8a0f-ca0a-4a65-b189-48ab9644a953/Calluna",
             "category": "nonfood",
-            "price": "1.99",
-            "original_price": "",
+            "price": "1.49",
+            "original_price": "1.99",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-01",
@@ -209,8 +209,8 @@
             "product_url": "https://www.aldi-suisse.ch/de/produkt/gardenline-cyclamen-illusia-000000000000737951",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/1530df8c-34fc-4570-9319-27919c019af0/Cyclamen%20Illusia",
             "category": "nonfood",
-            "price": "3.99",
-            "original_price": "",
+            "price": "2.99",
+            "original_price": "3.99",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-01",
@@ -313,8 +313,8 @@
             "product_url": "https://www.aldi-suisse.ch/de/produkt/gardenline-calostephalus-000000000000741402",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/d1379e1d-e244-4603-8903-3a1a211616b4/Calostephalus",
             "category": "nonfood",
-            "price": "3.99",
-            "original_price": "",
+            "price": "2.99",
+            "original_price": "3.99",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-01",

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-06T15:40:32+00:00",
+        "generated_at": "2026-10-08T11:33:08+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/brot-und-backwaren/k/158816141856710104",
         "product_count": 66,
-        "content_hash": "sha256:4e4f1b913e4d98c47d8a064016bf9fdf9e66d5e5136f93beb38c061ee4fe9429",
-        "file_id": "72ccc7ca-017b-4de5-bfdf-c4ce29c7500e",
-        "run_id": "20261006_153929-187ea2ff"
+        "content_hash": "sha256:5a5514f5df5dc42db97ecfe9ab0653f456984ceb1c6df78b897aa375d8e54a5e",
+        "file_id": "8c9d829b-ebe7-4b15-96c3-c9aeb4b04c3b",
+        "run_id": "20261008_113227-a715ef00"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -54,7 +54,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [
                 "regional"
@@ -82,7 +82,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -100,7 +100,7 @@
             "amount": "240",
             "unit": "g",
             "product_url": "https://www.hofer.at/produkt/oelz-schulmaus-000000000000101062",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/d64eb6d4-3b1d-4daa-a965-d52271e82dc9/Schulmaus",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/ab0d495d-86db-49c8-aa58-06c4adcbdb1e/Schulmaus",
             "category": "sladkosti",
             "price": "3.39",
             "original_price": "",
@@ -108,7 +108,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -134,7 +134,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -160,7 +160,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -186,7 +186,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -212,7 +212,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -238,7 +238,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -264,7 +264,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -290,7 +290,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -316,7 +316,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -342,7 +342,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -368,7 +368,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -394,7 +394,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -416,7 +416,7 @@
             "amount": "500",
             "unit": "g",
             "product_url": "https://www.hofer.at/produkt/happy-harvest-toastbrot-000000000000100778",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/0cac03ec-b4aa-444e-9692-c8c1b0322dcc/Toastbrot",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/6d2e976d-ba01-4804-b3b0-f8595bf115c8/Toastbrot",
             "category": "pecivo",
             "price": "0.94",
             "original_price": "0.99",
@@ -424,7 +424,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -452,7 +452,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -478,7 +478,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -506,7 +506,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -534,7 +534,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -562,7 +562,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -591,7 +591,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -619,7 +619,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -647,7 +647,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -675,7 +675,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -701,7 +701,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -729,7 +729,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -755,7 +755,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -784,7 +784,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -814,7 +814,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -842,7 +842,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -870,7 +870,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -896,7 +896,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -922,7 +922,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -948,7 +948,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -966,7 +966,7 @@
             "amount": "300",
             "unit": "g",
             "product_url": "https://www.hofer.at/produkt/american-hamburger-broetchen-bun-000000000537050001",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/3b514a96-9833-4cab-9e27-7b6d2050d088/Hamburger%20Brtchen%20Bun",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/ae1de2f6-7bb9-4e2b-b5a1-0271fde19644/Hamburger%20Brtchen%20Bun",
             "category": "pecivo",
             "price": "1.49",
             "original_price": "",
@@ -974,7 +974,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -994,7 +994,7 @@
             "amount": "300",
             "unit": "g",
             "product_url": "https://www.hofer.at/produkt/american-hamburger-broetchen-xxl-bun-mit-sesam-000000000537050002",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/760fe994-a449-4346-8b0f-a7906a98e5a3/Hamburger%20Brtchen%20XXL%20Bun%20mit%20Sesam",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/03c735ba-a0bc-4a48-83ca-7649beb47933/Hamburger%20Brtchen%20XXL%20Bun%20mit%20Sesam",
             "category": "pecivo",
             "price": "1.49",
             "original_price": "",
@@ -1002,7 +1002,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -1030,7 +1030,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1058,7 +1058,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1086,7 +1086,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1112,7 +1112,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1140,7 +1140,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan",
@@ -1169,7 +1169,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1197,7 +1197,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1223,7 +1223,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1249,7 +1249,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1275,7 +1275,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1303,7 +1303,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1331,7 +1331,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1357,7 +1357,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1383,7 +1383,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1409,7 +1409,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "regional"
@@ -1437,7 +1437,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "regional",
@@ -1466,7 +1466,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1494,7 +1494,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1512,7 +1512,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/backbox-oliven-feta-ciabatta-000000000000569353",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/ffab1e42-ca79-4c01-add4-0153a038756f/OlivenFetaCiabatta",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/8ccc541a-c441-4bd9-b09b-271a90d5bdc3/OlivenFetaCiabatta",
             "category": "pecivo",
             "price": "2.39",
             "original_price": "",
@@ -1520,7 +1520,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1546,7 +1546,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1572,7 +1572,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan",
@@ -1601,7 +1601,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1627,7 +1627,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1655,7 +1655,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan",
@@ -1684,7 +1684,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1710,7 +1710,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "regional"
@@ -1738,7 +1738,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1764,7 +1764,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1792,7 +1792,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-06",
+            "source_date": "2026-10-08",
             "theme": "BACKBOX",
             "tags": [
                 "vegan",

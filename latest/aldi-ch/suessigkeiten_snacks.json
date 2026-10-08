@@ -1,16 +1,16 @@
 {
     "meta": {
-        "generated_at": "2026-10-07T06:37:56+00:00",
+        "generated_at": "2026-10-08T11:37:57+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
         "source": "suessigkeiten_snacks",
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/suessigkeiten-snacks/k/1588161418433054",
-        "product_count": 182,
-        "content_hash": "sha256:b31b99cd6512c47a371bf1a99d9b64ea4176236538c91aa9bf2dc5bfd74f6e76",
-        "file_id": "2a7fe147-3c2f-420e-9721-e92b30a3ec04",
-        "run_id": "20261007_063602-e9f21072"
+        "product_count": 181,
+        "content_hash": "sha256:2e41b7ede767dc2a84a2eb66c685f4a15325acbb37ac16a99c5cfe0d069daa61",
+        "file_id": "2d86a1e5-8438-4fae-8f25-0cebaee3e65f",
+        "run_id": "20261008_113603-a85f8563"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -50,13 +50,13 @@
             "product_url": "https://www.aldi-suisse.ch/de/produkt/happy-harvest-pekannuesse-000000000000155336",
             "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new-2",
             "category": "chipsy",
-            "price": "4.79",
-            "original_price": "",
-            "comparison_price": "2.40",
+            "price": "2.99",
+            "original_price": "4.79",
+            "comparison_price": "1.50",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -82,7 +82,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -110,7 +110,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-14",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -136,7 +136,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -162,7 +162,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -188,7 +188,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -214,7 +214,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan",
@@ -243,7 +243,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -271,7 +271,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -297,7 +297,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -325,7 +325,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -351,7 +351,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -377,7 +377,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -403,7 +403,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -429,7 +429,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -457,7 +457,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -485,7 +485,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -513,7 +513,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -541,7 +541,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -567,7 +567,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -593,7 +593,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -619,7 +619,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -645,7 +645,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -671,7 +671,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -699,7 +699,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -727,7 +727,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegetarisch"
@@ -755,7 +755,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan",
@@ -784,7 +784,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "tiefpreis"
@@ -812,7 +812,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan",
@@ -841,7 +841,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -869,7 +869,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -897,7 +897,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -925,7 +925,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -951,7 +951,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -977,7 +977,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1003,7 +1003,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1029,7 +1029,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1055,7 +1055,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1081,7 +1081,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -1109,7 +1109,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-14",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1135,7 +1135,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-14",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1161,7 +1161,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-14",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1187,7 +1187,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -1215,7 +1215,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -1243,7 +1243,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -1271,7 +1271,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1297,7 +1297,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1323,7 +1323,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -1351,7 +1351,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1377,7 +1377,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1403,7 +1403,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1429,7 +1429,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1455,7 +1455,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "tiefpreis"
@@ -1483,7 +1483,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "tiefpreis"
@@ -1511,7 +1511,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "tiefpreis"
@@ -1539,7 +1539,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1565,7 +1565,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1591,7 +1591,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1617,7 +1617,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1643,7 +1643,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "bio"
@@ -1671,7 +1671,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "bio"
@@ -1699,7 +1699,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "bio"
@@ -1727,7 +1727,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1753,7 +1753,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1779,7 +1779,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan",
@@ -1808,7 +1808,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan",
@@ -1837,7 +1837,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -1865,7 +1865,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [],
             "deposit": "",
@@ -1891,7 +1891,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -1919,7 +1919,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -1947,7 +1947,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -1975,7 +1975,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [],
             "deposit": "",
@@ -2001,7 +2001,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [],
             "deposit": "",
@@ -2027,7 +2027,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [],
             "deposit": "",
@@ -2053,7 +2053,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2081,7 +2081,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2109,7 +2109,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2137,7 +2137,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "vegan",
@@ -2166,7 +2166,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "vegan",
@@ -2195,7 +2195,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "vegan",
@@ -2224,7 +2224,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2252,7 +2252,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2274,13 +2274,13 @@
             "product_url": "https://www.aldi-suisse.ch/de/produkt/american-cookies-classic-000000000583130001",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/1f22428c-1f57-401f-b53c-bb4f5d9fc5e5/Cookies%20Classic",
             "category": "susenky",
-            "price": "1.45",
-            "original_price": "",
-            "comparison_price": "0.64",
+            "price": "1.15",
+            "original_price": "1.45",
+            "comparison_price": "0.51",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "vegan"
@@ -2308,7 +2308,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2336,7 +2336,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2364,7 +2364,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "bio"
@@ -2392,7 +2392,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "bio"
@@ -2420,7 +2420,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "bio"
@@ -2448,7 +2448,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2474,7 +2474,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2500,7 +2500,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2526,7 +2526,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2552,7 +2552,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2578,7 +2578,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2604,7 +2604,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2630,7 +2630,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2656,7 +2656,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "tiefpreis"
@@ -2684,7 +2684,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "tiefpreis"
@@ -2712,7 +2712,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "tiefpreis"
@@ -2740,7 +2740,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "tiefpreis"
@@ -2768,7 +2768,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "vegan"
@@ -2796,7 +2796,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "vegan"
@@ -2824,7 +2824,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "vegetarisch"
@@ -2852,7 +2852,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "vegetarisch"
@@ -2880,7 +2880,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [
                 "vegetarisch"
@@ -2908,7 +2908,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2934,7 +2934,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2960,7 +2960,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2986,7 +2986,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -3012,7 +3012,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -3038,7 +3038,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3064,37 +3064,9 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "suessigkeiten_snacks",
-            "type": "listing"
-        },
-        {
-            "store_product_id": "000000000000666665",
-            "brand": "CHOCEUR",
-            "name": "Mozartkugeln",
-            "amount": "200",
-            "unit": "g",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/choceur-mozartkugeln-000000000000666665",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/3c23a424-65a3-43e8-96a5-8b8e25040c0f/Mozartkugeln",
-            "category": "cokolady",
-            "price": "2.95",
-            "original_price": "3.25",
-            "comparison_price": "1.48",
-            "comparison_per": "100 g",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-07",
-            "theme": "Schokolade",
-            "tags": [
-                "tiefpreis"
-            ],
             "deposit": "",
             "deposit_type": "",
             "approx_amount": false,
@@ -3118,7 +3090,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3144,7 +3116,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3170,7 +3142,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-12",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3196,7 +3168,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3222,7 +3194,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3248,7 +3220,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3274,7 +3246,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3300,7 +3272,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3326,7 +3298,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3352,7 +3324,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3378,7 +3350,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3404,7 +3376,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3430,7 +3402,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3456,7 +3428,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3482,7 +3454,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3508,7 +3480,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [
                 "vegan"
@@ -3536,7 +3508,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3562,7 +3534,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3588,7 +3560,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3614,7 +3586,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [
                 "tiefpreis"
@@ -3642,7 +3614,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [
                 "tiefpreis"
@@ -3670,7 +3642,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [
                 "tiefpreis"
@@ -3698,7 +3670,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [
                 "vegan",
@@ -3727,7 +3699,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [
                 "vegan",
@@ -3756,7 +3728,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-14",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3782,7 +3754,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3808,7 +3780,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3834,7 +3806,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3860,7 +3832,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "vegan",
@@ -3889,7 +3861,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -3915,7 +3887,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "bio"
@@ -3943,7 +3915,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "vegan"
@@ -3971,7 +3943,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -3997,7 +3969,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "vegan"
@@ -4025,7 +3997,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "bio"
@@ -4053,7 +4025,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4079,7 +4051,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4105,7 +4077,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4131,7 +4103,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4157,7 +4129,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4183,7 +4155,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4209,7 +4181,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4235,7 +4207,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4261,7 +4233,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4287,7 +4259,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4313,7 +4285,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4339,7 +4311,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4365,7 +4337,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4391,7 +4363,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4417,7 +4389,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "bio"
@@ -4445,7 +4417,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "bio"
@@ -4473,7 +4445,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4499,7 +4471,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4525,7 +4497,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [],
             "deposit": "",
@@ -4551,7 +4523,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [],
             "deposit": "",
@@ -4577,7 +4549,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegan"
@@ -4605,7 +4577,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegan"
@@ -4633,7 +4605,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegetarisch"
@@ -4661,7 +4633,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegan"
@@ -4689,7 +4661,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [],
             "deposit": "",
@@ -4715,7 +4687,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegan"
@@ -4743,7 +4715,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [],
             "deposit": "",
@@ -4769,7 +4741,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-14",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegan"
@@ -4797,7 +4769,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-14",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegetarisch"
@@ -4825,7 +4797,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "tiefpreis"
@@ -4853,7 +4825,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "tiefpreis"
@@ -4881,7 +4853,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "tiefpreis"
@@ -4909,7 +4881,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-07",
+            "source_date": "2026-10-08",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "tiefpreis"

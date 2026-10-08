@@ -1,16 +1,16 @@
 {
     "meta": {
-        "generated_at": "2026-10-06T11:26:33",
+        "generated_at": "2026-10-08T11:32:38+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
         "source": "angebote",
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-06",
-        "product_count": 30,
-        "content_hash": "sha256:aa9b82ffa79c04f76f785968bfa3f2410cdf94190b3c687a4bc89026baa616e9",
-        "file_id": "9b089072-d741-4e2a-bb07-c5a7575323bc",
-        "run_id": "20261006_112610-bed6b542"
+        "product_count": 29,
+        "content_hash": "sha256:d4cd0e8ff2c48cf7b0e719a74e2add42a19d2ae6546e7ad452bb90510e227aa0",
+        "file_id": "13cb8c75-1c3c-4b12-b851-1978dab691c4",
+        "run_id": "20261008_113227-a715ef00"
     },
     "products": [
         {
@@ -23,34 +23,6 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/5548ad49-c833-420d-a56f-dad7753b8c64/Waschmaschine",
             "category": "nonfood",
             "price": "499.00",
-            "original_price": "",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-10-06",
-            "valid_to": "",
-            "source_date": "2026-10-06",
-            "theme": "",
-            "tags": [
-                "onlineshop"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "angebote",
-            "type": "offer"
-        },
-        {
-            "store_product_id": "000000000000571733",
-            "brand": "CEEM",
-            "name": "Weintemperierschrank",
-            "amount": "",
-            "unit": "",
-            "product_url": "https://www.hofer.at/produkt/ceem-weintemperierschrank-000000000000571733",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/b72ef6ac-0f24-4f75-96fc-34b193848d0d/Weintemperierschrank",
-            "category": "alkohol",
-            "price": "449.00",
             "original_price": "",
             "comparison_price": "",
             "comparison_per": "",
