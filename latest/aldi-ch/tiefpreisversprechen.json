@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-08T11:37:43+00:00",
+        "generated_at": "2026-10-08T21:30:19+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/tiefpreisversprechen/k/1588161431768066",
         "product_count": 222,
-        "content_hash": "sha256:a94b9a965f572733fd44fa240a2c6b5a2b46aee325f747496e5c8009917565c3",
-        "file_id": "f69ba2e2-2a7d-495e-9312-a1e2e6b6d88e",
-        "run_id": "20261008_113603-a85f8563"
+        "content_hash": "sha256:99a9f9fe0e97a25dfd3604784a929cfdbe73cd0d3c37e092af1c90c345df46ac",
+        "file_id": "daadbc68-1ee5-4303-96b6-2f7fb5c94bae",
+        "run_id": "20261008_212838-68180e4c"
     },
     "products": [
         {
@@ -3652,7 +3652,7 @@
             "amount": "95",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/back-family-streudekore-bunte-streusel-000000000308361001",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new-2",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/38740756-be8e-4cde-8e09-7524cca507bf/Streudekore%20Bunte%20Streusel",
             "category": "potraviny",
             "price": "1.49",
             "original_price": "",
@@ -3730,7 +3730,7 @@
             "amount": "65",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/back-family-streudekore-buntes-konfetti-000000000308361008",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new-2",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/5858a2e8-cf8d-484e-97f9-d9df3d864dac/Streudekore%20Buntes%20Konfetti",
             "category": "potraviny",
             "price": "1.49",
             "original_price": "",

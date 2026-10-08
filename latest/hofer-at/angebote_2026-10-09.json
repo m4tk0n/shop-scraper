@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-08T11:32:49+00:00",
+        "generated_at": "2026-10-08T21:25:44+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-09",
         "product_count": 48,
-        "content_hash": "sha256:8d47f2919dafe0b55b6667ff330b8bd2db76c2991efd3499a6a013d254603025",
-        "file_id": "f65efbc1-458e-4acd-a1a5-4902b9d37c9e",
-        "run_id": "20261008_113227-a715ef00"
+        "content_hash": "sha256:ae2da77c7e0c6be4a79d51294d3d6883c9ca0064a5748aad11c70847844233a7",
+        "file_id": "c8048098-5c82-44af-a6d9-1a8672a57d86",
+        "run_id": "20261008_212523-a294dd24"
     },
     "products": [
         {
@@ -698,9 +698,9 @@
             "product_url": "https://www.hofer.at/produkt/storck-knoppers-riegel-kokos-000000000282888001",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a46f5748-7579-497d-aa9e-fdf94a56d9d0/Knoppers%20Riegel%20Kokos",
             "category": "sladkosti",
-            "price": "2.79",
+            "price": "2.78",
             "original_price": "",
-            "comparison_price": "1.40",
+            "comparison_price": "1.39",
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",
             "valid_to": "",
@@ -724,9 +724,9 @@
             "product_url": "https://www.hofer.at/produkt/storck-knoppers-riegel-nuss-dunkel-000000000282888002",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/effdbb19-3b9c-436a-9530-298e0d274272/Knoppers%20Riegel%20Nuss%20Dunkel",
             "category": "sladkosti",
-            "price": "2.79",
+            "price": "2.78",
             "original_price": "",
-            "comparison_price": "1.40",
+            "comparison_price": "1.39",
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",
             "valid_to": "",
@@ -750,9 +750,9 @@
             "product_url": "https://www.hofer.at/produkt/storck-knoppers-riegel-erdnuss-000000000282888003",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/221be175-a908-4512-b398-b935a1fce2cc/Knoppers%20Riegel%20Erdnuss",
             "category": "sladkosti",
-            "price": "2.79",
+            "price": "2.78",
             "original_price": "",
-            "comparison_price": "1.40",
+            "comparison_price": "1.39",
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",
             "valid_to": "",

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-08T11:37:35+00:00",
+        "generated_at": "2026-10-08T21:30:11+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-15",
         "product_count": 69,
-        "content_hash": "sha256:e673883cf49be4d567fe464ebd5fef2626a15caa47066bd8ebb179a066b042f6",
-        "file_id": "ca63b535-8ed4-4e77-8afa-dd7ba9f4b173",
-        "run_id": "20261008_113603-a85f8563"
+        "content_hash": "sha256:7f32b5489e986ab02be910e11de7933cd6ce20a552e66e99d1d1194f9fd698d5",
+        "file_id": "8e404fd5-7046-45c5-aa53-4539c7165744",
+        "run_id": "20261008_212838-68180e4c"
     },
     "products": [
         {
@@ -1220,7 +1220,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/home-creation-herbst-bastelset-000000000000745892",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/ae148fc7-4a53-48ed-a55a-bd3af2c8684e/HerbstBastelset",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/371fb84c-7f89-40d5-911f-6fab77516b5e/HerbstBastelset",
             "category": "nonfood",
             "price": "3.49",
             "original_price": "",
