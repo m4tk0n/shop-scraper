@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-07T21:25:50+00:00",
+        "generated_at": "2026-10-09T11:28:05+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-12",
         "product_count": 28,
-        "content_hash": "sha256:25c4ab32b1fdae675ac32432f9ccbc13ebf0651010b2b3931f17a5b02596e2bc",
-        "file_id": "d8c3518e-4267-4da5-994f-c80c3499a5e0",
-        "run_id": "20261007_212514-40dbca3b"
+        "content_hash": "sha256:54aaba00e6f6386cf540bfe8f28ab2c7cf292d512efbbda30ce81d10e314b8b3",
+        "file_id": "3ffccf61-f07b-45ab-adea-9ec431bc3fe2",
+        "run_id": "20261009_112740-9d2b82a2"
     },
     "products": [
         {
@@ -208,7 +208,7 @@
             "product_url": "https://www.hofer.at/produkt/ride-go-drehmomentschluessel-000000000000704429",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/905c42da-15f4-4654-856a-a2501b4e7698/Drehmomentschlssel",
             "category": "nonfood",
-            "price": "19.99",
+            "price": "14.99",
             "original_price": "",
             "comparison_price": "",
             "comparison_per": "",

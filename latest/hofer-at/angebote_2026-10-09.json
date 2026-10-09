@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-08T21:25:44+00:00",
+        "generated_at": "2026-10-09T11:28:01+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-09",
         "product_count": 48,
-        "content_hash": "sha256:ae2da77c7e0c6be4a79d51294d3d6883c9ca0064a5748aad11c70847844233a7",
-        "file_id": "c8048098-5c82-44af-a6d9-1a8672a57d86",
-        "run_id": "20261008_212523-a294dd24"
+        "content_hash": "sha256:e18dc7510626926d791f989220dbf64ad1ed5dc982b2d08527a08e27b802d9c2",
+        "file_id": "4a44fc68-6616-4fe1-bc23-11baea855093",
+        "run_id": "20261009_112740-9d2b82a2"
     },
     "products": [
         {
@@ -595,7 +595,7 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a4b1dd4e-86a3-474e-b76f-c2ea9894777b/Jerome",
             "category": "potraviny",
             "price": "2.99",
-            "original_price": "3.29",
+            "original_price": "",
             "comparison_price": "1.00",
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",

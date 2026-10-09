@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-05T21:31:56",
+        "generated_at": "2026-10-09T11:28:56+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/milchprodukte/k/158816141856710103",
         "product_count": 90,
-        "content_hash": "sha256:dfa8ea5f25549f1f9f53705cf03ef9cb7cda62152ab0c1bb769860085686c809",
-        "file_id": "616c3269-895c-4954-8f96-a5c74f03d2e4",
-        "run_id": "20261005_213026-3c61494e"
+        "content_hash": "sha256:6055e5bd8bd38e922760cf1f307612115414577cfc0857723bd8be85e8a751d1",
+        "file_id": "b3344715-6fcf-448d-9608-775a922fe51e",
+        "run_id": "20261009_112740-9d2b82a2"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Fruchtjoghurt und Desserts",
             "tags": [
                 "kuehlung"
@@ -56,7 +56,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Fruchtjoghurt und Desserts",
             "tags": [
                 "kuehlung"
@@ -84,7 +84,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -112,7 +112,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -140,7 +140,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -166,7 +166,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -192,7 +192,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -220,7 +220,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -248,7 +248,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -276,7 +276,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -304,7 +304,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -330,7 +330,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "bio"
@@ -358,7 +358,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -386,7 +386,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -414,7 +414,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -442,7 +442,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -468,7 +468,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -496,7 +496,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -522,7 +522,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -550,7 +550,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -578,7 +578,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -606,7 +606,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -634,7 +634,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -662,7 +662,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -690,7 +690,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -718,7 +718,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -746,7 +746,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -774,7 +774,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -796,13 +796,13 @@
             "product_url": "https://www.hofer.at/produkt/gourmet-finest-cuisine-standard-000000000111429001",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/eee137f2-d480-4524-94c3-cb11c4604f38/Standard",
             "category": "mlecne_vyrobky",
-            "price": "1.99",
-            "original_price": "2.79",
-            "comparison_price": "1.33",
+            "price": "2.79",
+            "original_price": "",
+            "comparison_price": "1.86",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -824,13 +824,13 @@
             "product_url": "https://www.hofer.at/produkt/gourmet-finest-cuisine-kraeuter-000000000111429002",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/14b98b9a-1be9-41d5-94ca-14f93f49b172/Kruter",
             "category": "mlecne_vyrobky",
-            "price": "1.99",
-            "original_price": "2.79",
-            "comparison_price": "1.59",
+            "price": "2.79",
+            "original_price": "",
+            "comparison_price": "2.23",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -852,13 +852,13 @@
             "product_url": "https://www.hofer.at/produkt/gourmet-finest-cuisine-bockshornklee-000000000111429003",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/354c2110-09ff-4a7c-afb2-3df1d2c12302/Bockshornklee",
             "category": "mlecne_vyrobky",
-            "price": "1.99",
-            "original_price": "2.79",
-            "comparison_price": "1.59",
+            "price": "2.79",
+            "original_price": "",
+            "comparison_price": "2.23",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -886,7 +886,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -912,7 +912,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -938,7 +938,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -966,7 +966,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -994,7 +994,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1022,7 +1022,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1050,7 +1050,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1078,7 +1078,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -1104,7 +1104,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -1130,7 +1130,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1158,7 +1158,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1186,7 +1186,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1214,7 +1214,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1242,7 +1242,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1270,7 +1270,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1298,7 +1298,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1326,7 +1326,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1354,7 +1354,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1382,7 +1382,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1410,7 +1410,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1438,7 +1438,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1460,13 +1460,13 @@
             "product_url": "https://www.hofer.at/produkt/brunch-paprika-000000000470199001",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/165d54d1-d74b-4c84-979a-dced163ef3d2/Paprika",
             "category": "mlecne_vyrobky",
-            "price": "1.29",
-            "original_price": "2.59",
-            "comparison_price": "0.70",
+            "price": "2.59",
+            "original_price": "",
+            "comparison_price": "1.40",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1488,13 +1488,13 @@
             "product_url": "https://www.hofer.at/produkt/brunch-original-000000000470199002",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/1b2d4fac-8ea1-496d-9538-3ffe737adfcf/Original",
             "category": "mlecne_vyrobky",
-            "price": "1.29",
-            "original_price": "2.59",
-            "comparison_price": "0.70",
+            "price": "2.59",
+            "original_price": "",
+            "comparison_price": "1.40",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1516,13 +1516,13 @@
             "product_url": "https://www.hofer.at/produkt/brunch-kraeuter-000000000470199003",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/8226494c-8a8e-4caf-968c-5e83e8b9f0a9/Kruter",
             "category": "mlecne_vyrobky",
-            "price": "1.29",
-            "original_price": "2.59",
-            "comparison_price": "0.70",
+            "price": "2.59",
+            "original_price": "",
+            "comparison_price": "1.40",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1544,13 +1544,13 @@
             "product_url": "https://www.hofer.at/produkt/brunch-mango-curry-000000000470199004",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/26128fe6-3172-4916-95f1-eabdc6e449e5/Mango%20Curry",
             "category": "mlecne_vyrobky",
-            "price": "1.29",
-            "original_price": "2.59",
-            "comparison_price": "0.70",
+            "price": "2.59",
+            "original_price": "",
+            "comparison_price": "1.40",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1578,7 +1578,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1606,7 +1606,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1634,7 +1634,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1662,7 +1662,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1690,7 +1690,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -1716,7 +1716,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -1742,7 +1742,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1770,7 +1770,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung",
@@ -1799,7 +1799,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1827,7 +1827,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -1855,7 +1855,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Schlagobers und Butter",
             "tags": [
                 "kuehlung"
@@ -1883,7 +1883,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Schlagobers und Butter",
             "tags": [
                 "kuehlung"
@@ -1911,7 +1911,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Schlagobers und Butter",
             "tags": [
                 "kuehlung",
@@ -1940,7 +1940,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Schlagobers und Butter",
             "tags": [
                 "laktosefrei"
@@ -1968,7 +1968,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Schlagobers und Butter",
             "tags": [
                 "kuehlung"
@@ -1996,7 +1996,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Schlagobers und Butter",
             "tags": [
                 "kuehlung"
@@ -2024,7 +2024,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Schlagobers und Butter",
             "tags": [
                 "kuehlung"
@@ -2052,7 +2052,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Joghurt und Topfen",
             "tags": [],
             "deposit": "",
@@ -2078,7 +2078,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Joghurt und Topfen",
             "tags": [
                 "kuehlung"
@@ -2106,7 +2106,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Joghurt und Topfen",
             "tags": [
                 "kuehlung"
@@ -2134,7 +2134,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Joghurt und Topfen",
             "tags": [],
             "deposit": "",
@@ -2160,7 +2160,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Joghurt und Topfen",
             "tags": [],
             "deposit": "",
@@ -2186,7 +2186,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Joghurt und Topfen",
             "tags": [],
             "deposit": "",
@@ -2212,7 +2212,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Joghurt und Topfen",
             "tags": [],
             "deposit": "",
@@ -2238,7 +2238,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Joghurt und Topfen",
             "tags": [],
             "deposit": "",
@@ -2264,7 +2264,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Joghurt und Topfen",
             "tags": [],
             "deposit": "",
@@ -2290,7 +2290,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Milch und Milchgetränke",
             "tags": [
                 "kuehlung"
@@ -2318,7 +2318,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Milch und Milchgetränke",
             "tags": [
                 "kuehlung"
@@ -2346,7 +2346,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Milch und Milchgetränke",
             "tags": [
                 "kuehlung"
@@ -2374,7 +2374,7 @@
             "comparison_per": "970 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Milch und Milchgetränke",
             "tags": [
                 "vegan",
@@ -2403,7 +2403,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Milch und Milchgetränke",
             "tags": [],
             "deposit": "",
@@ -2429,7 +2429,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Milch und Milchgetränke",
             "tags": [
                 "kuehlung"
@@ -2457,7 +2457,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Milch und Milchgetränke",
             "tags": [
                 "kuehlung"
@@ -2485,7 +2485,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-05",
+            "source_date": "2026-10-09",
             "theme": "Milch und Milchgetränke",
             "tags": [
                 "kuehlung"
