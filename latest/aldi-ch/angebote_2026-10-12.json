@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-07T21:31:30+00:00",
+        "generated_at": "2026-10-09T21:08:54+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-12",
         "product_count": 49,
-        "content_hash": "sha256:fd715a2979e0958ff720d39170a3d0921ce4665169450fd7ba62f350e196e7f6",
-        "file_id": "e76baa53-b91c-4c87-8579-3d4b88895cb3",
-        "run_id": "20261007_212958-5659d86f"
+        "content_hash": "sha256:34682b1b245c8322a05d1cd9e3d2b04a1e06a549892c885cb03b5d46c51c5f8e",
+        "file_id": "81f4aa46-0a3c-4659-8641-45444f56d601",
+        "run_id": "20261009_210748-d12340f0"
     },
     "products": [
         {
@@ -692,11 +692,11 @@
         {
             "store_product_id": "000000000277344001",
             "brand": "SWEET LAND",
-            "name": "Kaubonbons mit Tattoo 150g, Erdbeere",
+            "name": "Kaubonbons mit Tattoo, Erdbeere",
             "amount": "",
             "unit": "",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/sweet-land-kaubonbons-mit-tattoo-150g-erdbeere-000000000277344001",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a2a0a153-bf16-4d35-9407-98b376bbcd46/Kaubonbons%20mit%20Tattoo%20150g%20Erdbeere",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/sweet-land-kaubonbons-mit-tattoo-erdbeere-000000000277344001",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/7896c997-4c53-4604-8c46-d3cecc065694/Kaubonbons%20mit%20Tattoo%20Erdbeere",
             "category": "ovoce",
             "price": "1.99",
             "original_price": "",
@@ -722,7 +722,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/sweet-land-kaubonbons-mit-tattoo-150g-cola-000000000277344002",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/9ff5a2ed-1914-458d-ae37-eaf900496b2c/Kaubonbons%20mit%20Tattoo%20150g%20Cola",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/2ecffc48-5c9d-4f82-adce-0c5a63cb5e0e/Kaubonbons%20mit%20Tattoo%20150g%20Cola",
             "category": "napoje",
             "price": "1.99",
             "original_price": "",
