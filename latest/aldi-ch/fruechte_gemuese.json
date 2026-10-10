@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "generated_at": "2026-10-10T00:51:22+00:00",
+        "store": "aldi_ch",
+        "country": "CH",
+        "currency": "CHF",
+        "source": "fruechte_gemuese",
+        "type": "listing",
+        "source_url": "https://www.aldi-suisse.ch/de/produkte/fruechte-gemuese/k/1588161418433043",
+        "product_count": 1,
+        "content_hash": "sha256:a1e49318797e48b3c72188488c4976a0d38d67dc47bcecd974204996214b253f",
+        "file_id": "83fddbf2-7203-4727-a3a6-7ca58fe72f65",
+        "run_id": "20261010_004745-d030208d"
+    },
+    "products": [
+        {
+            "store_product_id": "000000000000588578",
+            "brand": "SAVEURS SUISSES",
+            "name": "Küchenkräuter",
+            "amount": "",
+            "unit": "",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/saveurs-suisses-kuechenkraeuter-000000000000588578",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/7af9e11c-aa90-4d48-ad7e-f16f332d452d/Kchenkruter",
+            "category": "potraviny",
+            "price": "2.99",
+            "original_price": "",
+            "comparison_price": "",
+            "comparison_per": "",
+            "valid_from": "",
+            "valid_to": "",
+            "source_date": "2026-10-10",
+            "theme": "Salate & Kräuter",
+            "tags": [],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "fruechte_gemuese",
+            "type": "listing"
+        }
+    ]
+}
