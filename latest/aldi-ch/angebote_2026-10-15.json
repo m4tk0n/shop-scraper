@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-09T11:33:26+00:00",
+        "generated_at": "2026-10-11T06:07:05+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-15",
         "product_count": 68,
-        "content_hash": "sha256:9ecdc56296024896b19e7e233ced20e39d115f2a0ef68cf32c7d1c192680b267",
-        "file_id": "c4b94a30-b52a-4c50-bcd6-3eabc449c01b",
-        "run_id": "20261009_113135-9a3acd09"
+        "content_hash": "sha256:f07d78ef0bb48ace7fdea7bac36b64a8824c49ebe95611368c194f3e56e0d0dd",
+        "file_id": "09d6fa39-c81c-4f7c-b7d8-d846b120f20e",
+        "run_id": "20261011_060527-998fbae7"
     },
     "products": [
         {
@@ -780,7 +780,7 @@
             "product_url": "https://www.aldi-suisse.ch/de/produkt/crofton-schneidebrett-000000000000736053",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/8cb6dece-0e52-43ad-bb4a-f0b408ca9b2a/Schneidebrett",
             "category": "nonfood",
-            "price": "5.99",
+            "price": "3.98",
             "original_price": "",
             "comparison_price": "",
             "comparison_per": "",

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-10T21:29:36+00:00",
+        "generated_at": "2026-10-11T06:10:00+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/grillen/k/1588161418433048",
         "product_count": 151,
-        "content_hash": "sha256:ae4c456e0d45e78570572b72a288036fb65d44bf1e53846f5ffe5332b796b38d",
-        "file_id": "f86689b7-906b-49d4-a21d-e581daca1e87",
-        "run_id": "20261010_212526-78bfdeac"
+        "content_hash": "sha256:d893c3f4ce9fab2948e02766d1ad4bc66bfb93143fa1a55ed32a084fb6213b19",
+        "file_id": "1e9c92b4-a68c-4b45-a2f4-9f5d01a9f36e",
+        "run_id": "20261011_060527-998fbae7"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "bio"
@@ -56,7 +56,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -82,7 +82,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -108,7 +108,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung"
@@ -136,7 +136,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -162,7 +162,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -188,7 +188,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -214,7 +214,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -240,7 +240,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "bio"
@@ -268,7 +268,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -294,7 +294,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan"
@@ -322,7 +322,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "bio"
@@ -350,7 +350,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -376,7 +376,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -402,7 +402,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -428,7 +428,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung",
@@ -458,7 +458,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung",
@@ -488,7 +488,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung",
@@ -518,7 +518,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung",
@@ -548,7 +548,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -574,7 +574,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -600,7 +600,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -626,7 +626,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -652,7 +652,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -678,7 +678,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan"
@@ -706,7 +706,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -732,7 +732,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -758,7 +758,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan"
@@ -786,7 +786,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegetarisch"
@@ -814,7 +814,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan",
@@ -843,7 +843,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "tiefpreis"
@@ -871,7 +871,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan",
@@ -900,7 +900,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -926,7 +926,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -952,7 +952,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -978,7 +978,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan"
@@ -1006,7 +1006,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan"
@@ -1034,7 +1034,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan"
@@ -1062,7 +1062,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1088,7 +1088,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1114,7 +1114,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1140,7 +1140,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1166,7 +1166,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1192,7 +1192,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan",
@@ -1221,7 +1221,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan",
@@ -1250,7 +1250,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "vegan",
@@ -1279,7 +1279,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung"
@@ -1307,7 +1307,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung"
@@ -1335,7 +1335,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung"
@@ -1363,7 +1363,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung"
@@ -1391,7 +1391,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung"
@@ -1419,7 +1419,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung"
@@ -1447,7 +1447,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung"
@@ -1475,7 +1475,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "tiefpreis"
@@ -1503,7 +1503,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "tiefpreis"
@@ -1531,7 +1531,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "tiefpreis"
@@ -1559,7 +1559,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung"
@@ -1587,7 +1587,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [
                 "kuehlung"
@@ -1615,7 +1615,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1641,7 +1641,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1667,7 +1667,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1693,7 +1693,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1719,7 +1719,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1745,7 +1745,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1771,7 +1771,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1797,7 +1797,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1823,7 +1823,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbeilagen",
             "tags": [],
             "deposit": "",
@@ -1849,7 +1849,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbrot",
             "tags": [],
             "deposit": "",
@@ -1875,7 +1875,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbrot",
             "tags": [],
             "deposit": "",
@@ -1901,7 +1901,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbrot",
             "tags": [],
             "deposit": "",
@@ -1927,7 +1927,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbrot",
             "tags": [],
             "deposit": "",
@@ -1953,7 +1953,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillbrot",
             "tags": [],
             "deposit": "",
@@ -1979,7 +1979,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2007,7 +2007,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2035,7 +2035,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2063,7 +2063,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2091,7 +2091,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2119,7 +2119,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2147,7 +2147,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2175,7 +2175,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2203,7 +2203,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung",
@@ -2232,7 +2232,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2260,7 +2260,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2288,7 +2288,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2316,7 +2316,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2344,7 +2344,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2372,7 +2372,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2400,7 +2400,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-15",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2428,7 +2428,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2456,7 +2456,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-01",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung",
@@ -2485,7 +2485,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-01",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2513,7 +2513,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2541,7 +2541,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2569,7 +2569,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2597,7 +2597,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2625,7 +2625,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2653,7 +2653,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2681,7 +2681,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung",
@@ -2710,7 +2710,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung",
@@ -2739,7 +2739,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung",
@@ -2768,7 +2768,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2796,7 +2796,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillfleisch, Fisch & Würste",
             "tags": [
                 "kuehlung"
@@ -2824,7 +2824,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -2850,7 +2850,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -2876,7 +2876,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -2902,7 +2902,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "bio"
@@ -2930,7 +2930,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "tiefpreis"
@@ -2958,7 +2958,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -2984,7 +2984,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3010,7 +3010,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3036,7 +3036,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3062,7 +3062,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3088,7 +3088,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3114,7 +3114,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3140,7 +3140,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3166,7 +3166,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "kuehlung",
@@ -3195,7 +3195,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "kuehlung",
@@ -3224,7 +3224,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "kuehlung",
@@ -3253,7 +3253,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "kuehlung",
@@ -3282,7 +3282,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "kuehlung",
@@ -3311,7 +3311,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "kuehlung",
@@ -3340,7 +3340,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "kuehlung",
@@ -3369,7 +3369,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "vegetarisch",
@@ -3398,7 +3398,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "vegan"
@@ -3426,7 +3426,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "vegan"
@@ -3454,7 +3454,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3480,7 +3480,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3506,7 +3506,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3532,7 +3532,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3558,7 +3558,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "vegan"
@@ -3586,7 +3586,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3612,7 +3612,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3638,7 +3638,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3664,7 +3664,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3690,7 +3690,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3716,7 +3716,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3742,7 +3742,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3768,7 +3768,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3794,7 +3794,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3820,7 +3820,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "vegan"
@@ -3848,7 +3848,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "tiefpreis"
@@ -3876,7 +3876,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3902,7 +3902,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -3923,12 +3923,12 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/98dcde70-ee05-4c39-8cb1-2f023d9e03af/Ajvar%20mild",
             "category": "koreni_omacky",
             "price": "0.49",
-            "original_price": "0.99",
+            "original_price": "",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "vegan"
@@ -3951,12 +3951,12 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/01479a9b-09df-4ebd-91d7-8159dd331a75/Ajvar%20scharf",
             "category": "koreni_omacky",
             "price": "0.49",
-            "original_price": "0.99",
+            "original_price": "",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [
                 "vegan"
@@ -3984,7 +3984,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -4010,7 +4010,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -4036,7 +4036,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -4062,7 +4062,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -4088,7 +4088,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",
@@ -4114,7 +4114,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-10",
+            "source_date": "2026-10-11",
             "theme": "Grillsaucen & Gewürze",
             "tags": [],
             "deposit": "",

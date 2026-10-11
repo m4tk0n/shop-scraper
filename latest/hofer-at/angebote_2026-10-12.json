@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-10T21:22:50+00:00",
+        "generated_at": "2026-10-11T06:02:40+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-12",
         "product_count": 28,
-        "content_hash": "sha256:54aaba00e6f6386cf540bfe8f28ab2c7cf292d512efbbda30ce81d10e314b8b3",
-        "file_id": "c9d08575-1a6b-494d-bdef-b09e1c532507",
-        "run_id": "20261010_212229-2a439e29"
+        "content_hash": "sha256:0b3ec66874b35c6ab6e840d88edf549c3b8e0fe08e165521c2417d1be92bf07e",
+        "file_id": "5ee4c89e-8317-4e21-9604-c753d0f5425c",
+        "run_id": "20261011_060216-283b97cf"
     },
     "products": [
         {
@@ -570,7 +570,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/nola-lichtbogenfeuerzeug-usb-c-7512891588161434530136",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/673c5433-c166-4303-b32d-1beb372aced4/Lichtbogenfeuerzeug%20%20USBC",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/7d6d4803-cc6a-4fff-9c1e-4795fc0dc84d/Lichtbogenfeuerzeug%20%20USBC",
             "category": "nonfood",
             "price": "3.99",
             "original_price": "",
