@@ -1,16 +1,16 @@
 {
     "meta": {
-        "generated_at": "2026-10-11T21:27:36+00:00",
+        "generated_at": "2026-10-12T07:42:56+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
         "source": "vegetarisch_vegan",
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/vegetarisch-vegan/k/1588161418433056",
-        "product_count": 133,
-        "content_hash": "sha256:0dfad654e58192f5482919e37f7ad32b05925819f9f600f8a9158b6f9c57d48c",
-        "file_id": "aa0ec9a8-19f6-4bda-bc94-8ee65bc5976e",
-        "run_id": "20261011_212224-75fb735c"
+        "product_count": 134,
+        "content_hash": "sha256:3b7083e315d413748755488ebc2cd00bc42cd3df2b7e7db41682fb35936a6f0c",
+        "file_id": "a4727049-7c5f-4d2c-b592-ce876abe00ee",
+        "run_id": "20261012_073703-91d8f7bb"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "vegan",
@@ -58,7 +58,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "kuehlung",
@@ -87,7 +87,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [],
             "deposit": "",
@@ -113,7 +113,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "vegan",
@@ -142,7 +142,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "vegan"
@@ -170,7 +170,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "vegan"
@@ -198,7 +198,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "kuehlung",
@@ -228,7 +228,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "kuehlung",
@@ -258,7 +258,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "vegan"
@@ -286,7 +286,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "vegan"
@@ -314,7 +314,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "vegan"
@@ -342,7 +342,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "vegan",
@@ -371,7 +371,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "kuehlung",
@@ -401,7 +401,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "kuehlung",
@@ -431,7 +431,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "kuehlung",
@@ -461,7 +461,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Alternativen zu Milchprodukten",
             "tags": [
                 "vegan",
@@ -490,7 +490,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte",
             "tags": [
                 "vegan",
@@ -520,7 +520,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte",
             "tags": [
                 "vegetarisch",
@@ -550,7 +550,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -579,7 +579,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -609,7 +609,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -639,7 +639,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -668,7 +668,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -692,12 +692,12 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/1f515438-e139-4610-bdc7-fbf80819b074/Veganer%20Mix%20Geschnetzeltes",
             "category": "potraviny",
             "price": "1.55",
-            "original_price": "1.79",
+            "original_price": "",
             "comparison_price": "1.11",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -722,12 +722,12 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/105676a3-cade-4c05-9397-9d658c5e3396/Veganer%20Mix%20Kebab",
             "category": "potraviny",
             "price": "1.55",
-            "original_price": "1.79",
+            "original_price": "",
             "comparison_price": "1.11",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -757,7 +757,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -786,7 +786,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -815,7 +815,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -844,7 +844,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleischersatzprodukte",
             "tags": [
                 "kuehlung",
@@ -873,7 +873,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Gesundheit, Körperpflege & Baby",
             "tags": [],
             "deposit": "",
@@ -899,7 +899,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Gesundheit, Körperpflege & Baby",
             "tags": [],
             "deposit": "",
@@ -925,7 +925,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Gesundheit, Körperpflege & Baby",
             "tags": [],
             "deposit": "",
@@ -951,7 +951,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -980,7 +980,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1008,7 +1008,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1036,7 +1036,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1064,7 +1064,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1092,7 +1092,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -1121,7 +1121,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1149,7 +1149,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1177,7 +1177,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1205,7 +1205,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1233,7 +1233,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegetarisch"
@@ -1261,7 +1261,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1289,7 +1289,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1317,7 +1317,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [],
             "deposit": "",
@@ -1343,7 +1343,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [],
             "deposit": "",
@@ -1369,7 +1369,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [],
             "deposit": "",
@@ -1395,7 +1395,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1423,7 +1423,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1451,7 +1451,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegetarisch"
@@ -1479,7 +1479,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1507,7 +1507,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1535,7 +1535,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1563,7 +1563,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [],
             "deposit": "",
@@ -1589,7 +1589,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [],
             "deposit": "",
@@ -1615,7 +1615,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [],
             "deposit": "",
@@ -1641,7 +1641,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1669,7 +1669,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -1698,7 +1698,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -1727,7 +1727,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -1756,7 +1756,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1784,7 +1784,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1812,7 +1812,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1840,7 +1840,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [],
             "deposit": "",
@@ -1866,7 +1866,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1894,7 +1894,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [],
             "deposit": "",
@@ -1920,7 +1920,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [],
             "deposit": "",
@@ -1946,7 +1946,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan"
@@ -1974,7 +1974,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -2003,7 +2003,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -2032,7 +2032,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -2062,7 +2062,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -2092,7 +2092,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -2121,7 +2121,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Süssigkeiten & Snacks",
             "tags": [
                 "vegan",
@@ -2150,7 +2150,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2178,7 +2178,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -2207,7 +2207,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -2236,7 +2236,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2264,7 +2264,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2292,7 +2292,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2320,7 +2320,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2348,7 +2348,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2376,7 +2376,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -2406,10 +2406,39 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
+            ],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "vegetarisch_vegan",
+            "type": "listing"
+        },
+        {
+            "store_product_id": "000000000000738917",
+            "brand": "",
+            "name": "BIO-Kokosnussmilch",
+            "amount": "500",
+            "unit": "ml",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/no-brand-bio-kokosnussmilch-000000000000738917",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/1f8479d7-ad5c-46b1-9c93-10350b8e96d1/BIOKokosnussmilch",
+            "category": "zakladni_potraviny",
+            "price": "3.89",
+            "original_price": "",
+            "comparison_price": "0.78",
+            "comparison_per": "100 ml",
+            "valid_from": "2026-10-19",
+            "valid_to": "",
+            "source_date": "2026-10-12",
+            "theme": "Vorräte",
+            "tags": [
+                "vegan",
+                "bio"
             ],
             "deposit": "",
             "deposit_type": "",
@@ -2434,7 +2463,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [],
             "deposit": "",
@@ -2460,7 +2489,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2488,7 +2517,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -2517,7 +2546,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -2546,7 +2575,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [],
             "deposit": "",
@@ -2572,7 +2601,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2600,7 +2629,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [],
             "deposit": "",
@@ -2626,7 +2655,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [],
             "deposit": "",
@@ -2652,7 +2681,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2680,7 +2709,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2708,7 +2737,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2736,7 +2765,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2764,7 +2793,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2792,7 +2821,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2820,7 +2849,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2848,7 +2877,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2876,7 +2905,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -2904,7 +2933,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [],
             "deposit": "",
@@ -2930,7 +2959,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [],
             "deposit": "",
@@ -2956,7 +2985,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -2986,7 +3015,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3016,7 +3045,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3046,7 +3075,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "tiefpreis"
@@ -3074,7 +3103,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3103,7 +3132,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3133,7 +3162,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3163,7 +3192,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3192,7 +3221,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3221,7 +3250,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3250,7 +3279,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3279,7 +3308,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3308,7 +3337,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan",
@@ -3337,7 +3366,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -3365,7 +3394,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -3393,7 +3422,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -3421,7 +3450,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -3449,7 +3478,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -3477,7 +3506,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -3505,7 +3534,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -3533,7 +3562,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -3561,7 +3590,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"
@@ -3589,7 +3618,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegetarisch"
@@ -3617,7 +3646,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegetarisch"
@@ -3645,7 +3674,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegetarisch"
@@ -3673,7 +3702,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegetarisch"
@@ -3701,7 +3730,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [],
             "deposit": "",
@@ -3727,7 +3756,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [],
             "deposit": "",
@@ -3753,7 +3782,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Vorräte",
             "tags": [
                 "vegan"

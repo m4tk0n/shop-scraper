@@ -1,16 +1,16 @@
 {
     "meta": {
-        "generated_at": "2026-10-11T21:26:32+00:00",
+        "generated_at": "2026-10-12T07:41:45+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
         "source": "haushalt_wohnen",
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/haushalt-wohnen/k/1588161418433049",
-        "product_count": 7,
-        "content_hash": "sha256:02d8db01a2b291c898c1b5a6425e7ac51b14aea77318022aee35bb695e24f647",
-        "file_id": "23e47819-97b4-467a-ba4f-a8a6b7c070d1",
-        "run_id": "20261011_212224-75fb735c"
+        "product_count": 8,
+        "content_hash": "sha256:feec4209466f3c95b7ef1ce0d9dfa5db82a4462df775411ddebff45134189df6",
+        "file_id": "b3ba639d-01f7-4d09-83c3-9e78c6c04658",
+        "run_id": "20261012_073703-91d8f7bb"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Haushaltsfolien & Beutel",
             "tags": [],
             "deposit": "",
@@ -54,7 +54,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Tierbedarf",
             "tags": [
                 "tiefpreis"
@@ -82,7 +82,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Tierbedarf",
             "tags": [
                 "tiefpreis"
@@ -110,7 +110,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Tierbedarf",
             "tags": [
                 "tiefpreis"
@@ -138,7 +138,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Tierbedarf",
             "tags": [
                 "tiefpreis"
@@ -166,7 +166,33 @@
             "comparison_per": "",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
+            "theme": "Toiletten- & Küchenpapier, Taschentücher",
+            "tags": [],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "haushalt_wohnen",
+            "type": "listing"
+        },
+        {
+            "store_product_id": "000000000000769425",
+            "brand": "KLEENEX",
+            "name": "Ultra-Clean-Küchenpapier",
+            "amount": "",
+            "unit": "",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/kleenex-ultra-clean-kuechenpapier-000000000000769425",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/11486e41-7611-4b62-bd65-7270af64f8de/UltraCleanKchenpapier",
+            "category": "domacnost",
+            "price": "13.89",
+            "original_price": "",
+            "comparison_price": "",
+            "comparison_per": "",
+            "valid_from": "2026-10-19",
+            "valid_to": "",
+            "source_date": "2026-10-12",
             "theme": "Toiletten- & Küchenpapier, Taschentücher",
             "tags": [],
             "deposit": "",
@@ -192,7 +218,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Weitere Haushaltsprodukte",
             "tags": [],
             "deposit": "",

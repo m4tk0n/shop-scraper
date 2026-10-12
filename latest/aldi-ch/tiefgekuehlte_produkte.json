@@ -1,16 +1,16 @@
 {
     "meta": {
-        "generated_at": "2026-10-11T21:27:24+00:00",
+        "generated_at": "2026-10-12T07:42:42+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
         "source": "tiefgekuehlte_produkte",
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/tiefgekuehlte-produkte/k/1588161418433055",
-        "product_count": 175,
-        "content_hash": "sha256:1a6c1ba22e88f2a1af6b7d9c42662c6d8f0fc7a8394b3e41dce2b88fc7aa6ce8",
-        "file_id": "928f9656-09cc-4434-99c7-faff6ce699ce",
-        "run_id": "20261011_212224-75fb735c"
+        "product_count": 177,
+        "content_hash": "sha256:f16f647cb7829de8e304856a8ad800714bbb14cb545338497297a9e6808aeb43",
+        "file_id": "62dd0d7d-d882-4f5e-ab1b-b746058972f6",
+        "run_id": "20261012_073703-91d8f7bb"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brot, Apérogebäck & Snacks",
             "tags": [
                 "tiefkuehlung"
@@ -56,7 +56,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brot, Apérogebäck & Snacks",
             "tags": [
                 "tiefkuehlung"
@@ -84,7 +84,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brot, Apérogebäck & Snacks",
             "tags": [
                 "tiefkuehlung",
@@ -113,7 +113,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brot, Apérogebäck & Snacks",
             "tags": [
                 "tiefkuehlung",
@@ -142,7 +142,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brot, Apérogebäck & Snacks",
             "tags": [
                 "tiefkuehlung",
@@ -171,7 +171,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Desserts, Torten & Kuchen",
             "tags": [
                 "tiefkuehlung",
@@ -201,7 +201,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Desserts, Torten & Kuchen",
             "tags": [
                 "tiefkuehlung",
@@ -231,7 +231,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Desserts, Torten & Kuchen",
             "tags": [
                 "tiefkuehlung",
@@ -261,7 +261,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Desserts, Torten & Kuchen",
             "tags": [
                 "vegan",
@@ -290,7 +290,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Desserts, Torten & Kuchen",
             "tags": [
                 "tiefkuehlung"
@@ -318,7 +318,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Desserts, Torten & Kuchen",
             "tags": [
                 "tiefkuehlung"
@@ -346,7 +346,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Desserts, Torten & Kuchen",
             "tags": [
                 "tiefkuehlung",
@@ -375,7 +375,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Desserts, Torten & Kuchen",
             "tags": [
                 "tiefkuehlung",
@@ -404,7 +404,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung",
@@ -433,7 +433,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -461,7 +461,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung",
@@ -490,7 +490,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -518,7 +518,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -546,7 +546,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -574,7 +574,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -602,7 +602,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -630,7 +630,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "vegetarisch",
@@ -659,7 +659,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -687,7 +687,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -715,7 +715,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -743,7 +743,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "vegetarisch",
@@ -772,7 +772,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -800,7 +800,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -828,7 +828,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -856,7 +856,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -884,7 +884,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -912,7 +912,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -940,7 +940,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "vegetarisch",
@@ -970,7 +970,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "vegetarisch",
@@ -1000,7 +1000,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "vegetarisch",
@@ -1030,7 +1030,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "vegetarisch",
@@ -1059,7 +1059,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "vegetarisch",
@@ -1088,7 +1088,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1116,7 +1116,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1144,7 +1144,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1172,7 +1172,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1200,7 +1200,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1228,7 +1228,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1256,7 +1256,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung",
@@ -1286,7 +1286,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung",
@@ -1316,7 +1316,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "vegetarisch",
@@ -1345,7 +1345,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1373,7 +1373,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1401,7 +1401,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1429,7 +1429,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1457,7 +1457,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1485,11 +1485,69 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung",
                 "vegetarisch"
+            ],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "tiefgekuehlte_produkte",
+            "type": "listing"
+        },
+        {
+            "store_product_id": "000000000574941001",
+            "brand": "BIBIGO",
+            "name": "Reis Bällchen, Rice Balls Bulg",
+            "amount": "500",
+            "unit": "g",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/bibigo-reis-baellchen-rice-balls-bulg-000000000574941001",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/02d962f5-2193-45cf-91ef-a630b4d4d298/Reis%20Bllchen%20Rice%20Balls%20Bulg",
+            "category": "hotova_jidla",
+            "price": "7.99",
+            "original_price": "",
+            "comparison_price": "15.98",
+            "comparison_per": "1 kg",
+            "valid_from": "2026-10-19",
+            "valid_to": "",
+            "source_date": "2026-10-12",
+            "theme": "Fertiggerichte & Pizza",
+            "tags": [
+                "vegan",
+                "tiefkuehlung"
+            ],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "tiefgekuehlte_produkte",
+            "type": "listing"
+        },
+        {
+            "store_product_id": "000000000574941002",
+            "brand": "BIBIGO",
+            "name": "Reis Bällchen, Rice Balls Bibi",
+            "amount": "500",
+            "unit": "g",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/bibigo-reis-baellchen-rice-balls-bibi-000000000574941002",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/5831c448-4754-47e9-af26-baedd1dc678b/Reis%20Bllchen%20Rice%20Balls%20Bibi",
+            "category": "hotova_jidla",
+            "price": "7.99",
+            "original_price": "",
+            "comparison_price": "15.98",
+            "comparison_per": "1 kg",
+            "valid_from": "2026-10-19",
+            "valid_to": "",
+            "source_date": "2026-10-12",
+            "theme": "Fertiggerichte & Pizza",
+            "tags": [
+                "vegan",
+                "tiefkuehlung"
             ],
             "deposit": "",
             "deposit_type": "",
@@ -1514,7 +1572,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1542,7 +1600,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung",
@@ -1571,7 +1629,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung",
@@ -1600,7 +1658,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung"
@@ -1628,7 +1686,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung",
@@ -1657,7 +1715,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "vegan",
@@ -1686,7 +1744,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fertiggerichte & Pizza",
             "tags": [
                 "tiefkuehlung",
@@ -1715,7 +1773,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -1743,7 +1801,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -1771,7 +1829,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -1799,7 +1857,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -1827,7 +1885,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -1855,7 +1913,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -1883,7 +1941,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -1911,7 +1969,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -1939,7 +1997,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -1967,7 +2025,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -1995,7 +2053,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung",
@@ -2024,7 +2082,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2052,7 +2110,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "bio"
@@ -2080,7 +2138,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "bio"
@@ -2108,7 +2166,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2136,7 +2194,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung",
@@ -2165,7 +2223,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung",
@@ -2194,7 +2252,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2222,7 +2280,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2250,7 +2308,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2278,7 +2336,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2306,7 +2364,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2334,7 +2392,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2362,7 +2420,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2390,7 +2448,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2418,7 +2476,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2446,7 +2504,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2474,7 +2532,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2502,7 +2560,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fisch & Meeresfrüchte",
             "tags": [
                 "tiefkuehlung"
@@ -2530,7 +2588,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [],
             "deposit": "",
@@ -2556,7 +2614,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2584,7 +2642,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2612,7 +2670,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2640,7 +2698,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2668,7 +2726,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2696,7 +2754,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2724,7 +2782,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2752,7 +2810,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2780,7 +2838,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2808,7 +2866,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2836,7 +2894,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung",
@@ -2865,7 +2923,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2893,7 +2951,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2921,7 +2979,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2949,7 +3007,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -2977,7 +3035,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -3005,7 +3063,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -3033,7 +3091,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -3061,7 +3119,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -3089,7 +3147,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -3117,7 +3175,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -3145,7 +3203,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Fleisch",
             "tags": [
                 "tiefkuehlung"
@@ -3173,7 +3231,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3201,7 +3259,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3229,7 +3287,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3257,7 +3315,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefpreis",
@@ -3286,7 +3344,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3315,7 +3373,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3344,7 +3402,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3372,7 +3430,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3401,7 +3459,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3429,7 +3487,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3457,7 +3515,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3486,7 +3544,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3515,7 +3573,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3544,7 +3602,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3573,7 +3631,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3603,7 +3661,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3633,7 +3691,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3661,7 +3719,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3689,7 +3747,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3717,7 +3775,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3745,7 +3803,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3773,7 +3831,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3801,7 +3859,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3830,7 +3888,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3859,7 +3917,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3888,7 +3946,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -3917,7 +3975,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3945,7 +4003,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -3973,7 +4031,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "vegan",
@@ -4002,7 +4060,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -4032,7 +4090,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -4062,7 +4120,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -4092,7 +4150,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -4122,7 +4180,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -4151,7 +4209,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -4180,7 +4238,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -4208,7 +4266,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -4236,7 +4294,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -4265,7 +4323,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -4294,7 +4352,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -4323,7 +4381,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung",
@@ -4352,7 +4410,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Früchte & Gemüse",
             "tags": [
                 "tiefkuehlung"
@@ -4380,7 +4438,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4408,7 +4466,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4436,7 +4494,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4464,7 +4522,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4492,7 +4550,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4520,7 +4578,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4548,7 +4606,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4576,7 +4634,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4604,7 +4662,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4632,7 +4690,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4660,7 +4718,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4688,7 +4746,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4716,7 +4774,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4744,7 +4802,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4772,7 +4830,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4800,7 +4858,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4828,7 +4886,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4856,7 +4914,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4884,7 +4942,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4912,7 +4970,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4940,7 +4998,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"
@@ -4968,7 +5026,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Glace & Sorbets",
             "tags": [
                 "tiefkuehlung"

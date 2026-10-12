@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-06T11:30:39",
+        "generated_at": "2026-10-12T07:37:48+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-08",
         "product_count": 48,
-        "content_hash": "sha256:7f81b7c910d9ab48688daf7df82a2c348c0b61278cae6f0907df331e9344f18f",
-        "file_id": "84e1e78a-dab7-4c75-995c-2768f66b4858",
-        "run_id": "20261006_112908-547223b4"
+        "content_hash": "sha256:d94f068192672def2107b58aaea1d4bc6cbadd5f685a8f5d8c304f9d79259527",
+        "file_id": "9825fb29-528d-4497-b680-6aeab1c16f5f",
+        "run_id": "20261012_073703-91d8f7bb"
     },
     "products": [
         {
@@ -298,9 +298,9 @@
             "product_url": "https://www.aldi-suisse.ch/de/produkt/sheba-katzen-nassfutter-fisch-000000000000718878",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/6ef0dd02-20e6-4654-82a2-94a9751a1fe1/KatzenNassfutter%20Fisch",
             "category": "zvirata",
-            "price": "29.89",
+            "price": "29.99",
             "original_price": "",
-            "comparison_price": "5.86",
+            "comparison_price": "5.88",
             "comparison_per": "1 kg",
             "valid_from": "2026-10-08",
             "valid_to": "",

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-11T06:07:14+00:00",
+        "generated_at": "2026-10-12T07:38:56+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/tiefpreisversprechen/k/1588161431768066",
         "product_count": 226,
-        "content_hash": "sha256:3be0f48619393995ba96b79b065b9822e4a25bf46ae37e213b1d9ed977e54236",
-        "file_id": "f026bc79-de6b-46ee-abbc-f34b393c2e0d",
-        "run_id": "20261011_060527-998fbae7"
+        "content_hash": "sha256:6b4453dff4320cb9948e3d0447660ef9cda5f1a7dff046f85557eebc11036068",
+        "file_id": "74986435-3df7-4e47-894b-8b20fd7c6f51",
+        "run_id": "20261012_073703-91d8f7bb"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -56,7 +56,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -84,7 +84,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -112,7 +112,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -140,7 +140,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -168,7 +168,7 @@
             "comparison_per": "1 l",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -196,7 +196,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -224,7 +224,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -253,7 +253,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -283,7 +283,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -312,7 +312,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -341,7 +341,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -369,7 +369,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -397,7 +397,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -427,7 +427,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -455,7 +455,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -484,7 +484,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -512,7 +512,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -540,7 +540,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -568,7 +568,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -596,7 +596,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -624,7 +624,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -652,7 +652,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -680,7 +680,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -708,7 +708,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -737,7 +737,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -766,7 +766,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -795,7 +795,7 @@
             "comparison_per": "100 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -823,7 +823,7 @@
             "comparison_per": "1 l",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -851,7 +851,7 @@
             "comparison_per": "1 l",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -879,7 +879,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -908,7 +908,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -937,7 +937,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -965,7 +965,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -994,7 +994,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1022,7 +1022,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1051,7 +1051,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1079,7 +1079,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1107,7 +1107,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1135,7 +1135,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1164,7 +1164,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -1193,7 +1193,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1221,7 +1221,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1249,7 +1249,7 @@
             "comparison_per": "1 St",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1277,7 +1277,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1305,7 +1305,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1333,7 +1333,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -1362,7 +1362,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1390,7 +1390,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1418,7 +1418,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -1447,7 +1447,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1475,7 +1475,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1503,7 +1503,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1531,7 +1531,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1559,7 +1559,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1587,7 +1587,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1616,7 +1616,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -1646,7 +1646,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1674,7 +1674,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1703,7 +1703,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1731,7 +1731,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -1759,7 +1759,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -1789,7 +1789,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -1819,7 +1819,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -1849,7 +1849,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -1878,7 +1878,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1908,7 +1908,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1938,7 +1938,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1968,7 +1968,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1998,7 +1998,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan"
@@ -2026,7 +2026,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan"
@@ -2054,7 +2054,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegetarisch"
@@ -2082,7 +2082,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan"
@@ -2110,7 +2110,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2138,7 +2138,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2166,7 +2166,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2194,7 +2194,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -2222,7 +2222,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2250,7 +2250,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2278,7 +2278,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2306,7 +2306,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -2335,7 +2335,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -2364,7 +2364,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2392,7 +2392,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2420,7 +2420,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2448,7 +2448,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -2477,7 +2477,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2505,7 +2505,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2533,7 +2533,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2561,7 +2561,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2589,7 +2589,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2617,7 +2617,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2645,7 +2645,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -2674,7 +2674,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2702,7 +2702,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -2731,7 +2731,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2759,7 +2759,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2785,7 +2785,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2811,7 +2811,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2839,7 +2839,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2867,7 +2867,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2895,7 +2895,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -2924,7 +2924,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -2953,7 +2953,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -2981,7 +2981,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -3009,7 +3009,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3037,7 +3037,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3065,7 +3065,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3093,7 +3093,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3121,7 +3121,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3149,7 +3149,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3177,7 +3177,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3205,7 +3205,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3233,7 +3233,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3261,7 +3261,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3289,7 +3289,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -3318,7 +3318,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -3347,7 +3347,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3375,7 +3375,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3403,7 +3403,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3431,7 +3431,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -3460,7 +3460,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -3489,7 +3489,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -3518,7 +3518,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3546,7 +3546,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3574,7 +3574,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3602,7 +3602,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3630,7 +3630,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3658,7 +3658,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3686,7 +3686,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3714,7 +3714,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3742,7 +3742,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3770,7 +3770,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3796,7 +3796,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3822,7 +3822,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3848,7 +3848,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3874,7 +3874,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3900,7 +3900,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -3929,7 +3929,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -3958,7 +3958,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -3988,7 +3988,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4016,7 +4016,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4044,7 +4044,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4072,7 +4072,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4100,7 +4100,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4128,7 +4128,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4156,7 +4156,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4184,7 +4184,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4212,7 +4212,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4240,7 +4240,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4268,7 +4268,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -4297,7 +4297,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -4326,7 +4326,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4354,7 +4354,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4382,7 +4382,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4410,7 +4410,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan"
@@ -4438,7 +4438,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan"
@@ -4466,7 +4466,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4494,7 +4494,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4522,7 +4522,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4550,7 +4550,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4578,7 +4578,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4601,12 +4601,12 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/1f515438-e139-4610-bdc7-fbf80819b074/Veganer%20Mix%20Geschnetzeltes",
             "category": "maso",
             "price": "1.55",
-            "original_price": "1.79",
+            "original_price": "",
             "comparison_price": "1.11",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -4631,12 +4631,12 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/105676a3-cade-4c05-9397-9d658c5e3396/Veganer%20Mix%20Kebab",
             "category": "potraviny",
             "price": "1.55",
-            "original_price": "1.79",
+            "original_price": "",
             "comparison_price": "1.11",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -4666,7 +4666,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4694,7 +4694,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4722,7 +4722,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4750,7 +4750,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4778,7 +4778,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4806,7 +4806,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4834,7 +4834,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4862,7 +4862,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4890,7 +4890,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4918,7 +4918,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4946,7 +4946,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4974,7 +4974,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -5004,7 +5004,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -5034,7 +5034,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5062,7 +5062,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5090,7 +5090,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5118,7 +5118,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5146,7 +5146,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5174,7 +5174,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5202,7 +5202,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5230,7 +5230,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5258,7 +5258,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5286,7 +5286,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5314,7 +5314,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -5343,7 +5343,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -5373,7 +5373,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -5397,13 +5397,13 @@
             "product_url": "https://www.aldi-suisse.ch/de/produkt/zueger-frischkaese-rapsoelbutter-original-000000000629964001",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/8d3779f0-269a-455e-9dcc-6dbad117103a/Rapslbutter%20%20Original",
             "category": "koreni_omacky",
-            "price": "4.39",
+            "price": "4.49",
             "original_price": "",
-            "comparison_price": "1.95",
+            "comparison_price": "2.00",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -5426,13 +5426,13 @@
             "product_url": "https://www.aldi-suisse.ch/de/produkt/zueger-frischkaese-rapsoelbutter-gesalzen-000000000629964002",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/2723aa5f-616c-470d-b154-b66856d1f859/Rapslbutter%20%20Gesalzen",
             "category": "koreni_omacky",
-            "price": "4.39",
+            "price": "4.49",
             "original_price": "",
-            "comparison_price": "1.95",
+            "comparison_price": "2.00",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -5461,7 +5461,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -5487,7 +5487,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -5513,7 +5513,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5541,7 +5541,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5569,7 +5569,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5597,7 +5597,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -5626,7 +5626,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -5655,7 +5655,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -5684,7 +5684,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -5713,7 +5713,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -5742,7 +5742,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -5771,7 +5771,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5799,7 +5799,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5827,7 +5827,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5855,7 +5855,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5883,7 +5883,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5911,7 +5911,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5939,7 +5939,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5967,7 +5967,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5995,7 +5995,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6023,7 +6023,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6051,7 +6051,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6079,7 +6079,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6107,7 +6107,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6135,7 +6135,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6163,7 +6163,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6191,7 +6191,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6219,7 +6219,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6247,7 +6247,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6275,7 +6275,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6303,7 +6303,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6331,7 +6331,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -6360,7 +6360,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -6389,7 +6389,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefpreis",

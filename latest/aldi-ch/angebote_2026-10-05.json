@@ -1,16 +1,16 @@
 {
     "meta": {
-        "generated_at": "2026-10-07T21:31:06+00:00",
+        "generated_at": "2026-10-12T07:37:31+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
         "source": "angebote",
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-05",
-        "product_count": 154,
-        "content_hash": "sha256:748c07ffed2f057c8f58bf5e2a8394982152e8f1efaf45e93c0ad696d32a01de",
-        "file_id": "6a583fa6-5af4-47d6-a9ec-d34b70690abe",
-        "run_id": "20261007_212958-5659d86f"
+        "product_count": 153,
+        "content_hash": "sha256:108a3a7e03f2b257accc05d5c3f32a15c9f18f6612cf39822f1b7494682627e7",
+        "file_id": "b4aea07d-3037-4758-b872-e3e93a86ac7f",
+        "run_id": "20261012_073703-91d8f7bb"
     },
     "products": [
         {
@@ -1461,34 +1461,6 @@
             "source_date": "2026-10-05",
             "theme": "XXL",
             "tags": [],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "angebote",
-            "type": "offer"
-        },
-        {
-            "store_product_id": "000000000000774062",
-            "brand": "SAVEURS SUISSES",
-            "name": "Speckwürfel",
-            "amount": "400",
-            "unit": "g",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/saveurs-suisses-speckwuerfel-000000000000774062",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/617bd9f0-60dc-4640-8bfe-82c22f5de6ce/Speckwrfel",
-            "category": "uzeniny",
-            "price": "3.99",
-            "original_price": "",
-            "comparison_price": "1.00",
-            "comparison_per": "100 g",
-            "valid_from": "2026-10-05",
-            "valid_to": "",
-            "source_date": "2026-10-05",
-            "theme": "Super Deal",
-            "tags": [
-                "kuehlung"
-            ],
             "deposit": "",
             "deposit_type": "",
             "approx_amount": false,

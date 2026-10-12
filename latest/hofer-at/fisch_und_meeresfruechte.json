@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-09T11:28:34+00:00",
+        "generated_at": "2026-10-12T07:34:48+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/fisch-und-meeresfruechte/k/158816141856710102",
         "product_count": 17,
-        "content_hash": "sha256:1c1dba1f03a8b8d200dc95c303daf9cba76a02c6209edf63823ca7a7cf4d69dd",
-        "file_id": "6510a510-2103-430c-b9d6-c797731dc37d",
-        "run_id": "20261009_112740-9d2b82a2"
+        "content_hash": "sha256:eb848a0f94550af4cf83846f8ff7a8b32a2260f0053ef0344b751a0bac2b6111",
+        "file_id": "6eb04fa6-11bf-4f6e-80a7-6eafb4bc2a33",
+        "run_id": "20261012_073354-a9109c23"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -56,7 +56,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -84,7 +84,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -106,13 +106,13 @@
             "product_url": "https://www.hofer.at/produkt/golden-seafood-lachsfiletportionen-000000000000309956",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/7805c135-6d5b-47e8-85ee-fcd09c3bcf49/Lachsfiletportionen",
             "category": "ryby",
-            "price": "6.99",
-            "original_price": "9.99",
-            "comparison_price": "13.98",
+            "price": "10.99",
+            "original_price": "11.49",
+            "comparison_price": "21.98",
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -140,7 +140,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -169,7 +169,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -198,7 +198,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -227,7 +227,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -255,7 +255,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -283,7 +283,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -311,7 +311,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -339,7 +339,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -367,7 +367,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -395,7 +395,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -423,7 +423,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -451,7 +451,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -479,7 +479,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-09",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"

@@ -1,16 +1,16 @@
 {
     "meta": {
-        "generated_at": "2026-10-11T21:25:59+00:00",
+        "generated_at": "2026-10-12T07:41:07+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
         "source": "fruehstueck",
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/fruehstueck/k/1588161418433044",
-        "product_count": 88,
-        "content_hash": "sha256:62832d3f29da414b9d4b0c3c9945d28ec5778e0f7b3ce401bb5e7a15ff4e90c5",
-        "file_id": "906fddf1-bd3d-4352-9f50-11c0f262010a",
-        "run_id": "20261011_212224-75fb735c"
+        "product_count": 90,
+        "content_hash": "sha256:ecfcd1a84b4aa31ac1e0cbd56b0bce70fffacf4b60dbff1fcae2bf270743a6c8",
+        "file_id": "10a06106-d1b1-4e85-af77-d9ccf254d8be",
+        "run_id": "20261012_073703-91d8f7bb"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -54,7 +54,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -80,7 +80,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan"
@@ -108,7 +108,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -134,7 +134,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -160,7 +160,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -189,7 +189,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -218,7 +218,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -247,7 +247,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -276,7 +276,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -305,7 +305,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -334,7 +334,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan"
@@ -362,7 +362,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan"
@@ -390,7 +390,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan"
@@ -418,7 +418,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -448,7 +448,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -478,7 +478,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -508,7 +508,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -534,7 +534,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -560,7 +560,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -586,7 +586,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -612,7 +612,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -638,7 +638,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -664,7 +664,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -690,7 +690,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [],
             "deposit": "",
@@ -716,7 +716,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan"
@@ -744,7 +744,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan"
@@ -772,7 +772,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -801,7 +801,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -830,7 +830,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -859,7 +859,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -888,7 +888,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Brotaufstriche & Konfitüren",
             "tags": [
                 "vegan",
@@ -917,7 +917,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Honig",
             "tags": [],
             "deposit": "",
@@ -943,7 +943,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Honig",
             "tags": [],
             "deposit": "",
@@ -969,7 +969,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Honig",
             "tags": [],
             "deposit": "",
@@ -995,7 +995,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Honig",
             "tags": [],
             "deposit": "",
@@ -1021,7 +1021,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Honig",
             "tags": [
                 "tiefpreis",
@@ -1050,7 +1050,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Honig",
             "tags": [
                 "tiefpreis",
@@ -1079,7 +1079,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Honig",
             "tags": [
                 "bio"
@@ -1107,7 +1107,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Honig",
             "tags": [
                 "bio"
@@ -1135,7 +1135,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1161,7 +1161,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1187,7 +1187,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
@@ -1215,7 +1215,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
@@ -1243,7 +1243,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1269,7 +1269,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1295,7 +1295,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1321,7 +1321,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1347,7 +1347,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1373,7 +1373,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1399,7 +1399,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1425,7 +1425,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
@@ -1453,7 +1453,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1479,7 +1479,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "tiefpreis"
@@ -1507,7 +1507,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
@@ -1535,7 +1535,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1561,7 +1561,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1587,7 +1587,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
@@ -1615,7 +1615,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
@@ -1643,7 +1643,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
@@ -1671,7 +1671,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1697,7 +1697,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1723,7 +1723,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1749,7 +1749,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1775,7 +1775,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -1801,7 +1801,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
@@ -1829,7 +1829,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
@@ -1857,7 +1857,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
@@ -1885,10 +1885,68 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan"
+            ],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "fruehstueck",
+            "type": "listing"
+        },
+        {
+            "store_product_id": "000000000635201001",
+            "brand": "BIO",
+            "name": "Basis-Müesli, 5-Kornmix",
+            "amount": "750",
+            "unit": "g",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/bio-basis-mueesli-5-kornmix-000000000635201001",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new-2",
+            "category": "snidane",
+            "price": "2.49",
+            "original_price": "",
+            "comparison_price": "0.33",
+            "comparison_per": "100 g",
+            "valid_from": "2026-10-19",
+            "valid_to": "",
+            "source_date": "2026-10-12",
+            "theme": "Müesli & Flakes",
+            "tags": [
+                "vegan",
+                "bio"
+            ],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "fruehstueck",
+            "type": "listing"
+        },
+        {
+            "store_product_id": "000000000635201002",
+            "brand": "BIO",
+            "name": "Basis-Müesli, Cereal-Mix",
+            "amount": "500",
+            "unit": "g",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/bio-basis-mueesli-cereal-mix-000000000635201002",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new-2",
+            "category": "snidane",
+            "price": "2.49",
+            "original_price": "",
+            "comparison_price": "0.50",
+            "comparison_per": "100 g",
+            "valid_from": "2026-10-19",
+            "valid_to": "",
+            "source_date": "2026-10-12",
+            "theme": "Müesli & Flakes",
+            "tags": [
+                "vegan",
+                "bio"
             ],
             "deposit": "",
             "deposit_type": "",
@@ -1913,7 +1971,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "vegan",
@@ -1942,7 +2000,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "bio"
@@ -1970,7 +2028,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "bio"
@@ -1998,7 +2056,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "bio"
@@ -2026,7 +2084,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [
                 "bio"
@@ -2054,7 +2112,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -2080,7 +2138,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -2106,7 +2164,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -2132,7 +2190,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -2158,7 +2216,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Müesli & Flakes",
             "tags": [],
             "deposit": "",
@@ -2184,7 +2242,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Porridge & Haferflocken",
             "tags": [
                 "bio"
@@ -2212,7 +2270,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Porridge & Haferflocken",
             "tags": [
                 "vegan"
@@ -2240,7 +2298,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Porridge & Haferflocken",
             "tags": [],
             "deposit": "",
@@ -2266,7 +2324,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Porridge & Haferflocken",
             "tags": [
                 "vegan"
@@ -2294,7 +2352,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Porridge & Haferflocken",
             "tags": [
                 "tiefpreis"
@@ -2322,7 +2380,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Porridge & Haferflocken",
             "tags": [
                 "tiefpreis"
@@ -2350,7 +2408,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Porridge & Haferflocken",
             "tags": [],
             "deposit": "",
@@ -2376,7 +2434,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Porridge & Haferflocken",
             "tags": [],
             "deposit": "",
@@ -2402,7 +2460,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "Porridge & Haferflocken",
             "tags": [],
             "deposit": "",
