@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T07:41:07+00:00",
+        "generated_at": "2026-10-12T19:30:34+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/fruehstueck/k/1588161418433044",
         "product_count": 90,
-        "content_hash": "sha256:ecfcd1a84b4aa31ac1e0cbd56b0bce70fffacf4b60dbff1fcae2bf270743a6c8",
-        "file_id": "10a06106-d1b1-4e85-af77-d9ccf254d8be",
-        "run_id": "20261012_073703-91d8f7bb"
+        "content_hash": "sha256:fa0d8c23ed172b3d83916d418a65bb41566a31c7444ceeca5183a19dbd148535",
+        "file_id": "bf754452-08a5-47fa-8c23-6802c56cfa6d",
+        "run_id": "20261012_192607-6c23b2e8"
     },
     "products": [
         {
@@ -1905,7 +1905,7 @@
             "amount": "750",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/bio-basis-mueesli-5-kornmix-000000000635201001",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new-2",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a921ceb7-3e73-40f3-bf92-a7c8ec22ea15/BasisMesli%205Kornmix",
             "category": "snidane",
             "price": "2.49",
             "original_price": "",
@@ -1934,7 +1934,7 @@
             "amount": "500",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/bio-basis-mueesli-cereal-mix-000000000635201002",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new-2",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/cfb260d5-0595-402c-96f7-6d9596d04382/BasisMesli%20CerealMix",
             "category": "snidane",
             "price": "2.49",
             "original_price": "",

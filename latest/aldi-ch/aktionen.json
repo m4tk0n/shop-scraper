@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T12:23:38+00:00",
+        "generated_at": "2026-10-12T19:29:08+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/aktionen/k/1588161418433031",
         "product_count": 334,
-        "content_hash": "sha256:0f80201915ee4df40978fdab65008e60da5704cd610e27a53e24aaae4a347a0b",
-        "file_id": "a862e231-4c95-4973-b118-0019e423bd9f",
-        "run_id": "20261012_122107-25dc4586"
+        "content_hash": "sha256:7baa195ca62e178528b31d27638db0c31d9ddd606bd8b02908cf6e25a751e006",
+        "file_id": "8b0ce93e-7c9d-4092-9f04-3431c011e223",
+        "run_id": "20261012_192607-6c23b2e8"
     },
     "products": [
         {
@@ -722,7 +722,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/casalux-lichtbalken-set-2-teilig-000000000000738754",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/872102a7-0cbf-4529-a738-a55cf0a93784/LichtbalkenSet%202teilig",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/ee5a51c3-a42e-46e2-9ac6-b551b3c08c74/LichtbalkenSet%202teilig",
             "category": "technika",
             "price": "5.99",
             "original_price": "",
