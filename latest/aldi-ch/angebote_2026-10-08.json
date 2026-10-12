@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T07:37:48+00:00",
+        "generated_at": "2026-10-12T12:21:48+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-08",
         "product_count": 48,
-        "content_hash": "sha256:d94f068192672def2107b58aaea1d4bc6cbadd5f685a8f5d8c304f9d79259527",
-        "file_id": "9825fb29-528d-4497-b680-6aeab1c16f5f",
-        "run_id": "20261012_073703-91d8f7bb"
+        "content_hash": "sha256:50711abbd17c3b0b884f81119d714d6233e2a5bb8026b67f81d1dba4ae0cfd0c",
+        "file_id": "a7972f7c-5e46-4812-a4cc-3704ccc0998e",
+        "run_id": "20261012_122107-25dc4586"
     },
     "products": [
         {
@@ -690,7 +690,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/lily-dan-baby-socken-000000000000737168",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/456b8b4b-3182-486f-a616-b44e74ff8db3/BabySocken",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/fe43ee0f-c614-4731-9496-6cbfeb087b34/BabySocken",
             "category": "textil",
             "price": "2.49",
             "original_price": "",

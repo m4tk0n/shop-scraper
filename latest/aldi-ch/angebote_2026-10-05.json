@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T07:37:31+00:00",
+        "generated_at": "2026-10-12T12:21:33+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-05",
         "product_count": 153,
-        "content_hash": "sha256:108a3a7e03f2b257accc05d5c3f32a15c9f18f6612cf39822f1b7494682627e7",
-        "file_id": "b4aea07d-3037-4758-b872-e3e93a86ac7f",
-        "run_id": "20261012_073703-91d8f7bb"
+        "content_hash": "sha256:8f39b1d3fa8b01dc0160f8c974bfdfdac9d034b8e82c4bebddbc8ef68eedc40d",
+        "file_id": "94b35559-f928-4ae5-8bde-4ea6966f161a",
+        "run_id": "20261012_122107-25dc4586"
     },
     "products": [
         {
@@ -102,7 +102,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/ferrero-nutella-000000000000170909",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/f9704d82-131c-4a05-9ed9-c2c71468f6ae/Nutella",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/0e43fa70-32d6-4e49-a30f-ffbb553b906a/Nutella",
             "category": "snidane",
             "price": "6.29",
             "original_price": "",
@@ -180,7 +180,7 @@
             "amount": "500",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/happy-harvest-xxl-walnusskerne-000000000000264875",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/48d7fc31-c004-4fb5-8015-79d14742bcf3/XXLWalnusskerne",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/8e380df6-7d9e-4145-8511-aa02981a17c7/XXLWalnusskerne",
             "category": "orisky",
             "price": "4.89",
             "original_price": "",
@@ -660,7 +660,7 @@
             "amount": "500",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/bella-xxl-mandeln-nature-000000000000519033",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a40efe5e-f60c-4469-bfd2-3d66d642eb67/XXLMandeln%20nature",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/12ef6e47-3d04-4a19-8988-f5df72059366/XXLMandeln%20nature",
             "category": "orisky",
             "price": "4.99",
             "original_price": "",
@@ -3282,7 +3282,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/home-creation-ordnungsboxen-000000000000741923",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/935fc118-db75-40a6-8147-2a9bf4bed416/Ordnungsboxen",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a82e15ae-8b3a-4e12-a984-0f63be2ecb46/Ordnungsboxen",
             "category": "nonfood",
             "price": "7.99",
             "original_price": "",
@@ -3412,7 +3412,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/home-creation-schubladenaufbewahrungsboxen-000000000000742998",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/7c967343-b16d-4800-9009-a89846d68646/Schubladenaufbewahrungsboxen",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/3257dbe0-3852-433f-89e1-29a0894ccb72/Schubladenaufbewahrungsboxen",
             "category": "nonfood",
             "price": "3.99",
             "original_price": "",

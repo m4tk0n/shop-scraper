@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-11T21:26:15+00:00",
+        "generated_at": "2026-10-12T12:25:12+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/gourmet/k/1588161418433047",
         "product_count": 57,
-        "content_hash": "sha256:368cdd91a1964d75f527917ea39c048d04e1267e05e9899a01f0db1d58aa6dfc",
-        "file_id": "a07d24fc-9639-42f6-b557-171dd01c18db",
-        "run_id": "20261011_212224-75fb735c"
+        "content_hash": "sha256:9bf234c2c27335087b3334d50c733cbd8128954e00776e85395e03c003f2e9d1",
+        "file_id": "d89b6912-1861-405f-9ba2-59db65392d2e",
+        "run_id": "20261012_122107-25dc4586"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -54,7 +54,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -80,7 +80,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -108,7 +108,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung"
@@ -136,7 +136,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung"
@@ -164,7 +164,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung"
@@ -192,7 +192,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -220,7 +220,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -248,7 +248,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung"
@@ -276,7 +276,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung"
@@ -304,7 +304,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -332,7 +332,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -360,7 +360,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -386,7 +386,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung"
@@ -414,7 +414,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -442,7 +442,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -471,7 +471,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung"
@@ -499,7 +499,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung"
@@ -527,7 +527,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -555,7 +555,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -581,7 +581,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -609,7 +609,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -637,7 +637,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -665,7 +665,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -691,7 +691,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -717,7 +717,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -745,7 +745,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -773,7 +773,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -801,7 +801,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -829,7 +829,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -857,7 +857,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -885,7 +885,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung"
@@ -913,7 +913,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung"
@@ -941,7 +941,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -967,7 +967,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -996,7 +996,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan",
@@ -1025,7 +1025,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1051,7 +1051,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1077,7 +1077,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1103,7 +1103,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -1131,7 +1131,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -1159,7 +1159,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -1187,7 +1187,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -1215,7 +1215,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -1243,7 +1243,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1269,7 +1269,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1295,7 +1295,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan"
@@ -1323,7 +1323,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan"
@@ -1351,7 +1351,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan"
@@ -1379,7 +1379,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "vegan"
@@ -1407,7 +1407,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -1436,7 +1436,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -1465,7 +1465,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1491,7 +1491,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1517,7 +1517,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1531,19 +1531,19 @@
         {
             "store_product_id": "000000000754481001",
             "brand": "GOURMET FINEST CUISINE",
-            "name": "Weltmeisterkäse, Gmundner Berg Premium",
+            "name": "AWARD WINNING CHEESE 30, Gmundner Berg P",
             "amount": "300",
             "unit": "g",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/gourmet-finest-cuisine-weltmeisterkaese-gmundner-berg-premium-000000000754481001",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e90e483e-bb44-4d6b-8d03-28c03690be95/Weltmeisterkse%20Gmundner%20Berg%20Premium",
-            "category": "mlecne_vyrobky",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/gourmet-finest-cuisine-award-winning-cheese-30-gmundner-berg-p-000000000754481001",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e90e483e-bb44-4d6b-8d03-28c03690be95/AWARD%20WINNING%20CHEESE%2030%20Gmundner%20Berg%20P",
+            "category": "potraviny",
             "price": "4.79",
             "original_price": "",
             "comparison_price": "1.60",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -1559,19 +1559,19 @@
         {
             "store_product_id": "000000000754481002",
             "brand": "GOURMET FINEST CUISINE",
-            "name": "Weltmeisterkäse, Erzherzog Johan",
+            "name": "AWARD WINNING CHEESE 30, Erzherzog Johan",
             "amount": "300",
             "unit": "g",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/gourmet-finest-cuisine-weltmeisterkaese-erzherzog-johan-000000000754481002",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e8a1428f-4408-4fc7-a25a-2425bd5fc2a9/Weltmeisterkse%20Erzherzog%20Johan",
-            "category": "mlecne_vyrobky",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/gourmet-finest-cuisine-award-winning-cheese-30-erzherzog-johan-000000000754481002",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e8a1428f-4408-4fc7-a25a-2425bd5fc2a9/AWARD%20WINNING%20CHEESE%2030%20Erzherzog%20Johan",
+            "category": "potraviny",
             "price": "4.79",
             "original_price": "",
             "comparison_price": "1.60",
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-11",
+            "source_date": "2026-10-12",
             "theme": "",
             "tags": [
                 "kuehlung"

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T07:38:23+00:00",
+        "generated_at": "2026-10-12T12:22:20+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-15",
         "product_count": 71,
-        "content_hash": "sha256:78876dcbee022b131d99e35e2bd52f7f4c1c45640dc7e5ab5765c2222afcf361",
-        "file_id": "180b3a3e-b6d0-4c02-ab63-f51a35cd27a0",
-        "run_id": "20261012_073703-91d8f7bb"
+        "content_hash": "sha256:230b3cf172d977061c50d0d30420b191da84f9aeaf061925bed49c83b30e8513",
+        "file_id": "6d39ffb0-7101-4a85-b19d-ef352f223910",
+        "run_id": "20261012_122107-25dc4586"
     },
     "products": [
         {
@@ -960,7 +960,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/ariel-waschmittelpods-max-power-000000000000738047",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/3123a241-a580-4fed-9975-8bbc3dac5880/Waschmittelpods%20Max%20Power",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a815c0c6-54dc-46c2-8355-aab981362434/Waschmittelpods%20Max%20Power",
             "category": "prani",
             "price": "26.99",
             "original_price": "",
@@ -986,7 +986,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/ariel-fluessigwaschmittel-000000000000738052",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/3c11d302-e42a-41f6-ae69-b2f27f7e48fe/Flssigwaschmittel",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/cb21016f-5744-4a62-a43e-2f8e0b572514/Flssigwaschmittel",
             "category": "prani",
             "price": "26.99",
             "original_price": "",
@@ -1012,7 +1012,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/ariel-waschmittelpods-all-in-one-000000000000738055",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/d1e58fe8-0664-4609-b112-ea1517cd34c4/Waschmittelpods%20Allinone",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/c8175474-3321-4ab9-9b6b-a7b299b8253d/Waschmittelpods%20Allinone",
             "category": "prani",
             "price": "26.99",
             "original_price": "",
@@ -1038,7 +1038,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/ariel-waschmittel-pulver-000000000000738404",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/30e970db-3e59-43a1-9ab7-2be6c3596539/WaschmittelPulver",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/2b62a6b3-b42b-4332-9108-26f2a1a2bad7/WaschmittelPulver",
             "category": "prani",
             "price": "26.99",
             "original_price": "",

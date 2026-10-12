@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T07:38:47+00:00",
+        "generated_at": "2026-10-12T12:22:43+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-19",
         "product_count": 124,
-        "content_hash": "sha256:058b191d60a8a3cd20dd188b2c5389c86c53b61b654d04476a34a620faf22238",
-        "file_id": "57b7af47-03ea-4292-9c00-4ce3f2e0273d",
-        "run_id": "20261012_073703-91d8f7bb"
+        "content_hash": "sha256:31a7f66e64a53767c0f149347f3fda454f8651fa95d48e069d2b81bf01c394ea",
+        "file_id": "dbbdefa7-9ced-41e1-b90d-e72747eeda57",
+        "run_id": "20261012_122107-25dc4586"
     },
     "products": [
         {
@@ -2085,7 +2085,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/up2fashion-women-damen-komfort-booties-000000000000733711",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/18d38caa-2739-4b7b-9588-e1f1d17bba72/DamenKomfortBooties",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/8bc59644-08c7-43b3-98cd-81492bd89b36/DamenKomfortBooties",
             "category": "nonfood",
             "price": "12.99",
             "original_price": "",
@@ -2475,7 +2475,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/lily-dan-kleinkinder-velours-pyjama-2-teilig-000000000000738378",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/12be3cf5-d694-46e5-8b95-1ddd4495953b/KleinkinderVeloursPyjama%202teilig",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a4134339-d3e1-4526-bd04-07c934956908/KleinkinderVeloursPyjama%202teilig",
             "category": "textil",
             "price": "4.99",
             "original_price": "",

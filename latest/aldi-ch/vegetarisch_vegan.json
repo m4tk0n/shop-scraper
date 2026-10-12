@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T07:42:56+00:00",
+        "generated_at": "2026-10-12T12:26:38+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/vegetarisch-vegan/k/1588161418433056",
         "product_count": 134,
-        "content_hash": "sha256:3b7083e315d413748755488ebc2cd00bc42cd3df2b7e7db41682fb35936a6f0c",
-        "file_id": "a4727049-7c5f-4d2c-b592-ce876abe00ee",
-        "run_id": "20261012_073703-91d8f7bb"
+        "content_hash": "sha256:176fb65e89a3e800eea42a447732ca8c82384b937e80c2e30784b16099a4e2b7",
+        "file_id": "6acf08d3-8948-4735-8140-337283d7e1ef",
+        "run_id": "20261012_122107-25dc4586"
     },
     "products": [
         {
@@ -2170,7 +2170,7 @@
             "amount": "420",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/primana-gekochte-bohnen-in-tomatensauce-000000000000201106",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/d17b9438-9231-4b66-a9ee-23c2d6af3272/Gekochte%20Bohnen%20in%20Tomatensauce",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e17a8ab0-6405-4cff-b0bf-689efe66600b/Gekochte%20Bohnen%20in%20Tomatensauce",
             "category": "koreni_omacky",
             "price": "1.15",
             "original_price": "",
@@ -2673,7 +2673,7 @@
             "amount": "500",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/my-vay-glutenfreie-teigwaren-fusilli-000000000593300001",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/59059ce4-8ff0-43c0-aca5-d4b7bcdc34e8/Glutenfreie%20Teigwaren%20Fusilli",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/ceb783ab-811e-4554-9f1b-384b20367d08/Glutenfreie%20Teigwaren%20Fusilli",
             "category": "testoviny_ryze",
             "price": "1.99",
             "original_price": "2.29",
@@ -2701,7 +2701,7 @@
             "amount": "500",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/my-vay-glutenfreie-teigwaren-penne-000000000593300002",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/26b3f660-0fe9-47e8-9a33-e4df61657012/Glutenfreie%20Teigwaren%20Penne",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/754091ef-a5c2-4ebf-940c-a71f7a62bb88/Glutenfreie%20Teigwaren%20Penne",
             "category": "testoviny_ryze",
             "price": "1.99",
             "original_price": "2.29",
@@ -2729,7 +2729,7 @@
             "amount": "500",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/my-vay-glutenfreie-teigwaren-spaghetti-000000000593300003",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a7ff35d6-f516-40dc-845a-91e80b220372/Glutenfreie%20Teigwaren%20Spaghetti",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/287f30ca-c4b4-48a4-9c5b-a3ccca3eb53d/Glutenfreie%20Teigwaren%20Spaghetti",
             "category": "testoviny_ryze",
             "price": "1.99",
             "original_price": "2.29",
