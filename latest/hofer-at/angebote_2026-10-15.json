@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-09T11:28:17+00:00",
+        "generated_at": "2026-10-13T11:59:58+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-15",
         "product_count": 29,
-        "content_hash": "sha256:2b4a833c0e85fd95cbb472de9790504fb3f956a6e22d7f2626bd29ac83fee45b",
-        "file_id": "9cfb1f7b-438c-4ef2-9e0b-ff186d973550",
-        "run_id": "20261009_112740-9d2b82a2"
+        "content_hash": "sha256:882b3689c25d37db789156e1544843a18e848a1c717642e338bf720dd7123501",
+        "file_id": "631256d7-d571-4121-835e-71b85a1390b9",
+        "run_id": "20261013_115932-2a8490d2"
     },
     "products": [
         {
@@ -726,7 +726,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/toylino-2in1-kino-und-marktstand-essenswagen-aus-holz-000000000000752453",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new%20%281%29",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/5b6aeb81-d036-429c-82c9-1be83cbceb5d/2in1%20Kino%20und%20MarktstandEssenswagen%20aus%20Holz",
             "category": "nonfood",
             "price": "39.99",
             "original_price": "",
