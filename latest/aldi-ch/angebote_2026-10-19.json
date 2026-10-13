@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T19:28:04+00:00",
+        "generated_at": "2026-10-13T23:12:41+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-19",
         "product_count": 125,
-        "content_hash": "sha256:013ba5653ec1a4e9e0bccdbb7817abda1904becdef0ee8fd914c1b74c099a750",
-        "file_id": "80ce96a6-2542-427d-90e6-5eabd403d9e6",
-        "run_id": "20261012_192607-6c23b2e8"
+        "content_hash": "sha256:7b5a5ee6bb4b43d309974cf658e05bc897e0fb187ddea2091a4a8eaa427f356b",
+        "file_id": "dbc2bec1-8ffc-4899-90d8-d5100f6d62df",
+        "run_id": "20261013_231106-cc8b1fa9"
     },
     "products": [
         {
@@ -37,7 +37,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000152881",
@@ -63,7 +66,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000288238",
@@ -89,7 +95,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000289719",
@@ -115,7 +124,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000290479",
@@ -141,7 +153,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000290481",
@@ -167,7 +182,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000290482",
@@ -193,7 +211,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000342718",
@@ -219,7 +240,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000479321",
@@ -245,7 +269,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000482498",
@@ -271,7 +298,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000526983",
@@ -297,7 +327,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000616475",
@@ -323,7 +356,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000651940",
@@ -351,7 +387,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000651964",
@@ -377,7 +416,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000651966",
@@ -403,7 +445,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000653649",
@@ -429,7 +474,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000658777",
@@ -455,7 +503,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000733462",
@@ -481,7 +532,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000736537",
@@ -507,7 +561,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000738709",
@@ -533,7 +590,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000738726",
@@ -559,7 +619,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000738877",
@@ -585,7 +648,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000738879",
@@ -611,7 +677,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000738894",
@@ -637,7 +706,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000738917",
@@ -666,7 +738,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000744117",
@@ -692,7 +767,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000760300",
@@ -718,7 +796,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000760567",
@@ -744,7 +825,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000769425",
@@ -770,7 +854,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000773596",
@@ -796,7 +883,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000773610",
@@ -822,7 +912,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000774305",
@@ -848,7 +941,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000777938",
@@ -874,7 +970,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000780105",
@@ -900,7 +999,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000194107001",
@@ -926,7 +1028,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000194107002",
@@ -952,7 +1057,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000194107003",
@@ -978,7 +1086,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000289573001",
@@ -1004,7 +1115,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000289573002",
@@ -1030,7 +1144,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000289573003",
@@ -1056,7 +1173,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000289573004",
@@ -1082,7 +1202,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000290500001",
@@ -1108,7 +1231,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000290500002",
@@ -1134,7 +1260,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000290500003",
@@ -1160,7 +1289,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000290500004",
@@ -1186,7 +1318,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000434710001",
@@ -1212,7 +1347,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000434710002",
@@ -1238,7 +1376,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000450713001",
@@ -1264,7 +1405,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000450713002",
@@ -1290,7 +1434,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000450713003",
@@ -1316,7 +1463,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000543551001",
@@ -1342,7 +1492,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000543551002",
@@ -1368,7 +1521,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000574941001",
@@ -1397,7 +1553,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000574941002",
@@ -1426,7 +1585,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000583641001",
@@ -1454,7 +1616,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000583641002",
@@ -1482,7 +1647,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000583641003",
@@ -1510,7 +1678,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000583641004",
@@ -1538,7 +1709,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000583641005",
@@ -1566,7 +1740,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000583641007",
@@ -1594,7 +1771,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000583641009",
@@ -1622,7 +1802,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000635201001",
@@ -1651,7 +1834,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000635201002",
@@ -1680,7 +1866,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000651954001",
@@ -1706,7 +1895,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000651954002",
@@ -1732,7 +1924,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000651954003",
@@ -1758,7 +1953,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000691659003",
@@ -1784,7 +1982,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000691659004",
@@ -1810,7 +2011,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000699439001",
@@ -1836,7 +2040,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000699439004",
@@ -1862,7 +2069,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000707848001",
@@ -1890,7 +2100,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000707848002",
@@ -1918,7 +2131,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000707848003",
@@ -1946,7 +2162,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000715284001",
@@ -1972,7 +2191,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000715284002",
@@ -1998,7 +2220,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000715284003",
@@ -2024,7 +2249,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000728828",
@@ -2050,7 +2278,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000730771",
@@ -2076,7 +2307,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000731948",
@@ -2102,7 +2336,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000733711",
@@ -2128,7 +2365,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000734178",
@@ -2154,7 +2394,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000734682",
@@ -2180,7 +2423,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000735353",
@@ -2206,7 +2452,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000735674",
@@ -2232,7 +2481,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000736153",
@@ -2258,7 +2510,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000736351",
@@ -2284,7 +2539,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000736431",
@@ -2310,7 +2568,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000736621002",
@@ -2336,7 +2597,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000736758",
@@ -2362,7 +2626,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000737353002",
@@ -2388,7 +2655,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000737495",
@@ -2414,7 +2684,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000737677",
@@ -2440,7 +2713,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000737824",
@@ -2466,7 +2742,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000737850",
@@ -2492,7 +2771,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000738378",
@@ -2518,7 +2800,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000738617",
@@ -2544,7 +2829,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000738626",
@@ -2570,7 +2858,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000739323",
@@ -2596,7 +2887,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000739428",
@@ -2622,7 +2916,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000739869001",
@@ -2648,7 +2945,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000739869002",
@@ -2674,7 +2974,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000741885",
@@ -2700,7 +3003,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000742083",
@@ -2726,7 +3032,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000742905",
@@ -2752,7 +3061,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "7429581588161431769129",
@@ -2778,7 +3090,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "7429581588161431769134",
@@ -2804,7 +3119,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000743289",
@@ -2830,7 +3148,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000744597",
@@ -2856,7 +3177,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000744878",
@@ -2882,7 +3206,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000748907",
@@ -2908,7 +3235,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000749132",
@@ -2934,7 +3264,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000751627",
@@ -2960,7 +3293,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000752280",
@@ -2986,7 +3322,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000752383",
@@ -3012,7 +3351,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000753223001",
@@ -3038,7 +3380,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000753223002",
@@ -3064,7 +3409,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000753223003",
@@ -3090,7 +3438,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000762734001",
@@ -3119,7 +3470,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000762734002",
@@ -3148,7 +3502,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000774168001",
@@ -3174,7 +3531,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000774168002",
@@ -3200,7 +3560,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000774179001",
@@ -3226,7 +3589,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000774179002",
@@ -3252,7 +3618,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000776073001",
@@ -3278,7 +3647,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000776073002",
@@ -3304,7 +3676,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "angebote",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "promo"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T07:34:48+00:00",
+        "generated_at": "2026-10-13T23:10:26+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/fisch-und-meeresfruechte/k/158816141856710102",
         "product_count": 17,
-        "content_hash": "sha256:eb848a0f94550af4cf83846f8ff7a8b32a2260f0053ef0344b751a0bac2b6111",
-        "file_id": "6eb04fa6-11bf-4f6e-80a7-6eafb4bc2a33",
-        "run_id": "20261012_073354-a9109c23"
+        "content_hash": "sha256:3cf18f25e2d65031d4eeefc5e7feda97ab1f86bea262b9dc577b18c40e7be766",
+        "file_id": "ba72a829-a390-4369-912f-282a721c45e7",
+        "run_id": "20261013_230726-f14eb5d5"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -39,7 +39,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107223",
@@ -56,7 +59,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -67,7 +70,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000276454",
@@ -84,7 +90,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -95,7 +101,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000309956",
@@ -112,7 +121,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -123,7 +132,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000613513",
@@ -140,7 +152,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -152,7 +164,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000634004",
@@ -169,7 +184,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -181,7 +196,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000635479",
@@ -198,7 +216,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -210,7 +228,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000693428",
@@ -227,7 +248,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -238,7 +259,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113828002",
@@ -255,7 +279,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -266,7 +290,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113828003",
@@ -283,7 +310,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -294,7 +321,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114157002",
@@ -311,7 +341,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -322,7 +352,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114157003",
@@ -339,7 +372,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -350,7 +383,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000580827001",
@@ -367,7 +403,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -378,7 +414,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000580827002",
@@ -395,7 +434,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -406,7 +445,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000580827003",
@@ -423,7 +465,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -434,7 +476,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000729478003",
@@ -451,7 +496,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -462,7 +507,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000729478004",
@@ -479,7 +527,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -490,7 +538,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fisch_und_meeresfruechte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         }
     ]
 }

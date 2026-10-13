@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T12:19:21+00:00",
+        "generated_at": "2026-10-13T23:10:26+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/weihnachten/k/1588161434751156",
         "product_count": 156,
-        "content_hash": "sha256:2084dbe38dd27c00c33a9f30f5fbf1dcee03397f1e8e0704175a32749f3972d4",
-        "file_id": "8095789f-d5bb-477e-b7d7-786f130fb4c5",
-        "run_id": "20261012_121841-201fef09"
+        "content_hash": "sha256:7d562e5588e9164a0c328144fc29f05c445335c0830ae39c51be46ee24aab935",
+        "file_id": "5a3c60e9-0fcd-49e6-b6fe-190f7ece2b52",
+        "run_id": "20261013_230726-f14eb5d5"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -37,7 +37,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106901",
@@ -54,7 +57,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -63,7 +66,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107458",
@@ -80,7 +86,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -89,7 +95,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107464",
@@ -106,7 +115,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -115,7 +124,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000153930",
@@ -132,7 +144,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -141,7 +153,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000174554",
@@ -158,7 +173,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -167,7 +182,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000174758",
@@ -184,7 +202,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -193,7 +211,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000175297",
@@ -210,7 +231,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -219,7 +240,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000175569",
@@ -236,7 +260,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -245,7 +269,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000187048",
@@ -262,7 +289,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -271,7 +298,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000194068",
@@ -288,7 +318,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -297,7 +327,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000271754",
@@ -314,7 +347,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -323,7 +356,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000505659",
@@ -340,7 +376,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "bio"
@@ -351,7 +387,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000508380",
@@ -368,7 +407,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -377,7 +416,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000576210",
@@ -394,7 +436,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -403,7 +445,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000594524",
@@ -420,7 +465,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -431,7 +476,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000598870",
@@ -448,7 +496,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -457,7 +505,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000677128",
@@ -474,7 +525,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -483,7 +534,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000683075",
@@ -500,7 +554,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -509,7 +563,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000743697",
@@ -526,7 +583,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -535,7 +592,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000743991",
@@ -552,7 +612,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -561,7 +621,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000744802",
@@ -578,7 +641,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -587,7 +650,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000745826",
@@ -604,7 +670,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -613,7 +679,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000758627",
@@ -630,7 +699,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -639,7 +708,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000101964001",
@@ -656,7 +728,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -665,7 +737,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000101964002",
@@ -682,7 +757,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -691,7 +766,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000101964003",
@@ -708,7 +786,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -717,7 +795,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110846001",
@@ -734,7 +815,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -743,7 +824,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110846003",
@@ -760,7 +844,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -769,7 +853,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110846005",
@@ -786,7 +873,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -795,7 +882,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112071001",
@@ -812,7 +902,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -823,7 +913,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112071002",
@@ -840,7 +933,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -851,7 +944,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112071003",
@@ -868,7 +964,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -879,7 +975,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112284001",
@@ -896,7 +995,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -905,7 +1004,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112284002",
@@ -922,7 +1024,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -931,7 +1033,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112310001",
@@ -948,7 +1053,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -957,7 +1062,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112310002",
@@ -974,7 +1082,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -983,7 +1091,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112961001",
@@ -1000,7 +1111,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -1012,7 +1123,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112961002",
@@ -1029,7 +1143,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -1041,7 +1155,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113432001",
@@ -1058,7 +1175,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1067,7 +1184,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113432002",
@@ -1084,7 +1204,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1093,7 +1213,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113579002",
@@ -1110,7 +1233,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1119,7 +1242,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113579003",
@@ -1136,7 +1262,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1145,7 +1271,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113579004",
@@ -1162,7 +1291,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1171,7 +1300,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113678001",
@@ -1188,7 +1320,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1197,7 +1329,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113678003",
@@ -1214,7 +1349,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1223,7 +1358,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113767001",
@@ -1240,7 +1378,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1249,7 +1387,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113767002",
@@ -1266,7 +1407,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1275,7 +1416,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113767004",
@@ -1292,7 +1436,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1301,7 +1445,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000152096001",
@@ -1318,7 +1465,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1327,7 +1474,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000152096002",
@@ -1344,7 +1494,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1353,7 +1503,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000152096003",
@@ -1370,7 +1523,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1379,7 +1532,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156322004",
@@ -1396,7 +1552,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1405,7 +1561,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156322010",
@@ -1422,7 +1581,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1431,7 +1590,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156442001",
@@ -1448,7 +1610,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1457,7 +1619,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156442002",
@@ -1474,7 +1639,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1483,7 +1648,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156442003",
@@ -1500,7 +1668,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1509,7 +1677,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156442004",
@@ -1526,7 +1697,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1535,7 +1706,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000174979001",
@@ -1552,7 +1726,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1561,7 +1735,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000174979002",
@@ -1578,7 +1755,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1587,7 +1764,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000174979003",
@@ -1604,7 +1784,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1613,7 +1793,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000193981001",
@@ -1630,7 +1813,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1639,7 +1822,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000193981002",
@@ -1656,7 +1842,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1665,7 +1851,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000193981003",
@@ -1682,7 +1871,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1691,7 +1880,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000193981007",
@@ -1708,7 +1900,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1717,7 +1909,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000265092001",
@@ -1734,7 +1929,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1743,7 +1938,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000265092002",
@@ -1760,7 +1958,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1769,7 +1967,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000265092003",
@@ -1786,7 +1987,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1795,7 +1996,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000266819001",
@@ -1812,7 +2016,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -1823,7 +2027,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000266819002",
@@ -1840,7 +2047,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -1851,7 +2058,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000266819003",
@@ -1868,7 +2078,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -1879,7 +2089,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000269131001",
@@ -1896,7 +2109,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1905,7 +2118,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000269131002",
@@ -1922,7 +2138,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1931,7 +2147,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000269814001",
@@ -1948,7 +2167,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1957,7 +2176,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000269814002",
@@ -1974,7 +2196,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -1983,7 +2205,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000269814003",
@@ -2000,7 +2225,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2009,7 +2234,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270104001",
@@ -2026,7 +2254,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2035,7 +2263,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270104002",
@@ -2052,7 +2283,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -2063,7 +2294,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270211001",
@@ -2080,7 +2314,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2089,7 +2323,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270211002",
@@ -2106,7 +2343,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -2117,7 +2354,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270721001",
@@ -2134,7 +2374,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2143,7 +2383,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270721002",
@@ -2160,7 +2403,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2169,7 +2412,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000271663001",
@@ -2186,7 +2432,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2195,7 +2441,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000272309001",
@@ -2212,7 +2461,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2221,7 +2470,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000272309002",
@@ -2238,7 +2490,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2247,7 +2499,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000272309003",
@@ -2264,7 +2519,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2273,7 +2528,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000272641001",
@@ -2290,7 +2548,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2299,7 +2557,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000272641002",
@@ -2316,7 +2577,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2325,7 +2586,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000272641003",
@@ -2342,7 +2606,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2351,7 +2615,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000273295001",
@@ -2368,7 +2635,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -2379,7 +2646,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000274088001",
@@ -2396,7 +2666,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2405,7 +2675,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000274088002",
@@ -2422,7 +2695,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2431,7 +2704,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000280150001",
@@ -2448,7 +2724,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2457,7 +2733,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000280150002",
@@ -2474,7 +2753,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2483,7 +2762,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000280150003",
@@ -2500,7 +2782,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2509,7 +2791,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000280150004",
@@ -2526,7 +2811,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2535,7 +2820,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000507945001",
@@ -2552,7 +2840,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2561,7 +2849,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000507945002",
@@ -2578,7 +2869,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2587,7 +2878,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000507945003",
@@ -2604,7 +2898,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2613,7 +2907,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000512799003",
@@ -2630,7 +2927,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "bio"
@@ -2641,7 +2938,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000519017001",
@@ -2658,7 +2958,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2667,7 +2967,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000519017002",
@@ -2684,7 +2987,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2693,7 +2996,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000519017003",
@@ -2710,7 +3016,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2719,7 +3025,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000525767001",
@@ -2736,7 +3045,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2745,7 +3054,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000525767002",
@@ -2762,7 +3074,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2771,7 +3083,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000525767003",
@@ -2788,7 +3103,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2797,7 +3112,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000528032001",
@@ -2814,7 +3132,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2823,7 +3141,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000528032002",
@@ -2840,7 +3161,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2849,7 +3170,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000528032003",
@@ -2866,7 +3190,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2875,7 +3199,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000595823001",
@@ -2892,7 +3219,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2901,7 +3228,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000595823003",
@@ -2918,7 +3248,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2927,7 +3257,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000595823004",
@@ -2944,7 +3277,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2953,7 +3286,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000603854001",
@@ -2970,7 +3306,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2979,7 +3315,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000603854002",
@@ -2996,7 +3335,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3005,7 +3344,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000650263001",
@@ -3022,7 +3364,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3031,7 +3373,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000655986001",
@@ -3048,7 +3393,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3057,7 +3402,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000655986002",
@@ -3074,7 +3422,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3083,7 +3431,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000655986003",
@@ -3100,7 +3451,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3109,7 +3460,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000680870001",
@@ -3126,7 +3480,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3135,7 +3489,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000680870002",
@@ -3152,7 +3509,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3161,7 +3518,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000681192001",
@@ -3178,7 +3538,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3187,7 +3547,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000681192002",
@@ -3204,7 +3567,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3213,7 +3576,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000681192003",
@@ -3230,7 +3596,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3239,7 +3605,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000683885001",
@@ -3256,7 +3625,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3265,7 +3634,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000683885002",
@@ -3282,7 +3654,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3291,7 +3663,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000683885003",
@@ -3308,7 +3683,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3317,7 +3692,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000683885004",
@@ -3334,7 +3712,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3343,7 +3721,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000683885005",
@@ -3360,7 +3741,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3369,7 +3750,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000683885006",
@@ -3386,7 +3770,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3395,7 +3779,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000688776001",
@@ -3412,7 +3799,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3421,7 +3808,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000688776002",
@@ -3438,7 +3828,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3447,7 +3837,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000688776003",
@@ -3464,7 +3857,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3473,7 +3866,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000691580001",
@@ -3490,7 +3886,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3499,7 +3895,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000691580002",
@@ -3516,7 +3915,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3525,7 +3924,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000691580003",
@@ -3542,7 +3944,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3551,7 +3953,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000741667001",
@@ -3568,7 +3973,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3577,7 +3982,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000741667002",
@@ -3594,7 +4002,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3603,7 +4011,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000742598001",
@@ -3620,7 +4031,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3629,7 +4040,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000742598002",
@@ -3646,7 +4060,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3655,7 +4069,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000742598003",
@@ -3672,7 +4089,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3681,7 +4098,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000742598004",
@@ -3698,7 +4118,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3707,7 +4127,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000743499001",
@@ -3724,7 +4147,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3733,7 +4156,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000743499002",
@@ -3750,7 +4176,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3759,7 +4185,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000743499003",
@@ -3776,7 +4205,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3785,7 +4214,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000743499004",
@@ -3802,7 +4234,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3811,7 +4243,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745684001",
@@ -3828,7 +4263,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3837,7 +4272,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745684002",
@@ -3854,7 +4292,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3863,7 +4301,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745684003",
@@ -3880,7 +4321,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3889,7 +4330,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745733001",
@@ -3906,7 +4350,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3915,7 +4359,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745733002",
@@ -3932,7 +4379,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3941,7 +4388,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745733003",
@@ -3958,7 +4408,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3967,7 +4417,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745893001",
@@ -3984,7 +4437,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3993,7 +4446,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745893002",
@@ -4010,7 +4466,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -4019,7 +4475,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745893003",
@@ -4036,7 +4495,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -4045,7 +4504,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000764427001",
@@ -4062,7 +4524,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -4071,7 +4533,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000764427002",
@@ -4088,7 +4553,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -4097,7 +4562,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "weihnachten",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         }
     ]
 }

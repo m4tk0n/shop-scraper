@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-13T21:24:32+00:00",
+        "generated_at": "2026-10-13T23:10:26+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/milchprodukte/k/158816141856710103",
         "product_count": 90,
-        "content_hash": "sha256:7f3f6011760b2dcfbc54632bf92f0096eb5801877c6d771131d523df9b51db31",
-        "file_id": "0d4d148e-9b37-46b3-99ad-9ae2efbeed02",
-        "run_id": "20261013_212318-fe1d62ca"
+        "content_hash": "sha256:34ba163a4ffba3b24541fdecd5c1e36a46032a937f719e7b3d065b01ef90c2e1",
+        "file_id": "b3477a18-ceff-46fe-bc6b-d3c0efb98169",
+        "run_id": "20261013_230726-f14eb5d5"
     },
     "products": [
         {
@@ -39,7 +39,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000541924002",
@@ -67,7 +70,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106896",
@@ -95,7 +101,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106932",
@@ -123,7 +132,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106972",
@@ -149,7 +161,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106974",
@@ -175,7 +190,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107081",
@@ -203,7 +221,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107118",
@@ -231,7 +252,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107122",
@@ -259,7 +283,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000108256",
@@ -287,7 +314,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000276659",
@@ -313,7 +343,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000309165",
@@ -341,7 +374,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000472048",
@@ -369,7 +405,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000472113",
@@ -397,7 +436,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000510855",
@@ -425,7 +467,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000541074",
@@ -451,7 +496,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000542236",
@@ -466,8 +514,8 @@
             "original_price": "2.49",
             "comparison_price": "0.72",
             "comparison_per": "100 g",
-            "valid_from": "",
-            "valid_to": "",
+            "valid_from": "2026-10-12",
+            "valid_to": "2026-10-15",
             "source_date": "2026-10-13",
             "theme": "Käse und Aufstriche",
             "tags": [
@@ -479,7 +527,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "matched",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000582472",
@@ -505,7 +556,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000667546",
@@ -533,7 +587,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000671683",
@@ -561,7 +618,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110622001",
@@ -589,7 +649,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110622002",
@@ -617,7 +680,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110907005",
@@ -645,7 +711,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110907006",
@@ -673,7 +742,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111257001",
@@ -701,7 +773,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111257002",
@@ -729,7 +804,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111257003",
@@ -757,7 +835,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111257004",
@@ -785,7 +866,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111429001",
@@ -813,7 +897,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111429002",
@@ -841,7 +928,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111429003",
@@ -869,7 +959,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111439001",
@@ -895,7 +988,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111439002",
@@ -921,7 +1017,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111958001",
@@ -949,7 +1048,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111958002",
@@ -977,7 +1079,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111958003",
@@ -1005,7 +1110,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111958004",
@@ -1033,7 +1141,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112411001",
@@ -1061,7 +1172,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113411002",
@@ -1087,7 +1201,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113411003",
@@ -1113,7 +1230,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000205889001",
@@ -1141,7 +1261,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000205889002",
@@ -1169,7 +1292,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000205889004",
@@ -1197,7 +1323,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000205889007",
@@ -1225,7 +1354,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000277841002",
@@ -1253,7 +1385,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000296950001",
@@ -1281,7 +1416,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000296950002",
@@ -1309,7 +1447,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000463875001",
@@ -1337,7 +1478,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000463875002",
@@ -1365,7 +1509,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000463875003",
@@ -1393,7 +1540,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000463875004",
@@ -1421,7 +1571,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000463875005",
@@ -1449,7 +1602,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000470199001",
@@ -1477,7 +1633,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000470199002",
@@ -1505,7 +1664,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000470199003",
@@ -1533,7 +1695,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000470199004",
@@ -1561,7 +1726,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000483272001",
@@ -1589,7 +1757,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000483272002",
@@ -1617,7 +1788,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000486125001",
@@ -1645,7 +1819,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000486125003",
@@ -1673,7 +1850,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000529511001",
@@ -1699,7 +1879,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000529511002",
@@ -1725,7 +1908,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000553077001",
@@ -1753,7 +1939,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000553077002",
@@ -1782,7 +1971,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000553077003",
@@ -1810,7 +2002,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000569452003",
@@ -1838,7 +2033,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107011",
@@ -1866,7 +2064,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107020",
@@ -1894,7 +2095,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107104",
@@ -1923,7 +2127,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000261623",
@@ -1951,7 +2158,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110597001",
@@ -1979,7 +2189,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111410001",
@@ -2007,7 +2220,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111410002",
@@ -2035,7 +2251,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000517851",
@@ -2061,7 +2280,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112360001",
@@ -2089,7 +2311,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112360002",
@@ -2117,7 +2342,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000267691001",
@@ -2143,7 +2371,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000267691002",
@@ -2169,7 +2400,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000267691003",
@@ -2195,7 +2429,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000267691004",
@@ -2221,7 +2458,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000453180001",
@@ -2247,7 +2487,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000453180002",
@@ -2273,7 +2516,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106872",
@@ -2301,7 +2547,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106876",
@@ -2329,7 +2578,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000109155",
@@ -2357,7 +2609,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000513472",
@@ -2386,7 +2641,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000632339",
@@ -2412,7 +2670,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110591001",
@@ -2440,7 +2701,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114434004",
@@ -2468,7 +2732,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114434005",
@@ -2496,7 +2763,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "milchprodukte",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         }
     ]
 }

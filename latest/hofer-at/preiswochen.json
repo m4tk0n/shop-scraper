@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T19:23:24+00:00",
+        "generated_at": "2026-10-13T23:10:26+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/produkte/hofer-preis-wochen/k/1588161434751158",
         "product_count": 9,
-        "content_hash": "sha256:9068394a9708650e50c0320415da625a42e781a34049add03a21f474eaf3f071",
-        "file_id": "9198dbf8-1f4a-4109-b765-086b67e3fb2d",
-        "run_id": "20261012_192238-1fed223a"
+        "content_hash": "sha256:7bc5bce107cf3485c40fe27d166cad4eb29b575427494cd3dd99a32a960f5e1e",
+        "file_id": "b80bf25b-0267-4631-a114-81bb6dba5bcc",
+        "run_id": "20261013_230726-f14eb5d5"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -39,7 +39,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "preiswochen",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000100792",
@@ -56,7 +59,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -67,7 +70,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "preiswochen",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000106909",
@@ -84,7 +90,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -95,7 +101,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "preiswochen",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000107223",
@@ -112,7 +121,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -123,7 +132,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "preiswochen",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000667546",
@@ -140,7 +152,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -151,7 +163,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "preiswochen",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000111554001",
@@ -168,7 +183,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -177,7 +192,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "preiswochen",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000111554003",
@@ -194,7 +212,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -203,7 +221,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "preiswochen",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000111554005",
@@ -220,7 +241,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -229,7 +250,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "preiswochen",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000726752001",
@@ -246,7 +270,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -255,7 +279,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "preiswochen",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "promo"
         }
     ]
 }

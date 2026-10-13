@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T12:19:26+00:00",
+        "generated_at": "2026-10-13T23:10:26+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/brot-und-backwaren/k/158816141856710104",
         "product_count": 70,
-        "content_hash": "sha256:51f85e326c1e546298d17821105d675f14242a86ef6221f2e770573c5684fabc",
-        "file_id": "2994d8e7-e2df-499f-91f8-4d8dd5f7d4a4",
-        "run_id": "20261012_121841-201fef09"
+        "content_hash": "sha256:06760fc086ee93c4b878aaceaa876ac97e61272ce843762b69fb8166e3206e58",
+        "file_id": "aef5cab9-fde2-4df4-86d4-a8431c2b31c4",
+        "run_id": "20261013_230726-f14eb5d5"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -37,7 +37,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100844",
@@ -54,7 +57,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [
                 "regional"
@@ -65,7 +68,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100884",
@@ -82,7 +88,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -91,7 +97,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101062",
@@ -108,7 +117,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -117,7 +126,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101094",
@@ -134,7 +146,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -143,7 +155,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000632677",
@@ -160,7 +175,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -169,7 +184,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000704745",
@@ -186,7 +204,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -195,7 +213,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000751736",
@@ -212,7 +233,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -221,7 +242,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000101927001",
@@ -238,7 +262,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -247,7 +271,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000101927002",
@@ -264,7 +291,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -273,7 +300,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102009002",
@@ -290,7 +320,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -299,7 +329,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102009003",
@@ -316,7 +349,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -325,7 +358,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102125001",
@@ -342,7 +378,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -351,7 +387,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102125002",
@@ -368,7 +407,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -377,7 +416,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102225003",
@@ -394,7 +436,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -403,7 +445,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000281294001",
@@ -420,7 +465,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -429,7 +474,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000281294002",
@@ -446,7 +494,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -455,7 +503,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000522010002",
@@ -472,7 +523,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -481,7 +532,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000663815001",
@@ -498,7 +552,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -507,7 +561,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000663815002",
@@ -524,7 +581,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -533,7 +590,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100765",
@@ -550,7 +610,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -563,7 +623,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100778",
@@ -580,7 +643,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -591,7 +654,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100879",
@@ -606,9 +672,9 @@
             "original_price": "1.99",
             "comparison_price": "2.58",
             "comparison_per": "1 kg",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-12",
+            "valid_from": "2026-10-12",
+            "valid_to": "2026-10-15",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -619,7 +685,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "matched",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000100886",
@@ -636,7 +705,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -647,7 +716,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100955",
@@ -664,7 +736,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -675,7 +747,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101295",
@@ -692,7 +767,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -704,7 +779,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101696",
@@ -721,7 +799,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -732,7 +810,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101698",
@@ -749,7 +830,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -760,7 +841,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101899",
@@ -777,7 +861,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -788,7 +872,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000175444",
@@ -805,7 +892,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -814,7 +901,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000186872",
@@ -831,7 +921,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -842,7 +932,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000198645",
@@ -859,7 +952,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -868,7 +961,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000294696",
@@ -885,7 +981,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -897,7 +993,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000489373",
@@ -914,7 +1013,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -927,7 +1026,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000762100",
@@ -944,7 +1046,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -955,7 +1057,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000775859",
@@ -972,7 +1077,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -983,7 +1088,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102115001",
@@ -1000,7 +1108,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -1009,7 +1117,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000285473001",
@@ -1026,7 +1137,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -1035,7 +1146,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000285473002",
@@ -1052,7 +1166,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -1061,7 +1175,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000285473003",
@@ -1078,7 +1195,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -1087,7 +1204,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000537050001",
@@ -1104,7 +1224,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -1115,7 +1235,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000537050002",
@@ -1132,7 +1255,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -1143,7 +1266,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000537331001",
@@ -1160,7 +1286,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Brot und Gebäck",
             "tags": [
                 "bio",
@@ -1172,7 +1298,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100781",
@@ -1189,7 +1318,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1200,7 +1329,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100792",
@@ -1217,7 +1349,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1228,7 +1360,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100930",
@@ -1245,7 +1380,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1254,7 +1389,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100932",
@@ -1271,7 +1409,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1282,7 +1420,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100956",
@@ -1299,7 +1440,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan",
@@ -1311,7 +1452,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101009",
@@ -1328,7 +1472,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1339,7 +1483,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101180",
@@ -1356,7 +1503,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1365,7 +1512,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101503",
@@ -1382,7 +1532,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1391,7 +1541,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101603",
@@ -1408,7 +1561,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1417,7 +1570,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101635",
@@ -1434,7 +1590,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1445,7 +1601,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101659",
@@ -1462,7 +1621,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1473,7 +1632,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101691",
@@ -1490,7 +1652,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1499,7 +1661,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101793",
@@ -1516,7 +1681,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1525,7 +1690,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000177329",
@@ -1542,7 +1710,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1551,7 +1719,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000187441",
@@ -1568,7 +1739,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "regional"
@@ -1579,7 +1750,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000307328",
@@ -1596,7 +1770,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "regional",
@@ -1608,7 +1782,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000524007",
@@ -1625,7 +1802,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1636,7 +1813,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000555607",
@@ -1653,7 +1833,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1662,7 +1842,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000571565",
@@ -1679,7 +1862,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1688,7 +1871,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000579919",
@@ -1705,7 +1891,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan",
@@ -1717,7 +1903,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000634519",
@@ -1734,7 +1923,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1743,7 +1932,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000712760",
@@ -1760,7 +1952,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1771,7 +1963,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000740659",
@@ -1788,7 +1983,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1797,7 +1992,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000757594",
@@ -1814,7 +2012,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "regional"
@@ -1825,7 +2023,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000769087",
@@ -1842,7 +2043,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -1851,7 +2052,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000777762",
@@ -1868,7 +2072,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -1879,7 +2083,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000777913",
@@ -1896,7 +2103,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "BACKBOX",
             "tags": [
                 "vegan",
@@ -1908,7 +2115,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "brot_und_backwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         }
     ]
 }

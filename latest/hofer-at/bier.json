@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T07:36:19+00:00",
+        "generated_at": "2026-10-13T23:10:26+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/flugblatt/bier-aktionen",
         "product_count": 1,
-        "content_hash": "sha256:18ba8a0e2743eec58cef9c1ef41d7d4c9b3db84a3ac5c41201dbf048862b61e0",
-        "file_id": "f5839c0e-2c36-46cd-8a0b-79576cfc3d7e",
-        "run_id": "20261012_073354-a9109c23"
+        "content_hash": "sha256:63054a08ea88fa53232a8ea99f158b8311efb7e42837e42c10f3ed42e589f89f",
+        "file_id": "bac8f6fc-b831-4de6-9b85-74a19a4665fb",
+        "run_id": "20261013_230726-f14eb5d5"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-12",
             "valid_to": "2026-10-15",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Wochenstart",
             "tags": [],
             "deposit": "",
@@ -37,7 +37,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "bier",
-            "type": "offer"
+            "type": "offer",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "promo"
         }
     ]
 }

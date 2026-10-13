@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-13T21:26:05+00:00",
+        "generated_at": "2026-10-13T23:11:05+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/marken",
         "product_count": 207,
-        "content_hash": "sha256:d4815ffb811fa9d14e685eb374561e1895845c630d9c5c7b931ab3d04200e5f9",
-        "file_id": "cfc2c84d-fa58-4372-9372-f9a2e62730b6",
-        "run_id": "20261013_212318-fe1d62ca"
+        "content_hash": "sha256:703b24845dc746eeddf921d02499f98d5c76de3d7d43bf414a3b7ec00d19683d",
+        "file_id": "ed4deb1a-71c0-4014-aeaf-9eb6d947c31d",
+        "run_id": "20261013_230726-f14eb5d5"
     },
     "products": [
         {
@@ -37,7 +37,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000576645002",
@@ -63,7 +66,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000109054",
@@ -89,7 +95,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114389001",
@@ -115,7 +124,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114389002",
@@ -141,7 +153,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114389003",
@@ -167,7 +182,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000608878001",
@@ -193,7 +211,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000608878002",
@@ -219,7 +240,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000608878003",
@@ -245,7 +269,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000740368001",
@@ -271,7 +298,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000740368002",
@@ -297,7 +327,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000740368003",
@@ -323,7 +356,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000740409001",
@@ -349,7 +385,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000740409002",
@@ -375,7 +414,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000740409003",
@@ -401,7 +443,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000740409004",
@@ -427,7 +472,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000740461001",
@@ -453,7 +501,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727360003",
@@ -479,7 +530,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727360004",
@@ -505,7 +559,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727360005",
@@ -531,7 +588,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727454002",
@@ -557,7 +617,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727454003",
@@ -583,7 +646,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727454004",
@@ -609,7 +675,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727454005",
@@ -635,7 +704,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727454006",
@@ -661,7 +733,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727454007",
@@ -687,7 +762,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106887",
@@ -713,7 +791,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106889",
@@ -739,7 +820,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106901",
@@ -765,7 +849,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107458",
@@ -791,7 +878,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107464",
@@ -817,7 +907,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000174758",
@@ -843,7 +936,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000576210",
@@ -869,7 +965,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000671856",
@@ -895,7 +994,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000743697",
@@ -921,7 +1023,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000743991",
@@ -947,7 +1052,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000744802",
@@ -973,7 +1081,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000745826",
@@ -999,7 +1110,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000746052",
@@ -1025,7 +1139,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110846001",
@@ -1051,7 +1168,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110846003",
@@ -1077,7 +1197,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110846005",
@@ -1103,7 +1226,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112284001",
@@ -1129,7 +1255,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112284002",
@@ -1155,7 +1284,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112310001",
@@ -1181,7 +1313,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112310002",
@@ -1207,7 +1342,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113432001",
@@ -1233,7 +1371,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113432002",
@@ -1259,7 +1400,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113678001",
@@ -1285,7 +1429,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113678003",
@@ -1311,7 +1458,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113767001",
@@ -1337,7 +1487,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113767002",
@@ -1363,7 +1516,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113767004",
@@ -1389,7 +1545,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000266819001",
@@ -1417,7 +1576,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000266819002",
@@ -1445,7 +1607,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000266819003",
@@ -1473,7 +1638,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000269814001",
@@ -1499,7 +1667,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000269814002",
@@ -1525,7 +1696,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000269814003",
@@ -1551,7 +1725,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270104001",
@@ -1577,7 +1754,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270104002",
@@ -1605,7 +1785,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270211001",
@@ -1631,7 +1814,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270211002",
@@ -1659,7 +1845,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270721001",
@@ -1685,7 +1874,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000270721002",
@@ -1711,7 +1903,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000271663001",
@@ -1737,7 +1932,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000272641001",
@@ -1763,7 +1961,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000272641002",
@@ -1789,7 +1990,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000272641003",
@@ -1815,7 +2019,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000273295001",
@@ -1843,7 +2050,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000507945001",
@@ -1869,7 +2079,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000507945002",
@@ -1895,7 +2108,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000507945003",
@@ -1921,7 +2137,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000655986001",
@@ -1947,7 +2166,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000655986002",
@@ -1973,7 +2195,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000655986003",
@@ -1999,7 +2224,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000669558001",
@@ -2025,7 +2253,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000669558002",
@@ -2051,7 +2282,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000741667001",
@@ -2077,7 +2311,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000741667002",
@@ -2103,7 +2340,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000742598001",
@@ -2129,7 +2369,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000742598002",
@@ -2155,7 +2398,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000742598003",
@@ -2181,7 +2427,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000742598004",
@@ -2207,7 +2456,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745684001",
@@ -2233,7 +2485,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745684002",
@@ -2259,7 +2514,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745684003",
@@ -2285,7 +2543,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745893001",
@@ -2311,7 +2572,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745893002",
@@ -2337,7 +2601,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000745893003",
@@ -2363,7 +2630,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000537157",
@@ -2389,7 +2659,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000598870",
@@ -2415,7 +2688,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000683075",
@@ -2441,7 +2717,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000198070001",
@@ -2467,7 +2746,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000198070002",
@@ -2493,7 +2775,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000198070004",
@@ -2519,7 +2804,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113579002",
@@ -2545,7 +2833,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113579003",
@@ -2571,7 +2862,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113579004",
@@ -2597,7 +2891,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000749600001",
@@ -2623,7 +2920,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000749600003",
@@ -2649,7 +2949,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106872",
@@ -2677,7 +2980,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106876",
@@ -2705,7 +3011,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106896",
@@ -2733,7 +3042,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106932",
@@ -2761,7 +3073,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106972",
@@ -2787,7 +3102,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106974",
@@ -2813,7 +3131,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107011",
@@ -2841,7 +3162,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107020",
@@ -2869,7 +3193,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107081",
@@ -2897,7 +3224,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107104",
@@ -2926,7 +3256,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107118",
@@ -2954,7 +3287,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107122",
@@ -2982,7 +3318,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000108256",
@@ -3010,7 +3349,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000261623",
@@ -3038,7 +3380,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000276659",
@@ -3064,7 +3409,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000467760",
@@ -3090,7 +3438,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000472048",
@@ -3118,7 +3469,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000472113",
@@ -3146,7 +3500,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000510855",
@@ -3174,7 +3531,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000517851",
@@ -3200,7 +3560,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000541074",
@@ -3226,7 +3589,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000542236",
@@ -3254,7 +3620,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000553252",
@@ -3280,7 +3649,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000632339",
@@ -3306,7 +3678,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000671683",
@@ -3334,7 +3709,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110591001",
@@ -3362,7 +3740,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110597001",
@@ -3390,7 +3771,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110622001",
@@ -3418,7 +3802,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110622002",
@@ -3446,7 +3833,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112360001",
@@ -3474,7 +3864,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112360002",
@@ -3502,7 +3895,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000267691001",
@@ -3528,7 +3924,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000267691002",
@@ -3554,7 +3953,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000267691003",
@@ -3580,7 +3982,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000267691004",
@@ -3606,7 +4011,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000453180001",
@@ -3632,7 +4040,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000453180002",
@@ -3658,7 +4069,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000483272001",
@@ -3686,7 +4100,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000483272002",
@@ -3714,7 +4131,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000541924001",
@@ -3742,7 +4162,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000541924002",
@@ -3770,7 +4193,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000569452003",
@@ -3798,7 +4224,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000614010001",
@@ -3824,7 +4253,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000614010002",
@@ -3850,7 +4282,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000773344002",
@@ -3876,7 +4311,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000743499001",
@@ -3902,7 +4340,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000743499002",
@@ -3928,7 +4369,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000743499003",
@@ -3954,7 +4398,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000743499004",
@@ -3980,7 +4427,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100884",
@@ -4006,7 +4456,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000177632",
@@ -4032,7 +4485,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000704745",
@@ -4058,7 +4514,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000101927001",
@@ -4084,7 +4543,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000101927002",
@@ -4110,7 +4572,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102009002",
@@ -4136,7 +4601,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102009003",
@@ -4162,7 +4630,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102125001",
@@ -4188,7 +4659,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102125002",
@@ -4214,7 +4688,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102225003",
@@ -4240,7 +4717,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000281294001",
@@ -4266,7 +4746,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000281294002",
@@ -4292,7 +4775,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000522010002",
@@ -4318,7 +4804,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000582141001",
@@ -4344,7 +4833,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000582141002",
@@ -4370,7 +4862,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000663815001",
@@ -4396,7 +4891,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000663815002",
@@ -4422,7 +4920,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000101899",
@@ -4450,7 +4951,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000505355",
@@ -4476,7 +4980,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000559255",
@@ -4502,7 +5009,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000718074",
@@ -4530,7 +5040,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000188323001",
@@ -4556,7 +5069,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000188323002",
@@ -4582,7 +5098,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000191880001",
@@ -4608,7 +5127,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000191880002",
@@ -4634,7 +5156,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000191880003",
@@ -4660,7 +5185,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000537050001",
@@ -4688,7 +5216,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000537050002",
@@ -4716,7 +5247,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000595521",
@@ -4742,7 +5276,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000696233001",
@@ -4768,7 +5305,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000696233003",
@@ -4794,7 +5334,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000696233004",
@@ -4820,7 +5363,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000696233005",
@@ -4846,7 +5392,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000696233006",
@@ -4872,7 +5421,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000696233007",
@@ -4898,7 +5450,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000773548",
@@ -4924,7 +5479,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000457627",
@@ -4950,7 +5508,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000757941",
@@ -4976,7 +5537,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000757908001",
@@ -5002,7 +5566,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000757908002",
@@ -5028,7 +5595,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114434004",
@@ -5056,7 +5626,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114434005",
@@ -5084,7 +5657,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000738394",
@@ -5110,7 +5686,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000154411",
@@ -5136,7 +5715,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000508818",
@@ -5162,7 +5744,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000282888001",
@@ -5188,7 +5773,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000282888002",
@@ -5214,7 +5802,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000282888003",
@@ -5240,7 +5831,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000512791002",
@@ -5266,7 +5860,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000512791009",
@@ -5292,7 +5889,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000772741001",
@@ -5318,7 +5918,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000761208001",
@@ -5344,7 +5947,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000604150",
@@ -5370,7 +5976,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000589560001",
@@ -5396,7 +6005,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000589560002",
@@ -5422,7 +6034,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727624001",
@@ -5448,7 +6063,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727624002",
@@ -5474,7 +6092,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "marken",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         }
     ]
 }

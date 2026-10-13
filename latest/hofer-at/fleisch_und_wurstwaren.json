@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T07:35:00+00:00",
+        "generated_at": "2026-10-13T23:10:26+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/fleisch-und-wurstwaren/k/158816141856710101",
         "product_count": 74,
-        "content_hash": "sha256:c60ae4a68f6a81884e33b52226c49aa9a2fb7e46bfaf37aa009ec942573ce04b",
-        "file_id": "e750d270-bb9b-4ccc-8516-26286ef26a85",
-        "run_id": "20261012_073354-a9109c23"
+        "content_hash": "sha256:fbc2b6903ab452f41e080139d64d8c9ef8557a1487c013248b4d845626d3f4af",
+        "file_id": "7fdeadee-c0cf-4a82-994b-9c649fe7bf39",
+        "run_id": "20261013_230726-f14eb5d5"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Würstel",
             "tags": [
                 "kuehlung"
@@ -39,7 +39,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000169124001",
@@ -56,7 +59,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Wurst und Wurstwaren",
             "tags": [
                 "kuehlung"
@@ -67,7 +70,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106958",
@@ -84,7 +90,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -95,7 +101,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000108494",
@@ -112,7 +121,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -123,7 +132,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000174748",
@@ -140,7 +152,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -151,7 +163,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000459645",
@@ -168,7 +183,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung",
@@ -180,7 +195,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000527998",
@@ -197,7 +215,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -208,7 +226,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000531257",
@@ -225,7 +246,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -236,7 +257,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000538979",
@@ -253,7 +277,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -264,7 +288,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000657520",
@@ -281,7 +308,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -292,7 +319,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000657777",
@@ -309,7 +339,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -320,7 +350,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000510738",
@@ -337,7 +370,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -348,7 +381,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000510810",
@@ -365,7 +401,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [],
             "deposit": "",
@@ -374,7 +410,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000526641",
@@ -391,7 +430,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -402,7 +441,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000672906",
@@ -419,7 +461,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -430,7 +472,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000672934",
@@ -447,7 +492,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -458,7 +503,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112017001",
@@ -475,7 +523,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -486,7 +534,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112017002",
@@ -503,7 +554,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -514,7 +565,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114923001",
@@ -531,7 +585,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung",
@@ -543,7 +597,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114923008",
@@ -560,7 +617,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung",
@@ -572,7 +629,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000463153001",
@@ -589,7 +649,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -600,7 +660,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000463153002",
@@ -617,7 +680,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -628,7 +691,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000697530001",
@@ -645,7 +711,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -656,7 +722,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000697530002",
@@ -673,7 +742,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -684,7 +753,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106909",
@@ -701,7 +773,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -712,7 +784,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106957",
@@ -729,7 +804,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -740,7 +815,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107113",
@@ -757,7 +835,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -768,7 +846,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000458548",
@@ -785,7 +866,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -796,7 +877,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000585172",
@@ -813,7 +897,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -824,7 +908,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000654633",
@@ -841,7 +928,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -852,7 +939,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000718074",
@@ -869,7 +959,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -880,7 +970,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110650001",
@@ -897,7 +990,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -908,7 +1001,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110650002",
@@ -925,7 +1021,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -936,7 +1032,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000464185001",
@@ -953,7 +1052,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -964,7 +1063,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000464185002",
@@ -981,7 +1083,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -992,7 +1094,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000534078001",
@@ -1009,7 +1114,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1020,7 +1125,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000534078002",
@@ -1037,7 +1145,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1048,7 +1156,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000653872001",
@@ -1065,7 +1176,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1076,7 +1187,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000653872002",
@@ -1093,7 +1207,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1104,7 +1218,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000726752001",
@@ -1121,7 +1238,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schwein",
             "tags": [],
             "deposit": "",
@@ -1130,7 +1247,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107060",
@@ -1147,7 +1267,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1158,7 +1278,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107061",
@@ -1175,7 +1298,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1186,7 +1309,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107063",
@@ -1203,7 +1329,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1214,7 +1340,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000172861",
@@ -1231,7 +1360,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1242,7 +1371,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000174767",
@@ -1259,7 +1391,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1270,7 +1402,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000174857",
@@ -1287,7 +1422,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1298,7 +1433,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000261586",
@@ -1315,7 +1453,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1326,7 +1464,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000488939",
@@ -1343,7 +1484,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1354,7 +1495,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000553824",
@@ -1371,7 +1515,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1382,7 +1526,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000574973",
@@ -1399,7 +1546,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1410,7 +1557,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000594221",
@@ -1427,7 +1577,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1438,7 +1588,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000607125",
@@ -1455,7 +1608,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1466,7 +1619,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000696879",
@@ -1483,7 +1639,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1494,7 +1650,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000702265",
@@ -1511,7 +1670,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1522,7 +1681,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000702413",
@@ -1539,7 +1701,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1550,7 +1712,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000713188",
@@ -1567,7 +1732,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1578,7 +1743,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000718471",
@@ -1595,7 +1763,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1606,7 +1774,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000734511",
@@ -1623,7 +1794,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1634,7 +1805,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111260002",
@@ -1651,7 +1825,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1662,7 +1836,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111260004",
@@ -1679,7 +1856,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1690,7 +1867,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111575001",
@@ -1707,7 +1887,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1719,7 +1899,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000201708001",
@@ -1736,7 +1919,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1748,7 +1931,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000201708002",
@@ -1765,7 +1951,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1777,7 +1963,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000201708003",
@@ -1794,7 +1983,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1806,7 +1995,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000500264001",
@@ -1823,7 +2015,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1834,7 +2026,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000500264002",
@@ -1851,7 +2046,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1862,7 +2057,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000500270001",
@@ -1879,7 +2077,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1890,7 +2088,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000500270002",
@@ -1907,7 +2108,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1918,7 +2119,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000559117001",
@@ -1935,7 +2139,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1946,7 +2150,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000559117002",
@@ -1963,7 +2170,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1974,7 +2181,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000575021001",
@@ -1991,7 +2201,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2002,7 +2212,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000575021002",
@@ -2019,7 +2232,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2030,7 +2243,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000595022001",
@@ -2047,7 +2263,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2058,7 +2274,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000595022002",
@@ -2075,7 +2294,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2086,7 +2305,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "fleisch_und_wurstwaren",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         }
     ]
 }

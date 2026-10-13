@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T19:32:02+00:00",
+        "generated_at": "2026-10-13T23:13:03+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/suessigkeiten-snacks/k/1588161418433054",
         "product_count": 182,
-        "content_hash": "sha256:7891521aff13407ce8673aa891a6fa109ad700e61b30e9f2066a0448d22a6b22",
-        "file_id": "456a3ae0-ed2b-4cb8-8d4d-f72f3338f3e6",
-        "run_id": "20261012_192607-6c23b2e8"
+        "content_hash": "sha256:1ee9a6f63f5933e19baf5ad12a86aa8475548ade86231509c32edb113bd0ad90",
+        "file_id": "2254f6fb-5120-499f-8942-6de1e1f34ece",
+        "run_id": "20261013_231106-cc8b1fa9"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -39,7 +39,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000155336",
@@ -56,7 +59,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -65,7 +68,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000180260",
@@ -82,7 +88,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -93,7 +99,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288780",
@@ -110,7 +119,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -119,7 +128,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000290477",
@@ -136,7 +148,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -145,7 +157,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000290478",
@@ -162,7 +177,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -171,7 +186,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000497695",
@@ -188,7 +206,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan",
@@ -200,7 +218,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000513049",
@@ -217,7 +238,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -228,7 +249,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000565346",
@@ -245,7 +269,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -254,7 +278,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000614357",
@@ -271,7 +298,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -282,7 +309,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000675217",
@@ -299,7 +329,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -308,7 +338,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000718968",
@@ -325,7 +358,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -334,7 +367,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000725683",
@@ -351,7 +387,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -360,7 +396,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000755302",
@@ -377,7 +416,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -386,7 +425,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000774305",
@@ -403,7 +445,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-19",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -412,7 +454,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110861001",
@@ -429,7 +474,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -440,7 +485,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110861002",
@@ -457,7 +505,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -468,7 +516,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110861003",
@@ -485,7 +536,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -496,7 +547,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000110861004",
@@ -513,7 +567,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -524,7 +578,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155741001",
@@ -541,7 +598,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -550,7 +607,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155741002",
@@ -567,7 +627,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -576,7 +636,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155741003",
@@ -593,7 +656,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -602,7 +665,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155755001",
@@ -619,7 +685,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -628,7 +694,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155755002",
@@ -645,7 +714,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -654,7 +723,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155755003",
@@ -671,7 +743,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -682,7 +754,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155876001",
@@ -699,7 +774,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -710,7 +785,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155876002",
@@ -727,7 +805,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegetarisch"
@@ -738,7 +816,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156292001",
@@ -755,7 +836,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan",
@@ -767,7 +848,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156292002",
@@ -784,7 +868,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "tiefpreis"
@@ -795,7 +879,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156292003",
@@ -812,7 +899,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan",
@@ -824,7 +911,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157076001",
@@ -841,7 +931,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -852,7 +942,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157076002",
@@ -869,7 +962,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -880,7 +973,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157076005",
@@ -897,7 +993,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -908,7 +1004,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157178001",
@@ -925,7 +1024,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -934,7 +1033,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157178002",
@@ -951,7 +1053,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -960,7 +1062,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157241001",
@@ -977,7 +1082,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -986,7 +1091,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157266001",
@@ -1003,7 +1111,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1012,7 +1120,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157266002",
@@ -1029,7 +1140,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1038,7 +1149,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000180342001",
@@ -1055,7 +1169,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1064,7 +1178,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000180342002",
@@ -1081,7 +1198,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -1092,7 +1209,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000199713001",
@@ -1109,7 +1229,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -1120,7 +1240,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000199713002",
@@ -1137,7 +1260,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -1148,7 +1271,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000199713005",
@@ -1165,7 +1291,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -1176,7 +1302,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000317026001",
@@ -1193,7 +1322,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1202,7 +1331,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000317026002",
@@ -1219,7 +1351,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1228,7 +1360,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000317026005",
@@ -1245,7 +1380,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan"
@@ -1256,7 +1391,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000482754002",
@@ -1273,7 +1411,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1282,7 +1420,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000482754003",
@@ -1299,7 +1440,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1308,7 +1449,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000484837001",
@@ -1325,7 +1469,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1334,7 +1478,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000484837002",
@@ -1351,7 +1498,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1360,7 +1507,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000621000001",
@@ -1377,7 +1527,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "tiefpreis"
@@ -1388,7 +1538,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000621000002",
@@ -1405,7 +1558,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "tiefpreis"
@@ -1416,7 +1569,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000621000003",
@@ -1433,7 +1589,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "tiefpreis"
@@ -1444,7 +1600,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000631364001",
@@ -1461,7 +1620,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1470,7 +1629,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000631364002",
@@ -1487,7 +1649,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1496,7 +1658,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000648231001",
@@ -1513,7 +1678,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1522,7 +1687,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000648231002",
@@ -1539,7 +1707,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1548,7 +1716,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000660348001",
@@ -1565,7 +1736,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "bio"
@@ -1576,7 +1747,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000660348002",
@@ -1593,7 +1767,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "bio"
@@ -1604,7 +1778,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000660348003",
@@ -1621,7 +1798,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "bio"
@@ -1632,7 +1809,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000695026001",
@@ -1649,7 +1829,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1658,7 +1838,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000695026002",
@@ -1675,7 +1858,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1684,7 +1867,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000737009001",
@@ -1701,7 +1887,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan",
@@ -1713,7 +1899,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000737009002",
@@ -1730,7 +1919,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [
                 "vegan",
@@ -1742,7 +1931,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000774168001",
@@ -1759,7 +1951,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1768,7 +1960,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000774168002",
@@ -1785,7 +1980,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1794,7 +1989,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000774179001",
@@ -1811,7 +2009,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1820,7 +2018,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000774179002",
@@ -1837,7 +2038,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Chips & Snacks",
             "tags": [],
             "deposit": "",
@@ -1846,7 +2047,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000498448",
@@ -1863,7 +2067,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -1874,7 +2078,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000535597",
@@ -1891,7 +2098,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [],
             "deposit": "",
@@ -1900,7 +2107,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111924003",
@@ -1917,7 +2127,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -1928,7 +2138,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111924006",
@@ -1945,7 +2158,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -1956,7 +2169,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111924009",
@@ -1973,7 +2189,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -1984,7 +2200,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113337002",
@@ -2001,7 +2220,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [],
             "deposit": "",
@@ -2010,7 +2229,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113337003",
@@ -2027,7 +2249,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [],
             "deposit": "",
@@ -2036,7 +2258,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113337004",
@@ -2053,7 +2278,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [],
             "deposit": "",
@@ -2062,7 +2287,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114049001",
@@ -2079,7 +2307,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2090,7 +2318,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114049003",
@@ -2107,7 +2338,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2118,7 +2349,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114049004",
@@ -2135,7 +2369,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2146,7 +2380,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114049005",
@@ -2163,7 +2400,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "vegan",
@@ -2175,7 +2412,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000461020001",
@@ -2192,7 +2432,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "vegan",
@@ -2204,7 +2444,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000461020002",
@@ -2221,7 +2464,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "vegan",
@@ -2233,7 +2476,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000534325001",
@@ -2250,7 +2496,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2261,7 +2507,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000534325002",
@@ -2278,7 +2527,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2289,7 +2538,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000583130001",
@@ -2306,7 +2558,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "vegan"
@@ -2317,7 +2569,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000601264001",
@@ -2334,7 +2589,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2345,7 +2600,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000601264002",
@@ -2362,7 +2620,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Gebäck & Guetzli",
             "tags": [
                 "tiefpreis"
@@ -2373,7 +2631,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000467768001",
@@ -2390,7 +2651,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "bio"
@@ -2401,7 +2662,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000467768002",
@@ -2418,7 +2682,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "bio"
@@ -2429,7 +2693,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000467768003",
@@ -2446,7 +2713,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "bio"
@@ -2457,7 +2724,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000504492001",
@@ -2474,7 +2744,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2483,7 +2753,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000504492002",
@@ -2500,7 +2773,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2509,7 +2782,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000504492003",
@@ -2526,7 +2802,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2535,7 +2811,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000599129001",
@@ -2552,7 +2831,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2561,7 +2840,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000599129002",
@@ -2578,7 +2860,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2587,7 +2869,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000599129003",
@@ -2604,7 +2889,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2613,7 +2898,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000599129004",
@@ -2630,7 +2918,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2639,7 +2927,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000599129005",
@@ -2656,7 +2947,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2665,7 +2956,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000613016001",
@@ -2682,7 +2976,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "tiefpreis"
@@ -2693,7 +2987,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000613016002",
@@ -2710,7 +3007,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "tiefpreis"
@@ -2721,7 +3018,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000613016003",
@@ -2738,7 +3038,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "tiefpreis"
@@ -2749,7 +3049,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000613016004",
@@ -2766,7 +3069,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "tiefpreis"
@@ -2777,7 +3080,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000648847004",
@@ -2794,7 +3100,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "vegan"
@@ -2805,7 +3111,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000667204001",
@@ -2822,7 +3131,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "vegan"
@@ -2833,7 +3142,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000667204002",
@@ -2850,7 +3162,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "vegetarisch"
@@ -2861,7 +3173,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000667204003",
@@ -2878,7 +3193,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "vegetarisch"
@@ -2889,7 +3204,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000667204004",
@@ -2906,7 +3224,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [
                 "vegetarisch"
@@ -2917,7 +3235,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727624001",
@@ -2934,7 +3255,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2943,7 +3264,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000727624002",
@@ -2960,7 +3284,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2969,7 +3293,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000728864001",
@@ -2986,7 +3313,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -2995,7 +3322,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000728864002",
@@ -3012,7 +3342,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -3021,7 +3351,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000728864003",
@@ -3038,7 +3371,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Riegel",
             "tags": [],
             "deposit": "",
@@ -3047,7 +3380,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000152881",
@@ -3064,7 +3400,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-19",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3073,7 +3409,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000281931",
@@ -3090,7 +3429,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3099,7 +3438,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000763246",
@@ -3116,7 +3458,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3125,7 +3467,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000763722",
@@ -3142,7 +3487,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3151,7 +3496,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000778579",
@@ -3168,7 +3516,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-12",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3177,7 +3525,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155841001",
@@ -3194,7 +3545,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3203,7 +3554,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155841002",
@@ -3220,7 +3574,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3229,7 +3583,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155841003",
@@ -3246,7 +3603,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3255,7 +3612,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156260003",
@@ -3272,7 +3632,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3281,7 +3641,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000169570001",
@@ -3298,7 +3661,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3307,7 +3670,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000169570002",
@@ -3324,7 +3690,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3333,7 +3699,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000169570003",
@@ -3350,7 +3719,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3359,7 +3728,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000169570004",
@@ -3376,7 +3748,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3385,7 +3757,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000169570005",
@@ -3402,7 +3777,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3411,7 +3786,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000198407001",
@@ -3428,7 +3806,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3437,7 +3815,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000198407004",
@@ -3454,7 +3835,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3463,7 +3844,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000198407005",
@@ -3480,7 +3864,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3489,7 +3873,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000304070002",
@@ -3506,7 +3893,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [
                 "vegan"
@@ -3517,7 +3904,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000304077001",
@@ -3534,7 +3924,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3543,7 +3933,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000304077004",
@@ -3560,7 +3953,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3569,7 +3962,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000304077005",
@@ -3586,7 +3982,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3595,7 +3991,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000484801001",
@@ -3612,7 +4011,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [
                 "tiefpreis"
@@ -3623,7 +4022,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000484801002",
@@ -3640,7 +4042,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [
                 "tiefpreis"
@@ -3651,7 +4053,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000484801003",
@@ -3668,7 +4073,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [
                 "tiefpreis"
@@ -3679,7 +4084,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000508158001",
@@ -3696,7 +4104,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [
                 "vegan",
@@ -3708,7 +4116,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000508158002",
@@ -3725,7 +4136,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [
                 "vegan",
@@ -3737,7 +4148,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000634524001",
@@ -3754,7 +4168,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3763,7 +4177,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000634524002",
@@ -3780,7 +4197,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3789,7 +4206,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000689612001",
@@ -3806,7 +4226,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Schokolade",
             "tags": [],
             "deposit": "",
@@ -3815,7 +4235,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000153268",
@@ -3832,7 +4255,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "vegan",
@@ -3844,7 +4267,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000154692",
@@ -3861,7 +4287,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -3870,7 +4296,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000269051",
@@ -3887,7 +4316,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "bio"
@@ -3898,7 +4327,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000271448",
@@ -3915,7 +4347,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "vegan"
@@ -3926,7 +4358,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000289455",
@@ -3943,7 +4378,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -3952,7 +4387,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000496381",
@@ -3969,7 +4407,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "vegan"
@@ -3980,7 +4418,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000659321",
@@ -3997,7 +4438,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "bio"
@@ -4008,7 +4449,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000709224",
@@ -4025,7 +4469,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4034,7 +4478,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000716695",
@@ -4051,7 +4498,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4060,7 +4507,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155863002",
@@ -4077,7 +4527,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4086,7 +4536,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155893001",
@@ -4103,7 +4556,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4112,7 +4565,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155893002",
@@ -4129,7 +4585,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4138,7 +4594,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156104003",
@@ -4155,7 +4614,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4164,7 +4623,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156317001",
@@ -4181,7 +4643,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4190,7 +4652,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156317002",
@@ -4207,7 +4672,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4216,7 +4681,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156317003",
@@ -4233,7 +4701,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4242,7 +4710,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157442001",
@@ -4259,7 +4730,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4268,7 +4739,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157442002",
@@ -4285,7 +4759,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4294,7 +4768,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000157861001",
@@ -4311,7 +4788,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4320,7 +4797,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000200649001",
@@ -4337,7 +4817,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4346,7 +4826,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000297622001",
@@ -4363,7 +4846,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4372,7 +4855,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000525298001",
@@ -4389,7 +4875,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4398,7 +4884,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000603719002",
@@ -4415,7 +4904,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "bio"
@@ -4426,7 +4915,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000603719004",
@@ -4443,7 +4935,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [
                 "bio"
@@ -4454,7 +4946,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000685239001",
@@ -4471,7 +4966,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4480,7 +4975,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000685239002",
@@ -4497,7 +4995,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Trockenfrüchte & Nüsse",
             "tags": [],
             "deposit": "",
@@ -4506,7 +5004,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000109856",
@@ -4523,7 +5024,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-19",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [],
             "deposit": "",
@@ -4532,7 +5033,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000287849",
@@ -4549,7 +5053,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [],
             "deposit": "",
@@ -4558,7 +5062,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000760300",
@@ -4575,7 +5082,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-19",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [],
             "deposit": "",
@@ -4584,7 +5091,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000781352",
@@ -4601,7 +5111,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-28",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [],
             "deposit": "",
@@ -4610,7 +5120,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111839004",
@@ -4627,7 +5140,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegan"
@@ -4638,7 +5151,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111839005",
@@ -4655,7 +5171,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegan"
@@ -4666,7 +5182,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111839006",
@@ -4683,7 +5202,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegetarisch"
@@ -4694,7 +5213,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111839007",
@@ -4711,7 +5233,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegan"
@@ -4722,7 +5244,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114305002",
@@ -4739,7 +5264,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [],
             "deposit": "",
@@ -4748,7 +5273,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114305005",
@@ -4765,7 +5293,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "vegan"
@@ -4776,7 +5304,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114305006",
@@ -4793,7 +5324,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [],
             "deposit": "",
@@ -4802,7 +5333,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000673573001",
@@ -4819,7 +5353,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "tiefpreis"
@@ -4830,7 +5364,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000673573002",
@@ -4847,7 +5384,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "tiefpreis"
@@ -4858,7 +5395,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000673573003",
@@ -4875,7 +5415,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "tiefpreis"
@@ -4886,7 +5426,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000673573004",
@@ -4903,7 +5446,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "Weitere Süssigkeiten",
             "tags": [
                 "tiefpreis"
@@ -4914,7 +5457,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "suessigkeiten_snacks",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-13T12:00:15+00:00",
+        "generated_at": "2026-10-13T23:10:26+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/hofer-preis-dauerhaft-guenstiger/k/1588161434751159",
         "product_count": 49,
-        "content_hash": "sha256:d38c82251e71a1801c32c1f3ce61a99f450d4913072b744aba1fcf61f328c2f4",
-        "file_id": "b2bc5884-2e6a-4932-bd7e-b1fee96d8f43",
-        "run_id": "20261013_115932-2a8490d2"
+        "content_hash": "sha256:afd1c48ea702aa6ca2c99a04c4c204df7b2d86ddb9126577cd7c8ab9bdc36f5f",
+        "file_id": "339b796c-7be0-4c76-9095-92b846f8653d",
+        "run_id": "20261013_230726-f14eb5d5"
     },
     "products": [
         {
@@ -39,7 +39,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000106972",
@@ -65,7 +68,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000106974",
@@ -91,7 +97,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000107081",
@@ -119,7 +128,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000108256",
@@ -147,7 +159,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000110231",
@@ -173,7 +188,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000182665",
@@ -199,7 +217,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000263351",
@@ -225,7 +246,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000309165",
@@ -253,7 +277,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000310250",
@@ -279,7 +306,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000472113",
@@ -307,7 +337,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000570638",
@@ -335,7 +368,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000589118",
@@ -361,7 +397,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000602240",
@@ -387,7 +426,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000632339",
@@ -413,7 +455,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000671683",
@@ -441,7 +486,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000707690",
@@ -467,7 +515,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000738394",
@@ -493,7 +544,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000000770669",
@@ -521,7 +575,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000110728001",
@@ -547,7 +604,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000111270001",
@@ -573,7 +633,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000111270004",
@@ -599,7 +662,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000111439001",
@@ -625,7 +691,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000111439002",
@@ -651,7 +720,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000112265001",
@@ -677,7 +749,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000112265002",
@@ -703,7 +778,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000112307001",
@@ -731,7 +809,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000112307004",
@@ -759,7 +840,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000112307005",
@@ -787,7 +871,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000112307006",
@@ -815,7 +902,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000113625001",
@@ -841,7 +931,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000113625002",
@@ -867,7 +960,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000486125001",
@@ -895,7 +991,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000486125003",
@@ -923,7 +1022,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000490856001",
@@ -949,7 +1051,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000490856002",
@@ -975,7 +1080,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000537331001",
@@ -1004,7 +1112,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000582141001",
@@ -1030,7 +1141,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000582141002",
@@ -1056,7 +1170,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000623805001",
@@ -1084,7 +1201,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000623805002",
@@ -1112,7 +1232,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000623805004",
@@ -1140,7 +1263,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000656438001",
@@ -1166,7 +1292,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000673007001",
@@ -1192,7 +1321,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000673007002",
@@ -1218,7 +1350,10 @@
             "drained_weight": true,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000676580001",
@@ -1244,7 +1379,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000676580002",
@@ -1270,7 +1408,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000733188001",
@@ -1296,7 +1437,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         },
         {
             "store_product_id": "000000000733188002",
@@ -1322,7 +1466,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "dauerhaft",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T12:22:50+00:00",
+        "generated_at": "2026-10-13T23:12:49+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/produkte/tiefpreisversprechen/k/1588161431768066",
         "product_count": 222,
-        "content_hash": "sha256:7b840f36f2016b3914044f0cf14b5f8540d9204dbb15812bbe373300ed5dc5e2",
-        "file_id": "b7939d57-1bd4-48bf-8eb5-16277bf86f4a",
-        "run_id": "20261012_122107-25dc4586"
+        "content_hash": "sha256:790636ff62a78526a684b1f34c3fbeee696239bd323afa0ca5e313092fbc8a47",
+        "file_id": "38ac7eda-d8fd-4e7a-9832-68984fc4816c",
+        "run_id": "20261013_231106-cc8b1fa9"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -39,7 +39,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000106968",
@@ -56,7 +59,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -67,7 +70,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000109889",
@@ -84,7 +90,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -95,7 +101,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000152944",
@@ -112,7 +121,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -123,7 +132,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000152945",
@@ -140,7 +152,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -151,7 +163,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000155072",
@@ -168,7 +183,7 @@
             "comparison_per": "1 l",
             "valid_from": "2026-10-05",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -179,7 +194,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000175297",
@@ -196,7 +214,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -207,7 +225,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000201106",
@@ -224,7 +245,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -236,7 +257,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000211074",
@@ -253,7 +277,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -266,7 +290,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288006",
@@ -283,7 +310,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -295,7 +322,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288133",
@@ -312,7 +342,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -324,7 +354,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288149",
@@ -341,7 +374,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -352,7 +385,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288168",
@@ -369,7 +405,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -380,7 +416,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288229",
@@ -397,7 +436,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -410,7 +449,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288237",
@@ -427,7 +469,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -438,7 +480,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288319",
@@ -455,7 +500,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -467,7 +512,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288366",
@@ -484,7 +532,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -495,7 +543,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288387",
@@ -512,7 +563,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -523,7 +574,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288401",
@@ -540,7 +594,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -551,7 +605,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288415",
@@ -568,7 +625,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -579,7 +636,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288463",
@@ -596,7 +656,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -607,7 +667,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288479",
@@ -624,7 +687,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -635,7 +698,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288493",
@@ -652,7 +718,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -663,7 +729,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288589",
@@ -680,7 +749,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -691,7 +760,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000289127",
@@ -708,7 +780,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -720,7 +792,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000289695",
@@ -737,7 +812,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -749,7 +824,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000289941",
@@ -766,7 +844,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -778,7 +856,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000290101",
@@ -795,7 +876,7 @@
             "comparison_per": "100 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -806,7 +887,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000290602",
@@ -823,7 +907,7 @@
             "comparison_per": "1 l",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -834,7 +918,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000290603",
@@ -851,7 +938,7 @@
             "comparison_per": "1 l",
             "valid_from": "2026-09-21",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -862,7 +949,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "product",
+            "validity_confidence": "start_only",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000305759",
@@ -879,7 +969,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -891,7 +981,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000329206",
@@ -908,7 +1001,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -920,7 +1013,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000358287",
@@ -937,7 +1033,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -948,7 +1044,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000397899",
@@ -965,7 +1064,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -977,7 +1076,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000463600",
@@ -994,7 +1096,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1005,7 +1107,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000475322",
@@ -1022,7 +1127,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1034,7 +1139,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000478138",
@@ -1051,7 +1159,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1062,7 +1170,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000480085",
@@ -1079,7 +1190,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1090,7 +1201,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000489000",
@@ -1107,7 +1221,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1118,7 +1232,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000492669",
@@ -1135,7 +1252,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1147,7 +1264,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000497695",
@@ -1164,7 +1284,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -1176,7 +1296,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000498448",
@@ -1193,7 +1316,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1204,7 +1327,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000504110",
@@ -1221,7 +1347,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1232,7 +1358,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000508116",
@@ -1249,7 +1378,7 @@
             "comparison_per": "1 St",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1260,7 +1389,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000511918",
@@ -1277,7 +1409,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1288,7 +1420,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000550443",
@@ -1305,7 +1440,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1316,7 +1451,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000563781",
@@ -1333,7 +1471,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -1345,7 +1483,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000575564",
@@ -1362,7 +1503,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1373,7 +1514,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000589104",
@@ -1390,7 +1534,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1401,7 +1545,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000595991",
@@ -1418,7 +1565,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -1430,7 +1577,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000599922",
@@ -1447,7 +1597,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1458,7 +1608,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000606419",
@@ -1475,7 +1628,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1486,7 +1639,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000625884",
@@ -1503,7 +1659,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1514,7 +1670,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000626767",
@@ -1531,7 +1690,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1542,7 +1701,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000656976",
@@ -1559,7 +1721,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1570,7 +1732,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000665695",
@@ -1587,7 +1752,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1599,7 +1764,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000682273",
@@ -1616,7 +1784,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -1629,7 +1797,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000683108",
@@ -1646,7 +1817,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1657,7 +1828,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000686573",
@@ -1674,7 +1848,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1686,7 +1860,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000702338",
@@ -1703,7 +1880,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -1714,7 +1891,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000734256",
@@ -1731,7 +1911,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -1742,7 +1922,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000100197001",
@@ -1759,7 +1942,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -1772,7 +1955,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000100197002",
@@ -1789,7 +1975,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -1802,7 +1988,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000100197004",
@@ -1819,7 +2008,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -1832,7 +2021,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000102080002",
@@ -1849,7 +2041,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -1861,7 +2053,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111647001",
@@ -1878,7 +2073,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1891,7 +2086,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111647002",
@@ -1908,7 +2106,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1921,7 +2119,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111647003",
@@ -1938,7 +2139,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1951,7 +2152,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111647004",
@@ -1968,7 +2172,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -1981,7 +2185,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111924003",
@@ -1998,7 +2205,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2009,7 +2216,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111924006",
@@ -2026,7 +2236,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2037,7 +2247,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000111924009",
@@ -2054,7 +2267,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2065,7 +2278,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112035003",
@@ -2082,7 +2298,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -2093,7 +2309,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112480002",
@@ -2110,7 +2329,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2121,7 +2340,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112480003",
@@ -2138,7 +2360,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2149,7 +2371,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000112480004",
@@ -2166,7 +2391,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2177,7 +2402,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113630001",
@@ -2194,7 +2422,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -2206,7 +2434,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000113630002",
@@ -2223,7 +2454,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -2235,7 +2466,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114049001",
@@ -2252,7 +2486,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2263,7 +2497,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114049003",
@@ -2280,7 +2517,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2291,7 +2528,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114049004",
@@ -2308,7 +2548,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2319,7 +2559,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000114049005",
@@ -2336,7 +2579,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -2348,7 +2591,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000116880002",
@@ -2365,7 +2611,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2376,7 +2622,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000116880003",
@@ -2393,7 +2642,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2404,7 +2653,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000116880006",
@@ -2421,7 +2673,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2432,7 +2684,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000116880007",
@@ -2449,7 +2704,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2460,7 +2715,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155814001",
@@ -2477,7 +2735,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2488,7 +2746,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000155814003",
@@ -2505,7 +2766,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2516,7 +2777,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156292001",
@@ -2533,7 +2797,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -2545,7 +2809,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156292002",
@@ -2562,7 +2829,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2573,7 +2840,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156292003",
@@ -2590,7 +2860,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -2602,7 +2872,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156414001",
@@ -2619,7 +2892,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2630,7 +2903,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156489001",
@@ -2647,7 +2923,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2656,7 +2932,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000156924001",
@@ -2673,7 +2952,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2682,7 +2961,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000157498",
@@ -2699,7 +2981,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2710,7 +2992,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000198217001",
@@ -2727,7 +3012,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2738,7 +3023,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000198217002",
@@ -2755,7 +3043,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2766,7 +3054,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000203644001",
@@ -2783,7 +3074,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -2795,7 +3086,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000203644003",
@@ -2812,7 +3106,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -2824,7 +3118,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000203657001",
@@ -2841,7 +3138,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -2852,7 +3149,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000203657002",
@@ -2869,7 +3169,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -2880,7 +3180,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000261311",
@@ -2897,7 +3200,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2908,7 +3211,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000262744001",
@@ -2925,7 +3231,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2936,7 +3242,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000262744002",
@@ -2953,7 +3262,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2964,7 +3273,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000262744004",
@@ -2981,7 +3293,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -2992,7 +3304,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000264550001",
@@ -3009,7 +3324,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3020,7 +3335,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000264550002",
@@ -3037,7 +3355,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3048,7 +3366,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000264550003",
@@ -3065,7 +3386,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3076,7 +3397,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000281975001",
@@ -3093,7 +3417,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3104,7 +3428,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000281975002",
@@ -3121,7 +3448,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3132,7 +3459,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000281975003",
@@ -3149,7 +3479,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3160,7 +3490,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000287178001",
@@ -3177,7 +3510,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -3189,7 +3522,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000287178002",
@@ -3206,7 +3542,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -3218,7 +3554,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000287997001",
@@ -3235,7 +3574,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3246,7 +3585,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000287997002",
@@ -3263,7 +3605,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3274,7 +3616,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000287997003",
@@ -3291,7 +3636,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3302,7 +3647,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000288032001",
@@ -3319,7 +3667,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -3331,7 +3679,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000288032002",
@@ -3348,7 +3699,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -3360,7 +3711,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000288124002",
@@ -3377,7 +3731,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -3389,7 +3743,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288182",
@@ -3406,7 +3763,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3417,7 +3774,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000288191002",
@@ -3434,7 +3794,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3445,7 +3805,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000288191003",
@@ -3462,7 +3825,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3473,7 +3836,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000288191004",
@@ -3490,7 +3856,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3501,7 +3867,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000288293",
@@ -3518,7 +3887,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3529,7 +3898,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000288331001",
@@ -3546,7 +3918,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3557,7 +3929,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000290575001",
@@ -3574,7 +3949,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3585,7 +3960,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000290575002",
@@ -3602,7 +3980,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3613,7 +3991,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000290575004",
@@ -3630,7 +4011,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3641,7 +4022,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000308361001",
@@ -3658,7 +4042,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3667,7 +4051,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000308361005",
@@ -3684,7 +4071,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3693,7 +4080,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000308361007",
@@ -3710,7 +4100,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3719,7 +4109,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000308361008",
@@ -3736,7 +4129,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3745,7 +4138,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000308361009",
@@ -3762,7 +4158,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -3771,7 +4167,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000317257001",
@@ -3788,7 +4187,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -3800,7 +4199,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000317257002",
@@ -3817,7 +4219,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -3829,7 +4231,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000317257003",
@@ -3846,7 +4251,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -3859,7 +4264,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000480567",
@@ -3876,7 +4284,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3887,7 +4295,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000484801001",
@@ -3904,7 +4315,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3915,7 +4326,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000484801002",
@@ -3932,7 +4346,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3943,7 +4357,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000484801003",
@@ -3960,7 +4377,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3971,7 +4388,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000505688001",
@@ -3988,7 +4408,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -3999,7 +4419,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000505688002",
@@ -4016,7 +4439,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4027,7 +4450,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000507384",
@@ -4044,7 +4470,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4055,7 +4481,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000509164001",
@@ -4072,7 +4501,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4083,7 +4512,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000509164002",
@@ -4100,7 +4532,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4111,7 +4543,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000509164003",
@@ -4128,7 +4563,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4139,7 +4574,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000512409001",
@@ -4156,7 +4594,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -4168,7 +4606,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000512409002",
@@ -4185,7 +4626,7 @@
             "comparison_per": "100 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -4197,7 +4638,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000522010002",
@@ -4214,7 +4658,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4225,7 +4669,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000534325001",
@@ -4242,7 +4689,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4253,7 +4700,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000534325002",
@@ -4270,7 +4720,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4281,7 +4731,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000537050001",
@@ -4298,7 +4751,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -4309,7 +4762,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000537050002",
@@ -4326,7 +4782,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan"
@@ -4337,7 +4793,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000537825",
@@ -4354,7 +4813,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4365,7 +4824,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000546641001",
@@ -4382,7 +4844,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4393,7 +4855,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000546641004",
@@ -4410,7 +4875,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4421,7 +4886,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000546641005",
@@ -4438,7 +4906,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4449,7 +4917,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000546641007",
@@ -4466,7 +4937,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4477,7 +4948,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000547809001",
@@ -4494,7 +4968,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -4507,7 +4981,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000547809003",
@@ -4524,7 +5001,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -4537,7 +5014,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000555498001",
@@ -4554,7 +5034,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4565,7 +5045,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000555498002",
@@ -4582,7 +5065,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4593,7 +5076,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000558965001",
@@ -4610,7 +5096,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4621,7 +5107,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000561741",
@@ -4638,7 +5127,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4649,7 +5138,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000594069",
@@ -4666,7 +5158,7 @@
             "comparison_per": "10 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4677,7 +5169,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000594191",
@@ -4694,7 +5189,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4705,7 +5200,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000594276",
@@ -4722,7 +5220,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4733,7 +5231,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000601264001",
@@ -4750,7 +5251,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4761,7 +5262,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000601264002",
@@ -4778,7 +5282,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4789,7 +5293,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000609362001",
@@ -4806,7 +5313,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4817,7 +5324,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000609362004",
@@ -4834,7 +5344,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4845,7 +5355,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000612543001",
@@ -4862,7 +5375,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -4875,7 +5388,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000612543003",
@@ -4892,7 +5408,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -4905,7 +5421,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000613016001",
@@ -4922,7 +5441,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4933,7 +5452,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000613016002",
@@ -4950,7 +5472,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4961,7 +5483,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000613016003",
@@ -4978,7 +5503,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -4989,7 +5514,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000613016004",
@@ -5006,7 +5534,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5017,7 +5545,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000618600001",
@@ -5034,7 +5565,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5045,7 +5576,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000618600002",
@@ -5062,7 +5596,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5073,7 +5607,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000621000001",
@@ -5090,7 +5627,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5101,7 +5638,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000621000002",
@@ -5118,7 +5658,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5129,7 +5669,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000621000003",
@@ -5146,7 +5689,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5157,7 +5700,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000623222001",
@@ -5174,7 +5720,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5185,7 +5731,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000623222003",
@@ -5202,7 +5751,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -5214,7 +5763,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000628652001",
@@ -5231,7 +5783,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -5244,7 +5796,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000628652003",
@@ -5261,7 +5816,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "vegan",
@@ -5274,7 +5829,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000629964001",
@@ -5291,7 +5849,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -5303,7 +5861,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000629964002",
@@ -5320,7 +5881,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -5332,7 +5893,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000631364001",
@@ -5349,7 +5913,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -5358,7 +5922,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000631364002",
@@ -5375,7 +5942,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -5384,7 +5951,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000632214",
@@ -5401,7 +5971,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5412,7 +5982,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000636199001",
@@ -5429,7 +6002,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5440,7 +6013,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000636199002",
@@ -5457,7 +6033,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5468,7 +6044,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000639502001",
@@ -5485,7 +6064,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -5497,7 +6076,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000639502002",
@@ -5514,7 +6096,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefkuehlung",
@@ -5526,7 +6108,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000652217001",
@@ -5543,7 +6128,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -5555,7 +6140,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000652217002",
@@ -5572,7 +6160,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -5584,7 +6172,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000652217003",
@@ -5601,7 +6192,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -5613,7 +6204,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000652217004",
@@ -5630,7 +6224,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -5642,7 +6236,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000652696",
@@ -5659,7 +6256,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5670,7 +6267,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000668087002",
@@ -5687,7 +6287,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5698,7 +6298,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000668087003",
@@ -5715,7 +6318,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5726,7 +6329,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000668087004",
@@ -5743,7 +6349,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5754,7 +6360,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000673573001",
@@ -5771,7 +6380,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5782,7 +6391,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000673573002",
@@ -5799,7 +6411,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5810,7 +6422,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000673573003",
@@ -5827,7 +6442,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5838,7 +6453,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000673573004",
@@ -5855,7 +6473,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5866,7 +6484,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000690452001",
@@ -5883,7 +6504,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5894,7 +6515,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000690452002",
@@ -5911,7 +6535,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5922,7 +6546,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000690452003",
@@ -5939,7 +6566,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5950,7 +6577,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000697760001",
@@ -5967,7 +6597,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -5978,7 +6608,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000697760002",
@@ -5995,7 +6628,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6006,7 +6639,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000713202001",
@@ -6023,7 +6659,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6034,7 +6670,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000713202002",
@@ -6051,7 +6690,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6062,7 +6701,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000713202003",
@@ -6079,7 +6721,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6090,7 +6732,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000722800001",
@@ -6107,7 +6752,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6118,7 +6763,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000722800002",
@@ -6135,7 +6783,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6146,7 +6794,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000722800003",
@@ -6163,7 +6814,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6174,7 +6825,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000722800004",
@@ -6191,7 +6845,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis"
@@ -6202,7 +6856,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000726469001",
@@ -6219,7 +6876,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -6231,7 +6888,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000726469002",
@@ -6248,7 +6908,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -6260,7 +6920,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000726469003",
@@ -6277,7 +6940,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-12",
+            "source_date": "2026-10-13",
             "theme": "",
             "tags": [
                 "tiefpreis",
@@ -6289,7 +6952,10 @@
             "drained_weight": false,
             "variants": false,
             "source": "tiefpreisversprechen",
-            "type": "listing"
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         }
     ]
 }
