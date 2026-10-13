@@ -12,7 +12,7 @@ from urllib.parse import quote_plus, urljoin
 
 from bs4 import BeautifulSoup
 
-from hofer_common import (clean, price, parse_size, categorize, derive_tags, make_product, run_batches)
+from hofer_common import (clean, price, parse_size, categorize, derive_tags, make_product, parse_until, run_batches)
 from hofer_discover import get_discovery
 
 BASE = "https://www.hofer.at"
@@ -73,8 +73,18 @@ def tile_to_product(t, source, source_url, source_date, theme="", default_group=
 
     cm = COMP_RE.search(text(t, ".product-tile__comparison-price"))
     badges = [clean(b.get_text(" ", strip=True)) for b in t.select(".product-tile__badges .base-label")]
-    dm = AVAIL_RE.search(clean(t.get_text(" ", strip=True)))
+    ttxt = clean(t.get_text(" ", strip=True))
+    dm = AVAIL_RE.search(ttxt)
     valid_from = f"{dm.group(3)}-{dm.group(2)}-{dm.group(1)}" if dm else (source_date if fallback_valid_from else "")
+    valid_to = parse_until(ttxt)                  # 'gültig bis …' přímo u produktu (zatím nespatřeno, jen pojistka)
+    if valid_to:
+        vsrc, vconf = "product", "verified"
+    elif dm:
+        vsrc, vconf = "product", "start_only"     # 'Verfügbar ab' = jen začátek prodeje
+    elif valid_from:
+        vsrc, vconf = "product_group", "start_only"   # den stránky 'Ab Dienstag, 13. Oktober'
+    else:
+        vsrc, vconf = "unknown", "unknown"
     tags = derive_tags(brand, name, [b for b in badges if not b.lower().startswith("verfügbar")])
     return make_product(
         source,
@@ -85,9 +95,9 @@ def tile_to_product(t, source, source_url, source_date, theme="", default_group=
         category=categorize(brand, name, unit, tags, default_group),
         price=cur, original_price=original,
         comparison_price=price(cm.group(1)) if cm else "", comparison_per=clean(cm.group(2)) if cm else "",
-        valid_from=valid_from, valid_to="", source_date=source_date, theme=theme, tags=tags,
+        valid_from=valid_from, valid_to=valid_to, source_date=source_date, theme=theme, tags=tags,
         deposit=deposit, deposit_type=deposit_type, approx_amount=approx, drained_weight=atg,
-        variants=False,
+        variants=False, validity_source=vsrc, validity_confidence=vconf,
     )
 
 

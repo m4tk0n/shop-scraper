@@ -40,6 +40,7 @@ PRODUCT_FIELDS = {
     "valid_from": "", "valid_to": "", "source_date": "", "theme": "", "tags": [],
     "deposit": "", "deposit_type": "", "approx_amount": False, "drained_weight": False,
     "variants": False, "source": "", "type": "",
+    "validity_source": "unknown", "validity_confidence": "unknown", "validity_type": "",
 }
 
 # slug -> (český název, skupina)
@@ -297,6 +298,108 @@ def slug(s):
     return re.sub(r"[^a-z0-9+]+", "_", s).strip("_")
 
 
+# ---------- platnost akcí ----------
+# validity_source:     product | product_group | catalog | unknown
+# validity_confidence: verified (datum výslovně na stránce) | matched (spárováno s letákem) | start_only (znám jen začátek) | unknown
+# validity_type:       promo (časově omezená akce) | permanent (trvale nízká cena) | regular (běžný sortiment)
+VALIDITY_SOURCES = ("product", "product_group", "catalog", "unknown")
+VALIDITY_CONFIDENCE = ("verified", "matched", "start_only", "unknown")
+PERMANENT_SOURCES = {"dauerhaft"}
+WEEKDAYS = {"mo": 0, "di": 1, "mi": 2, "do": 3, "fr": 4, "sa": 5, "so": 6}
+_D = r"(?:(Mo|Di|Mi|Do|Fr|Sa|So)\.?\s*)?(\d{1,2})\.\s?(\d{1,2})\.?(?:\s?(\d{4}))?"
+RANGE_PREFIX_RE = re.compile(rf"\b(?i:von|vom|ab)\s+{_D}\s*(?:(?i:bis)|[–-])\s*{_D}")
+RANGE_RE = re.compile(rf"{_D}\s*(?:(?i:bis|und)|[–-])\s*{_D}")
+UNTIL_RE = re.compile(rf"\b(?i:g[üu]ltig\s+bis)\s+{_D}")
+SINGLE_RE = re.compile(_D)
+
+
+def _mk(d, m, y, wd, ref, before=None):
+    """Datum z dne a měsíce; chybějící rok se určí podle zkratky dne (Fr. 9.10. = 2026) a blízkosti k referenci."""
+    d, m = int(d), int(m)
+    if not (1 <= d <= 31 and 1 <= m <= 12):
+        return None
+    if y:
+        try:
+            return date(int(y), m, d)
+        except ValueError:
+            return None
+    cands = []
+    for yy in (ref.year - 1, ref.year, ref.year + 1):
+        try:
+            cands.append(date(yy, m, d))
+        except ValueError:
+            pass
+    if before:                                     # začátek nesmí být po konci
+        cands = [c for c in cands if c <= before]
+    if wd:
+        hit = [c for c in cands if c.weekday() == WEEKDAYS[wd.lower()]]
+        cands = hit or cands
+    if not cands:
+        return None
+    anchor = before or ref
+    return min(cands, key=lambda c: abs((anchor - c).days))
+
+
+def _range(g, today):
+    wd1, d1, m1, y1, wd2, d2, m2, y2 = g
+    to = _mk(d2, m2, y2, wd2, today)
+    fr = _mk(d1, m1, y1, wd1, today, before=to) if to else None
+    return (fr.isoformat(), to.isoformat()) if fr and to else ("", "")
+
+
+def parse_validity(text, today=None):
+    """Text stránky: 'von Mi. 30.9. bis Sa. 31.10.' / 'Gültig ab Fr. 16.10. bis Do. 22.10' -> (od, do) nebo ('', '').
+    Vyžaduje předložku von/vom/ab, aby se nechytala náhodná data."""
+    today = today or date.today()
+    for m in RANGE_PREFIX_RE.finditer(text or ""):
+        r = _range(m.groups(), today)
+        if r[0]:
+            return r
+    return "", ""
+
+
+def parse_heading_range(text, today=None):
+    """Nadpis skupiny: 'Wochenstart: Mo. 12.10. bis Do. 15.10.', 'Wochenende: Fr. 9.10. und Sa. 10.10.'.
+    Jediné datum = jen začátek (konec se nehádá)."""
+    today = today or date.today()
+    for m in RANGE_RE.finditer(text or ""):
+        r = _range(m.groups(), today)
+        if r[0]:
+            return r
+    m = SINGLE_RE.search(text or "")
+    if m:
+        wd, d, mo, y = m.groups()
+        dt = _mk(d, mo, y, wd, today)
+        if dt:
+            return dt.isoformat(), ""
+    return "", ""
+
+
+def parse_until(text, today=None):
+    """'gültig bis 12.10.' u produktu -> '2026-10-12' nebo ''."""
+    today = today or date.today()
+    m = UNTIL_RE.search(text or "")
+    if not m:
+        return ""
+    wd, d, mo, y = m.groups()
+    dt = _mk(d, mo, y, wd, today)
+    return dt.isoformat() if dt else ""
+
+
+def finalize_validity(p):
+    """Poslední kontrola před zápisem: konzistence dat a výchozí typ platnosti."""
+    if p["valid_from"] and p["valid_to"] and p["valid_from"] > p["valid_to"]:
+        p["valid_from"] = p["valid_to"] = ""
+        p["validity_source"], p["validity_confidence"] = "unknown", "unknown"
+    if not p["validity_type"]:
+        p["validity_type"] = ("permanent" if p["source"] in PERMANENT_SOURCES
+                              else "promo" if p["type"] == "offer" else "regular")
+    if p["validity_type"] == "permanent" and not (p["valid_from"] or p["valid_to"]):
+        p["validity_source"], p["validity_confidence"] = "product_group", "verified"
+    elif not (p["valid_from"] or p["valid_to"]):
+        p["validity_source"], p["validity_confidence"] = "unknown", "unknown"
+
+
 # ---------- kategorie a tagy ----------
 def categorize(brand, name, unit="", tags=(), default_group=None):
     """default_group='food' pro stránky, které jsou jistě potraviny (fallback 'potraviny')."""
@@ -424,6 +527,8 @@ def run_batches(collect, argv=None, session=None):
     total, files = 0, []
     for b in collect(session, opts):
         products = b["products"]
+        for p in products:
+            finalize_validity(p)
         if opts["food"]:
             products = [p for p in products if p["category"] not in NONFOOD_CATEGORIES]
         if not products:

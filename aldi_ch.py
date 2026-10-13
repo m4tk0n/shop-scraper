@@ -104,7 +104,7 @@ def fetch_category(session, name, top_slug, node):
     pages = node["children"] or ([{"slug": None, "url": node["url"], "label": node["label"]}] if node["url"] else [])
     products, seen = [], set()
     for ch in pages:
-        items = fetch_listing(session, name, ch["url"], default_group=default_group)
+        items = fetch_listing(session, name, ch["url"], default_group=default_group, validity=False)
         for p in items:
             k = p["product_url"] or (p["name"], p["price"])
             if k in seen:

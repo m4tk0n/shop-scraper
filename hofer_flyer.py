@@ -11,7 +11,7 @@ from datetime import date
 
 from bs4 import BeautifulSoup
 
-from hofer_common import (SIZE_RE, amount_key, categorize, clean, derive_tags, make_product, outdir, price, run_batches, slug)
+from hofer_common import (SIZE_RE, amount_key, categorize, clean, derive_tags, make_product, outdir, parse_heading_range, price, run_batches, slug)
 from hofer_discover import get_discovery
 
 PAGES = {
@@ -24,15 +24,8 @@ DATE_RE = re.compile(r"(\d{1,2})\.\s?(\d{1,2})\.")
 
 
 def section_dates(heading, today=None):
-    """'... Wochenstart: Mo. 28.9. bis Do. 1.10.' -> ('2026-09-28', '2026-10-01')"""
-    today = today or date.today()
-    found = DATE_RE.findall(heading)
-    if not found:
-        return "", ""
-    (d1, m1), (d2, m2) = found[0], found[-1]
-    y_to = today.year
-    y_from = y_to - 1 if int(m1) > int(m2) else y_to
-    return f"{y_from}-{int(m1):02d}-{int(d1):02d}", f"{y_to}-{int(m2):02d}-{int(d2):02d}"
+    """'... Wochenstart: Mo. 12.10. bis Do. 15.10.' -> ('2026-10-12', '2026-10-15'); rok se ověřuje podle zkratky dne."""
+    return parse_heading_range(heading, today)
 
 
 def section_theme(heading):
@@ -110,25 +103,26 @@ def parse_flyer(html, source, url, today=None):
             price=a["price"], original_price="", comparison_price="", comparison_per="",
             valid_from=valid_from, valid_to=valid_to, source_date=today.isoformat(), theme=theme, tags=tags,
             variants=a["variants"],
+            validity_source="product_group" if valid_from else "unknown",
+            validity_confidence=("verified" if valid_to else "start_only") if valid_from else "unknown",
         ))
     return out
 
 
 def _norm(s):
-    return re.sub(r"[^a-zäöüß0-9]+", " ", (s or "").lower()).strip()
+    s = re.sub(r"\d+(?:[.,]\d+)?\s*%\s*vol\.?", " ", (s or "").lower())      # '5,0%Vol.' v názvu z letáku
+    return re.sub(r"[^a-zäöüß0-9]+", " ", s).strip()
 
 
-def resolve_ids(products, folder):
+def resolve_ids(products, folder, pool=None):
     """Doplní skutečné 18místné ID (číslo zboží) ze zdrojů s dlaždicemi. Číslo obrázku z letáku ID není."""
     from hofer_brands import latest_files
     full, by_name = {}, {}
-    for _, m, ps in latest_files(folder):
-        if m["source"] in ("tiefpreis", "bier"):
-            continue
-        for p in ps:
-            if p["store_product_id"]:
-                full.setdefault((_norm(p["brand"]), _norm(p["name"])), []).append(p)
-                by_name.setdefault(_norm(p["name"]), []).append(p)
+    known = [p for _, m, ps in latest_files(folder) if m["source"] not in ("tiefpreis", "bier") for p in ps]
+    for p in known + list(pool or []):               # pool = produkty stažené v tomtéž běhu (ještě nejsou na disku)
+        if p["store_product_id"]:
+            full.setdefault((_norm(p["brand"]), _norm(p["name"])), []).append(p)
+            by_name.setdefault(_norm(p["name"]), []).append(p)
 
     def pick(cands, p):
         if p["amount"]:                                  # množství musí sedět (i kg vs g), pokud je u obou známé
@@ -195,7 +189,7 @@ def collect(session, opts):
             continue
         products = parse_flyer(r.text, n, url)
         print(f"  nalezeno {len(products)} produktů")
-        found = resolve_ids(products, outdir())
+        found = resolve_ids(products, outdir(), opts.get("pool"))
         print(f"  ID produktu doplněno z ostatních zdrojů: {found} z {len(products)} (zbytek zůstává prázdný)")
         if ocr and products:
             add_original_prices(session, products, ocr)

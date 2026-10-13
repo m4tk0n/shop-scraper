@@ -69,7 +69,7 @@ def url_variants(name):
 def fetch_brand(session, entry):
     urls = [entry["url"]] if entry["url"] else url_variants(entry["name"])
     for u in urls:
-        items = fetch_listing(session, SOURCE, u, pause=0.4)
+        items = fetch_listing(session, SOURCE, u, pause=0.4, validity=False)
         if items:
             return u, items
     return None, []
