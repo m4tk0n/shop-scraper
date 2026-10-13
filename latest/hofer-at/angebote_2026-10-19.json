@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T23:07:03+00:00",
+        "generated_at": "2026-10-13T21:23:55+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-19",
         "product_count": 37,
-        "content_hash": "sha256:eec56aa3a846e12d70858bf8e451d51a090bee20bff9b3d957851c9f793eae1c",
-        "file_id": "f37bae4e-d7fe-4aaf-8238-b9cc9bb253bc",
-        "run_id": "20261012_230622-10a74c90"
+        "content_hash": "sha256:96f8b7f3cffb0ca8a35ca4b8d7f9ca8aad4eb1b9d00f23cfa7876e9ae2e60e0d",
+        "file_id": "f17e6b24-762e-4072-ad69-d78cea0e98a2",
+        "run_id": "20261013_212318-fe1d62ca"
     },
     "products": [
         {
@@ -256,7 +256,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/up2fashion-basics-damen-herren-filzhausschuhe-000000000000736351",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/51d1bbba-d97c-44e8-a649-206c45f56df2/DamenHerrenFilzhausschuhe",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/cfb5725d-8c16-442b-ac17-3ed10a7d6320/DamenHerrenFilzhausschuhe",
             "category": "nonfood",
             "price": "4.99",
             "original_price": "",

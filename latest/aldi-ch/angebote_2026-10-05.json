@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T12:21:33+00:00",
+        "generated_at": "2026-10-13T21:26:31+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-05",
         "product_count": 153,
-        "content_hash": "sha256:8f39b1d3fa8b01dc0160f8c974bfdfdac9d034b8e82c4bebddbc8ef68eedc40d",
-        "file_id": "94b35559-f928-4ae5-8bde-4ea6966f161a",
-        "run_id": "20261012_122107-25dc4586"
+        "content_hash": "sha256:192433718ecddb0f36ed0149e2954b5ba4a10547438eb31cb49ec5e0edcf28f2",
+        "file_id": "63df6f2b-06a6-4740-a104-c235ae29a1d4",
+        "run_id": "20261013_212605-98aba00f"
     },
     "products": [
         {
@@ -2531,7 +2531,7 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/b0a75c06-bd5d-48e7-b3cd-9ee06964c441/Twix%20White%2010erPack",
             "category": "cokolady",
             "price": "4.99",
-            "original_price": "5.49",
+            "original_price": "",
             "comparison_price": "1.08",
             "comparison_per": "100 g",
             "valid_from": "2026-10-05",

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-12T12:18:51+00:00",
+        "generated_at": "2026-10-13T21:23:24+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-08",
         "product_count": 33,
-        "content_hash": "sha256:45ae17a18ea001f0db89b310193579945ab07735c2a8aec627d70d5ccac7b27d",
-        "file_id": "f1dd28f9-eb6c-4086-85da-be762099cf3d",
-        "run_id": "20261012_121841-201fef09"
+        "content_hash": "sha256:3bcdc5653102231e9f01c98e216e9406ce4c05b42631a6f6425430b1218feea2",
+        "file_id": "87306f7e-316f-40ea-a99e-82edc7f295d4",
+        "run_id": "20261013_212318-fe1d62ca"
     },
     "products": [
         {
@@ -202,7 +202,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/pampers-baby-dry-windeln-pants-000000000000734119",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/ae38a020-6487-4be4-a6db-d0f44c76d3de/BabyDry%20WindelnPants",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/8aacce10-a379-46ed-9689-49f866045cd2/BabyDry%20WindelnPants",
             "category": "hygiena",
             "price": "25.99",
             "original_price": "",

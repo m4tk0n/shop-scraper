@@ -1,0 +1,43 @@
+{
+    "meta": {
+        "generated_at": "2026-10-13T21:24:05+00:00",
+        "store": "hofer_at",
+        "country": "AT",
+        "currency": "EUR",
+        "source": "black_month",
+        "type": "listing",
+        "source_url": "https://www.hofer.at/produkte/black-month/k/1588161437882033",
+        "product_count": 1,
+        "content_hash": "sha256:4441a2bd5e7528fb09fe206e373a55bb735178ad95c7ef896009cd49b1a4a6d5",
+        "file_id": "a270e752-106e-4c8c-afdd-24cf2178dd3e",
+        "run_id": "20261013_212318-fe1d62ca"
+    },
+    "products": [
+        {
+            "store_product_id": "000000000000734119",
+            "brand": "PAMPERS",
+            "name": "Baby-Dry Windeln/Pants",
+            "amount": "",
+            "unit": "",
+            "product_url": "https://www.hofer.at/produkt/pampers-baby-dry-windeln-pants-000000000000734119",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/8aacce10-a379-46ed-9689-49f866045cd2/BabyDry%20WindelnPants",
+            "category": "hygiena",
+            "price": "25.99",
+            "original_price": "",
+            "comparison_price": "0.30",
+            "comparison_per": "1 pro",
+            "valid_from": "2026-10-08",
+            "valid_to": "",
+            "source_date": "2026-10-13",
+            "theme": "",
+            "tags": [],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "black_month",
+            "type": "listing"
+        }
+    ]
+}
