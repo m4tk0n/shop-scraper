@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-14T19:02:11+00:00",
+  "generated_at": "2026-10-14T23:45:12+00:00",
   "stores": {
     "aldi-ch": [
       {
         "file": "aldi-ch/marken.json",
         "source": "marken",
         "source_url": "https://www.aldi-suisse.ch/de/marken",
-        "product_count": 1691,
-        "content_hash": "sha256:8d9b9b626fb873e3e029fe51d5c1908d4024a6b42ff27a2b01951d885f944ae2",
-        "file_id": "a0d31c30-a980-484f-b4d3-e97f10b9beb3",
-        "generated_at": "2026-10-14T19:02:03+00:00"
+        "product_count": 1699,
+        "content_hash": "sha256:626afcabd9b81da472dab5ad3f366b9f9ffa50d740014dcd324cfc2ada6e5ece",
+        "file_id": "06346483-5525-4eb3-aa47-e6a5103a493f",
+        "generated_at": "2026-10-14T23:44:39+00:00"
       }
     ],
     "hofer-at": [
@@ -17,10 +17,10 @@
         "file": "hofer-at/marken.json",
         "source": "marken",
         "source_url": "https://www.hofer.at/marken",
-        "product_count": 735,
-        "content_hash": "sha256:cf54e6082e190ea174ee5d939618c77f6823d28ebeecc40eb153e0160683b348",
-        "file_id": "2ff42810-1ab4-4d28-bad6-6bed9b882d10",
-        "generated_at": "2026-10-14T18:54:05+00:00"
+        "product_count": 704,
+        "content_hash": "sha256:5fd8ecf30003f220bd58528c112f819227a587dd9c80ddf1d922cc519c51f249",
+        "file_id": "137b1701-ba63-4342-a11d-3ae96ce68e40",
+        "generated_at": "2026-10-14T23:37:00+00:00"
       }
     ]
   }
