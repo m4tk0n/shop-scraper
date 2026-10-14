@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-13T23:12:17+00:00",
+        "generated_at": "2026-10-14T09:45:25+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-15",
         "product_count": 71,
-        "content_hash": "sha256:c9bc057bc10c4d48a9e533b21d21bc7b87bb0236b646cf9800af08466f95b254",
-        "file_id": "ba17775e-b8c3-4aff-8295-fff36918e60f",
-        "run_id": "20261013_231106-cc8b1fa9"
+        "content_hash": "sha256:0a377cba89c8781adc6526ef55a9146784344be7c84b6378c23f7e2daad3ab26",
+        "file_id": "28de27dd-7ee6-4b3a-abb3-4df197b94af7",
+        "run_id": "20261014_094407-087426bd"
     },
     "products": [
         {
@@ -338,11 +338,11 @@
         },
         {
             "store_product_id": "000000000000748894",
-            "brand": "LITTLE TOWN",
+            "brand": "TOYLINO",
             "name": "Aldi Supermarkt",
             "amount": "",
             "unit": "",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/little-town-aldi-supermarkt-000000000000748894",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/toylino-aldi-supermarkt-000000000000748894",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/0ff70715-b9ec-4d77-9319-e0ff73dbb9fa/Aldi%20Supermarkt",
             "category": "nonfood",
             "price": "24.99",
@@ -455,11 +455,11 @@
         {
             "store_product_id": "000000000000531502",
             "brand": "ACTIV ENERGY",
-            "name": "Batterien",
+            "name": "Batterien, AAA",
             "amount": "",
             "unit": "",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/activ-energy-batterien-000000000000531502",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/c6ac9504-e327-44fa-bc35-627763eae717/Batterien",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/teta-frida-000000000000531502",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/c6ac9504-e327-44fa-bc35-627763eae717/Batterien%20AAA",
             "category": "technika",
             "price": "7.99",
             "original_price": "",

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-13T23:10:26+00:00",
+        "generated_at": "2026-10-14T09:43:21+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-09",
         "product_count": 46,
-        "content_hash": "sha256:ec7c9fe03158566ebd55604943fb45979c6dbbd94c38d41742239e4a092d69aa",
-        "file_id": "86e074dd-dd95-4067-8a0a-73e6f09a79bf",
-        "run_id": "20261013_230726-f14eb5d5"
+        "content_hash": "sha256:66271fdf6e9abcdf31dec6ca3bc81cdfddd4058874e58f119c268588d5a0f112",
+        "file_id": "98c4e53a-e87a-4ed6-addd-df8a40de85f7",
+        "run_id": "20261014_093943-f43c187a"
     },
     "products": [
         {
@@ -44,11 +44,11 @@
         },
         {
             "store_product_id": "000000000000175059",
-            "brand": "GOLDLAND",
+            "brand": "SONNHOF",
             "name": "XXL Bodenhaltungseier",
             "amount": "",
             "unit": "",
-            "product_url": "https://www.hofer.at/produkt/goldland-xxl-bodenhaltungseier-000000000000175059",
+            "product_url": "https://www.hofer.at/produkt/sonnhof-xxl-bodenhaltungseier-000000000000175059",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/4f78f852-f6fd-44dc-97e1-9cd8a695a56c/XXL%20Bodenhaltungseier",
             "category": "nonfood",
             "price": "3.80",
@@ -104,8 +104,8 @@
             "store_product_id": "000000000000457627",
             "brand": "KINDER",
             "name": "Hohlfigur",
-            "amount": "",
-            "unit": "",
+            "amount": "35",
+            "unit": "g",
             "product_url": "https://www.hofer.at/produkt/kinder-hohlfigur-000000000000457627",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/c770c07f-63d0-48c9-8c36-3cc2fcdcf9fc/Hohlfigur",
             "category": "cokolady",
@@ -365,11 +365,11 @@
             "store_product_id": "000000000000667086",
             "brand": "HALLOWEEN",
             "name": "Jelly Beans Glücksrad",
-            "amount": "",
-            "unit": "",
+            "amount": "100",
+            "unit": "g",
             "product_url": "https://www.hofer.at/produkt/halloween-jelly-beans-gluecksrad-000000000000667086",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a3c610b6-4420-4ff3-8117-d7713a2e4e6d/Jelly%20Beans%20Glcksrad",
-            "category": "nonfood",
+            "category": "potraviny",
             "price": "3.29",
             "original_price": "",
             "comparison_price": "",

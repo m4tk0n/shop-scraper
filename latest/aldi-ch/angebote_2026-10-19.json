@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-13T23:12:41+00:00",
+        "generated_at": "2026-10-14T09:45:50+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-19",
         "product_count": 125,
-        "content_hash": "sha256:7b5a5ee6bb4b43d309974cf658e05bc897e0fb187ddea2091a4a8eaa427f356b",
-        "file_id": "dbc2bec1-8ffc-4899-90d8-d5100f6d62df",
-        "run_id": "20261013_231106-cc8b1fa9"
+        "content_hash": "sha256:ab4b9d4dd272c65ac11f3e1a5ffa52e3e54fde8713d42473f8d879a750198732",
+        "file_id": "7174fc47-921e-4398-8d47-0c40f0824cb3",
+        "run_id": "20261014_094407-087426bd"
     },
     "products": [
         {
@@ -2348,7 +2348,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/up2fashion-women-damen-komfort-booties-000000000000733711",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/8bc59644-08c7-43b3-98cd-81492bd89b36/DamenKomfortBooties",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/2a4cd0ff-86da-406f-ab57-8a88db5932a4/DamenKomfortBooties",
             "category": "nonfood",
             "price": "12.99",
             "original_price": "",
@@ -2377,7 +2377,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/home-creation-kokos-fussmatte-000000000000734178",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/3a939e81-422a-4172-90c2-47167d68acc4/KokosFussmatte",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/128b8b7c-bb84-4790-83d5-b6f1b3e8183c/KokosFussmatte",
             "category": "nonfood",
             "price": "4.99",
             "original_price": "",
@@ -3015,7 +3015,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/up2fashion-men-herren-lederguertel-000000000000742083",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/66823008-32f1-4c6c-b46b-2408a5bc19e3/HerrenLedergrtel",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/7272e817-486b-49ee-8953-6c440b967ac3/HerrenLedergrtel",
             "category": "nonfood",
             "price": "4.99",
             "original_price": "",
