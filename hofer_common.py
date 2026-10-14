@@ -245,7 +245,13 @@ def _hit(tokens, words):
 
 
 PRICE_RE = re.compile(r"(\d{1,3}(?:[.'’]\d{3})+|\d+)[,.](\d{2})(?!\d)")
-SIZE_RE = re.compile(r"^\s*(\d+(?:[.,]\d+)?(?:\s*[x×]\s*\d+(?:[.,]\d+)?)?)\s*(kg|g|ml|cl|l|stk|m|cm)?\s*(/\s*atg)?\s*$", re.I)
+SIZE_RE = re.compile(r"^\s*(\d+(?:[.,]\d+)?(?:\s*[x×]\s*\d+(?:[.,]\d+)?)?)\s*(kg|g|ml|cl|l|stk\.?|stück|m|cm)?\s*(/\s*atg)?\s*$", re.I)
+
+
+def norm_unit(u):
+    """'Stk.' / 'Stück' -> 'stk'; ostatní jednotky malými písmeny bez tečky."""
+    u = (u or "").lower().rstrip(".")
+    return "stk" if u in ("stk", "stück") else u
 
 
 def price(s):
@@ -264,10 +270,10 @@ def parse_size(s):
     approx = bool(re.search(r"ungef|\bca\b", s, re.I))
     m = SIZE_RE.match(s.replace("KG/ATG", "kg /atg").replace("G/ATG", "g /atg"))
     if m:
-        return m.group(1).replace(",", ".").replace(" ", ""), (m.group(2) or "").lower(), bool(m.group(3)), approx
-    m = re.search(r"(\d+(?:[.,]\d+)?)\s*(kg|g|ml|cl|l)\b", s, re.I)
+        return m.group(1).replace(",", ".").replace(" ", ""), norm_unit(m.group(2)), bool(m.group(3)), approx
+    m = re.search(r"(\d+(?:[.,]\d+)?)\s*(kg|g|ml|cl|l|stk)\b", s, re.I)
     if m:
-        return m.group(1).replace(",", "."), m.group(2).lower(), "atg" in s.lower(), approx
+        return m.group(1).replace(",", "."), norm_unit(m.group(2)), "atg" in s.lower(), approx
     return "", "", False, approx
 
 

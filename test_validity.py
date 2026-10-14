@@ -40,6 +40,16 @@ fl = hofer_flyer.parse_flyer(html, "tiefpreis", "u", T)
 for p in fl: print("    ", p["brand"], "|", p["name"], p["price"], p["valid_from"], p["valid_to"], p["validity_source"], p["validity_confidence"])
 eq("leták: 3 produkty s platností", [(p["valid_from"], p["valid_to"], p["validity_confidence"]) for p in fl],
    [("2026-10-12", "2026-10-15", "verified"), ("2026-10-12", "2026-10-15", "verified"), ("2026-10-09", "2026-11-05", "verified")])
+# 3b) alt texty: jednotka 'Stk.' a velikost s dalším textem; zboží bez značky
+for alt, exp in [("Avocados genussreif, 2 Stk., € 1,29", ("", "Avocados genussreif", "2", "stk")),
+                 ("Heidelbeeren, 150 g Schale, € 1,99", ("", "Heidelbeeren", "150", "g")),
+                 ("Heidelbeeren, 150 g, € 1,99", ("", "Heidelbeeren", "150", "g")),
+                 ("Äpfel lose aus Österreich, € 0,99", ("", "Äpfel lose aus Österreich", "1", "kg")),
+                 ("Äpfel, lose aus Österreich, per kg, € 0,99", ("Äpfel", "lose aus Österreich", "1", "kg")),
+                 ("Zwiebeln, 2 kg, € 1,49", ("", "Zwiebeln", "2", "kg")),
+                 ("Milka, Schokolade, 150 g, in verschiedenen Sorten erhältlich, € 1,49", ("Milka", "Schokolade", "150", "g"))]:
+    a = hofer_flyer.parse_alt(alt)
+    eq("alt " + alt[:30], (a["brand"], a["name"], a["amount"], a["unit"]), exp)
 # 4) výpis Preiswochen (text stránky + dlaždice)
 def tile(href, brand, name, price, extra=""):
     return f'<div class="product-tile"><a href="{href}"></a><div class="product-tile__brandname">{brand}</div><div class="product-tile__name">{name}</div><div data-test="product-tile__price"><span class="base-price__regular"><span>€ {price}</span></span></div>{extra}</div>'

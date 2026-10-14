@@ -11,7 +11,7 @@ from datetime import date
 
 from bs4 import BeautifulSoup
 
-from hofer_common import (SIZE_RE, amount_key, categorize, clean, derive_tags, make_product, outdir, parse_heading_range, price, run_batches, slug)
+from hofer_common import (SIZE_RE, amount_key, categorize, clean, derive_tags, make_product, norm_unit, outdir, parse_heading_range, price, run_batches, slug)
 from hofer_discover import get_discovery
 
 PAGES = {
@@ -19,8 +19,14 @@ PAGES = {
     "bier": "https://www.hofer.at/flugblatt/bier-aktionen",
 }
 VARIANT_TXT = "in verschiedenen Sorten erhältlich"
+# 'per kg', 'pro kg', 'je 100 g' jako samostatná část alt textu -> množství, na které platí cena
+PER_UNIT = re.compile(r"^(?:per|pro|je)\s+(\d+(?:[.,]\d+)?\s*)?(kg|g|l|ml|stk)\.?$", re.I)
+# zboží prodávané na váhu bez udání množství v alt textu: 'Äpfel lose aus Österreich' = cena za 1 kg
+LOOSE_RE = re.compile(r"\blose\b", re.I)
 PRICE_END = re.compile(r"(?:€\s*)?(\d+,\d{2})\s*$")
 DATE_RE = re.compile(r"(\d{1,2})\.\s?(\d{1,2})\.")
+# velikost na začátku části s dalším textem: '150 g Schale', '2 Stk. Packung'
+LEAD_SIZE = re.compile(r"^\s*(\d+(?:[.,]\d+)?(?:\s*[x×]\s*\d+(?:[.,]\d+)?)?)\s*(kg|g|ml|cl|l|stk\.?|stück)(?![a-zäöüß])", re.I)
 
 
 def section_dates(heading, today=None):
@@ -54,12 +60,18 @@ def parse_alt(alt):
         if part == VARIANT_TXT:
             variants = True
             continue
-        sm = SIZE_RE.match(part)
+        pu = PER_UNIT.match(part)
+        if pu and not amount:
+            amount, unit = (pu.group(1) or "1").replace(",", ".").replace(" ", ""), norm_unit(pu.group(2))
+            continue
+        sm = SIZE_RE.match(part) or LEAD_SIZE.match(part)
         if sm and sm.group(2) and not amount:
-            amount, unit = sm.group(1).replace(",", ".").replace(" ", ""), sm.group(2).lower()
+            amount, unit = sm.group(1).replace(",", ".").replace(" ", ""), norm_unit(sm.group(2))
             continue
         names.append(part)
     brand, name = (names[0], ", ".join(names[1:])) if len(names) >= 2 else ("", names[0] if names else "")
+    if not amount and LOOSE_RE.search(f"{brand} {name}"):
+        amount, unit = "1", "kg"
     return {"brand": brand, "name": name, "amount": amount, "unit": unit, "price": cur, "note": note, "variants": variants}
 
 
@@ -147,9 +159,11 @@ def resolve_ids(products, folder, pool=None):
 def add_original_prices(session, products, ocr):
     """Doplní original_price z obrázku letáku (OCR + kontrola proti procentu slevy)."""
     stats = {}
+    streak = 0                                   # obrázků po sobě bez procenta slevy
+    found = 0                                    # kolik původních cen se už našlo
     for i, p in enumerate(products, 1):
-        if i == 7 and stats.get("no_percent", 0) == 6:
-            print("  prvních 6 obrázků bez slevy, OCR původních cen se přeskakuje")
+        if streak >= 15 and not found:           # formát se asi změnil, OCR nemá smysl
+            print("  prvních 15 obrázků bez slevy, OCR původních cen se přeskakuje")
             break
         if not p["image_url"]:
             continue
@@ -162,7 +176,9 @@ def add_original_prices(session, products, ocr):
             orig, pct, src = None, None, f"error:{type(e).__name__}"
         if orig:
             p["original_price"] = f"{orig:.2f}"
+            found += 1
         k = src.split("(")[0].split(":")[0]
+        streak = streak + 1 if k == "no_percent" else 0
         stats[k] = stats.get(k, 0) + 1
         print(f"  [{i}/{len(products)}] {p['name'][:28]:28} {p['price']:>6} -> {p['original_price'] or '?':>6} ({pct}%) {src}", flush=True)
     print("  zdroje původních cen:", stats)
