@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-14T09:45:50+00:00",
+        "generated_at": "2026-10-14T13:23:22+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-19",
         "product_count": 125,
-        "content_hash": "sha256:ab4b9d4dd272c65ac11f3e1a5ffa52e3e54fde8713d42473f8d879a750198732",
-        "file_id": "7174fc47-921e-4398-8d47-0c40f0824cb3",
-        "run_id": "20261014_094407-087426bd"
+        "content_hash": "sha256:40e24a3fc34b4cc651df21fd1096671f9c4653b890bc1b3739002c7f33e0d142",
+        "file_id": "cf5334d3-8d72-4b6c-be35-5a875a280bc7",
+        "run_id": "20261014_132132-5ed9295f"
     },
     "products": [
         {
@@ -49,7 +49,7 @@
             "amount": "200",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/knoppers-minis-000000000000152881",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/635461af-6a2b-473a-a61a-9ae2edac7225/Minis",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/aa335427-7aab-435c-bd27-552072117f74/Minis",
             "category": "sladkosti",
             "price": "3.49",
             "original_price": "",
@@ -2435,7 +2435,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/up2fashion-women-damen-winter-loungehose-000000000000735353",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/156943e9-0ea3-4afd-bbc9-d1b1bb2bcaa1/DamenWinterLoungehose",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e58ac0b7-84ad-4373-a19f-cb110f3528e8/DamenWinterLoungehose",
             "category": "nonfood",
             "price": "9.99",
             "original_price": "",
@@ -2667,7 +2667,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/l-d-kindertaschenschirm-reflektierend-000000000000737495",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/b1bcc83c-3dca-4d21-ab54-c2ef89340be0/Kindertaschenschirm%20Reflektierend",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/fd5ee5b1-5b18-448a-a91c-8f87996184b3/Kindertaschenschirm%20Reflektierend",
             "category": "nonfood",
             "price": "4.99",
             "original_price": "",
@@ -2812,7 +2812,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/l-d-kinder-kleinkinder-thermoleggings-000000000000738617",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/cb33c7a3-ea1a-46fd-b6b6-adb82c9c8c5b/KinderKleinkinder%20Thermoleggings",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/aba5cf9a-2775-49e1-b2af-14390405e4a3/KinderKleinkinder%20Thermoleggings",
             "category": "nonfood",
             "price": "6.99",
             "original_price": "",
@@ -3073,7 +3073,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/lily-dan-kinder-thermo-jeans-maedchen-7429581588161431769129",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e9b3b347-e5d6-4639-a2c8-2092c5af2303/KinderThermoJeans%20Mdchen",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/28c6cb04-2802-45d1-985c-cba7f2248ea8/KinderThermoJeans%20Mdchen",
             "category": "textil",
             "price": "7.99",
             "original_price": "",
@@ -3271,7 +3271,7 @@
         },
         {
             "store_product_id": "000000000000751627",
-            "brand": "L&D",
+            "brand": "LILY & DAN",
             "name": "Kleinkinder-/Kinder-Hüttenfinken",
             "amount": "",
             "unit": "",

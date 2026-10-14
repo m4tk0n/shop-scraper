@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-13T23:10:26+00:00",
+        "generated_at": "2026-10-14T13:20:40+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-19",
         "product_count": 37,
-        "content_hash": "sha256:75bebdbe8bdda7045e6730a6c8e243cd73db0a0f8972df4e2a2dee51f66c9dbd",
-        "file_id": "251fe085-0bd6-4a62-b183-037f7c0fb471",
-        "run_id": "20261013_230726-f14eb5d5"
+        "content_hash": "sha256:77b91059d3e4c5bfbf62b83d83fc84b51f361d65fa4b0819979149da8c65f820",
+        "file_id": "aa732a31-da28-426b-8519-6873795c87a4",
+        "run_id": "20261014_131657-bbfbf9cb"
     },
     "products": [
         {
@@ -399,7 +399,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/l-d-kinder-taschenschirm-000000000000737495",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new%20%281%29",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/fd5ee5b1-5b18-448a-a91c-8f87996184b3/KinderTaschenschirm",
             "category": "nonfood",
             "price": "4.99",
             "original_price": "",
@@ -575,7 +575,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/l-d-kinder-kleinkinder-thermoleggings-000000000000738617",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new%20%281%29",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/aba5cf9a-2775-49e1-b2af-14390405e4a3/KinderKleinkinderThermoleggings",
             "category": "nonfood",
             "price": "6.99",
             "original_price": "",
