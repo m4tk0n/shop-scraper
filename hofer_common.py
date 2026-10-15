@@ -254,6 +254,17 @@ def norm_unit(u):
     return "stk" if u in ("stk", "stück") else u
 
 
+LIQUID_WORDS = ("spray", "duschgel", "duschcreme", "duschcrème", "shampoo", "spülung", "lotion", "spülmittel",
+                "weichspüler", "mundwasser", "flüssigseife")
+
+
+def fix_liquid_unit(brand, name, unit):
+    """Tekutiny (spreje, sprchové gely, šampony) se v letácích občas uvádějí v g; správně jsou v ml."""
+    if unit == "g" and any(t.endswith(w) or t.startswith(w) for t in tokens_of(brand, name) for w in LIQUID_WORDS):
+        return "ml"
+    return unit
+
+
 def price(s):
     m = PRICE_RE.search(s or "")
     if not m:

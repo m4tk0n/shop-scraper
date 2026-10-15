@@ -46,6 +46,8 @@ for alt, exp in [("Avocados genussreif, 2 Stk., € 1,29", ("", "Avocados genuss
                  ("Heidelbeeren, 150 g, € 1,99", ("", "Heidelbeeren", "150", "g")),
                  ("Äpfel lose aus Österreich, € 0,99", ("", "Äpfel lose aus Österreich", "1", "kg")),
                  ("Äpfel, lose aus Österreich, per kg, € 0,99", ("Äpfel", "lose aus Österreich", "1", "kg")),
+                 ("Axe, Bodyspray, 200 g, € 3,49", ("Axe", "Bodyspray", "200", "ml")),
+                 ("Dove, Deostick, 50 g, € 2,49", ("Dove", "Deostick", "50", "g")),
                  ("Zwiebeln, 2 kg, € 1,49", ("", "Zwiebeln", "2", "kg")),
                  ("Milka, Schokolade, 150 g, in verschiedenen Sorten erhältlich, € 1,49", ("Milka", "Schokolade", "150", "g"))]:
     a = hofer_flyer.parse_alt(alt)

@@ -11,7 +11,7 @@ from datetime import date
 
 from bs4 import BeautifulSoup
 
-from hofer_common import (SIZE_RE, amount_key, categorize, clean, derive_tags, make_product, norm_unit, outdir, parse_heading_range, price, run_batches, slug)
+from hofer_common import (SIZE_RE, amount_key, categorize, clean, derive_tags, fix_liquid_unit, make_product, norm_unit, outdir, parse_heading_range, price, run_batches, slug)
 from hofer_discover import get_discovery
 
 PAGES = {
@@ -72,6 +72,7 @@ def parse_alt(alt):
     brand, name = (names[0], ", ".join(names[1:])) if len(names) >= 2 else ("", names[0] if names else "")
     if not amount and LOOSE_RE.search(f"{brand} {name}"):
         amount, unit = "1", "kg"
+    unit = fix_liquid_unit(brand, name, unit)
     return {"brand": brand, "name": name, "amount": amount, "unit": unit, "price": cur, "note": note, "variants": variants}
 
 
