@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-15T14:17:39+00:00",
+        "generated_at": "2026-10-15T19:58:15+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/brot-und-backwaren/k/158816141856710104",
         "product_count": 93,
-        "content_hash": "sha256:a52ac5cb058e5743ab3bf6aed3048b52410980a99d21ccb449ccf423f53fc0d3",
-        "file_id": "6d6d6fc8-1045-4a6a-82f2-b7b8c9b849cc",
-        "run_id": "20261015_141642-906219c7"
+        "content_hash": "sha256:102cc35491cccadbfaf880c3a91349b5a1280c07d6d363f47dfa59a2a07e1d08",
+        "file_id": "3e4bea15-0d36-4e10-ad0d-7472b4c23d0b",
+        "run_id": "20261015_195724-240df65f"
     },
     "products": [
         {
@@ -656,11 +656,11 @@
         {
             "store_product_id": "000000000102563002",
             "brand": "GUTES VOM BÄCKER",
-            "name": "Strudelspezialitäten Apfel",
+            "name": "Strudelspezialitäten, Topfen",
             "amount": "350",
             "unit": "g",
-            "product_url": "https://www.hofer.at/produkt/gutes-vom-baecker-strudelspezialitaeten-apfel-000000000102563002",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/98b8890a-a3cc-4369-98a1-d25841bb8b06/Strudelspezialitten%20Apfel",
+            "product_url": "https://www.hofer.at/produkt/gutes-vom-baecker-strudelspezialitaeten-topfen-000000000102563002",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/98b8890a-a3cc-4369-98a1-d25841bb8b06/Strudelspezialitten%20Topfen",
             "category": "sladkosti",
             "price": "2.79",
             "original_price": "",
