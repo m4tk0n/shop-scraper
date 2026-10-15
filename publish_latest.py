@@ -3,10 +3,11 @@
 Soubor se přepíše jen když se změnil content_hash, takže commit obsahuje jen skutečné změny dat.
 
     python3 publish_latest.py [složka_s_výstupy] [cílová_složka] [--prune]
-      --prune   smaže v cílové složce soubory, které už v posledním běhu obchodu nejsou (např. den, který zmizel z menu)
+      --prune   smaže v cílové složce soubory, které už v posledním spuštění obchodu nejsou (např. den, který zmizel z menu)
+      --window=N  jedno spuštění = všechny běhy do N hodin od nejnovějšího (výchozí 3; Hofer, Aldi a značky jsou samostatné běhy)
 """
 import glob, json, os, re, shutil, sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from hofer_common import outdir
 
 NAME = re.compile(r"^(\d{8}_\d{6})_(hofer-at|aldi-ch)_(?!brands)([a-z0-9_\-]+)\.json$")
@@ -14,6 +15,15 @@ args = [a for a in sys.argv[1:] if not a.startswith("--")]
 src_dir = args[0] if args else outdir()
 dst_dir = args[1] if len(args) > 1 else "latest"
 prune = "--prune" in sys.argv
+window = timedelta(hours=next((float(a.split("=", 1)[1]) for a in sys.argv if a.startswith("--window=")), 3))
+
+
+def run_time(meta):
+    """Čas běhu z run_id ('20261015_043012-ab12cd34'); starší soubory bez run_id -> None."""
+    try:
+        return datetime.strptime(meta.get("run_id", "")[:15], "%Y%m%d_%H%M%S")
+    except ValueError:
+        return None
 
 newest = {}                                           # (obchod, zbytek názvu) -> (časové razítko, cesta, meta)
 for f in glob.glob(os.path.join(src_dir, "*.json")):
@@ -34,11 +44,13 @@ for store in sorted({k[0] for k in newest}):
     sdir = os.path.join(dst_dir, store)
     os.makedirs(sdir, exist_ok=True)
     items = {k: v for k, v in newest.items() if k[0] == store}
-    last_run = max(v[2].get("run_id", "") for v in items.values())        # poslední běh obchodu
+    times = [t for t in (run_time(v[2]) for v in items.values()) if t]
+    last_run = max(times, default=None)                                    # poslední běh obchodu
     keep = {}
     for (st, rest), (ts, f, meta) in sorted(items.items()):
-        if prune and meta.get("run_id", "") != last_run:
-            continue                                                       # zdroj, který v posledním běhu nebyl
+        t = run_time(meta)
+        if prune and last_run and (t is None or last_run - t > window):
+            continue                                                       # zdroj, který v posledním spuštění nebyl
         keep[rest] = (f, meta)
         target = os.path.join(sdir, f"{rest}.json")
         old_hash = None
