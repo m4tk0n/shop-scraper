@@ -1,0 +1,200 @@
+name: scrape
+
+on:
+  schedule:
+    - cron: "30 4 * * *"  # denně 04:30 UTC (06:30 letního času / 05:30 zimního času)
+    - cron: "30 16 * * *" # denně 16:30 UTC (18:30 letního času / 17:30 zimního času)
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: "Co stáhnout (vse = jako plánovaný běh)"
+        type: choice
+        default: vse
+        options:
+          - vse        # Hofer + Aldi Suisse + značky
+          - akce       # jen akce: Hofer (angebote, tiefpreis, bier, preiswochen) + Aldi angebote
+          - hofer      # celý Hofer
+          - aldi       # celé Aldi Suisse
+          - znacky     # jen značky (Hofer + Aldi Suisse)
+          - vlastni    # vlastní zdroje z polí níže
+      aldi_all:
+        description: "Aldi Suisse: celý sortiment (stovky požadavků; pro vse a aldi)"
+        type: boolean
+        default: false
+      hofer_sources:
+        description: "Jen pro 'vlastni' - zdroje Hofer oddělené mezerou, např. tiefpreis bier sortiment"
+        type: string
+        default: ""
+      aldi_sources:
+        description: "Jen pro 'vlastni' - zdroje Aldi oddělené mezerou, např. angebote suessigkeiten-snacks"
+        type: string
+        default: ""
+      brands:
+        description: "Značky oddělené čárkou, např. HARIBO, KÄGI (prázdné = celý seznam; pro vse, znacky, vlastni)"
+        type: string
+        default: ""
+      food_only:
+        description: "Jen potraviny, nápoje a sladkosti (bez ne-potravin)"
+        type: boolean
+        default: false
+      no_ocr:
+        description: "Hofer: bez OCR původních cen (rychlejší)"
+        type: boolean
+        default: false
+      dry_run:
+        description: "Zkušební běh: nenahrávat na server a necommitovat (výstup zůstane jen v artefaktu)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+env:
+  FTP_HOST: ${{ secrets.FTP_HOST }}
+  FTP_USER: ${{ secrets.FTP_USER }}
+  FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+  FTP_DIR: ${{ vars.FTP_DIR }}
+  FTP_TLS: ${{ vars.FTP_TLS }}
+  FTP_PORT: ${{ vars.FTP_PORT }}
+  FTP_KEEP_DAYS: ${{ vars.FTP_KEEP_DAYS }}
+  BRANDS_URL: ${{ vars.BRANDS_URL }}
+  BRANDS_TOKEN: ${{ secrets.BRANDS_TOKEN }}
+  # volby ručního spuštění (u plánovaného běhu jsou prázdné = běží všechno jako dřív)
+  SCOPE: ${{ inputs.scope || 'vse' }}
+  ALDI_ALL: ${{ inputs.aldi_all && 'yes' || 'no' }}
+  FOOD_ONLY: ${{ inputs.food_only && 'yes' || 'no' }}
+  NO_OCR: ${{ inputs.no_ocr && 'yes' || 'no' }}
+  DRY_RUN: ${{ inputs.dry_run && 'yes' || 'no' }}
+  HOFER_SOURCES: ${{ inputs.hofer_sources }}
+  ALDI_SOURCES: ${{ inputs.aldi_sources }}
+  BRANDS_INPUT: ${{ inputs.brands }}
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Plán běhu
+        id: plan
+        run: |
+          # text z formuláře se čistí na bezpečné znaky, než se dostane do příkazové řádky
+          san() { echo "$1" | tr ',;' '  ' | tr -cd 'a-zA-Z0-9_ -' | tr -s ' ' | sed 's/^ //;s/ $//'; }
+          h=0; a=0; m=0; hargs=""; aargs=""; prune=0
+          case "$SCOPE" in
+            vse)     h=1; a=1; m=1; prune=1 ;;
+            akce)    h=1; a=1; hargs="angebote tiefpreis bier preiswochen"; aargs="angebote" ;;
+            hofer)   h=1 ;;
+            aldi)    a=1 ;;
+            znacky)  m=1 ;;
+            vlastni)
+              hargs="$(san "$HOFER_SOURCES")"; aargs="$(san "$ALDI_SOURCES")"
+              if [ -n "$hargs" ]; then h=1; fi
+              if [ -n "$aargs" ]; then a=1; fi
+              if [ -n "$BRANDS_INPUT" ]; then m=1; fi
+              if [ "$h$a$m" = "000" ]; then echo "Pro 'vlastni' vyplň aspoň jedno z polí (Hofer, Aldi, značky)."; exit 1; fi ;;
+            *) echo "Neznámý rozsah: $SCOPE"; exit 1 ;;
+          esac
+          if [ "$a" = 1 ] && [ -z "$aargs" ] && [ "$ALDI_ALL" = yes ]; then aargs="all"; fi
+          ocr=0
+          if [ "$h" = 1 ] && [ "$NO_OCR" != yes ]; then ocr=1; fi
+          {
+            echo "hofer=$h"; echo "aldi=$a"; echo "marken=$m"
+            echo "hofer_args=$hargs"; echo "aldi_args=$aargs"
+            echo "ocr=$ocr"; echo "prune=$prune"
+          } >> "$GITHUB_OUTPUT"
+          {
+            echo "### Plán běhu"
+            echo "- rozsah: \`$SCOPE\`, zkušební běh: $DRY_RUN, jen potraviny: $FOOD_ONLY, bez OCR: $NO_OCR"
+            echo "- Hofer: $h (\`${hargs:-vše}\`), Aldi Suisse: $a (\`${aargs:-výchozí}\`), značky: $m"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Tesseract (OCR původních cen)
+        if: steps.plan.outputs.ocr == '1'
+        run: sudo apt-get update && sudo apt-get install -y tesseract-ocr
+
+      - name: Python závislosti
+        run: pip install -r requirements.txt
+
+      - name: Přístup na weby (jen informativně)
+        run: python check_access.py
+        continue-on-error: true
+
+      - name: Spojení se serverem (jen informativně)
+        if: env.FTP_HOST != '' && env.DRY_RUN != 'yes'
+        run: python upload_ftp.py --test
+        continue-on-error: true
+
+      - name: Hofer
+        id: hofer
+        if: steps.plan.outputs.hofer == '1'
+        run: python hofer_all.py ${{ steps.plan.outputs.hofer_args }} ${{ inputs.food_only && '--food' || '' }} ${{ inputs.no_ocr && '--no-ocr' || '' }}
+        continue-on-error: true
+
+      - name: Aldi Suisse
+        id: aldi
+        if: steps.plan.outputs.aldi == '1'
+        run: python aldi_ch.py ${{ steps.plan.outputs.aldi_args }} ${{ inputs.food_only && '--food' || '' }}
+        continue-on-error: true
+
+      - name: Značky (Hofer + Aldi Suisse)
+        id: marken
+        if: steps.plan.outputs.marken == '1'
+        run: |
+          args=()
+          IFS=',' read -ra raw <<< "$BRANDS_INPUT"
+          for b in "${raw[@]}"; do
+            b="$(echo "$b" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')"
+            if [ -n "$b" ]; then args+=("$b"); fi
+          done
+          if [ "$FOOD_ONLY" = yes ]; then args+=(--food); fi
+          python brands_scrape.py "${args[@]}"
+        continue-on-error: true
+
+      - name: Kontrola výstupu
+        run: python check_output.py --latest
+
+      - name: Nahrát změněné soubory na server
+        id: upload
+        if: env.FTP_HOST != '' && env.DRY_RUN != 'yes'
+        run: python upload_ftp.py hofer_data
+        continue-on-error: true
+
+      - name: Publikovat nejnovější data do repozitáře
+        if: env.DRY_RUN != 'yes'
+        # --prune jen při úplném běhu: částečný běh by jinak smazal zdroje, které se nestahovaly
+        run: python publish_latest.py hofer_data latest ${{ steps.plan.outputs.prune == '1' && '--prune' || '' }}
+
+      - name: Uložit celý výstup jako artefakt
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: output
+          path: hofer_data/
+          retention-days: 30
+          if-no-files-found: ignore
+
+      - name: Commit změněných dat
+        if: env.DRY_RUN != 'yes'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add latest
+          git diff --cached --quiet || git commit -m "Data $(date -u +%F)"
+          git push
+
+      - name: Označit běh jako neúspěšný, když selhal obchod, značky nebo nahrání
+        if: steps.hofer.outcome == 'failure' || steps.aldi.outcome == 'failure' || steps.marken.outcome == 'failure' || steps.upload.outcome == 'failure'
+        run: |
+          echo "Hofer: ${{ steps.hofer.outcome }}, Aldi Suisse: ${{ steps.aldi.outcome }}, značky: ${{ steps.marken.outcome }}, nahrání na server: ${{ steps.upload.outcome }}"
+          exit 1
