@@ -25,8 +25,8 @@ def _in(f, day):
     return bool(f["valid_from"] and f["valid_to"] and f["valid_from"] <= day <= f["valid_to"])
 
 
-def _same(f, t):
-    if f["price"] != t["price"]:
+def _same(f, t, price=True):
+    if price and f["price"] != t["price"]:
         return False
     if _n(f["name"]) == _n(t["name"]):
         if f["brand"] and t["brand"] and _n(f["brand"]) != _n(t["brand"]):
@@ -42,26 +42,34 @@ def link(flyer_items, tile_items):
     """Obousměrně: ID+URL -> položka letáku, valid_from/valid_to -> dlaždice. Jen jednoznačné shody."""
     idx = defaultdict(list)
     for f in flyer_items:
-        if f["valid_from"] and f["valid_to"] and f["price"]:
-            for k in {_n(f["name"]), _full(f)}:
-                idx[k].append(f)
+        for k in {_n(f["name"]), _full(f)}:
+            idx[k].append(f)
     stats = {"id": 0, "validity": 0, "ambiguous": 0}
+    ids = defaultdict(dict)                                  # položka letáku -> {ID: dlaždice}
     for t in tile_items:
         cands = {id(f): f for k in {_n(t["name"]), _full(t)} for f in idx.get(k, [])}
+        # 1) ID: stejný produkt (značka, název, množství), akční cena z letáku se může lišit od běžné na webu
+        if t["store_product_id"] and t["product_url"]:
+            for f in cands.values():
+                if not f["store_product_id"] and _same(f, t, price=False):
+                    ids[id(f)][t["store_product_id"]] = (f, t)
+        # 2) platnost: stejná cena a akce právě platí
         day = t["valid_from"] or t["source_date"]
-        c = [f for f in cands.values() if _same(f, t) and _in(f, day)]
+        c = [f for f in cands.values() if f["valid_from"] and f["valid_to"] and _same(f, t) and _in(f, day)]
         if not c:
             continue
         if len({(f["valid_from"], f["valid_to"]) for f in c}) > 1:
             stats["ambiguous"] += 1
             continue
-        f = c[0]
         if not t["valid_to"]:
+            f = c[0]
             t["valid_to"] = f["valid_to"]
             t["valid_from"] = t["valid_from"] or f["valid_from"]
             t["validity_source"], t["validity_confidence"], t["validity_type"] = "product_group", "matched", "promo"
             stats["validity"] += 1
-        if t["store_product_id"] and t["product_url"] and not f["store_product_id"]:
+    for found in ids.values():                               # ID jen když je jednoznačné
+        if len(found) == 1:
+            f, t = next(iter(found.values()))
             f["store_product_id"], f["product_url"] = t["store_product_id"], t["product_url"]
             stats["id"] += 1
     return stats

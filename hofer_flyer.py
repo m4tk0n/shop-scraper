@@ -2,12 +2,13 @@
 
     python3 hofer_flyer.py                 # tiefpreis + bier
     python3 hofer_flyer.py bier            # jen vybraný
-    python3 hofer_flyer.py --no-ocr        # bez OCR původních cen
+    python3 hofer_flyer.py --no-ocr        # bez OCR původních cen a značek
     python3 hofer_flyer.py --food
 """
 import re
 import time
 from datetime import date
+from difflib import SequenceMatcher
 
 from bs4 import BeautifulSoup
 
@@ -18,7 +19,8 @@ PAGES = {
     "tiefpreis": "https://www.hofer.at/flugblatt/tiefpreis-aktionen",
     "bier": "https://www.hofer.at/flugblatt/bier-aktionen",
 }
-VARIANT_TXT = "in verschiedenen Sorten erhältlich"
+# 'in verschiedenen Sorten erhältlich' i s překlepy z letáku ('in verschiedene Sorten', 'erhältich') a bez 'erhältlich'
+VARIANT_RE = re.compile(r"\s*,?\s*in\s+verschieden\w*\s+Sorten(?:\s+erh\w*)?", re.I)
 # 'per kg', 'pro kg', 'je 100 g' jako samostatná část alt textu -> množství, na které platí cena
 PER_UNIT = re.compile(r"^(?:per|pro|je)\s+(\d+(?:[.,]\d+)?\s*)?(kg|g|l|ml|stk)\.?$", re.I)
 # zboží prodávané na váhu bez udání množství v alt textu: 'Äpfel lose aus Österreich' = cena za 1 kg
@@ -57,9 +59,11 @@ def parse_alt(alt):
     variants = False
     names = []
     for part in [p.strip().rstrip("*").strip() for p in re.split(r",\s+", rest) if p.strip()]:
-        if part == VARIANT_TXT:
+        if VARIANT_RE.search(part):
             variants = True
-            continue
+            part = VARIANT_RE.sub("", part).strip(" ,")
+            if not part:
+                continue
         pu = PER_UNIT.match(part)
         if pu and not amount:
             amount, unit = (pu.group(1) or "1").replace(",", ".").replace(" ", ""), norm_unit(pu.group(2))
@@ -94,8 +98,6 @@ def parse_flyer(html, source, url, today=None):
         alt = el.get("alt") or ""
         if not in_section or "aldiprodeu" not in src or not alt:
             continue
-        if valid_to and valid_to < today.isoformat():
-            continue                                     # skupina letáku, která už skončila
         a = parse_alt(alt)
         if not a or not a["name"]:
             continue
@@ -129,6 +131,56 @@ def _norm(s):
     return re.sub(r"[^a-zäöüß0-9]+", " ", s).strip()
 
 
+# ---------- značka: alt text ji občas od názvu neoddělí ('Milsani Gouda'), obrázek ano ----------
+EXTRA_BRANDS = {"gösser", "puntigamer", "ottakringer", "wieselburger", "zipfer", "stiegl", "hirter", "schwechater", "egger",
+                "corona", "heineken", "budweiser", "paulaner", "erdinger", "franziskaner", "warsteiner", "krombacher",
+                "desperados", "guinness", "kozel", "asahi", "schladminger", "villacher", "edelweiss", "freistädter"}
+NOT_BRANDS = {"", "bio", "vegan"}                       # označení, ne značky
+
+
+def _fold(s):
+    s = (s or "").lower()
+    for a, b in (("ä", "a"), ("ö", "o"), ("ü", "u"), ("ß", "ss"), ("é", "e"), ("è", "e")):
+        s = s.replace(a, b)
+    return re.sub(r"[^a-z0-9]+", "", s)
+
+
+def apply_brand(p, hint):
+    """Značka přečtená z obrázku (OCR) platí, jen když sedí na začátek názvu z alt textu ('Milsani Gouda' -> Milsani | Gouda)."""
+    toks = p["name"].split()
+    h = _fold(hint)
+    if not h:
+        return False
+    for n in range(1, min(3, len(toks) - 1) + 1):
+        cand = _fold("".join(toks[:n]))
+        if cand == h or SequenceMatcher(None, cand, h).ratio() >= 0.86:
+            p["brand"], p["name"] = " ".join(toks[:n]), " ".join(toks[n:])
+            return True
+    return False
+
+
+def known_brands(folder, pool=None):
+    """Značky, které už známe z webu (dlaždice) a z našich seznamů."""
+    from hofer_brands import KNOWN_BRANDS, OWN_BRANDS, latest_files
+    from hofer_common import BRAND_CATEGORY, SWEET_BRANDS
+    out = set(KNOWN_BRANDS) | set(OWN_BRANDS) | set(BRAND_CATEGORY) | set(SWEET_BRANDS) | EXTRA_BRANDS
+    for _, m, ps in latest_files(folder):
+        if m["source"] not in ("tiefpreis", "bier"):
+            out |= {p["brand"] for p in ps if p["brand"]}
+    out |= {p["brand"] for p in (pool or []) if p["brand"]}
+    return {_norm(b) for b in out} - NOT_BRANDS
+
+
+def split_known(p, known):
+    """Záloha bez OCR: název začíná známou značkou ('Sonnhof Rindsgulasch' -> Sonnhof | Rindsgulasch)."""
+    toks = p["name"].split()
+    for n in range(min(3, len(toks) - 1), 0, -1):
+        if _norm(" ".join(toks[:n])) in known:
+            p["brand"], p["name"] = " ".join(toks[:n]), " ".join(toks[n:])
+            return True
+    return False
+
+
 def resolve_ids(products, folder, pool=None):
     """Doplní skutečné 18místné ID (číslo zboží) ze zdrojů s dlaždicemi. Číslo obrázku z letáku ID není."""
     from hofer_brands import latest_files
@@ -159,24 +211,32 @@ def resolve_ids(products, folder, pool=None):
     return found
 
 
-def add_original_prices(session, products, ocr):
-    """Doplní original_price z obrázku letáku (OCR + kontrola proti procentu slevy)."""
+def add_original_prices(session, products, ocr, brand_ocr=None):
+    """Doplní original_price z obrázku letáku (OCR + kontrola proti procentu slevy).
+    Při tom (obrázek se stahuje jen jednou) doplní značku u položek, kde ji alt text neoddělil."""
     stats = {}
     streak = 0                                   # obrázků po sobě bez procenta slevy
     found = 0                                    # kolik původních cen se už našlo
+    skip_price = False
+    brands = 0
     for i, p in enumerate(products, 1):
-        if streak >= 15 and not found:           # formát se asi změnil, OCR nemá smysl
+        if streak >= 15 and not found and not skip_price:   # formát se asi změnil, OCR cen nemá smysl
             print("  prvních 15 obrázků bez slevy, OCR původních cen se přeskakuje")
-            break
-        if not p["image_url"]:
+            skip_price = True
+        need_brand = bool(brand_ocr) and not p["brand"]
+        if (skip_price and not need_brand) or not p["image_url"]:
             continue
         try:
             r = session.get(p["image_url"] + "?wid=1460", timeout=30)
             if r.status_code != 200:
                 raise RuntimeError(r.status_code)
-            orig, pct, src = ocr(r.content, p["price"])
+            orig, pct, src = (None, None, "skipped") if (skip_price or not ocr) else ocr(r.content, p["price"])
+            if need_brand and apply_brand(p, brand_ocr(r.content)):
+                brands += 1
         except Exception as e:
             orig, pct, src = None, None, f"error:{type(e).__name__}"
+        if skip_price or not ocr:
+            continue
         if orig:
             p["original_price"] = f"{orig:.2f}"
             found += 1
@@ -184,18 +244,22 @@ def add_original_prices(session, products, ocr):
         streak = streak + 1 if k == "no_percent" else 0
         stats[k] = stats.get(k, 0) + 1
         print(f"  [{i}/{len(products)}] {p['name'][:28]:28} {p['price']:>6} -> {p['original_price'] or '?':>6} ({pct}%) {src}", flush=True)
-    print("  zdroje původních cen:", stats)
+    print("  zdroje původních cen:", stats, "| značka z obrázku:", brands)
 
 
 def collect(session, opts):
     pages = get_discovery(session, opts)["flyers"] or PAGES
     names = opts["args"] or list(pages)
-    ocr = None
+    ocr = brand_ocr = None
     if not opts.get("no_ocr"):
         try:
             from hofer_ocr import original_price as ocr
         except Exception as e:
             print(f"OCR vypnuto ({e}); original_price zůstane prázdné.")
+        try:
+            from hofer_brandocr import brand_line as brand_ocr
+        except Exception as e:
+            print(f"OCR značek vypnuto ({e}); značka se hledá jen podle slovníku.")
     for n in names:
         if n not in pages:
             print("Neznámý zdroj:", n, "| nalezené:", list(pages))
@@ -208,10 +272,13 @@ def collect(session, opts):
             continue
         products = parse_flyer(r.text, n, url)
         print(f"  nalezeno {len(products)} produktů")
+        if (ocr or brand_ocr) and products:
+            add_original_prices(session, products, ocr, brand_ocr)
+        known = known_brands(outdir(), opts.get("pool"))
+        split = sum(1 for p in products if not p["brand"] and split_known(p, known))
+        print(f"  značka oddělená od názvu podle slovníku: {split}; stále bez značky: {sum(1 for p in products if not p['brand'])}")
         found = resolve_ids(products, outdir(), opts.get("pool"))
         print(f"  ID produktu doplněno z ostatních zdrojů: {found} z {len(products)} (zbytek zůstává prázdný)")
-        if ocr and products:
-            add_original_prices(session, products, ocr)
         yield {"source": n, "source_url": url, "label": "", "products": products}
 
 
