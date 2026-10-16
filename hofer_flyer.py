@@ -94,6 +94,8 @@ def parse_flyer(html, source, url, today=None):
         alt = el.get("alt") or ""
         if not in_section or "aldiprodeu" not in src or not alt:
             continue
+        if valid_to and valid_to < today.isoformat():
+            continue                                     # skupina letáku, která už skončila
         a = parse_alt(alt)
         if not a or not a["name"]:
             continue

@@ -149,9 +149,14 @@ def parse_all_pages(session, url, source, source_url, source_date, theme_map=Non
     return out
 
 
-def collect_days(session, day_url, dates, themes, source="angebote"):
-    """Denní nabídky. day_url(datum) -> adresa stránky; themes: {datum: [témata]}."""
+def collect_days(session, day_url, dates, themes, source="angebote", skip_past=True):
+    """Denní nabídky. day_url(datum) -> adresa stránky; themes: {datum: [témata]}.
+    skip_past: dny před dneškem se nestahují (web je po skončení dne může zobrazit jinak a přepsal by se starší, správný stav)."""
+    today = date.today().isoformat()
     for d in dates:
+        if skip_past and d < today:
+            print(f"  {d}: minulý den, přeskakuji")
+            continue
         url = day_url(d)
         base_items = parse_all_pages(session, url, source, url, d)
         if not base_items:
@@ -181,7 +186,9 @@ def collect(session, opts):
         print("Angebote: žádné dny nenalezeny.")
         return
     print("Angebote dny:", dates)
-    yield from collect_days(session, lambda d: f"{BASE}/angebote/{d}", dates, themes)
+    # ručně zadané dny (python hofer_angebote.py 2026-10-12) se stáhnou vždy
+    yield from collect_days(session, lambda d: f"{BASE}/angebote/{d}", dates, themes,
+                            skip_past=not opts["args"])
 
 
 if __name__ == "__main__":

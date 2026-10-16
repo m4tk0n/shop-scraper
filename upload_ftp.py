@@ -27,6 +27,7 @@ from datetime import datetime, timedelta
 
 NAME = re.compile(r"^(\d{8})_(\d{6})_(hofer-at|aldi-ch)_(?!brands)([a-z0-9_\-]+)\.json$")
 MANIFEST = "manifest.json"
+DAY = re.compile(r"_(\d{4}-\d{2}-\d{2})$")        # denní zdroje: angebote_2026-10-12
 
 
 def env(name, default=""):
@@ -154,6 +155,10 @@ def main(argv):
     uploaded = skipped = 0
     for key in sorted(local):
         stamp, path = local[key]
+        dm = DAY.search(key)
+        if dm and dm.group(1) < datetime.now().strftime("%Y-%m-%d") and key in files:
+            skipped += 1                                 # minulý den už na serveru je, nepřepisuje se
+            continue
         raw = open(path, "rb").read()
         meta = json.loads(raw)["meta"]
         if files.get(key, {}).get("content_hash") == meta.get("content_hash") and meta.get("content_hash"):
