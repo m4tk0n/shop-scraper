@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-15T19:58:01+00:00",
+        "generated_at": "2026-10-16T09:12:16+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-22",
         "product_count": 25,
-        "content_hash": "sha256:f8fd30190e8d50e7bea14b83eb476cd9e70f5d4b48e907eb8172d9b02d33dd71",
-        "file_id": "a187c22f-30ba-4d5d-94b2-3ecb1a1f0434",
-        "run_id": "20261015_195724-240df65f"
+        "content_hash": "sha256:e2b385c1800498bd84d74f9ead464c2afff63e3fd46b084835298f268503a465",
+        "file_id": "b4e11f6e-dc8f-400a-8938-2fe2f9f49082",
+        "run_id": "20261016_091146-e6427b95"
     },
     "products": [
         {
@@ -132,11 +132,11 @@
         {
             "store_product_id": "000000000000572127",
             "brand": "L'ORÉAL PARIS",
-            "name": "Elvital Shampoo",
+            "name": "XXL Elvital Shampoo",
             "amount": "",
             "unit": "",
-            "product_url": "https://www.hofer.at/produkt/l-oreal-paris-elvital-shampoo-000000000000572127",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/b1bfb494-e190-42d5-ad02-98683acfeea2/Elvital%20Shampoo",
+            "product_url": "https://www.hofer.at/produkt/l-oreal-paris-xxl-elvital-shampoo-000000000000572127",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/b4ed69ea-e98e-42ce-a0fa-bf075c6082ff/XXL%20Elvital%20Shampoo",
             "category": "hygiena",
             "price": "8.99",
             "original_price": "",

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-15T20:01:06+00:00",
+        "generated_at": "2026-10-16T09:14:45+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-15",
         "product_count": 71,
-        "content_hash": "sha256:fc60a3a5d324dff78bb891a691595e2181deefdd9451e3748aa80dee34d18015",
-        "file_id": "71558cb5-21cd-4df6-8208-08c31d6946d7",
-        "run_id": "20261015_200013-a9a34a13"
+        "content_hash": "sha256:632912a7805facac4973f467c232d02316d3bb43192820dbcdacac111b9b2302",
+        "file_id": "dbde6430-cecd-4093-ad46-972aa6329815",
+        "run_id": "20261016_091355-1547d248"
     },
     "products": [
         {
@@ -482,13 +482,13 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "000000000000568909",
+            "store_product_id": "000000000568909003",
             "brand": "ALWAYS",
-            "name": "Discreet Inkontinenzeinlagen",
+            "name": "Discreet Inkontinenzeinlagen, long",
             "amount": "",
             "unit": "",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/always-discreet-inkontinenzeinlagen-000000000000568909",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/116b2100-392c-4671-9f8b-08d2e57fd4f9/Discreet%20Inkontinenzeinlagen",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/always-discreet-inkontinenzeinlagen-long-000000000568909003",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/d7766bef-402a-4aac-8a66-4a54cf81fd73/Discreet%20Inkontinenzeinlagen%20long",
             "category": "hygiena",
             "price": "9.49",
             "original_price": "",
@@ -1184,7 +1184,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/casalux-schranklicht-000000000000738887",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/bb6e69da-fbaa-4697-8c1e-c99e1f19f641/Schranklicht",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/c72d0bf9-ab27-439c-8437-924b0d4cfc94/Schranklicht",
             "category": "nabytek",
             "price": "5.99",
             "original_price": "",

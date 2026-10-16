@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-15T20:01:42+00:00",
+        "generated_at": "2026-10-16T09:15:19+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-22",
         "product_count": 30,
-        "content_hash": "sha256:f07e0d6e22fb10053c4cf5b55ee2748b268f8e8014300dbcfae7c11d2934df1a",
-        "file_id": "225c63fb-adfc-4a4a-b818-7f72362a8117",
-        "run_id": "20261015_200013-a9a34a13"
+        "content_hash": "sha256:cb66af7a3b9547f9be77a94d463df06cab139cff32c67ff34a598ccd24f07ecb",
+        "file_id": "b45a50f3-a586-44a2-9087-d666609cf49b",
+        "run_id": "20261016_091355-1547d248"
     },
     "products": [
         {
@@ -199,7 +199,7 @@
             "amount": "1",
             "unit": "kg",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/country-s-best-hirschschnitzel-000000000000697314",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new-2",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/4732461e-4e53-4f28-85be-268fa6227c6f/Hirschschnitzel",
             "category": "maso",
             "price": "27.90",
             "original_price": "",
