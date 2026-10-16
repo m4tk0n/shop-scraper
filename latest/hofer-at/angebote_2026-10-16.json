@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-15T14:17:09+00:00",
+        "generated_at": "2026-10-16T19:08:51+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-16",
         "product_count": 45,
-        "content_hash": "sha256:e4cf79874c3e62653237eb4d86a7bd2a09eb2776b4e40cdb8554fd79e7a0a2d6",
-        "file_id": "f9d3b879-9b9d-44f8-8b7b-8b833fdc04a9",
-        "run_id": "20261015_141642-906219c7"
+        "content_hash": "sha256:6ded2c763ca76cefbbacfff3b1aea209678d7f7f9063f7c9989c787c9761fac9",
+        "file_id": "442ad342-7049-4f5f-84f9-05bb2a2344f0",
+        "run_id": "20261016_190544-d9c4ef33"
     },
     "products": [
         {
@@ -317,7 +317,7 @@
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-16",
-            "valid_to": "",
+            "valid_to": "2026-10-17",
             "source_date": "2026-10-16",
             "theme": "",
             "tags": [],
@@ -328,8 +328,8 @@
             "variants": false,
             "source": "angebote",
             "type": "offer",
-            "validity_source": "product",
-            "validity_confidence": "start_only",
+            "validity_source": "product_group",
+            "validity_confidence": "matched",
             "validity_type": "promo"
         },
         {

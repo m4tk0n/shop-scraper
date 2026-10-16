@@ -1,22 +1,22 @@
 {
     "meta": {
-        "generated_at": "2026-10-15T20:00:12+00:00",
+        "generated_at": "2026-10-16T19:08:51+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
         "source": "tiefpreis",
         "type": "offer",
         "source_url": "https://www.hofer.at/flugblatt/tiefpreis-aktionen",
-        "product_count": 68,
-        "content_hash": "sha256:e3a1e476d2b48f1b3848982b24acce67b46c630611e2978d151b678736344b51",
-        "file_id": "b2cbd0f8-9db6-4f0f-b87f-f8d9c6e94805",
-        "run_id": "20261015_195724-240df65f"
+        "product_count": 65,
+        "content_hash": "sha256:82569e35712d16d2dac73efd3e0ddb9edf6029f53763206dc5eb73af9beebd8f",
+        "file_id": "71b857ec-784e-455a-8b34-e2fbf3d44d80",
+        "run_id": "20261016_190544-d9c4ef33"
     },
     "products": [
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Suppengemüse aus Österreich",
+            "brand": "Suppengemüse",
+            "name": "aus Österreich",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -28,7 +28,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -59,7 +59,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -90,7 +90,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -121,7 +121,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -152,7 +152,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion",
@@ -170,12 +170,12 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "",
-            "brand": "",
-            "name": "Sonnhof Rindsgulasch",
+            "store_product_id": "000000000000510738",
+            "brand": "Sonnhof",
+            "name": "Rindsgulasch",
             "amount": "",
             "unit": "",
-            "product_url": "",
+            "product_url": "https://www.hofer.at/produkt/sonnhof-rindsgulasch-000000000000510738",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/731275_KW43_FrSa",
             "category": "maso",
             "price": "6.59",
@@ -184,7 +184,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -203,7 +203,7 @@
         {
             "store_product_id": "",
             "brand": "Genuss 100% aus Österreich",
-            "name": "Sacherwürstel, in verschiedenene Sorten erhältlich",
+            "name": "Sacherwürstel",
             "amount": "360",
             "unit": "g",
             "product_url": "",
@@ -215,7 +215,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -224,7 +224,7 @@
             "deposit_type": "",
             "approx_amount": false,
             "drained_weight": false,
-            "variants": false,
+            "variants": true,
             "source": "tiefpreis",
             "type": "offer",
             "validity_source": "product_group",
@@ -246,7 +246,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -264,8 +264,8 @@
         },
         {
             "store_product_id": "000000000000724949",
-            "brand": "",
-            "name": "XXL Hendlbrustfilet",
+            "brand": "XXL",
+            "name": "Hendlbrustfilet",
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/no-brand-xxl-hendlbrustfilet-000000000000724949",
@@ -277,7 +277,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -308,7 +308,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -339,7 +339,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -370,7 +370,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -387,12 +387,12 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "",
-            "brand": "",
-            "name": "Milsani Gouda",
+            "store_product_id": "000000000000472048",
+            "brand": "Milsani",
+            "name": "Gouda",
             "amount": "400",
             "unit": "g",
-            "product_url": "",
+            "product_url": "https://www.hofer.at/produkt/milsani-gouda-000000000000472048",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/730842_KW43_FrSa",
             "category": "mlecne_vyrobky",
             "price": "2.99",
@@ -401,7 +401,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -432,7 +432,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -463,7 +463,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -481,8 +481,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Primana Puten-Schnitzel",
+            "brand": "Primana",
+            "name": "Puten-Schnitzel",
             "amount": "700",
             "unit": "g",
             "product_url": "",
@@ -494,7 +494,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -512,8 +512,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Manner Original Neapolitaner",
+            "brand": "Manner",
+            "name": "Original Neapolitaner",
             "amount": "4x75",
             "unit": "g",
             "product_url": "",
@@ -525,7 +525,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -556,7 +556,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -587,7 +587,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -605,8 +605,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Puntigamer Märzen Kiste",
+            "brand": "Puntigamer",
+            "name": "Märzen Kiste",
             "amount": "20x0.5",
             "unit": "l",
             "product_url": "",
@@ -618,7 +618,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -636,8 +636,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Zipfer Märzen Kiste",
+            "brand": "Zipfer",
+            "name": "Märzen Kiste",
             "amount": "20x0.5",
             "unit": "l",
             "product_url": "",
@@ -649,7 +649,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -667,8 +667,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Wieselburger Gold Kiste",
+            "brand": "Wieselburger",
+            "name": "Gold Kiste",
             "amount": "20x0.5",
             "unit": "l",
             "product_url": "",
@@ -680,7 +680,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -711,7 +711,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -729,8 +729,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Happy Harvest Walnusskerne",
+            "brand": "Happy Harvest",
+            "name": "Walnusskerne",
             "amount": "200",
             "unit": "g",
             "product_url": "",
@@ -742,7 +742,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -773,7 +773,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -804,7 +804,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "2026-10-17",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -835,7 +835,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -853,8 +853,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Kiwis grün genussreif",
+            "brand": "Kiwis grün",
+            "name": "genussreif",
             "amount": "6",
             "unit": "stk",
             "product_url": "",
@@ -866,7 +866,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -884,8 +884,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Salatherzen aus Österreich",
+            "brand": "Salatherzen",
+            "name": "aus Österreich",
             "amount": "2",
             "unit": "stk",
             "product_url": "",
@@ -897,7 +897,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -928,7 +928,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -959,7 +959,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -976,12 +976,12 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "",
-            "brand": "",
-            "name": "Sonnhof Maishendl-Backhendlteller",
+            "store_product_id": "000000000000607125",
+            "brand": "Sonnhof",
+            "name": "Maishendl-Backhendlteller",
             "amount": "",
             "unit": "",
-            "product_url": "",
+            "product_url": "https://www.hofer.at/produkt/sonnhof-maishendl-backhendlteller-000000000000607125",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/750687_KW43_MoDo",
             "category": "maso",
             "price": "3.99",
@@ -990,7 +990,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1008,8 +1008,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Sonnhof Schweinsbraten",
+            "brand": "Sonnhof",
+            "name": "Schweinsbraten",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -1021,7 +1021,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1052,7 +1052,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1083,7 +1083,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1101,8 +1101,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Halloween Würstel",
+            "brand": "Halloween",
+            "name": "Würstel",
             "amount": "300",
             "unit": "g",
             "product_url": "",
@@ -1114,7 +1114,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1145,7 +1145,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1176,7 +1176,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1207,7 +1207,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1238,7 +1238,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1269,7 +1269,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1300,7 +1300,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1331,7 +1331,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1362,7 +1362,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1393,7 +1393,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1411,8 +1411,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Manner Eierbiskotten",
+            "brand": "Manner",
+            "name": "Eierbiskotten",
             "amount": "200",
             "unit": "g",
             "product_url": "",
@@ -1424,7 +1424,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1455,7 +1455,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1486,7 +1486,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1504,39 +1504,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Cachet",
-            "name": "Katzenstreu",
-            "amount": "10",
-            "unit": "l",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/755914_KW43_MoDo",
-            "category": "zvirata",
-            "price": "2.79",
-            "original_price": "3.99",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-10-19",
-            "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
-            "theme": "Wochenstart",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "",
-            "name": "Kinder Bueno Classic",
+            "brand": "Kinder",
+            "name": "Bueno Classic",
             "amount": "344",
             "unit": "g",
             "product_url": "",
@@ -1548,7 +1517,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1566,8 +1535,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Kinder Bueno White",
+            "brand": "Kinder",
+            "name": "Bueno White",
             "amount": "312",
             "unit": "g",
             "product_url": "",
@@ -1579,7 +1548,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1610,7 +1579,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1628,8 +1597,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Rana Halloween Pasta",
+            "brand": "Rana",
+            "name": "Halloween Pasta",
             "amount": "250",
             "unit": "g",
             "product_url": "",
@@ -1641,7 +1610,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1659,8 +1628,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Puntigamer Märzen",
+            "brand": "Puntigamer",
+            "name": "Märzen",
             "amount": "0.5",
             "unit": "l",
             "product_url": "",
@@ -1672,7 +1641,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-19",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1682,37 +1651,6 @@
             "approx_amount": false,
             "drained_weight": false,
             "variants": false,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Romeo Wild Roots",
-            "name": "Hundetrockenfutter",
-            "amount": "2",
-            "unit": "kg",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/678464_KW40_PP",
-            "category": "zvirata",
-            "price": "3.49",
-            "original_price": "4.29",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-09-25",
-            "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
             "source": "tiefpreis",
             "type": "offer",
             "validity_source": "product_group",
@@ -1734,7 +1672,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-25",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
@@ -1765,7 +1703,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-25",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
@@ -1796,7 +1734,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-25",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion",
@@ -1828,7 +1766,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-25",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
@@ -1859,7 +1797,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-25",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
@@ -1890,7 +1828,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-25",
             "valid_to": "2026-10-22",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
@@ -1921,7 +1859,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-09",
             "valid_to": "2026-11-05",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
@@ -1940,7 +1878,7 @@
         {
             "store_product_id": "",
             "brand": "Westminister",
-            "name": "Genussmomente, 20 Btl. in verschiedenen Sorten erhältlich",
+            "name": "Genussmomente, 20 Btl.",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -1952,38 +1890,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-09",
             "valid_to": "2026-11-05",
-            "source_date": "2026-10-15",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Lacura",
-            "name": "Mizellenwasser",
-            "amount": "400",
-            "unit": "ml",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/676297_KW42_PP",
-            "category": "hygiena",
-            "price": "1.99",
-            "original_price": "2.95",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-10-09",
-            "valid_to": "2026-11-05",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
@@ -2014,7 +1921,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-09",
             "valid_to": "2026-11-05",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
@@ -2045,7 +1952,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-09",
             "valid_to": "2026-11-05",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
@@ -2076,7 +1983,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-09",
             "valid_to": "2026-11-05",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
@@ -2107,7 +2014,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-09",
             "valid_to": "2026-11-05",
-            "source_date": "2026-10-15",
+            "source_date": "2026-10-16",
             "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
