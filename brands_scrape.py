@@ -99,15 +99,24 @@ def load_brands(session):
     return names
 
 
+def safe_listing(session, url):
+    """Jeden spadlý nebo pomalý požadavek nesmí zahodit všechny značky."""
+    try:
+        return fetch_listing(session, SOURCE, url, pause=0.4, default_group=None)
+    except Exception as e:
+        print(f"  ! {type(e).__name__}: {str(e)[:80]} ({url})")
+        return []
+
+
 def fetch_brand(session, site, name):
     """-> (adresa, způsob, produkty). Nejdřív stránka značky, pak hledání (jen produkty se shodnou značkou)."""
     for u in page_urls(name, site):
-        items = fetch_listing(session, SOURCE, u, pause=0.4, default_group=None)
+        items = safe_listing(session, u)
         if items:
             return u, "stránka značky", items
     u = site["base"] + site["search"].format(quote_plus(name))
     key = bkey(name)
-    items = [p for p in fetch_listing(session, SOURCE, u, pause=0.4, default_group=None) if bkey(p["brand"]) == key]
+    items = [p for p in safe_listing(session, u) if bkey(p["brand"]) == key]
     return u, "hledání", items
 
 
