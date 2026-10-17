@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-17T06:00:59+00:00",
+        "generated_at": "2026-10-17T18:41:07+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/weihnachten/k/1588161434751156",
         "product_count": 161,
-        "content_hash": "sha256:68dae12fee8bbcfe821b51916ad1398b2e67763959629fac474d903526337bd3",
-        "file_id": "bdd251f5-120e-4adb-8bc8-367ec0377cd0",
-        "run_id": "20261017_055900-21d81ff4"
+        "content_hash": "sha256:7f0ee70dab69bc7c4cb768959d5530b1b48f98f5113ca2f0d08b84ac4840cfd4",
+        "file_id": "12d039d7-fab1-487a-ac16-3fa37741e8da",
+        "run_id": "20261017_183905-7779135b"
     },
     "products": [
         {
@@ -55,8 +55,8 @@
             "original_price": "1.79",
             "comparison_price": "0.20",
             "comparison_per": "100 g",
-            "valid_from": "2026-10-16",
-            "valid_to": "2026-10-17",
+            "valid_from": "",
+            "valid_to": "",
             "source_date": "2026-10-17",
             "theme": "",
             "tags": [],
@@ -67,9 +67,9 @@
             "variants": false,
             "source": "weihnachten",
             "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "matched",
-            "validity_type": "promo"
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000107458",

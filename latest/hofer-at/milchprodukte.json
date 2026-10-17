@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-17T06:00:59+00:00",
+        "generated_at": "2026-10-17T18:41:07+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/milchprodukte/k/158816141856710103",
         "product_count": 88,
-        "content_hash": "sha256:43361ed289f739538e6afdd651337216f966c6421788787f5228ba0f7b3f49a1",
-        "file_id": "5da879ce-6195-47ef-bda4-f8082eb19387",
-        "run_id": "20261017_055900-21d81ff4"
+        "content_hash": "sha256:45004435e1d7a4b9ac4e1ef73366e94dac1396da4c3ee17ef4c5fddf98ac1143",
+        "file_id": "862d5b99-c2de-4bd9-b6cc-f64b774bab7b",
+        "run_id": "20261017_183905-7779135b"
     },
     "products": [
         {
@@ -392,8 +392,8 @@
             "original_price": "4.25",
             "comparison_price": "0.75",
             "comparison_per": "100 g",
-            "valid_from": "2026-10-16",
-            "valid_to": "2026-10-17",
+            "valid_from": "",
+            "valid_to": "",
             "source_date": "2026-10-17",
             "theme": "Käse und Aufstriche",
             "tags": [
@@ -406,9 +406,9 @@
             "variants": false,
             "source": "milchprodukte",
             "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "matched",
-            "validity_type": "promo"
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000472113",
