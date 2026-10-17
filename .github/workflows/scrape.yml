@@ -161,13 +161,19 @@ jobs:
           python brands_scrape.py "${args[@]}"
         continue-on-error: true
 
+      - name: Sloučení do jednoho souboru na obchod
+        id: merge
+        run: python merge_latest.py hofer_data
+        continue-on-error: true
+
       - name: Kontrola výstupu
         run: python check_output.py --latest
 
       - name: Nahrát změněné soubory na server
         id: upload
-        if: env.FTP_HOST != '' && env.DRY_RUN != 'yes'
-        run: python upload_ftp.py hofer_data
+        if: env.FTP_HOST != '' && env.DRY_RUN != 'yes' && steps.merge.outcome == 'success'
+        # na server jdou jen sloučené soubory (jeden řádek na produkt); pro nahrávání všech zdrojů smaž --only=merged
+        run: python upload_ftp.py hofer_data --only=merged
         continue-on-error: true
 
       - name: Publikovat nejnovější data do repozitáře
@@ -193,8 +199,8 @@ jobs:
           git diff --cached --quiet || git commit -m "Data $(date -u +%F)"
           git push
 
-      - name: Označit běh jako neúspěšný, když selhal obchod, značky nebo nahrání
-        if: steps.hofer.outcome == 'failure' || steps.aldi.outcome == 'failure' || steps.marken.outcome == 'failure' || steps.upload.outcome == 'failure'
+      - name: Označit běh jako neúspěšný, když selhal obchod, značky, sloučení nebo nahrání
+        if: steps.hofer.outcome == 'failure' || steps.aldi.outcome == 'failure' || steps.marken.outcome == 'failure' || steps.merge.outcome == 'failure' || steps.upload.outcome == 'failure'
         run: |
-          echo "Hofer: ${{ steps.hofer.outcome }}, Aldi Suisse: ${{ steps.aldi.outcome }}, značky: ${{ steps.marken.outcome }}, nahrání na server: ${{ steps.upload.outcome }}"
+          echo "Hofer: ${{ steps.hofer.outcome }}, Aldi Suisse: ${{ steps.aldi.outcome }}, značky: ${{ steps.marken.outcome }}, sloučení: ${{ steps.merge.outcome }}, nahrání na server: ${{ steps.upload.outcome }}"
           exit 1
