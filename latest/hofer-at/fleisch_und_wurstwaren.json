@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-16T09:12:45+00:00",
+        "generated_at": "2026-10-17T06:00:59+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/fleisch-und-wurstwaren/k/158816141856710101",
         "product_count": 74,
-        "content_hash": "sha256:d776803e6d3f2fda1d0651aabc8de4844ebed1bc43a1e6a2e1e6cc65772eb7e3",
-        "file_id": "914d3b89-9e14-4e7a-aa8a-cbbfa004342e",
-        "run_id": "20261016_091146-e6427b95"
+        "content_hash": "sha256:e914a5fb1b69a38aa9f292b8876488e6c401b6adfbc535a47c37fec40604b4bf",
+        "file_id": "2d5015cf-c10d-4503-aaff-00bf7367c84a",
+        "run_id": "20261017_055900-21d81ff4"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Würstel",
             "tags": [
                 "kuehlung"
@@ -59,7 +59,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Wurst und Wurstwaren",
             "tags": [
                 "kuehlung"
@@ -90,7 +90,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -121,7 +121,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -152,7 +152,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -183,7 +183,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung",
@@ -215,7 +215,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -246,7 +246,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -277,7 +277,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -308,7 +308,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -339,7 +339,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -365,12 +365,12 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/5f8a5cef-639f-45b3-a3c7-95d3130146e0/Rindsgulasch",
             "category": "maso",
             "price": "6.50",
-            "original_price": "",
+            "original_price": "9.49",
             "comparison_price": "12.99",
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -401,7 +401,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [],
             "deposit": "",
@@ -430,7 +430,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -461,7 +461,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -492,7 +492,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -523,7 +523,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -554,7 +554,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -585,7 +585,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung",
@@ -617,7 +617,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung",
@@ -649,7 +649,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -680,7 +680,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -711,7 +711,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -742,7 +742,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -773,7 +773,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -804,7 +804,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -835,7 +835,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -866,7 +866,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -897,7 +897,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -928,7 +928,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -959,7 +959,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -990,7 +990,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1021,7 +1021,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1052,7 +1052,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1083,7 +1083,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1114,7 +1114,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1145,7 +1145,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1176,7 +1176,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1207,7 +1207,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1238,7 +1238,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Schwein",
             "tags": [],
             "deposit": "",
@@ -1267,7 +1267,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1298,7 +1298,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1329,7 +1329,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1360,7 +1360,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1391,7 +1391,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1422,7 +1422,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1453,7 +1453,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1484,7 +1484,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1515,7 +1515,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1546,7 +1546,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1577,7 +1577,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1608,7 +1608,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1639,7 +1639,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1670,7 +1670,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1701,7 +1701,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1732,7 +1732,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1763,7 +1763,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1794,7 +1794,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1825,7 +1825,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1856,7 +1856,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1887,7 +1887,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1919,7 +1919,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1951,7 +1951,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1983,7 +1983,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -2015,7 +2015,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2046,7 +2046,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2077,7 +2077,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2108,7 +2108,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2139,7 +2139,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2170,7 +2170,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2201,7 +2201,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2232,7 +2232,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2263,7 +2263,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2294,7 +2294,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-16",
+            "source_date": "2026-10-17",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
