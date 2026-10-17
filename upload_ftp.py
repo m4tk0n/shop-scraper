@@ -13,6 +13,7 @@ Přihlašovací údaje jen z proměnných prostředí (GitHub Secrets):
     FTP_KEEP_DAYS  smaže na serveru soubory starší než N dní (0 = nemazat, výchozí)
 
     python upload_ftp.py [složka_s_výstupy]       # výchozí hofer_data
+    python upload_ftp.py hofer_data --only=merged # jen sloučené soubory (merge_latest.py); manifest obsahuje jen je
     python upload_ftp.py --test                   # jen zkontroluje spojení a složku
 """
 import ftplib
@@ -146,11 +147,16 @@ def main(argv):
         return 0
 
     folder = next((a for a in argv if not a.startswith("--")), "hofer_data")
+    only = next((a.split("=", 1)[1] for a in argv if a.startswith("--only=")), "")
     local = newest_local(folder)
+    if only:                                             # např. jen 'merged': klíče jsou 'obchod/zdroj'
+        local = {k: v for k, v in local.items() if k.split("/", 1)[1] == only}
     if not local:
         sys.exit(f"Ve složce {folder} nejsou žádné výstupy.")
     manifest = read_manifest(ftp)
     files = manifest.get("files", {})
+    if only:                                             # starší zdroje z dřívějška z manifestu zmizí, databáze vidí jen sloučené
+        files = {k: v for k, v in files.items() if k.split("/", 1)[1] == only}
 
     uploaded = skipped = 0
     for key in sorted(local):

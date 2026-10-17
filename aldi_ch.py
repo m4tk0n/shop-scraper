@@ -13,11 +13,12 @@ os.environ["STORE"] = "aldi_ch"          # musí být nastaveno před importem h
 
 import re
 import time
+from datetime import date
 from urllib.parse import unquote, urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
-from hofer_angebote import collect_days
+from hofer_angebote import collect_days, parse_tiles
 from hofer_common import CATEGORIES, clean, register_source, run_batches
 from hofer_discover import find_dates_and_themes
 from hofer_listings import fetch_listing
@@ -52,6 +53,7 @@ LEAF_HINTS = {
     "gewuerze": "koreni_omacky", "dressings-oele-saucen": "koreni_omacky", "grillsaucen-gewuerze": "koreni_omacky",
     "margarine-pflanzliche-fette": "koreni_omacky",
     "backzutaten": "zakladni_potraviny", "grundnahrungsmittel": "zakladni_potraviny",
+    "salate-kraeuter": "zelenina",
     "fertiggerichte": "hotova_jidla", "fertiggerichte-pizza": "hotova_jidla", "bouillons-suppen": "hotova_jidla",
     "sandwiches-snacks": "hotova_jidla", "fleischersatzprodukte": "potraviny",
     # ne-potraviny (sekce Aktionen a Haushalt)
@@ -98,6 +100,17 @@ def parse_nav(html):
     return {"dates": dates, "themes": themes, "tops": tops}
 
 
+def top_has_more(session, name, node, seen, default_group):
+    """Menu zná jen část podkategorií (např. Früchte & Gemüse má jen Salate & Kräuter). Zkontroluje první stránku
+    samotné kategorie: jsou na ní produkty, které z podkategorií nepřišly?"""
+    r = session.get(node["url"], timeout=60)
+    if r.status_code != 200:
+        return False
+    page = parse_tiles(r.text, name, node["url"], date.today().isoformat(),
+                       default_group=default_group, fallback_valid_from=False)
+    return any((p["product_url"] or (p["name"], p["price"])) not in seen for p in page)
+
+
 def fetch_category(session, name, top_slug, node):
     """Kategorie sortimentu: podkategorie se stahují zvlášť (kvůli upřesnění kategorie podle menu Aldi Suisse)."""
     default_group = None if top_slug in NONFOOD_TOPS else "food"
@@ -121,6 +134,18 @@ def fetch_category(session, name, top_slug, node):
                         p["category"] = fallback
             products.append(p)
         time.sleep(0.4)
+    # produkty mimo podkategorie z menu: stránka kategorie se stáhne celá, jen když na ní něco chybí
+    if node["children"] and node["url"] and top_has_more(session, name, node, seen, default_group):
+        added = 0
+        for p in fetch_listing(session, name, node["url"], default_group=default_group, validity=False):
+            k = p["product_url"] or (p["name"], p["price"])
+            if k in seen:
+                continue
+            seen.add(k)
+            p["theme"] = node["label"]
+            products.append(p)
+            added += 1
+        print(f"  {name}: stránka kategorie přidala {added} produktů mimo podkategorie z menu")
     return products
 
 
