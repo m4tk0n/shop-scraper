@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-19T09:29:33+00:00",
+        "generated_at": "2026-10-19T21:13:33+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/brot-und-backwaren/k/158816141856710104",
         "product_count": 93,
-        "content_hash": "sha256:008d16e1eed6a59cf9457b89e5c4740ad036f855d16561710416914a1c97c20d",
-        "file_id": "cb3a9d97-cb86-4c54-b278-3882848e46a3",
-        "run_id": "20261019_092706-e4b95740"
+        "content_hash": "sha256:afc2919abf0863474dc1dc78ac546b1acb837a040c8fc5d42cc3d271b0217c19",
+        "file_id": "6a7a283e-9f65-4143-ab50-7fdfed92f3ff",
+        "run_id": "20261019_211105-17a70a97"
     },
     "products": [
         {
@@ -2049,12 +2049,12 @@
             "product_url": "https://www.hofer.at/produkt/backbox-vegetarisches-pizzaweckerl-000000000000100930",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/64f566b9-d8a4-4274-963b-438b0ede29a1/Vegetarisches%20Pizzaweckerl",
             "category": "pecivo",
-            "price": "0.79",
-            "original_price": "",
+            "price": "0.49",
+            "original_price": "0.79",
             "comparison_price": "",
             "comparison_per": "",
-            "valid_from": "",
-            "valid_to": "",
+            "valid_from": "2026-10-19",
+            "valid_to": "2026-10-22",
             "source_date": "2026-10-19",
             "theme": "BACKBOX",
             "tags": [],
@@ -2065,9 +2065,9 @@
             "variants": false,
             "source": "brot_und_backwaren",
             "type": "listing",
-            "validity_source": "unknown",
-            "validity_confidence": "unknown",
-            "validity_type": "regular"
+            "validity_source": "product_group",
+            "validity_confidence": "matched",
+            "validity_type": "promo"
         },
         {
             "store_product_id": "000000000000100932",
