@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "generated_at": "2026-10-19T09:35:04+00:00",
+        "store": "aldi_ch",
+        "country": "CH",
+        "currency": "CHF",
+        "source": "testsieger",
+        "type": "listing",
+        "source_url": "https://www.aldi-suisse.ch/de/produkte/testsieger/k/1588161418433037",
+        "product_count": 1,
+        "content_hash": "sha256:0d92cd993407127577fe87b6f28090f0f7566ff130a811bfbe731f5e6984f315",
+        "file_id": "6b8cf446-7478-4c90-b8d6-6e4bb89461e4",
+        "run_id": "20261019_092934-5fbce502"
+    },
+    "products": [
+        {
+            "store_product_id": "000000000000575564",
+            "brand": "LACURA",
+            "name": "Kräuter Familienshampoo",
+            "amount": "500",
+            "unit": "ml",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/lacura-kraeuter-familienshampoo-000000000000575564",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/2ac852a2-2e27-40b9-b875-b38088a65d44/Kruter%20Familienshampoo",
+            "category": "hygiena",
+            "price": "0.58",
+            "original_price": "",
+            "comparison_price": "0.12",
+            "comparison_per": "100 ml",
+            "valid_from": "",
+            "valid_to": "",
+            "source_date": "2026-10-19",
+            "theme": "",
+            "tags": [
+                "tiefpreis"
+            ],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "testsieger",
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
+        }
+    ]
+}
