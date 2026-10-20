@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-19T21:13:33+00:00",
+        "generated_at": "2026-10-20T20:05:08+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/fleisch-und-wurstwaren/k/158816141856710101",
         "product_count": 74,
-        "content_hash": "sha256:a9d3213d5335981f5bae6054aced7d909cc89b7ae4205de8cb2e33ff310fd7e3",
-        "file_id": "045fba01-932b-40bc-8a69-9b2180e1c155",
-        "run_id": "20261019_211105-17a70a97"
+        "content_hash": "sha256:5da120837a71399e5e544849af655764f3cb8fb877a23b06c01b7abd1667fe17",
+        "file_id": "fd4b93e9-a53a-43f1-a92d-a0aebb9c2db5",
+        "run_id": "20261020_200326-b2ced824"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Würstel",
             "tags": [
                 "kuehlung"
@@ -59,7 +59,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Wurst und Wurstwaren",
             "tags": [
                 "kuehlung"
@@ -90,7 +90,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -121,7 +121,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -152,7 +152,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -183,7 +183,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung",
@@ -215,7 +215,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -246,7 +246,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -277,7 +277,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -308,7 +308,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -339,7 +339,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -370,7 +370,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -401,7 +401,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [],
             "deposit": "",
@@ -430,7 +430,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -461,7 +461,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -492,7 +492,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -523,7 +523,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -554,7 +554,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -585,7 +585,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung",
@@ -617,7 +617,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung",
@@ -649,7 +649,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -680,7 +680,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -711,7 +711,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -742,7 +742,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -761,11 +761,11 @@
         {
             "store_product_id": "000000000000106909",
             "brand": "SONNHOF",
-            "name": "Schweinefilet",
+            "name": "Schweinefilet per kg",
             "amount": "0.5",
             "unit": "kg",
-            "product_url": "https://www.hofer.at/produkt/sonnhof-schweinefilet-000000000000106909",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/0eea42e7-49ec-48f2-9b09-9984b7339a8a/Schweinefilet",
+            "product_url": "https://www.hofer.at/produkt/sonnhof-schweinefilet-per-kg-000000000000106909",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/0eea42e7-49ec-48f2-9b09-9984b7339a8a/Schweinefilet%20per%20kg",
             "category": "maso",
             "price": "4.50",
             "original_price": "6.50",
@@ -773,7 +773,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -804,7 +804,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -835,7 +835,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -866,7 +866,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -897,7 +897,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -916,11 +916,11 @@
         {
             "store_product_id": "000000000000654633",
             "brand": "FAIRHOF",
-            "name": "Spareribs Sous Vide, mariniert",
+            "name": "Spareribs Sous-vide, mariniert",
             "amount": "1",
             "unit": "kg",
             "product_url": "https://www.hofer.at/produkt/fairhof-spareribs-sous-vide-mariniert-000000000000654633",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/7ce0a254-96f9-4dad-b1b2-3f4405c313ee/Spareribs%20Sous%20Vide%20mariniert",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/7ce0a254-96f9-4dad-b1b2-3f4405c313ee/Spareribs%20Sousvide%20mariniert",
             "category": "maso",
             "price": "14.49",
             "original_price": "",
@@ -928,7 +928,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -947,11 +947,11 @@
         {
             "store_product_id": "000000000000718074",
             "brand": "AMERICAN",
-            "name": "Pulled Pork sous vide",
+            "name": "Pulled Pork, Sous-vide",
             "amount": "500",
             "unit": "g",
             "product_url": "https://www.hofer.at/produkt/american-pulled-pork-sous-vide-000000000000718074",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e6926093-85e2-4f9d-8010-568b6a97a8a2/Pulled%20Pork%20sous%20vide",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e6926093-85e2-4f9d-8010-568b6a97a8a2/Pulled%20Pork%20Sousvide",
             "category": "maso",
             "price": "5.99",
             "original_price": "",
@@ -959,7 +959,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -990,7 +990,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1021,7 +1021,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1052,7 +1052,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1083,7 +1083,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1114,7 +1114,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1145,7 +1145,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1176,7 +1176,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1207,7 +1207,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -1226,11 +1226,11 @@
         {
             "store_product_id": "000000000000107060",
             "brand": "SONNHOF",
-            "name": "XXL Maishendlfilet",
+            "name": "XXL Maishendlfilet per kg",
             "amount": "1",
             "unit": "kg",
-            "product_url": "https://www.hofer.at/produkt/sonnhof-xxl-maishendlfilet-000000000000107060",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/9ff06318-143b-4a62-af2c-0832f41964a8/XXL%20Maishendlfilet",
+            "product_url": "https://www.hofer.at/produkt/sonnhof-xxl-maishendlfilet-per-kg-000000000000107060",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/9ff06318-143b-4a62-af2c-0832f41964a8/XXL%20Maishendlfilet%20per%20kg",
             "category": "maso",
             "price": "12.99",
             "original_price": "",
@@ -1238,7 +1238,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1269,7 +1269,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1300,7 +1300,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1331,7 +1331,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1362,7 +1362,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1393,7 +1393,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1424,7 +1424,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1455,7 +1455,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1474,11 +1474,11 @@
         {
             "store_product_id": "000000000000553824",
             "brand": "SONNHOF",
-            "name": "Maishendlfilet im Speckmantel",
+            "name": "Maishendlfilet im Speckmantel per kg",
             "amount": "1",
             "unit": "kg",
-            "product_url": "https://www.hofer.at/produkt/sonnhof-maishendlfilet-im-speckmantel-000000000000553824",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/f1a82330-b6a1-415f-a4ad-d45ab128718f/Maishendlfilet%20im%20Speckmantel",
+            "product_url": "https://www.hofer.at/produkt/sonnhof-maishendlfilet-im-speckmantel-per-kg-000000000000553824",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/f1a82330-b6a1-415f-a4ad-d45ab128718f/Maishendlfilet%20im%20Speckmantel%20per%20kg",
             "category": "maso",
             "price": "17.99",
             "original_price": "18.98",
@@ -1486,7 +1486,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1517,7 +1517,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1548,7 +1548,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1567,11 +1567,11 @@
         {
             "store_product_id": "000000000000607125",
             "brand": "SONNHOF",
-            "name": "Maishendl-Backhendlteller",
+            "name": "Maishendl-Backhendlteller per kg",
             "amount": "0.5",
             "unit": "kg",
-            "product_url": "https://www.hofer.at/produkt/sonnhof-maishendl-backhendlteller-000000000000607125",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/d861d4b3-d0f5-42a9-b861-3af0ef9024c8/MaishendlBackhendlteller",
+            "product_url": "https://www.hofer.at/produkt/sonnhof-maishendl-backhendlteller-per-kg-000000000000607125",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/d861d4b3-d0f5-42a9-b861-3af0ef9024c8/MaishendlBackhendlteller%20per%20kg",
             "category": "maso",
             "price": "2.00",
             "original_price": "4.00",
@@ -1579,7 +1579,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1610,7 +1610,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1641,7 +1641,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1672,7 +1672,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1703,7 +1703,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1734,7 +1734,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1765,7 +1765,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1796,7 +1796,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1827,7 +1827,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -1858,7 +1858,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1890,7 +1890,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1922,7 +1922,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1954,7 +1954,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -1986,7 +1986,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2017,7 +2017,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2048,7 +2048,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2079,7 +2079,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2110,7 +2110,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2141,7 +2141,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2172,7 +2172,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2203,7 +2203,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2234,7 +2234,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2265,7 +2265,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -2296,7 +2296,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-19",
+            "source_date": "2026-10-20",
             "theme": "Geflügel",
             "tags": [],
             "deposit": "",
