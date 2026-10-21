@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-20T20:05:37+00:00",
+        "generated_at": "2026-10-21T20:20:09+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-26",
         "product_count": 61,
-        "content_hash": "sha256:9d46cc7dc78c3b5a63e2dd7abed7be6c5aa3934f6b3bb36ff6817afeabb5ee4f",
-        "file_id": "334fb393-63a2-40e7-9f58-538de766e2fc",
-        "run_id": "20261020_200508-d5ff2ddb"
+        "content_hash": "sha256:e03d1af5c6af88e89c0c2d7353e49b62efd3c69718a38b925684ed3caae3d5ff",
+        "file_id": "7ed45e6a-c80e-46dc-adfe-90b3e6f5ef4b",
+        "run_id": "20261021_201939-90ac50dc"
     },
     "products": [
         {
@@ -281,7 +281,7 @@
             "amount": "330",
             "unit": "ml",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/sinalco-original-000000000000679656",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/e3afe6fd-ce1f-4f69-b689-b43e959e2b3e/Original",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/d9ab9be0-8980-45e7-a006-0ef928625d60/Original",
             "category": "potraviny",
             "price": "0.63",
             "original_price": "",
@@ -1271,7 +1271,7 @@
             "amount": "80",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/berger-spezialitaeten-panettoncino-000000000719505008",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new-2",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/c421185a-d4c9-4fc0-a99b-ac693537c91d/Spezialitten%20Panettoncino",
             "category": "potraviny",
             "price": "1.79",
             "original_price": "",
