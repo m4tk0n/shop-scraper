@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-21T20:19:39+00:00",
+        "generated_at": "2026-10-22T09:36:49+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-22",
         "product_count": 26,
-        "content_hash": "sha256:4e67bad1631bd8dc7ab8a16db04786578928a6720d741d5c4ae294ad1b637572",
-        "file_id": "981065b6-79a2-4bdf-9dae-6bb9fd622585",
-        "run_id": "20261021_201606-50a8faa0"
+        "content_hash": "sha256:11c9024016c218c51ec1fb3ead6cdf2a5e039ca840e123a8dbb8b949e50d7cd3",
+        "file_id": "1a10d398-09e1-499f-93c6-74a7173ccfc2",
+        "run_id": "20261022_093310-49c98106"
     },
     "products": [
         {
@@ -168,7 +168,7 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/781f0e44-e44f-4c1a-b1c4-86eb855c2974/DuschgelTrio",
             "category": "hygiena",
             "price": "4.99",
-            "original_price": "5.95",
+            "original_price": "",
             "comparison_price": "0.67",
             "comparison_per": "100 ml",
             "valid_from": "2026-10-22",

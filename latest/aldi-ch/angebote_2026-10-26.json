@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-21T20:20:09+00:00",
+        "generated_at": "2026-10-22T09:37:15+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-26",
         "product_count": 61,
-        "content_hash": "sha256:e03d1af5c6af88e89c0c2d7353e49b62efd3c69718a38b925684ed3caae3d5ff",
-        "file_id": "7ed45e6a-c80e-46dc-adfe-90b3e6f5ef4b",
-        "run_id": "20261021_201939-90ac50dc"
+        "content_hash": "sha256:6cc493b2a7b051c5b7aa93c65c2e5afcc1d39985f408f958da21389305385466",
+        "file_id": "51b04d9c-533f-440a-ac7b-8801206f61de",
+        "run_id": "20261022_093649-46ff4c62"
     },
     "products": [
         {
@@ -807,7 +807,7 @@
             "amount": "30",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/back-family-zuckerfiguren-3d-weihnachten-000000000515935002",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/0c0aff27-350b-4634-b0cc-debb5e63b1b6/Zuckerfiguren%203D%20Weihnachten",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/bd2f98ba-0be7-46f1-91b0-8775a147ac6f/Zuckerfiguren%203D%20Weihnachten",
             "category": "zakladni_potraviny",
             "price": "2.99",
             "original_price": "",
@@ -1271,7 +1271,7 @@
             "amount": "80",
             "unit": "g",
             "product_url": "https://www.aldi-suisse.ch/de/produkt/berger-spezialitaeten-panettoncino-000000000719505008",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/c421185a-d4c9-4fc0-a99b-ac693537c91d/Spezialitten%20Panettoncino",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a35eacc3-ad26-4044-8fcd-aac4ab57c511/Spezialitten%20Panettoncino",
             "category": "potraviny",
             "price": "1.79",
             "original_price": "",
