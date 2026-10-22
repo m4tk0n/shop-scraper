@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-22T09:36:49+00:00",
+        "generated_at": "2026-10-22T20:17:17+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/brot-und-backwaren/k/158816141856710104",
         "product_count": 93,
-        "content_hash": "sha256:0d6070b645855e8a80cf527f050b75ee4383b39476ec228010cb9c36c3370e59",
-        "file_id": "7084e791-4e0a-420e-bb07-6f0dccb8a174",
-        "run_id": "20261022_093310-49c98106"
+        "content_hash": "sha256:0708a41063ae8228b119a0dfa6a01cc27a942e2e729286e8624192d62789cdea",
+        "file_id": "43139f79-98a0-4af5-803a-d4af38a8e74d",
+        "run_id": "20261022_201401-cb3f7d01"
     },
     "products": [
         {
@@ -2053,8 +2053,8 @@
             "original_price": "0.79",
             "comparison_price": "",
             "comparison_per": "",
-            "valid_from": "2026-10-19",
-            "valid_to": "2026-10-22",
+            "valid_from": "",
+            "valid_to": "",
             "source_date": "2026-10-22",
             "theme": "BACKBOX",
             "tags": [],
@@ -2065,9 +2065,9 @@
             "variants": false,
             "source": "brot_und_backwaren",
             "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "matched",
-            "validity_type": "promo"
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
         },
         {
             "store_product_id": "000000000000100932",

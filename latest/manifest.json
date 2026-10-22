@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:39:54+00:00",
+  "generated_at": "2026-10-22T20:20:39+00:00",
   "stores": {
     "aldi-ch": [
       {
@@ -8,17 +8,17 @@
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-22",
         "product_count": 30,
         "content_hash": "sha256:35fb7caf6e9ad4e87d0cc609a19c2390a3383fd1aeddf3a6ecddf786a04b6deb",
-        "file_id": "7aa847b6-723b-480c-9f83-29bca55d03aa",
-        "generated_at": "2026-10-22T09:37:01+00:00"
+        "file_id": "af90fd61-f974-4a50-baeb-59afacde3444",
+        "generated_at": "2026-10-22T20:17:35+00:00"
       },
       {
         "file": "aldi-ch/angebote_2026-10-26.json",
         "source": "angebote",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-26",
-        "product_count": 61,
-        "content_hash": "sha256:6cc493b2a7b051c5b7aa93c65c2e5afcc1d39985f408f958da21389305385466",
-        "file_id": "51b04d9c-533f-440a-ac7b-8801206f61de",
-        "generated_at": "2026-10-22T09:37:15+00:00"
+        "product_count": 66,
+        "content_hash": "sha256:7d071d4b1316bca3ecf4679cc1acd73f3f656a26b520707958d5334ceecd7cbf",
+        "file_id": "2a810270-4d3b-4cfe-add0-081d5435f3b0",
+        "generated_at": "2026-10-22T20:17:50+00:00"
       },
       {
         "file": "aldi-ch/angebote_2026-10-29.json",
@@ -26,8 +26,8 @@
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-29",
         "product_count": 66,
         "content_hash": "sha256:c465c989d78c466773019b66e7612c20d67c676e527aa8b44e563defaa6ab035",
-        "file_id": "e0e709bc-4520-4916-94b3-33933c66ebb3",
-        "generated_at": "2026-10-22T09:37:35+00:00"
+        "file_id": "01d694e3-7708-42d9-939c-2c381ddea1a6",
+        "generated_at": "2026-10-22T20:18:10+00:00"
       },
       {
         "file": "aldi-ch/marken.json",
@@ -35,17 +35,17 @@
         "source_url": "https://www.aldi-suisse.ch/de/marken",
         "product_count": 195,
         "content_hash": "sha256:62de9cacc02353d9f9aa3a43a2c8764ac84298868cc27bca09ebf22dc38ff69b",
-        "file_id": "cae31378-d6e1-4615-8d84-46c367a2c30a",
-        "generated_at": "2026-10-22T09:39:46+00:00"
+        "file_id": "127bc939-4773-460c-88e7-1aa587829368",
+        "generated_at": "2026-10-22T20:20:32+00:00"
       },
       {
         "file": "aldi-ch/merged.json",
         "source": "merged",
         "source_url": "merged",
-        "product_count": 616,
-        "content_hash": "sha256:d64fde87a7a63b0435807cec4fae0e08ff2cf0c082039f0f37374a88cde6b657",
-        "file_id": "7e691b01-e2fd-478d-8bb6-fcbd738e5881",
-        "generated_at": "2026-10-22T09:39:46+00:00"
+        "product_count": 621,
+        "content_hash": "sha256:0066e37d4fc356d108250e69c18c6c692f307c427a0b308c48b816f63f4b45eb",
+        "file_id": "08f80943-e1f9-4dd6-82de-a9df26f1e40b",
+        "generated_at": "2026-10-22T20:20:32+00:00"
       },
       {
         "file": "aldi-ch/suessigkeiten_snacks.json",
@@ -53,8 +53,8 @@
         "source_url": "https://www.aldi-suisse.ch/de/produkte/suessigkeiten-snacks/k/1588161418433054",
         "product_count": 187,
         "content_hash": "sha256:5cbe501a94f2c4f6c70f19f4431e3647b302343b1b591ec6bbfcf79abc4668df",
-        "file_id": "6fb5e8b0-69d5-4cbe-b340-39fff83d0926",
-        "generated_at": "2026-10-22T09:37:57+00:00"
+        "file_id": "2a08f272-737b-4d33-9681-35d43150404f",
+        "generated_at": "2026-10-22T20:18:33+00:00"
       },
       {
         "file": "aldi-ch/tiefpreisversprechen.json",
@@ -62,8 +62,8 @@
         "source_url": "https://www.aldi-suisse.ch/de/produkte/tiefpreisversprechen/k/1588161431768066",
         "product_count": 189,
         "content_hash": "sha256:fbf24a897b60d5de8717b884a5912201b1e4bdfadc02af58bf0cc3d7ed7dbc55",
-        "file_id": "a6093039-9dd5-4a87-b971-1e143a97a60b",
-        "generated_at": "2026-10-22T09:37:43+00:00"
+        "file_id": "b1fbbe7c-b24b-4a69-bef7-d5178bbb8381",
+        "generated_at": "2026-10-22T20:18:18+00:00"
       }
     ],
     "hofer-at": [
@@ -73,8 +73,8 @@
         "source_url": "https://www.hofer.at/angebote/2026-10-22",
         "product_count": 26,
         "content_hash": "sha256:11c9024016c218c51ec1fb3ead6cdf2a5e039ca840e123a8dbb8b949e50d7cd3",
-        "file_id": "1a10d398-09e1-499f-93c6-74a7173ccfc2",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "file_id": "06f9ddf6-aff3-4e42-bcb4-eeff57eef132",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/angebote_2026-10-23.json",
@@ -82,8 +82,8 @@
         "source_url": "https://www.hofer.at/angebote/2026-10-23",
         "product_count": 82,
         "content_hash": "sha256:c12d69cba4edc44809860d3a182744db20a69a81e6899c5f4689da7dac0a3c3f",
-        "file_id": "fadbb6f7-669b-4e9b-b976-c39b33abf108",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "file_id": "7b1ee053-e2ed-49d1-bb2e-95854cd5c109",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/angebote_2026-10-27.json",
@@ -91,8 +91,8 @@
         "source_url": "https://www.hofer.at/angebote/2026-10-27",
         "product_count": 22,
         "content_hash": "sha256:9803c8aff3254b5dcf0b183a4a730d29a7434cba66296b567a65a8dc65d51a82",
-        "file_id": "22bcd926-17c1-4606-9c08-ef75c28e9b62",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "file_id": "ffdd22c6-1768-42c8-b6ab-a7c1c2abf37c",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/angebote_2026-10-29.json",
@@ -100,26 +100,35 @@
         "source_url": "https://www.hofer.at/angebote/2026-10-29",
         "product_count": 34,
         "content_hash": "sha256:dccb1e808a82f9cafc2fdd11a84629685e66d4ecfdd090fcd42f6949ac33933f",
-        "file_id": "21470c70-242a-4c00-811a-b642a7b2ec60",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "file_id": "f2ec2a35-6c80-4718-b8f6-118c391823e5",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/bier.json",
         "source": "bier",
         "source_url": "https://www.hofer.at/flugblatt/bier-aktionen",
-        "product_count": 6,
-        "content_hash": "sha256:9306eea8d71e75e6891abf5474276e84b35df836db23227b2ba3d45d599fa05c",
-        "file_id": "742312df-0dbb-4e41-b32a-93300ee4364d",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "product_count": 5,
+        "content_hash": "sha256:a9607b45aa3c5a9ff4ef0c4be8ada9ee3cab885871ab47e6f57880a5ccd77621",
+        "file_id": "d4efdda5-70db-422f-a9a8-cccf39b9f4f2",
+        "generated_at": "2026-10-22T20:17:17+00:00"
+      },
+      {
+        "file": "hofer-at/black_month.json",
+        "source": "black_month",
+        "source_url": "https://www.hofer.at/produkte/black-month/k/1588161437882033",
+        "product_count": 2,
+        "content_hash": "sha256:5268f3b51f146d45f02608e0555a86f2e17443b0d66b69f663604112c712311b",
+        "file_id": "b90c6453-b589-47cd-90e0-6bfa619fedfa",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/brot_und_backwaren.json",
         "source": "brot_und_backwaren",
         "source_url": "https://www.hofer.at/produkte/brot-und-backwaren/k/158816141856710104",
         "product_count": 93,
-        "content_hash": "sha256:0d6070b645855e8a80cf527f050b75ee4383b39476ec228010cb9c36c3370e59",
-        "file_id": "7084e791-4e0a-420e-bb07-6f0dccb8a174",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "content_hash": "sha256:0708a41063ae8228b119a0dfa6a01cc27a942e2e729286e8624192d62789cdea",
+        "file_id": "43139f79-98a0-4af5-803a-d4af38a8e74d",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/dauerhaft.json",
@@ -127,8 +136,8 @@
         "source_url": "https://www.hofer.at/produkte/hofer-preis-dauerhaft-guenstiger/k/1588161434751159",
         "product_count": 60,
         "content_hash": "sha256:9568338f917c45f73cc23ff9edaac7c21eba39d7cc5cd70a3cd68b83b3f80a74",
-        "file_id": "549eda9a-61a4-43d9-ba7f-c0d03e5dc339",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "file_id": "04789d2d-3936-4bac-8614-8f8e43b8e4a1",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/fisch_und_meeresfruechte.json",
@@ -136,8 +145,8 @@
         "source_url": "https://www.hofer.at/produkte/fisch-und-meeresfruechte/k/158816141856710102",
         "product_count": 17,
         "content_hash": "sha256:3cf18f25e2d65031d4eeefc5e7feda97ab1f86bea262b9dc577b18c40e7be766",
-        "file_id": "bb3517de-816f-42d8-9cf7-407532ccf5bc",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "file_id": "07413234-06c1-40b8-b8fa-199e7fb61c19",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/fleisch_und_wurstwaren.json",
@@ -145,8 +154,8 @@
         "source_url": "https://www.hofer.at/produkte/fleisch-und-wurstwaren/k/158816141856710101",
         "product_count": 74,
         "content_hash": "sha256:80d7b0d1e8f19abdb88066e231510717378d1f66502ba942b1d1872576d9731f",
-        "file_id": "140e2620-e9d0-4cb0-8d7e-5c185260197a",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "file_id": "9aa048f6-30d3-44f9-aafe-0e201ae7484f",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/marken.json",
@@ -154,17 +163,17 @@
         "source_url": "https://www.hofer.at/marken",
         "product_count": 218,
         "content_hash": "sha256:c4ab4b699432c797158f74c0c45269fd45faf7d1fb9d9a7af52bbb1e0a59d5b8",
-        "file_id": "ff2c5fab-50d9-4b2e-938f-88441c74960e",
-        "generated_at": "2026-10-22T09:38:49+00:00"
+        "file_id": "8a52c821-ddb8-4a14-aca3-cae32803dc2a",
+        "generated_at": "2026-10-22T20:19:31+00:00"
       },
       {
         "file": "hofer-at/merged.json",
         "source": "merged",
         "source_url": "merged",
-        "product_count": 804,
-        "content_hash": "sha256:5b93e15b33cd77709f0d8902d2b25df75a2e8ce948e097ead57fb172049c13c5",
-        "file_id": "38fa9f94-cb7a-4a2d-b7da-cb8f65f25057",
-        "generated_at": "2026-10-22T09:39:47+00:00"
+        "product_count": 778,
+        "content_hash": "sha256:4b569e034e79fdaefffa1921bb26ae7081e3199ea642d884292ada8c935e4042",
+        "file_id": "1e0a740a-7269-40a7-b77a-2a389e50c976",
+        "generated_at": "2026-10-22T20:20:32+00:00"
       },
       {
         "file": "hofer-at/milchprodukte.json",
@@ -172,8 +181,8 @@
         "source_url": "https://www.hofer.at/produkte/milchprodukte/k/158816141856710103",
         "product_count": 93,
         "content_hash": "sha256:9ab255b5130907fec2bba5af1f516557be5cacb348c2817f87e1402278b67df2",
-        "file_id": "692231ca-a8ee-4413-bef5-d30a6947e399",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "file_id": "884d608a-b4fa-4581-b9f3-da1cc116f730",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/preiswochen.json",
@@ -181,17 +190,17 @@
         "source_url": "https://www.hofer.at/produkte/hofer-preis-wochen/k/1588161434751158",
         "product_count": 9,
         "content_hash": "sha256:816220404e7ddbbf9feaba791b1402450e72b81ac3f5c615df226056212b1eac",
-        "file_id": "50d5c333-fd9a-48d4-b884-4e84b645867e",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "file_id": "bac94c12-378b-474c-ab20-d536610c38f5",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/tiefpreis.json",
         "source": "tiefpreis",
         "source_url": "https://www.hofer.at/flugblatt/tiefpreis-aktionen",
-        "product_count": 110,
-        "content_hash": "sha256:4bd7b8bdd8b03e786a6170a64418d4f6e87ca3af254d29e2806fd3d5dba0b503",
-        "file_id": "e0120fb4-5cd1-4fdc-9a00-097af6af9431",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "product_count": 82,
+        "content_hash": "sha256:f347767e13129f0dd8c54f3bf579fd701654859eafee5d28edf79c7bd7b98f9d",
+        "file_id": "8f03d0ec-6f19-4a8c-a05f-d47acfdc1b87",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       },
       {
         "file": "hofer-at/weihnachten.json",
@@ -199,8 +208,8 @@
         "source_url": "https://www.hofer.at/produkte/weihnachten/k/1588161434751156",
         "product_count": 166,
         "content_hash": "sha256:5b4a505445053790ec1e6e870d7be6a93ff4cce7521dbbc02e87f2387a5fddcd",
-        "file_id": "c82651d8-027e-41de-86c1-d016271163f5",
-        "generated_at": "2026-10-22T09:36:49+00:00"
+        "file_id": "a2e4e487-92dd-4cbe-97ab-b6b6ee021b0f",
+        "generated_at": "2026-10-22T20:17:17+00:00"
       }
     ]
   }
