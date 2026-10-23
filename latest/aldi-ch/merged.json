@@ -1,16 +1,16 @@
 {
     "meta": {
-        "generated_at": "2026-10-23T09:35:27+00:00",
+        "generated_at": "2026-10-23T20:05:18+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
         "source": "merged",
         "type": "listing",
         "source_url": "merged",
-        "product_count": 594,
-        "content_hash": "sha256:8b1378b6f52d87939371978fa43e8abdd09f81f2adb16ce98e555c24626e6238",
-        "file_id": "e9979ef4-dca0-43e6-8439-5c2832d46223",
-        "run_id": "20261023_093417-0345f57d"
+        "product_count": 596,
+        "content_hash": "sha256:6e217a32c347da71ebda17f5c5086c827afae9dd49e8f18b7acfb35d0398b36c",
+        "file_id": "d2c20471-5877-47b6-9b26-7db4ae30782f",
+        "run_id": "20261023_200419-f7076530"
     },
     "products": [
         {
@@ -14269,6 +14269,37 @@
             "validity_type": "regular"
         },
         {
+            "store_product_id": "000000000000300115",
+            "brand": "ALDI",
+            "name": "Papiertragetasche",
+            "amount": "",
+            "unit": "",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/aldi-papiertragetasche-000000000000300115",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/180b5aa9-60da-4a55-83e2-27c661fbbdff/Papiertragetasche",
+            "category": "domacnost",
+            "price": "0.41",
+            "original_price": "",
+            "comparison_price": "",
+            "comparison_per": "",
+            "valid_from": "",
+            "valid_to": "",
+            "source_date": "2026-10-23",
+            "theme": "",
+            "tags": [
+                "tiefpreis"
+            ],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "tiefpreisversprechen",
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
+        },
+        {
             "store_product_id": "000000000000305759",
             "brand": "MILFINA",
             "name": "Vollmilch, 3.5% Fett, pasteurisiert",
@@ -14287,6 +14318,37 @@
             "theme": "",
             "tags": [
                 "kuehlung",
+                "tiefpreis"
+            ],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "tiefpreisversprechen",
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
+        },
+        {
+            "store_product_id": "000000000000307561",
+            "brand": "",
+            "name": "Papiertragetasche",
+            "amount": "",
+            "unit": "",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/no-brand-papiertragetasche-000000000000307561",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/428d23de-d243-4e8d-bc4b-7ae6ea12409e/Papiertragetasche",
+            "category": "domacnost",
+            "price": "0.49",
+            "original_price": "",
+            "comparison_price": "",
+            "comparison_per": "",
+            "valid_from": "",
+            "valid_to": "",
+            "source_date": "2026-10-23",
+            "theme": "",
+            "tags": [
                 "tiefpreis"
             ],
             "deposit": "",

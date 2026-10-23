@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-23T09:35:27+00:00",
+        "generated_at": "2026-10-23T20:05:18+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "merged",
         "product_count": 791,
-        "content_hash": "sha256:3f2a5af8cb40582030ae5a58fa7bb628d1c36964e070bc026aef2a2ac5eaeb4e",
-        "file_id": "3d945750-e0e4-47e0-9a32-f8a6e3e8248b",
-        "run_id": "20261023_093316-c3ec3cdb"
+        "content_hash": "sha256:015ebdd8447d2f38a6fced1fe3cf0f12fea9da59d08e56f7d7b7552b29b73547",
+        "file_id": "d8c0a33a-3f1b-4108-b77c-187d7877b96f",
+        "run_id": "20261023_200326-cd1e5887"
     },
     "products": [
         {
@@ -3427,7 +3427,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/crane-damen-sweatshirt-hose-sweatshirt-7331951588161430439131",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/5ffe293a-2ed9-4477-8dac-1513e295fd42/DamenSweatshirtHose%20Sweatshirt",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/fd39a8ac-8706-4ed6-96eb-cdf32c07edf7/DamenSweatshirtHose%20Sweatshirt",
             "category": "textil",
             "price": "7.49",
             "original_price": "",
@@ -3634,7 +3634,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/licensed-kinder-kleinkinder-pyjama-velours-minnie-daisy-7381431588161431174134",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a04d51c1-3048-476c-aeb6-db8ae0d1f144/KinderKleinkinderPyjama%20Velours%20Minnie%20%20Daisy",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/f0573a40-7d3f-49d5-8a29-53f8c6d360cf/KinderKleinkinderPyjama%20Velours%20Minnie%20%20Daisy",
             "category": "textil",
             "price": "4.99",
             "original_price": "",

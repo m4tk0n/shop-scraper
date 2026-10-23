@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-22T09:36:49+00:00",
+        "generated_at": "2026-10-23T20:02:25+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-29",
         "product_count": 34,
-        "content_hash": "sha256:dccb1e808a82f9cafc2fdd11a84629685e66d4ecfdd090fcd42f6949ac33933f",
-        "file_id": "21470c70-242a-4c00-811a-b642a7b2ec60",
-        "run_id": "20261022_093310-49c98106"
+        "content_hash": "sha256:f634963a6bc2cb50ee0b1c03eb4cd044e47c3f9b182113d8d8c5b2392fd0be0d",
+        "file_id": "2defcb0c-da04-4191-9ebb-6dad09ce6323",
+        "run_id": "20261023_200009-c02ea276"
     },
     "products": [
         {
@@ -397,7 +397,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/crane-damen-sweatshirt-hose-sweatshirt-7331951588161430439131",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/5ffe293a-2ed9-4477-8dac-1513e295fd42/DamenSweatshirtHose%20Sweatshirt",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/fd39a8ac-8706-4ed6-96eb-cdf32c07edf7/DamenSweatshirtHose%20Sweatshirt",
             "category": "textil",
             "price": "7.49",
             "original_price": "",
@@ -604,7 +604,7 @@
             "amount": "",
             "unit": "",
             "product_url": "https://www.hofer.at/produkt/licensed-kinder-kleinkinder-pyjama-velours-minnie-daisy-7381431588161431174134",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/a04d51c1-3048-476c-aeb6-db8ae0d1f144/KinderKleinkinderPyjama%20Velours%20Minnie%20%20Daisy",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/f0573a40-7d3f-49d5-8a29-53f8c6d360cf/KinderKleinkinderPyjama%20Velours%20Minnie%20%20Daisy",
             "category": "textil",
             "price": "4.99",
             "original_price": "",
