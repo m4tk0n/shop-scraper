@@ -1,16 +1,16 @@
 {
     "meta": {
-        "generated_at": "2026-10-22T20:17:17+00:00",
+        "generated_at": "2026-10-23T09:32:06+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
         "source": "tiefpreis",
         "type": "offer",
         "source_url": "https://www.hofer.at/flugblatt/tiefpreis-aktionen",
-        "product_count": 82,
-        "content_hash": "sha256:f347767e13129f0dd8c54f3bf579fd701654859eafee5d28edf79c7bd7b98f9d",
-        "file_id": "8f03d0ec-6f19-4a8c-a05f-d47acfdc1b87",
-        "run_id": "20261022_201401-cb3f7d01"
+        "product_count": 68,
+        "content_hash": "sha256:877cd741482faf4ac5cdf5f73742467e579129a815847fb870db480a41ad4361",
+        "file_id": "25956abf-7923-4a74-8f9b-71f88105ecf7",
+        "run_id": "20261023_092908-881b595d"
     },
     "products": [
         {
@@ -28,7 +28,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -59,7 +59,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -90,7 +90,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -121,7 +121,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -152,7 +152,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -183,7 +183,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -214,7 +214,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -245,7 +245,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -276,7 +276,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -307,7 +307,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -338,7 +338,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -369,7 +369,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -400,7 +400,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -431,7 +431,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -462,7 +462,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -493,7 +493,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -524,7 +524,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -555,7 +555,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -586,7 +586,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -617,7 +617,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion",
@@ -649,7 +649,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -680,7 +680,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -711,7 +711,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -742,7 +742,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -773,7 +773,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -804,7 +804,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -835,7 +835,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -866,7 +866,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -897,7 +897,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion",
@@ -929,7 +929,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -960,7 +960,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -991,7 +991,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1022,7 +1022,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1053,7 +1053,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1084,7 +1084,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -1116,7 +1116,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1147,7 +1147,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1178,7 +1178,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -1210,7 +1210,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1241,7 +1241,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1272,7 +1272,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1303,7 +1303,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1334,7 +1334,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1365,7 +1365,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1396,7 +1396,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1427,7 +1427,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1458,7 +1458,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1489,7 +1489,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1520,7 +1520,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1551,7 +1551,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1582,7 +1582,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1613,7 +1613,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1644,7 +1644,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -1676,7 +1676,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1707,7 +1707,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1738,7 +1738,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1769,7 +1769,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -1801,7 +1801,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1832,7 +1832,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1863,7 +1863,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1894,7 +1894,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1925,7 +1925,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1956,7 +1956,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1987,7 +1987,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -2018,7 +2018,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -2049,7 +2049,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -2080,7 +2080,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -2111,443 +2111,8 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-23",
             "theme": "Wochenstart",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Romeo Wild Roots",
-            "name": "Hundetrockenfutter",
-            "amount": "2",
-            "unit": "kg",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/678464_KW40_PP",
-            "category": "zvirata",
-            "price": "3.49",
-            "original_price": "4.29",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-09-25",
-            "valid_to": "2026-10-22",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Aldi Sports",
-            "name": "High Protein Riegel",
-            "amount": "45",
-            "unit": "g",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/727624_KW40_PP",
-            "category": "sladkosti",
-            "price": "0.89",
-            "original_price": "1.35",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-09-25",
-            "valid_to": "2026-10-22",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Gourmet finest cousine",
-            "name": "Bresaola Black Angus",
-            "amount": "60",
-            "unit": "g",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/443793_KW40_PP",
-            "category": "uzeniny",
-            "price": "1.99",
-            "original_price": "2.99",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-09-25",
-            "valid_to": "2026-10-22",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "",
-            "name": "Spritz Alkoholfrei",
-            "amount": "0.25",
-            "unit": "l",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/747076_KW40_PP",
-            "category": "napoje",
-            "price": "1.19",
-            "original_price": "1.79",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-09-25",
-            "valid_to": "2026-10-22",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion",
-                "alkoholfrei"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Cucuina",
-            "name": "Mini Spizzico",
-            "amount": "120",
-            "unit": "g",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/755288_KW40_PP",
-            "category": "hotova_jidla",
-            "price": "1.69",
-            "original_price": "2.49",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-09-25",
-            "valid_to": "2026-10-22",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Meine Käsetheke",
-            "name": "Obatzter",
-            "amount": "150",
-            "unit": "g",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/203098_KW40_PP",
-            "category": "mlecne_vyrobky",
-            "price": "1.39",
-            "original_price": "1.99",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-09-25",
-            "valid_to": "2026-10-22",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Gourmet finest cousine",
-            "name": "Bresaola Black Angus",
-            "amount": "60",
-            "unit": "g",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/696172_KW40_PP",
-            "category": "uzeniny",
-            "price": "1.99",
-            "original_price": "",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-09-25",
-            "valid_to": "2026-10-22",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Aldi Sports",
-            "name": "Fruchtsirup",
-            "amount": "66",
-            "unit": "ml",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/740090_KW42_PP",
-            "category": "potraviny",
-            "price": "0.99",
-            "original_price": "1.99",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-10-09",
-            "valid_to": "2026-11-05",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Westminister",
-            "name": "Genussmomente, 20 Btl.",
-            "amount": "",
-            "unit": "",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/592692_KW42_PP",
-            "category": "potraviny",
-            "price": "0.99",
-            "original_price": "1.49",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-10-09",
-            "valid_to": "2026-11-05",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Lacura",
-            "name": "Mizellenwasser",
-            "amount": "400",
-            "unit": "ml",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/676297_KW42_PP",
-            "category": "hygiena",
-            "price": "1.99",
-            "original_price": "2.95",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-10-09",
-            "valid_to": "2026-11-05",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Pizz'Ah",
-            "name": "Original Pizza Napoli, 390/380 g",
-            "amount": "",
-            "unit": "",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/774645_KW42_PP",
-            "category": "hotova_jidla",
-            "price": "2.49",
-            "original_price": "3.49",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-10-09",
-            "valid_to": "2026-11-05",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Wonnemeyer",
-            "name": "Mediterrane Cremes, 200/125 g",
-            "amount": "",
-            "unit": "",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/734235_KW42_PP",
-            "category": "potraviny",
-            "price": "1.79",
-            "original_price": "2.49",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-10-09",
-            "valid_to": "2026-11-05",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Cucuina",
-            "name": "XXL Pizzateig",
-            "amount": "550",
-            "unit": "g",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/606114_KW42_PP",
-            "category": "hotova_jidla",
-            "price": "0.99",
-            "original_price": "1.39",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-10-09",
-            "valid_to": "2026-11-05",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
-            "tags": [
-                "tiefpreisaktion"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": true,
-            "source": "tiefpreis",
-            "type": "offer",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "promo"
-        },
-        {
-            "store_product_id": "",
-            "brand": "Choceur",
-            "name": "Edle Kirschen",
-            "amount": "162",
-            "unit": "g",
-            "product_url": "",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/636626_KW42_PP",
-            "category": "cokolady",
-            "price": "1.79",
-            "original_price": "2.25",
-            "comparison_price": "",
-            "comparison_per": "",
-            "valid_from": "2026-10-09",
-            "valid_to": "2026-11-05",
-            "source_date": "2026-10-22",
-            "theme": "Probierpreise",
             "tags": [
                 "tiefpreisaktion"
             ],

@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-22T09:36:49+00:00",
+        "generated_at": "2026-10-23T09:32:06+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/angebote/2026-10-23",
         "product_count": 82,
-        "content_hash": "sha256:c12d69cba4edc44809860d3a182744db20a69a81e6899c5f4689da7dac0a3c3f",
-        "file_id": "fadbb6f7-669b-4e9b-b976-c39b33abf108",
-        "run_id": "20261022_093310-49c98106"
+        "content_hash": "sha256:0f89fc315d14bc053d27ae7bd559cd09f8936550849e280d08df3f0e391d1448",
+        "file_id": "fdefd792-2435-42d0-b3e4-2479882db910",
+        "run_id": "20261023_092908-881b595d"
     },
     "products": [
         {
@@ -81,7 +81,7 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/ad23c3e6-9639-4826-a101-c4b8df6e540a/Duplo",
             "category": "cokolady",
             "price": "5.29",
-            "original_price": "5.49",
+            "original_price": "",
             "comparison_price": "1.61",
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
