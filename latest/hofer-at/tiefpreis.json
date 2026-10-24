@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-23T09:32:06+00:00",
+        "generated_at": "2026-10-24T10:53:38+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,27 +8,27 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/flugblatt/tiefpreis-aktionen",
         "product_count": 68,
-        "content_hash": "sha256:877cd741482faf4ac5cdf5f73742467e579129a815847fb870db480a41ad4361",
-        "file_id": "25956abf-7923-4a74-8f9b-71f88105ecf7",
-        "run_id": "20261023_092908-881b595d"
+        "content_hash": "sha256:16a685b941020451111aa0a078aea0ca60a17c892860911002e509137bf366c3",
+        "file_id": "3b294c00-2a5e-4cfd-ac84-882da39323fc",
+        "run_id": "20261024_105116-946d562a"
     },
     "products": [
         {
             "store_product_id": "",
-            "brand": "Paprika-Mix",
-            "name": "statt € 2,85 per Packung nur",
+            "brand": "",
+            "name": "Paprika-Mix",
             "amount": "500",
             "unit": "g",
             "product_url": "",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/55438_KW44_FrSa-2",
             "category": "zelenina",
             "price": "2.09",
-            "original_price": "",
+            "original_price": "2.85",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -46,8 +46,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "erdbeeren",
-            "name": "statt € 2,79 per Packung nur",
+            "brand": "",
+            "name": "erdbeeren",
             "amount": "250",
             "unit": "g",
             "product_url": "",
@@ -59,7 +59,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -77,8 +77,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Cherrytomaten \"Paradizer\"",
-            "name": "statt 2,29 per Packung nur",
+            "brand": "Cherrytomaten",
+            "name": "\"Paradizer\"",
             "amount": "250",
             "unit": "g",
             "product_url": "",
@@ -90,7 +90,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -107,21 +107,21 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "",
-            "brand": "Sonnhof Faschiertes gemischt",
-            "name": "statt 8,49 per Packung nur",
+            "store_product_id": "000000000000174748",
+            "brand": "Sonnhof",
+            "name": "Faschiertes gemischt",
             "amount": "1",
             "unit": "kg",
-            "product_url": "",
+            "product_url": "https://www.hofer.at/produkt/sonnhof-faschiertes-gemischt-000000000000174748",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/707588_KW44_FrSa-1",
             "category": "maso",
             "price": "3.99",
-            "original_price": "",
+            "original_price": "8.49",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -139,8 +139,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Sonnhof Selchripperl",
-            "name": "statt 7,99 per kg nur",
+            "brand": "Sonnhof",
+            "name": "Selchripperl",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -152,7 +152,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -170,20 +170,20 @@
         },
         {
             "store_product_id": "",
-            "brand": "Sonnhof Kaiser-Schnitzel",
-            "name": "statt 9,98 per Packung nur",
+            "brand": "Sonnhof",
+            "name": "Kaiser-Schnitzel",
             "amount": "",
             "unit": "",
             "product_url": "",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/729629_KW44_FrSa_3",
             "category": "alkohol",
             "price": "6.99",
-            "original_price": "",
+            "original_price": "9.98",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -202,7 +202,7 @@
         {
             "store_product_id": "",
             "brand": "Sonnhof Salat/-Wok-Streifen",
-            "name": "mariniert und, statt 6,26 nur",
+            "name": "mariniert und",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -214,7 +214,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -232,8 +232,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Almare Seafood ASC Stremellachs",
-            "name": "statt € 3,29 per Packung nur",
+            "brand": "Almare Seafood",
+            "name": "ASC Stremellachs",
             "amount": "125",
             "unit": "g",
             "product_url": "",
@@ -245,7 +245,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -276,7 +276,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -307,7 +307,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -324,12 +324,12 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "",
-            "brand": "Backbox Butter-Topfengolatsche",
-            "name": "statt € 1,09 per Stück nur",
+            "store_product_id": "000000000000100835",
+            "brand": "Backbox",
+            "name": "Butter-Topfengolatsche",
             "amount": "",
             "unit": "",
-            "product_url": "",
+            "product_url": "https://www.hofer.at/produkt/backbox-butter-topfengolatsche-000000000000100835",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/100835_KW44_FrSa-1",
             "category": "mlecne_vyrobky",
             "price": "0.69",
@@ -338,7 +338,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -356,8 +356,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Milfina Mischfett",
-            "name": "statt € 1,49 per Packung nur",
+            "brand": "Milfina",
+            "name": "Mischfett",
             "amount": "250",
             "unit": "g",
             "product_url": "",
@@ -369,7 +369,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -386,12 +386,12 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "",
-            "brand": "Milsani Emmentaler gerieben",
-            "name": "statt € 2,79 per Packung nur",
+            "store_product_id": "000000000000107122",
+            "brand": "Milsani",
+            "name": "Emmentaler gerieben",
             "amount": "250",
             "unit": "g",
-            "product_url": "",
+            "product_url": "https://www.hofer.at/produkt/milsani-emmentaler-gerieben-000000000000107122",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/846367_KW44_FrSa-1",
             "category": "mlecne_vyrobky",
             "price": "1.99",
@@ -400,7 +400,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -431,7 +431,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -449,8 +449,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Barissimo Tradizione Espresso",
-            "name": "statt € 10,90 per Packung nur",
+            "brand": "Barissimo",
+            "name": "Tradizione Espresso",
             "amount": "1",
             "unit": "kg",
             "product_url": "",
@@ -462,7 +462,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -480,8 +480,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "King's Crown Käferbohnen",
-            "name": "statt € 1,49 per Dose nur",
+            "brand": "King's Crown",
+            "name": "Käferbohnen",
             "amount": "400",
             "unit": "g",
             "product_url": "",
@@ -493,7 +493,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -511,8 +511,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Primana Chicken Wings",
-            "name": "statt € 4,79 per Packung nur",
+            "brand": "Primana",
+            "name": "Chicken Wings",
             "amount": "750",
             "unit": "g",
             "product_url": "",
@@ -524,7 +524,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -555,7 +555,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -574,19 +574,19 @@
         {
             "store_product_id": "",
             "brand": "Persil Gel/Discs/Pulver",
-            "name": "60/54/44 Waschgänge, statt € 13,95 per Packung nur",
+            "name": "60/54/44 Waschgänge",
             "amount": "",
             "unit": "",
             "product_url": "",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/607980_KW44_FrSa",
             "category": "potraviny",
             "price": "9.99",
-            "original_price": "",
+            "original_price": "13.95",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -604,8 +604,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Bio-Greichisches Olivenöl",
-            "name": "statt € 6,63 per Flasche nur",
+            "brand": "",
+            "name": "Bio-Greichisches Olivenöl",
             "amount": "500",
             "unit": "ml",
             "product_url": "",
@@ -617,7 +617,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion",
@@ -649,7 +649,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -680,7 +680,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -711,7 +711,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -742,7 +742,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -761,7 +761,7 @@
         {
             "store_product_id": "",
             "brand": "Hashtag Grüner Veltliner",
-            "name": "12,5% Vol., statt € 3,99 per Flasche nur",
+            "name": "12,5% Vol.",
             "amount": "1",
             "unit": "l",
             "product_url": "",
@@ -773,7 +773,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -792,7 +792,7 @@
         {
             "store_product_id": "",
             "brand": "Zweigelt",
-            "name": "12,5% Vol., statt € 2,59 per Flasche nur",
+            "name": "12,5% Vol.",
             "amount": "1",
             "unit": "l",
             "product_url": "",
@@ -804,7 +804,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -823,7 +823,7 @@
         {
             "store_product_id": "",
             "brand": "Prosecco Spumante Doc",
-            "name": "11% Vol., statt € 4,49 per Flasche nur",
+            "name": "11% Vol.",
             "amount": "0.75",
             "unit": "l",
             "product_url": "",
@@ -835,7 +835,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -854,7 +854,7 @@
         {
             "store_product_id": "",
             "brand": "Kühles Blondes Märzen Flasche",
-            "name": "5,0% Vol., statt € 1,09 per Flasche nur",
+            "name": "5,0% Vol.",
             "amount": "0.33",
             "unit": "l",
             "product_url": "",
@@ -866,7 +866,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -897,7 +897,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion",
@@ -929,7 +929,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "tiefpreisaktion"
@@ -947,8 +947,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Edelkastanien",
-            "name": "statt € 3,49 per Netz nur",
+            "brand": "",
+            "name": "Edelkastanien",
             "amount": "500",
             "unit": "g",
             "product_url": "",
@@ -960,7 +960,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -978,8 +978,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Premium Trauben kernlos weiss",
-            "name": "statt € 4,99 per kg nur",
+            "brand": "Premium Trauben",
+            "name": "kernlos weiss",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -991,7 +991,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1009,8 +1009,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Kaki",
-            "name": "statt € 0,89 per Stück nur",
+            "brand": "",
+            "name": "Kaki",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -1022,7 +1022,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1040,8 +1040,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Clementinen",
-            "name": "statt € 2,49 per Netz nur",
+            "brand": "",
+            "name": "Clementinen",
             "amount": "1",
             "unit": "kg",
             "product_url": "",
@@ -1053,7 +1053,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1071,8 +1071,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Bio-Bananen Fairtrade",
-            "name": "statt € 2,29 per kg nur",
+            "brand": "Bio-Bananen",
+            "name": "Fairtrade",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -1084,7 +1084,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -1103,8 +1103,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Sonnhof Schweinefleischwürfel",
-            "name": "statt € 7,98 per kg nur",
+            "brand": "Sonnhof",
+            "name": "Schweinefleischwürfel",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -1116,7 +1116,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1147,7 +1147,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1165,20 +1165,20 @@
         },
         {
             "store_product_id": "",
-            "brand": "Zurück zum Urpsrung Bio-Dinkelweckerl",
-            "name": "statt € 0,79 per Stück nur",
+            "brand": "Zurück zum Urpsrung",
+            "name": "Bio-Dinkelweckerl",
             "amount": "",
             "unit": "",
             "product_url": "",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/756903_KW44_MoDo",
             "category": "potraviny",
             "price": "0.49",
-            "original_price": "",
+            "original_price": "0.79",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -1196,12 +1196,12 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "",
-            "brand": "Milsani Schlagobers",
-            "name": "statt € 1,49 per Stück nur",
+            "store_product_id": "000000000000107020",
+            "brand": "Milsani",
+            "name": "Schlagobers",
             "amount": "250",
             "unit": "ml",
-            "product_url": "",
+            "product_url": "https://www.hofer.at/produkt/milsani-schlagobers-000000000000107020",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/107020_KW44_MoDo",
             "category": "mlecne_vyrobky",
             "price": "0.99",
@@ -1210,7 +1210,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1228,8 +1228,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Milsani Familienjoghurt",
-            "name": "statt € 1,89 per Packung nur",
+            "brand": "Milsani",
+            "name": "Familienjoghurt",
             "amount": "6x120",
             "unit": "g",
             "product_url": "",
@@ -1241,7 +1241,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1258,12 +1258,12 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "",
-            "brand": "Milsani Käseaufschnitt",
-            "name": "statt € 1,99 per Packung nur",
+            "store_product_id": "000000000000107118",
+            "brand": "Milsani",
+            "name": "Käseaufschnitt",
             "amount": "250",
             "unit": "g",
-            "product_url": "",
+            "product_url": "https://www.hofer.at/produkt/milsani-kaeseaufschnitt-000000000000107118",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/809048_KW44_MoDo",
             "category": "mlecne_vyrobky",
             "price": "1.49",
@@ -1272,7 +1272,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1303,7 +1303,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1322,7 +1322,7 @@
         {
             "store_product_id": "",
             "brand": "Mars Bite Size",
-            "name": "363/309/300 g, statt € 3,99 per Packung nur",
+            "name": "363/309/300 g",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -1334,7 +1334,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1352,8 +1352,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Leibnitz Pick up!",
-            "name": "statt € 3,29 per Packung nur",
+            "brand": "Leibnitz",
+            "name": "Pick up!",
             "amount": "5x28",
             "unit": "g",
             "product_url": "",
@@ -1365,7 +1365,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1384,19 +1384,19 @@
         {
             "store_product_id": "",
             "brand": "Storck Nimm 2",
-            "name": "300/160 g, statt € 2,58 per Packung nur",
+            "name": "300/160 g",
             "amount": "",
             "unit": "",
             "product_url": "",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/828212_KW44_MoDo",
             "category": "potraviny",
             "price": "1.49",
-            "original_price": "",
+            "original_price": "2.58",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1414,8 +1414,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Haribo Mini-Mix",
-            "name": "statt € 3,99 per Packung",
+            "brand": "Haribo",
+            "name": "Mini-Mix",
             "amount": "425",
             "unit": "g",
             "product_url": "",
@@ -1427,7 +1427,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1446,7 +1446,7 @@
         {
             "store_product_id": "",
             "brand": "Storck Toffee Sortiment",
-            "name": "522/425/352 g, statt € 1,99 per Packung nur",
+            "name": "522/425/352 g",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -1458,7 +1458,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1476,8 +1476,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Choceur Milch-Mäuse",
-            "name": "statt € 2,99 per Packung nur",
+            "brand": "Choceur",
+            "name": "Milch-Mäuse",
             "amount": "210",
             "unit": "g",
             "product_url": "",
@@ -1489,7 +1489,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1507,8 +1507,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Pizz'ah Baguettes",
-            "name": "statt € 3,99 per Packung nur",
+            "brand": "",
+            "name": "Pizz'ah Baguettes",
             "amount": "6x125",
             "unit": "g",
             "product_url": "",
@@ -1520,7 +1520,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1538,8 +1538,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Good Choice Tramezzini Aufstrich",
-            "name": "statt € 1,99 per Becher",
+            "brand": "Good Choice",
+            "name": "Tramezzini Aufstrich",
             "amount": "150",
             "unit": "g",
             "product_url": "",
@@ -1551,7 +1551,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1569,8 +1569,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Manner Belvedere Mischung",
-            "name": "statt € 3,49 per Packung nur",
+            "brand": "Manner",
+            "name": "Belvedere Mischung",
             "amount": "400",
             "unit": "g",
             "product_url": "",
@@ -1582,7 +1582,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1600,8 +1600,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Kinder Schoko-Bons",
-            "name": "statt € 4,99 per Packung nur",
+            "brand": "Kinder",
+            "name": "Schoko-Bons",
             "amount": "300",
             "unit": "g",
             "product_url": "",
@@ -1613,7 +1613,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1631,8 +1631,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Bio-Vollkorn-Lebkuchen",
-            "name": "statt € 2,29 per Packung nur",
+            "brand": "",
+            "name": "Bio-Vollkorn-Lebkuchen",
             "amount": "175",
             "unit": "g",
             "product_url": "",
@@ -1644,7 +1644,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -1663,8 +1663,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Monarc Mini-Schoko-Lebkuchen",
-            "name": "statt € 2,99 per Packung",
+            "brand": "Monarc",
+            "name": "Mini-Schoko-Lebkuchen",
             "amount": "400",
             "unit": "g",
             "product_url": "",
@@ -1676,7 +1676,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1694,8 +1694,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Monarc Lebkuchenherzen",
-            "name": "statt € 2,99 per Packung nur",
+            "brand": "Monarc",
+            "name": "Lebkuchenherzen",
             "amount": "300",
             "unit": "g",
             "product_url": "",
@@ -1707,7 +1707,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1725,8 +1725,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Monarc Lebkuchensortiment",
-            "name": "statt € 2,99 per Packung nur",
+            "brand": "Monarc",
+            "name": "Lebkuchensortiment",
             "amount": "600",
             "unit": "g",
             "product_url": "",
@@ -1738,7 +1738,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1756,8 +1756,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Bio-Mini Elisen Lebkuchen",
-            "name": "statt € 4,49 per Packung nur",
+            "brand": "",
+            "name": "Bio-Mini Elisen Lebkuchen",
             "amount": "150",
             "unit": "g",
             "product_url": "",
@@ -1769,7 +1769,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -1788,8 +1788,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Monarc runde braune Lebkuchen",
-            "name": "statt € 1,99 per Packung",
+            "brand": "Monarc",
+            "name": "runde braune Lebkuchen",
             "amount": "200",
             "unit": "g",
             "product_url": "",
@@ -1801,7 +1801,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1818,12 +1818,12 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "",
-            "brand": "Monarc Nürnberger Oblaten-Lebkuchen",
-            "name": "statt € 1,99 per Packung nur",
+            "store_product_id": "000000000000106889",
+            "brand": "Monarc",
+            "name": "Nürnberger Oblaten-Lebkuchen",
             "amount": "200",
             "unit": "g",
-            "product_url": "",
+            "product_url": "https://www.hofer.at/produkt/monarc-nuernberger-oblaten-lebkuchen-000000000000106889",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/809650_KW44_MoDo",
             "category": "susenky",
             "price": "1.35",
@@ -1832,7 +1832,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1851,7 +1851,7 @@
         {
             "store_product_id": "",
             "brand": "Monarc Lebkuchen Bausatz",
-            "name": "950/1085 g, statt € 7,99 per Packung nur",
+            "name": "950/1085 g",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -1863,7 +1863,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1881,8 +1881,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Gourmet Finest Cousine Lebkuchen",
-            "name": "statt € 6,49 per Packung nur",
+            "brand": "Gourmet Finest Cousine",
+            "name": "Lebkuchen",
             "amount": "275",
             "unit": "g",
             "product_url": "",
@@ -1894,7 +1894,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1912,8 +1912,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Monarc Schokolebkuchen",
-            "name": "statt € 3,79 per Packung nur",
+            "brand": "Monarc",
+            "name": "Schokolebkuchen",
             "amount": "500",
             "unit": "g",
             "product_url": "",
@@ -1925,7 +1925,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1942,12 +1942,12 @@
             "validity_type": "promo"
         },
         {
-            "store_product_id": "",
-            "brand": "Monarc Früchtelebkuchen",
-            "name": "statt € 3,79 per Packung nur",
+            "store_product_id": "000000000000107458",
+            "brand": "Monarc",
+            "name": "Früchtelebkuchen",
             "amount": "450",
             "unit": "g",
-            "product_url": "",
+            "product_url": "https://www.hofer.at/produkt/monarc-fruechtelebkuchen-000000000000107458",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/863585_KW44_MoDo",
             "category": "sladkosti",
             "price": "2.69",
@@ -1956,7 +1956,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1974,8 +1974,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Monarc Elisen-Lebkuchen",
-            "name": "statt € 6,49 per Packung nur",
+            "brand": "Monarc",
+            "name": "Elisen-Lebkuchen",
             "amount": "300",
             "unit": "g",
             "product_url": "",
@@ -1987,7 +1987,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -2005,8 +2005,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Rio D'oro Fairtrade Orangensaft",
-            "name": "statt € 2,35 per Flasche nur",
+            "brand": "Rio",
+            "name": "D'oro Fairtrade Orangensaft",
             "amount": "1",
             "unit": "l",
             "product_url": "",
@@ -2018,7 +2018,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -2049,7 +2049,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -2068,7 +2068,7 @@
         {
             "store_product_id": "",
             "brand": "Schwechater Bier Märzen Dose",
-            "name": "5% Vol., statt € 1,38 per Dose nur",
+            "name": "5% Vol.",
             "amount": "0.5",
             "unit": "l",
             "product_url": "",
@@ -2080,7 +2080,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -2111,7 +2111,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"

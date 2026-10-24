@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-22T20:17:17+00:00",
+        "generated_at": "2026-10-24T10:53:38+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,15 +8,15 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/flugblatt/bier-aktionen",
         "product_count": 5,
-        "content_hash": "sha256:a9607b45aa3c5a9ff4ef0c4be8ada9ee3cab885871ab47e6f57880a5ccd77621",
-        "file_id": "d4efdda5-70db-422f-a9a8-cccf39b9f4f2",
-        "run_id": "20261022_201401-cb3f7d01"
+        "content_hash": "sha256:4d76a90bb8c1fe9ec3c85de8db1d1e2b991676c47e3b1bcec650913c61e51b70",
+        "file_id": "32c1e2a0-429c-43f7-b3ec-4c2615cfb1da",
+        "run_id": "20261024_105116-946d562a"
     },
     "products": [
         {
             "store_product_id": "",
             "brand": "Kühles Blondes Märzen Flasche",
-            "name": "5,0% Vol., statt € 1,09 per Flasche nur",
+            "name": "5,0% Vol.",
             "amount": "0.33",
             "unit": "l",
             "product_url": "",
@@ -28,7 +28,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [],
             "deposit": "",
@@ -57,7 +57,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [
                 "alkoholfrei"
@@ -88,7 +88,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-24",
             "theme": "Wochenende",
             "tags": [],
             "deposit": "",
@@ -117,7 +117,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [],
             "deposit": "",
@@ -134,7 +134,7 @@
         {
             "store_product_id": "",
             "brand": "Schwechater Bier Märzen Dose",
-            "name": "5% Vol., statt € 1,38 per Dose nur",
+            "name": "5% Vol.",
             "amount": "0.5",
             "unit": "l",
             "product_url": "",
@@ -146,7 +146,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-22",
+            "source_date": "2026-10-24",
             "theme": "Wochenstart",
             "tags": [],
             "deposit": "",
