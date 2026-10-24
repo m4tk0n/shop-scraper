@@ -26,6 +26,8 @@ PER_UNIT = re.compile(r"^(?:per|pro|je)\s+(\d+(?:[.,]\d+)?\s*)?(kg|g|l|ml|stk)\.
 # zboží prodávané na váhu bez udání množství v alt textu: 'Äpfel lose aus Österreich' = cena za 1 kg
 LOOSE_RE = re.compile(r"\blose\b", re.I)
 PRICE_END = re.compile(r"(?:€\s*)?(\d+,\d{2})\s*$")
+# původní cena přímo v alt textu: 'statt € 2,99 per Packung nur' (před akční cenou na konci)
+STATT_RE = re.compile(r",?\s*statt\s*€?\s*(\d+,\d{2})(?:\s*(?:per|pro|je)\s+[\wäöüß.]+)?(?:\s*nur)?\s*$", re.I)
 DATE_RE = re.compile(r"(\d{1,2})\.\s?(\d{1,2})\.")
 # velikost na začátku části s dalším textem: '150 g Schale', '2 Stk. Packung'
 LEAD_SIZE = re.compile(r"^\s*(\d+(?:[.,]\d+)?(?:\s*[x×]\s*\d+(?:[.,]\d+)?)?)\s*(kg|g|ml|cl|l|stk\.?|stück)(?![a-zäöüß])", re.I)
@@ -55,6 +57,11 @@ def parse_alt(alt):
     if pm:
         note = pm.group(1)
         rest = rest[:pm.start()].strip().rstrip(",").strip()
+    original = ""
+    sm = STATT_RE.search(rest)
+    if sm:                                           # 'statt € 2,99 per Packung nur' = původní cena, ne název
+        original = price(sm.group(1))
+        rest = rest[:sm.start()].strip().rstrip(",").strip()
     amount = unit = ""
     variants = False
     names = []
@@ -77,7 +84,7 @@ def parse_alt(alt):
     if not amount and LOOSE_RE.search(f"{brand} {name}"):
         amount, unit = "1", "kg"
     unit = fix_liquid_unit(brand, name, unit)
-    return {"brand": brand, "name": name, "amount": amount, "unit": unit, "price": cur, "note": note, "variants": variants}
+    return {"brand": brand, "name": name, "amount": amount, "unit": unit, "price": cur, "original": original, "note": note, "variants": variants}
 
 
 def parse_flyer(html, source, url, today=None):
@@ -117,7 +124,7 @@ def parse_flyer(html, source, url, today=None):
             store_product_id="", brand=a["brand"], name=a["name"], amount=a["amount"], unit=a["unit"],
             product_url="", image_url=src.split("?")[0],
             category=categorize(a["brand"], a["name"], a["unit"], tags, "food"),
-            price=a["price"], original_price="", comparison_price="", comparison_per="",
+            price=a["price"], original_price=a["original"], comparison_price="", comparison_per="",
             valid_from=valid_from, valid_to=valid_to, source_date=today.isoformat(), theme=theme, tags=tags,
             variants=a["variants"],
             validity_source="product_group" if valid_from else "unknown",
