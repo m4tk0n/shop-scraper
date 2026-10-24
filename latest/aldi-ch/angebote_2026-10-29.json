@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-22T09:37:35+00:00",
+        "generated_at": "2026-10-24T18:57:32+00:00",
         "store": "aldi_ch",
         "country": "CH",
         "currency": "CHF",
@@ -8,9 +8,9 @@
         "type": "offer",
         "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-29",
         "product_count": 66,
-        "content_hash": "sha256:c465c989d78c466773019b66e7612c20d67c676e527aa8b44e563defaa6ab035",
-        "file_id": "e0e709bc-4520-4916-94b3-33933c66ebb3",
-        "run_id": "20261022_093649-46ff4c62"
+        "content_hash": "sha256:e362d4bb18ab6faa40bdf2d2fc152c91ed5132d57c43b6b9dbd0027b929ca6d9",
+        "file_id": "57df9346-f3b4-4d26-b316-278f1629c6f2",
+        "run_id": "20261024_185646-b7785105"
     },
     "products": [
         {
@@ -611,7 +611,7 @@
             "name": "Suppe für Katzen",
             "amount": "288",
             "unit": "g",
-            "product_url": "https://www.aldi-suisse.ch/de/produkt/felix-suppe-fuer-katzen-000000000000579322",
+            "product_url": "https://www.aldi-suisse.ch/de/produkt/purina-felix-suppe-fuer-katzen-000000000000579322",
             "image_url": "https://dm.emea.cms.aldi.cx/is/content/aldiprodeu/brandsymbol-grey_new-2",
             "category": "hotova_jidla",
             "price": "1.99",
