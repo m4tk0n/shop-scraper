@@ -11,9 +11,9 @@ import glob, json, os, re, shutil, sys
 from collections import defaultdict
 from hofer_common import PRODUCT_FIELDS, VALIDITY_CONFIDENCE, VALIDITY_SOURCES, outdir
 
-META = ["generated_at", "store", "country", "currency", "source", "type", "source_url",
+META = ["generated_at", "store", "store_url", "country", "currency", "source", "type", "source_url",
         "product_count", "content_hash", "file_id", "run_id"]
-ADDED_LATER = {"country", "currency", "content_hash", "file_id", "run_id"}      # pole, která přibyla v pozdějších verzích
+ADDED_LATER = {"store_url", "country", "currency", "content_hash", "file_id", "run_id"}
 OLD_FIELDS = [k for k in PRODUCT_FIELDS if not k.startswith("validity_")]      # schéma před přidáním validity_*
 MUST_HAVE_TO = {"tiefpreis", "bier", "preiswochen"}                              # tyto akce musí mít konec platnosti
 warns = []
