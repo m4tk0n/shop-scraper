@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-24T19:00:06+00:00",
+        "generated_at": "2026-10-25T09:22:44+00:00",
         "store": "hofer_at",
         "country": "AT",
         "currency": "EUR",
@@ -8,9 +8,9 @@
         "type": "listing",
         "source_url": "merged",
         "product_count": 716,
-        "content_hash": "sha256:fe49d3e238f2368ac0569e1d01d50f9b021efef6f71851f8c487e1c32fb4463b",
-        "file_id": "b3857033-7aef-45d9-a497-a6eda5d93fca",
-        "run_id": "20261024_185758-65550885"
+        "content_hash": "sha256:495e8797ee37593c435bad8cc4219caa54474e0dc225b2c5f328b99ba523be86",
+        "file_id": "bd214726-b1ef-44af-9b3c-d062f9fe7479",
+        "run_id": "20261025_092040-e6bf5d7b"
     },
     "products": [
         {
@@ -233,7 +233,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "onlineshop"
@@ -1846,7 +1846,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-30",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -2283,7 +2283,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-30",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -2312,7 +2312,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-30",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILKA",
             "tags": [],
             "deposit": "",
@@ -2341,7 +2341,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-30",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILKA",
             "tags": [],
             "deposit": "",
@@ -2370,7 +2370,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-30",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILKA",
             "tags": [],
             "deposit": "",
@@ -2399,7 +2399,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-30",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILKA",
             "tags": [],
             "deposit": "",
@@ -2428,7 +2428,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-30",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILKA",
             "tags": [],
             "deposit": "",
@@ -2457,7 +2457,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-30",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILKA",
             "tags": [],
             "deposit": "",
@@ -3142,7 +3142,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-30",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILKA",
             "tags": [],
             "deposit": "",
@@ -3171,7 +3171,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-30",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILKA",
             "tags": [],
             "deposit": "",
@@ -3200,7 +3200,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenende",
             "tags": [],
             "deposit": "",
@@ -3229,7 +3229,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenende",
             "tags": [
                 "alkoholfrei"
@@ -3260,7 +3260,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "2026-10-24",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenende",
             "tags": [],
             "deposit": "",
@@ -3289,7 +3289,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -3320,7 +3320,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -3351,7 +3351,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "onlineshop"
@@ -3382,7 +3382,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3411,7 +3411,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [
                 "regional"
@@ -3442,7 +3442,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3471,7 +3471,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3500,7 +3500,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3529,7 +3529,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3558,7 +3558,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3587,7 +3587,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3616,7 +3616,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3645,7 +3645,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3674,7 +3674,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3703,7 +3703,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3732,7 +3732,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3761,7 +3761,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3790,7 +3790,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3819,7 +3819,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3848,7 +3848,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3877,7 +3877,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3906,7 +3906,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3935,7 +3935,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3964,7 +3964,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -3993,7 +3993,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4022,7 +4022,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4051,7 +4051,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4080,7 +4080,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4109,7 +4109,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4138,7 +4138,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4167,7 +4167,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4196,7 +4196,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4225,7 +4225,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4254,7 +4254,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4283,7 +4283,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4312,7 +4312,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Süße Backwaren",
             "tags": [],
             "deposit": "",
@@ -4341,7 +4341,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -4374,7 +4374,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4405,7 +4405,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4436,7 +4436,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4467,7 +4467,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4498,7 +4498,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -4530,7 +4530,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4561,7 +4561,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4592,7 +4592,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4623,7 +4623,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -4652,7 +4652,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4683,7 +4683,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -4712,7 +4712,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -4741,7 +4741,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -4773,7 +4773,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -4802,7 +4802,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan",
@@ -4835,7 +4835,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4866,7 +4866,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "bio"
@@ -4897,7 +4897,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4928,7 +4928,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -4959,7 +4959,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -4988,7 +4988,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -5017,7 +5017,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -5046,7 +5046,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -5075,7 +5075,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -5104,7 +5104,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -5133,7 +5133,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -5162,7 +5162,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -5193,7 +5193,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "vegan"
@@ -5224,7 +5224,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "bio",
@@ -5256,7 +5256,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [],
             "deposit": "",
@@ -5285,7 +5285,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "bio"
@@ -5316,7 +5316,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Brot und Gebäck",
             "tags": [
                 "bio"
@@ -5347,7 +5347,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "vegan"
@@ -5378,7 +5378,7 @@
             "comparison_per": "",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "vegan"
@@ -5409,7 +5409,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -5438,7 +5438,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -5469,7 +5469,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "vegan",
@@ -5501,7 +5501,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -5532,7 +5532,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -5561,7 +5561,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -5590,7 +5590,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -5619,7 +5619,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -5650,7 +5650,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -5681,7 +5681,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -5710,7 +5710,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -5739,7 +5739,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -5768,7 +5768,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "regional"
@@ -5799,7 +5799,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "regional",
@@ -5831,7 +5831,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -5862,7 +5862,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -5891,7 +5891,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -5920,7 +5920,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "vegan",
@@ -5952,7 +5952,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -5981,7 +5981,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -6012,7 +6012,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -6041,7 +6041,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "regional"
@@ -6072,7 +6072,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [],
             "deposit": "",
@@ -6101,7 +6101,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "vegan"
@@ -6132,7 +6132,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "BACKBOX",
             "tags": [
                 "vegan",
@@ -6164,7 +6164,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6193,7 +6193,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6222,7 +6222,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -6253,7 +6253,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -6284,7 +6284,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6313,7 +6313,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6342,7 +6342,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6371,7 +6371,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -6402,7 +6402,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6431,7 +6431,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -6462,7 +6462,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -6493,7 +6493,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6522,7 +6522,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6551,7 +6551,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6580,7 +6580,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6609,7 +6609,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6638,7 +6638,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -6669,7 +6669,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6698,7 +6698,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6727,7 +6727,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -6758,7 +6758,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6787,7 +6787,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6816,7 +6816,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6845,7 +6845,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6874,7 +6874,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6903,7 +6903,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6932,7 +6932,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6961,7 +6961,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -6990,7 +6990,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -7021,7 +7021,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -7052,7 +7052,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -7083,7 +7083,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7112,7 +7112,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7141,7 +7141,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -7172,7 +7172,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -7203,7 +7203,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -7234,7 +7234,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -7265,7 +7265,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7294,7 +7294,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7323,7 +7323,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7352,7 +7352,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7381,7 +7381,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7410,7 +7410,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7439,7 +7439,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7468,7 +7468,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7497,7 +7497,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -7528,7 +7528,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -7559,7 +7559,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -7590,7 +7590,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -7621,7 +7621,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -7652,7 +7652,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7681,7 +7681,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7710,7 +7710,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7739,7 +7739,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7768,7 +7768,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7797,7 +7797,7 @@
             "comparison_per": "500 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7826,7 +7826,7 @@
             "comparison_per": "500 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -7855,7 +7855,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -7886,7 +7886,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -7917,7 +7917,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -7948,7 +7948,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -7979,7 +7979,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -8011,7 +8011,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -8043,7 +8043,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -8075,7 +8075,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -8106,7 +8106,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -8137,7 +8137,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -8168,7 +8168,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -8199,7 +8199,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -8230,7 +8230,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -8261,7 +8261,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -8292,7 +8292,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -8323,7 +8323,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -8354,7 +8354,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -8385,7 +8385,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Würstel",
             "tags": [
                 "kuehlung"
@@ -8416,7 +8416,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wurst und Wurstwaren",
             "tags": [
                 "kuehlung"
@@ -8447,7 +8447,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -8478,7 +8478,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -8509,7 +8509,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -8540,7 +8540,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung",
@@ -8572,7 +8572,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -8603,7 +8603,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -8634,7 +8634,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -8665,7 +8665,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -8696,7 +8696,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Faschiertes",
             "tags": [
                 "kuehlung"
@@ -8727,7 +8727,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -8758,7 +8758,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [],
             "deposit": "",
@@ -8787,7 +8787,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -8818,7 +8818,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -8849,7 +8849,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -8880,7 +8880,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -8911,7 +8911,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -8942,7 +8942,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung",
@@ -8974,7 +8974,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung",
@@ -9006,7 +9006,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -9037,7 +9037,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -9068,7 +9068,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -9099,7 +9099,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Rind",
             "tags": [
                 "kuehlung"
@@ -9130,7 +9130,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -9161,7 +9161,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9192,7 +9192,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9223,7 +9223,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9254,7 +9254,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9285,7 +9285,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9316,7 +9316,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9347,7 +9347,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9378,7 +9378,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9409,7 +9409,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9440,7 +9440,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9471,7 +9471,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9502,7 +9502,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9533,7 +9533,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9564,7 +9564,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schwein",
             "tags": [
                 "kuehlung"
@@ -9595,7 +9595,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9626,7 +9626,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9657,7 +9657,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9688,7 +9688,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9719,7 +9719,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9750,7 +9750,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9781,7 +9781,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9812,7 +9812,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9843,7 +9843,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9874,7 +9874,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9905,7 +9905,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9936,7 +9936,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9967,7 +9967,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -9998,7 +9998,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10029,7 +10029,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10060,7 +10060,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10091,7 +10091,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10122,7 +10122,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10153,7 +10153,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10184,7 +10184,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10215,7 +10215,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -10247,7 +10247,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -10279,7 +10279,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -10311,7 +10311,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung",
@@ -10343,7 +10343,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10374,7 +10374,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10405,7 +10405,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10436,7 +10436,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10467,7 +10467,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10498,7 +10498,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10529,7 +10529,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10560,7 +10560,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10591,7 +10591,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10622,7 +10622,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Geflügel",
             "tags": [
                 "kuehlung"
@@ -10653,7 +10653,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -10682,7 +10682,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "NESTLÉ",
             "tags": [],
             "deposit": "",
@@ -10711,7 +10711,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "NESTLÉ",
             "tags": [],
             "deposit": "",
@@ -10740,7 +10740,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "NESTLÉ",
             "tags": [],
             "deposit": "",
@@ -10769,7 +10769,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "NESTLÉ",
             "tags": [],
             "deposit": "",
@@ -10798,7 +10798,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "NESTLÉ",
             "tags": [],
             "deposit": "",
@@ -10827,7 +10827,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DUNKIN'",
             "tags": [],
             "deposit": "",
@@ -10856,7 +10856,7 @@
             "comparison_per": "1 pro",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DUNKIN'",
             "tags": [],
             "deposit": "",
@@ -10885,7 +10885,7 @@
             "comparison_per": "1 pro",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DUNKIN'",
             "tags": [],
             "deposit": "",
@@ -10914,7 +10914,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DUNKIN'",
             "tags": [],
             "deposit": "",
@@ -10943,7 +10943,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DUNKIN'",
             "tags": [],
             "deposit": "",
@@ -10972,7 +10972,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DUNKIN'",
             "tags": [],
             "deposit": "",
@@ -11001,7 +11001,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DUNKIN'",
             "tags": [],
             "deposit": "",
@@ -11030,7 +11030,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DUNKIN'",
             "tags": [],
             "deposit": "",
@@ -11059,7 +11059,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DUNKIN'",
             "tags": [],
             "deposit": "",
@@ -11088,7 +11088,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-16",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [
                 "tiefpreisaktion"
@@ -11119,7 +11119,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [
                 "tiefpreisaktion"
@@ -11150,7 +11150,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11179,7 +11179,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [
                 "tiefpreisaktion"
@@ -11210,7 +11210,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11239,7 +11239,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11268,7 +11268,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11297,7 +11297,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-16",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11326,7 +11326,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11355,7 +11355,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11384,7 +11384,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11413,7 +11413,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11442,7 +11442,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-16",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11471,7 +11471,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11500,7 +11500,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11529,7 +11529,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11558,7 +11558,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11587,7 +11587,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11616,7 +11616,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11645,7 +11645,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11674,7 +11674,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11703,7 +11703,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11732,7 +11732,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11761,7 +11761,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11790,7 +11790,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11819,7 +11819,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11848,7 +11848,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11877,7 +11877,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11906,7 +11906,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11935,7 +11935,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -11964,7 +11964,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [
                 "vegan"
@@ -11995,7 +11995,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [
                 "vegan"
@@ -12026,7 +12026,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [
                 "vegan"
@@ -12057,7 +12057,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12086,7 +12086,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12115,7 +12115,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12144,7 +12144,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12173,7 +12173,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [
                 "vegan"
@@ -12204,7 +12204,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12233,7 +12233,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [
                 "vegan"
@@ -12264,7 +12264,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12293,7 +12293,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12322,7 +12322,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12351,7 +12351,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12380,7 +12380,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12409,7 +12409,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12438,7 +12438,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [
                 "vegan"
@@ -12469,7 +12469,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12498,7 +12498,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12527,7 +12527,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12556,7 +12556,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12585,7 +12585,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12614,7 +12614,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12643,7 +12643,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-16",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12672,7 +12672,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-16",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12701,7 +12701,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12730,7 +12730,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12759,7 +12759,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12788,7 +12788,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12817,7 +12817,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12846,7 +12846,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12875,7 +12875,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12904,7 +12904,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12933,7 +12933,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12962,7 +12962,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -12991,7 +12991,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -13020,7 +13020,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -13049,7 +13049,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -13078,7 +13078,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -13107,7 +13107,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MONARC",
             "tags": [],
             "deposit": "",
@@ -13136,7 +13136,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILKA",
             "tags": [],
             "deposit": "",
@@ -13165,7 +13165,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13194,7 +13194,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13223,7 +13223,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13252,7 +13252,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13281,7 +13281,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13310,7 +13310,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13339,7 +13339,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13368,7 +13368,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13397,7 +13397,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13426,7 +13426,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13455,7 +13455,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13484,7 +13484,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MANNER",
             "tags": [],
             "deposit": "",
@@ -13513,7 +13513,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "CHOCEUR",
             "tags": [],
             "deposit": "",
@@ -13542,7 +13542,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "CHOCEUR",
             "tags": [],
             "deposit": "",
@@ -13571,7 +13571,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "CHOCEUR",
             "tags": [],
             "deposit": "",
@@ -13600,7 +13600,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "CHOCEUR",
             "tags": [],
             "deposit": "",
@@ -13629,7 +13629,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "CHOCEUR",
             "tags": [],
             "deposit": "",
@@ -13658,7 +13658,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "CHOCEUR",
             "tags": [],
             "deposit": "",
@@ -13687,7 +13687,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "CHOCEUR",
             "tags": [],
             "deposit": "",
@@ -13716,7 +13716,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "CHOCEUR",
             "tags": [],
             "deposit": "",
@@ -13745,7 +13745,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-16",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "CHOCEUR",
             "tags": [],
             "deposit": "",
@@ -13774,7 +13774,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -13805,7 +13805,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -13836,7 +13836,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -13867,7 +13867,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -13898,7 +13898,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -13929,7 +13929,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung",
@@ -13961,7 +13961,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung",
@@ -13993,7 +13993,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung",
@@ -14025,7 +14025,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14056,7 +14056,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "laktosefrei"
@@ -14087,7 +14087,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14116,7 +14116,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14145,7 +14145,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14176,7 +14176,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14207,7 +14207,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14236,7 +14236,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14267,7 +14267,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14298,7 +14298,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14329,7 +14329,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14360,7 +14360,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14391,7 +14391,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14422,7 +14422,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14453,7 +14453,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14484,7 +14484,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14515,7 +14515,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14544,7 +14544,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14573,7 +14573,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14602,7 +14602,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14631,7 +14631,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14660,7 +14660,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14689,7 +14689,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14720,7 +14720,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14751,7 +14751,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14782,7 +14782,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14813,7 +14813,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [
                 "kuehlung"
@@ -14844,7 +14844,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14873,7 +14873,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14902,7 +14902,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14931,7 +14931,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-09",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14960,7 +14960,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-09",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -14989,7 +14989,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "MILSANI",
             "tags": [],
             "deposit": "",
@@ -15018,7 +15018,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "moser-roth",
             "tags": [],
             "deposit": "",
@@ -15047,7 +15047,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "moser-roth",
             "tags": [],
             "deposit": "",
@@ -15076,7 +15076,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "moser-roth",
             "tags": [],
             "deposit": "",
@@ -15105,7 +15105,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "moser-roth",
             "tags": [],
             "deposit": "",
@@ -15134,7 +15134,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "moser-roth",
             "tags": [],
             "deposit": "",
@@ -15163,7 +15163,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "moser-roth",
             "tags": [],
             "deposit": "",
@@ -15192,7 +15192,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "moser-roth",
             "tags": [],
             "deposit": "",
@@ -15221,7 +15221,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "moser-roth",
             "tags": [],
             "deposit": "",
@@ -15250,7 +15250,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "AMERICAN",
             "tags": [],
             "deposit": "",
@@ -15279,7 +15279,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "AMERICAN",
             "tags": [],
             "deposit": "",
@@ -15308,7 +15308,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "AMERICAN",
             "tags": [],
             "deposit": "",
@@ -15337,7 +15337,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "AMERICAN",
             "tags": [],
             "deposit": "",
@@ -15366,7 +15366,7 @@
             "comparison_per": "1 l",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "AMERICAN",
             "tags": [],
             "deposit": "",
@@ -15395,7 +15395,7 @@
             "comparison_per": "1 l",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "AMERICAN",
             "tags": [],
             "deposit": "",
@@ -15424,7 +15424,7 @@
             "comparison_per": "1 l",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "AMERICAN",
             "tags": [],
             "deposit": "",
@@ -15453,7 +15453,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "HARIBO",
             "tags": [],
             "deposit": "",
@@ -15482,7 +15482,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "HARIBO",
             "tags": [],
             "deposit": "",
@@ -15511,7 +15511,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "KINDER",
             "tags": [],
             "deposit": "",
@@ -15540,7 +15540,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-09",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "KINDER",
             "tags": [],
             "deposit": "",
@@ -15569,7 +15569,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "KINDER",
             "tags": [],
             "deposit": "",
@@ -15598,7 +15598,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "KINDER",
             "tags": [],
             "deposit": "",
@@ -15627,7 +15627,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "KINDER",
             "tags": [],
             "deposit": "",
@@ -15656,7 +15656,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "KINDER",
             "tags": [],
             "deposit": "",
@@ -15685,7 +15685,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "KINDER",
             "tags": [],
             "deposit": "",
@@ -15714,7 +15714,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DANONE",
             "tags": [
                 "kuehlung"
@@ -15745,7 +15745,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DANONE",
             "tags": [
                 "kuehlung"
@@ -15776,7 +15776,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DANONE",
             "tags": [],
             "deposit": "",
@@ -15805,7 +15805,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-10-23",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "DANONE",
             "tags": [],
             "deposit": "",
@@ -15834,7 +15834,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "storck",
             "tags": [],
             "deposit": "",
@@ -15863,7 +15863,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "storck",
             "tags": [],
             "deposit": "",
@@ -15892,7 +15892,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-09",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "storck",
             "tags": [],
             "deposit": "",
@@ -15921,7 +15921,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "storck",
             "tags": [],
             "deposit": "",
@@ -15950,7 +15950,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "storck",
             "tags": [],
             "deposit": "",
@@ -15979,7 +15979,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-02",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "storck",
             "tags": [],
             "deposit": "",
@@ -16008,7 +16008,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Fruchtjoghurt und Desserts",
             "tags": [],
             "deposit": "",
@@ -16037,7 +16037,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Fruchtjoghurt und Desserts",
             "tags": [],
             "deposit": "",
@@ -16066,7 +16066,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Fruchtjoghurt und Desserts",
             "tags": [],
             "deposit": "",
@@ -16095,7 +16095,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Fruchtjoghurt und Desserts",
             "tags": [],
             "deposit": "",
@@ -16124,7 +16124,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -16153,7 +16153,7 @@
             "comparison_per": "1 kg",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -16184,7 +16184,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16215,7 +16215,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16246,7 +16246,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16277,7 +16277,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16308,7 +16308,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16339,7 +16339,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16370,7 +16370,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16401,7 +16401,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16432,7 +16432,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16463,7 +16463,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16494,7 +16494,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16525,7 +16525,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16556,7 +16556,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16587,7 +16587,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16618,7 +16618,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -16647,7 +16647,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -16676,7 +16676,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16707,7 +16707,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16738,7 +16738,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16769,7 +16769,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16800,7 +16800,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16831,7 +16831,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16862,7 +16862,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16893,7 +16893,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16924,7 +16924,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16955,7 +16955,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -16986,7 +16986,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -17017,7 +17017,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -17048,7 +17048,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -17079,7 +17079,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -17110,7 +17110,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -17141,7 +17141,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -17172,7 +17172,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -17201,7 +17201,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [],
             "deposit": "",
@@ -17230,7 +17230,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -17261,7 +17261,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung",
@@ -17293,7 +17293,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Käse und Aufstriche",
             "tags": [
                 "kuehlung"
@@ -17324,7 +17324,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schlagobers und Butter",
             "tags": [
                 "kuehlung"
@@ -17355,7 +17355,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schlagobers und Butter",
             "tags": [
                 "kuehlung"
@@ -17386,7 +17386,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Schlagobers und Butter",
             "tags": [
                 "kuehlung"
@@ -17417,7 +17417,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Milch und Milchgetränke",
             "tags": [
                 "kuehlung"
@@ -17448,7 +17448,7 @@
             "comparison_per": "970 ml",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Milch und Milchgetränke",
             "tags": [
                 "vegan",
@@ -17480,7 +17480,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -17509,7 +17509,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -17538,7 +17538,7 @@
             "comparison_per": "100 g",
             "valid_from": "2026-09-30",
             "valid_to": "2026-10-31",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -17567,7 +17567,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17598,7 +17598,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17629,7 +17629,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17660,7 +17660,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17691,7 +17691,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -17723,7 +17723,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17754,7 +17754,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17785,7 +17785,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -17817,7 +17817,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17848,7 +17848,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17879,7 +17879,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17910,7 +17910,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17941,7 +17941,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -17972,7 +17972,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18003,7 +18003,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18034,7 +18034,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18065,7 +18065,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18096,7 +18096,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18127,7 +18127,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18158,7 +18158,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18189,7 +18189,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -18221,7 +18221,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18252,7 +18252,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18283,7 +18283,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18314,7 +18314,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -18346,7 +18346,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18377,7 +18377,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18408,7 +18408,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18439,7 +18439,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18470,7 +18470,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18501,7 +18501,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -18532,7 +18532,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18561,7 +18561,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18590,7 +18590,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18619,7 +18619,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18648,7 +18648,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18677,7 +18677,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18706,7 +18706,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18735,7 +18735,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -18766,7 +18766,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18795,7 +18795,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "vegan"
@@ -18826,7 +18826,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18855,7 +18855,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18884,7 +18884,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18913,7 +18913,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18942,7 +18942,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -18971,7 +18971,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19000,7 +19000,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "vegan"
@@ -19031,7 +19031,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "vegan"
@@ -19062,7 +19062,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "vegan"
@@ -19093,7 +19093,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "vegan",
@@ -19125,7 +19125,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "vegan",
@@ -19157,7 +19157,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19186,7 +19186,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19215,7 +19215,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19244,7 +19244,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19273,7 +19273,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19302,7 +19302,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19331,7 +19331,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19360,7 +19360,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19389,7 +19389,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19418,7 +19418,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19447,7 +19447,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19476,7 +19476,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19505,7 +19505,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19534,7 +19534,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19563,7 +19563,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19592,7 +19592,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19621,7 +19621,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19650,7 +19650,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19679,7 +19679,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19708,7 +19708,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19737,7 +19737,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19766,7 +19766,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19795,7 +19795,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19824,7 +19824,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19853,7 +19853,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19882,7 +19882,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19911,7 +19911,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19940,7 +19940,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19969,7 +19969,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -19998,7 +19998,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20027,7 +20027,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [
                 "bio"
@@ -20058,7 +20058,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20087,7 +20087,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20116,7 +20116,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20145,7 +20145,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20174,7 +20174,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20203,7 +20203,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20232,7 +20232,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20261,7 +20261,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20290,7 +20290,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20319,7 +20319,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20348,7 +20348,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20377,7 +20377,7 @@
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20402,11 +20402,11 @@
             "category": "orisky",
             "price": "2.49",
             "original_price": "",
-            "comparison_price": "1.00",
+            "comparison_price": "9.96",
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20431,11 +20431,11 @@
             "category": "cokolady",
             "price": "2.49",
             "original_price": "",
-            "comparison_price": "1.00",
+            "comparison_price": "9.96",
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20464,7 +20464,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20493,7 +20493,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20522,7 +20522,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20551,7 +20551,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20580,7 +20580,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20609,7 +20609,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20638,7 +20638,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20667,7 +20667,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20696,7 +20696,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20725,7 +20725,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20754,7 +20754,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20783,7 +20783,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20812,7 +20812,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20841,7 +20841,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20870,7 +20870,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20899,7 +20899,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20928,7 +20928,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20957,7 +20957,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -20986,7 +20986,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21015,7 +21015,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21044,7 +21044,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21073,7 +21073,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21102,7 +21102,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21131,7 +21131,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21160,7 +21160,7 @@
             "comparison_per": "100 g",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21189,7 +21189,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21218,7 +21218,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21247,7 +21247,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21276,7 +21276,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21305,7 +21305,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21334,7 +21334,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -21363,7 +21363,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-25",
             "theme": "",
             "tags": [],
             "deposit": "",
