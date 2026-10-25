@@ -17,7 +17,7 @@ from curl_cffi import requests
 ADAPTERS = {
     "hofer_at": ["hofer_all.py"],
     "aldi_ch": ["aldi_ch.py"],
-    # "hofer_si": ["hofer_si.py"],       # přibude po sondě (probe_store.py)
+    "hofer_si": ["hofer_si.py"],       # přibude po sondě (probe_store.py)
 }
 FALLBACK = [
     {"code": "hofer_at", "url": "https://www.hofer.at", "country": "AT", "currency": "EUR"},
