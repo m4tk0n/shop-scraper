@@ -136,16 +136,10 @@ jobs:
         run: python upload_ftp.py --test
         continue-on-error: true
 
-      - name: Hofer
-        id: hofer
+      - name: Obchody z databáze
+        id: stores
         if: steps.plan.outputs.hofer == '1'
-        run: python hofer_all.py ${{ steps.plan.outputs.hofer_args }} ${{ inputs.food_only && '--food' || '' }} ${{ inputs.no_ocr && '--no-ocr' || '' }}
-        continue-on-error: true
-
-      - name: Aldi Suisse
-        id: aldi
-        if: steps.plan.outputs.aldi == '1'
-        run: python aldi_ch.py ${{ steps.plan.outputs.aldi_args }} ${{ inputs.food_only && '--food' || '' }}
+        run: python run_stores.py ${{ inputs.food_only && '--food' || '' }} ${{ inputs.no_ocr && '--no-ocr' || '' }}
         continue-on-error: true
 
       - name: Značky (Hofer + Aldi Suisse)
@@ -195,7 +189,7 @@ jobs:
           git push
 
       - name: Označit běh jako neúspěšný, když selhal obchod, značky nebo nahrání
-        if: steps.hofer.outcome == 'failure' || steps.aldi.outcome == 'failure' || steps.marken.outcome == 'failure' || steps.upload.outcome == 'failure'
+        if: steps.stores.outcome == 'failure' || steps.marken.outcome == 'failure' || steps.upload.outcome == 'failure'
         run: |
-          echo "Hofer: ${{ steps.hofer.outcome }}, Aldi Suisse: ${{ steps.aldi.outcome }}, značky: ${{ steps.marken.outcome }}, nahrání na server: ${{ steps.upload.outcome }}"
+          echo "Stores: ${{ steps.stores.outcome == 'failure' }}, značky: ${{ steps.marken.outcome }}, nahrání na server: ${{ steps.upload.outcome }}"
           exit 1
