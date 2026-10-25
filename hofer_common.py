@@ -12,8 +12,9 @@ import sys
 import uuid
 from datetime import date, datetime, timezone
 
-STORES = {"hofer_at": ("AT", "EUR"), "aldi_ch": ("CH", "CHF"), "hofer_si": ("SI", "EUR")}
-STORE = os.environ.get("STORE", "hofer_at")
+STORES = {"hofer_at": ("AT", "EUR"), "aldi_ch": ("CH", "CHF"), "hofer_si": ("SI", "EUR")}   # jen záloha
+STORE = os.environ.get("STORE", "hofer_at").replace("-", "_")      # interně dál s podtržítkem
+STORE_CODE = STORE.replace("_", "-")                                # = stores.code v DB
 STORE_URL = os.environ.get("STORE_URL", "").rstrip("/")
 _c, _m = STORES.get(STORE, ("", ""))
 COUNTRY = os.environ.get("STORE_COUNTRY") or _c
