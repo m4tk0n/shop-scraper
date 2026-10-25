@@ -12,10 +12,10 @@ from urllib.parse import quote_plus, urljoin
 
 from bs4 import BeautifulSoup
 
-from hofer_common import (clean, price, parse_size, categorize, derive_tags, make_product, parse_until, run_batches)
+from hofer_common import STORE_URL
 from hofer_discover import get_discovery
 
-BASE = "https://www.hofer.at"
+BASE = STORE_URL
 MAX_PAGES = 30
 COMP_RE = re.compile(r"(?:€|CHF)?\s*((?:\d{1,3}(?:[.'’]\d{3})+|\d+)[,.]\d{2})\s*/\s*([\d.,]*\s*[A-Za-z]+)")
 AVAIL_RE = re.compile(r"verfügbar\s+(?:seit|ab)\s+(\d{2})\.(\d{2})\.(\d{4})", re.I)

@@ -16,8 +16,8 @@ import time
 from urllib.parse import parse_qs, quote, quote_plus, unquote, urlparse
 
 SITES = {
-    "hofer_at": {"base": "https://www.hofer.at", "brand": "/marken/{}", "search": "/suchergebnisse?q={}"},
-    "aldi_ch": {"base": "https://www.aldi-suisse.ch", "brand": "/de/marken/{}", "search": "/de/ergebnisse?q={}"},
+    "hofer_at": {"brand": "/marken/{}", "search": "/suchergebnisse?q={}"},
+    "aldi_ch": {"brand": "/de/marken/{}", "search": "/de/ergebnisse?q={}"},
 }
 
 if __name__ == "__main__" and "STORE" not in os.environ:
@@ -121,7 +121,7 @@ def fetch_brand(session, site, name):
 
 
 def collect(session, opts):
-    site = SITES[STORE]
+    site = {"base": STORE_URL, **SITES[STORE]}
     register_source(SOURCE, "listing")
     names = opts["args"] or load_brands(session)
     if not names:

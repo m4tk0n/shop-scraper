@@ -11,9 +11,9 @@ from urllib.parse import unquote_plus, urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
-from hofer_common import register_source
+from hofer_common import STORE_URL
 
-BASE = "https://www.hofer.at"
+BASE = STORE_URL
 NAV_URL = BASE + "/flugblatt"
 
 # přejmenování zdrojů na stabilní krátké názvy

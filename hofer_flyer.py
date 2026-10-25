@@ -15,9 +15,8 @@ from bs4 import BeautifulSoup
 from hofer_common import (SIZE_RE, amount_key, categorize, clean, derive_tags, fix_liquid_unit, make_product, norm_unit, outdir, parse_heading_range, price, run_batches, slug)
 from hofer_discover import get_discovery
 
-PAGES = {
-    "tiefpreis": "https://www.hofer.at/flugblatt/tiefpreis-aktionen",
-    "bier": "https://www.hofer.at/flugblatt/bier-aktionen",
+PAGES = {"tiefpreis": STORE_URL + "/flugblatt/tiefpreis-aktionen",
+         "bier": STORE_URL + "/flugblatt/bier-aktionen"
 }
 # 'in verschiedenen Sorten erhältlich' i s překlepy z letáku ('in verschiedene Sorten', 'erhältich') a bez 'erhältlich'
 VARIANT_RE = re.compile(r"\s*,?\s*in\s+verschieden\w*\s+Sorten(?:\s+erh\w*)?", re.I)

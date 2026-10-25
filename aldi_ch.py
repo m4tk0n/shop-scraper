@@ -23,7 +23,7 @@ from hofer_common import CATEGORIES, clean, register_source, run_batches
 from hofer_discover import find_dates_and_themes
 from hofer_listings import fetch_listing
 
-BASE = "https://www.aldi-suisse.ch"
+BASE = STORE_URL
 NAV_URL = BASE + "/de/"
 DEFAULT_SOURCES = ["angebote", "tiefpreisversprechen", "suessigkeiten-snacks"]
 

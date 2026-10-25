@@ -537,6 +537,10 @@ def write_categories(out_dir):
 
 
 def run_batches(collect, argv=None, session=None):
+
+    if not STORE_URL:
+        sys.exit("Chybí STORE_URL (adresa obchodu z stores.url). Spouštěj přes run_stores.py.")
+
     """Společný běh: collect(session, opts) -> [{'source','source_url','label','products'}] ; zapíše soubory."""
     from curl_cffi import requests
     argv = sys.argv[1:] if argv is None else argv

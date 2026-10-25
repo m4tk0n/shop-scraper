@@ -14,10 +14,10 @@ import sys
 import time
 from urllib.parse import quote, unquote, urlparse
 
-from hofer_common import outdir, register_source, run_batches
+from hofer_common import STORE_URL
 from hofer_listings import fetch_listing
 
-BASE = "https://www.hofer.at"
+BASE = STORE_URL
 SOURCE = "marken"
 BRANDS_FILE = "znacky.txt"
 
