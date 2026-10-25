@@ -10,7 +10,7 @@ import glob, json, os, re, shutil, sys
 from datetime import datetime, timedelta, timezone
 from hofer_common import outdir
 
-NAME = re.compile(r"^(\d{8}_\d{6})_(hofer-at|aldi-ch)_(?!brands)([a-z0-9_\-]+)\.json$")
+NAME = re.compile(r"^(\d{8}_\d{6})_([a-z]+(?:-[a-z]+)*)_(?!brands)([a-z0-9_\-]+)\.json$")
 args = [a for a in sys.argv[1:] if not a.startswith("--")]
 src_dir = args[0] if args else outdir()
 dst_dir = args[1] if len(args) > 1 else "latest"

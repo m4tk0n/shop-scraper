@@ -28,7 +28,7 @@ from datetime import date, datetime, timedelta, timezone
 
 from hofer_common import PRODUCT_FIELDS, STORES, content_hash, match_key, outdir
 
-NAME = re.compile(r"^(\d{8}_\d{6})_(hofer-at|aldi-ch)_(?!brands)([a-z0-9_\-]+)\.json$")
+NAME = re.compile(r"^(\d{8}_\d{6})_([a-z]+(?:-[a-z]+)*)_(?!brands)([a-z0-9_\-]+)\.json$")
 FALLBACK_CATEGORIES = {"", "potraviny", "nonfood"}           # záložní kategorie podle slov
 LISTS = ("tags",)
 

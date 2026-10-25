@@ -7,7 +7,7 @@ import glob, json, os, re, sys
 from collections import Counter
 from hofer_common import outdir
 
-NAME = re.compile(r"^(\d{8}_\d{6})_(hofer-at|aldi-ch)_(?!brands)([a-z0-9_\-]+)\.json$")
+NAME = re.compile(r"^(\d{8}_\d{6})_([a-z]+(?:-[a-z]+)*)_(?!brands)([a-z0-9_\-]+)\.json$")
 folder = sys.argv[1] if len(sys.argv) > 1 else outdir()
 UNSURE = {"", "potraviny", "nonfood"}                 # záložní nebo prázdná kategorie
 
