@@ -12,9 +12,12 @@ import sys
 import uuid
 from datetime import date, datetime, timezone
 
-STORES = {"hofer_at": ("AT", "EUR"), "aldi_ch": ("CH", "CHF")}      # obchod -> (země ISO 3166-1, měna ISO 4217)
+STORES = {"hofer_at": ("AT", "EUR"), "aldi_ch": ("CH", "CHF"), "hofer_si": ("SI", "EUR")}
 STORE = os.environ.get("STORE", "hofer_at")
-COUNTRY, CURRENCY = STORES[STORE]
+STORE_URL = os.environ.get("STORE_URL", "").rstrip("/")
+_c, _m = STORES.get(STORE, ("", ""))
+COUNTRY = os.environ.get("STORE_COUNTRY") or _c
+CURRENCY = os.environ.get("STORE_CURRENCY") or _m
 
 # source -> type (offer = akce, listing = katalog/sekce)
 SOURCE_TYPES = {
@@ -506,6 +509,7 @@ def write_source_json(out_dir, source, source_url, products, label="", ts=None, 
         "meta": {
             "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             "store": STORE,
+            "store_url": STORE_URL,
             "country": COUNTRY,
             "currency": CURRENCY,
             "source": source,

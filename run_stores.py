@@ -15,13 +15,13 @@ from curl_cffi import requests
 
 # kód obchodu (stores.code) -> skript, který ho umí stáhnout
 ADAPTERS = {
-    "hofer-at": ["hofer_all.py"],
-    "aldi-ch": ["aldi_ch.py"],
-    # "hofer-si": ["hofer_si.py"],       # přibude po sondě (probe_store.py)
+    "hofer_at": ["hofer_all.py"],
+    "aldi_ch": ["aldi_ch.py"],
+    # "hofer_si": ["hofer_si.py"],       # přibude po sondě (probe_store.py)
 }
 FALLBACK = [
-    {"code": "hofer-at", "url": "https://www.hofer.at", "country": "AT", "currency": "EUR"},
-    {"code": "aldi-ch", "url": "https://www.aldi-suisse.ch", "country": "CH", "currency": "CHF"},
+    {"code": "hofer_at", "url": "https://www.hofer.at", "country": "AT", "currency": "EUR"},
+    {"code": "aldi_ch", "url": "https://www.aldi-suisse.ch", "country": "CH", "currency": "CHF"},
 ]
 
 
