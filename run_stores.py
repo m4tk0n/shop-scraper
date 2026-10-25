@@ -19,11 +19,6 @@ ADAPTERS = {
     "aldi_ch": ["aldi_ch.py"],
     "hofer_si": ["hofer_si.py"],       # přibude po sondě (probe_store.py)
 }
-FALLBACK = [
-    {"code": "hofer_at", "url": "https://www.hofer.at", "country": "AT", "currency": "EUR"},
-    {"code": "aldi_ch", "url": "https://www.aldi-suisse.ch", "country": "CH", "currency": "CHF"},
-]
-
 
 def load_stores():
     url = os.environ.get("STORES_URL", "").strip()
@@ -39,9 +34,8 @@ def load_stores():
                 return []
             print(f"Seznam obchodů: status {r.status_code}")
         except Exception as e:
-            print(f"Seznam obchodů: chyba ({type(e).__name__})")
-    print("Používám záložní seznam:", [s["code"] for s in FALLBACK])
-    return FALLBACK
+                print("CHYBA: seznam obchodů z DB se nepodařilo stáhnout (STORES_URL, BRANDS_TOKEN).")
+    return []
 
 
 def main(argv):
