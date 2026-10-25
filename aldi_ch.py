@@ -19,7 +19,7 @@ from urllib.parse import unquote, urljoin, urlparse
 from bs4 import BeautifulSoup
 
 from hofer_angebote import collect_days, parse_tiles
-from hofer_common import CATEGORIES, clean, register_source, run_batches
+from hofer_common import CATEGORIES, STORE_URL, clean, register_source, run_batches
 from hofer_discover import find_dates_and_themes
 from hofer_listings import fetch_listing
 

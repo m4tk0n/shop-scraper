@@ -12,7 +12,7 @@ from difflib import SequenceMatcher
 
 from bs4 import BeautifulSoup
 
-from hofer_common import (SIZE_RE, amount_key, categorize, clean, derive_tags, fix_liquid_unit, make_product, norm_unit, outdir, parse_heading_range, price, run_batches, slug)
+from hofer_common import (STORE_URL, SIZE_RE, amount_key, categorize, clean, derive_tags, fix_liquid_unit, make_product, norm_unit, outdir, parse_heading_range, price, run_batches, slug)
 from hofer_discover import get_discovery
 
 PAGES = {"tiefpreis": STORE_URL + "/flugblatt/tiefpreis-aktionen",

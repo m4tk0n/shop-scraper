@@ -11,7 +11,7 @@ from urllib.parse import unquote_plus, urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
-from hofer_common import STORE_URL
+from hofer_common import STORE_URL, register_source
 
 BASE = STORE_URL
 NAV_URL = BASE + "/flugblatt"

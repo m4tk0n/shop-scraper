@@ -28,7 +28,7 @@ if __name__ == "__main__" and "STORE" not in os.environ:
                               env=dict(os.environ, STORE=s))
     sys.exit(1 if rc else 0)
 
-from hofer_common import STORE, register_source, run_batches   # noqa: E402
+from hofer_common import STORE, STORE_URL, register_source, run_batches   # noqa: E402
 from hofer_listings import fetch_listing                       # noqa: E402
 
 SOURCE = "marken"

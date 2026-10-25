@@ -41,6 +41,20 @@ HINTS = {
     "konzervirana-hrana-in-pripravljeni-obroki": "hotova_jidla",
     "zamrznjeni-izdelki": "potraviny",
     "sladoledi-in-sorbeti": "zmrzlina",
+    "vse-za-peko": "zakladni_potraviny",
+    "sladki-in-slani-prigrizki": "sladkosti",
+    "brezalkoholne-pijace": "napoje",
+    "alkoholne-pijace": "alkohol",
+    "osebna-nega": "hygiena",
+    "izdelki-za-dom-in-gospodinjstvo": "domacnost",
+    "cistila": "uklid",
+    "sport-in-prosti-cas": "sport",
+    "oblacila-obutev-in-modni-dodatki": "textil",
+    "roze-in-rezano-cvetje": "zahrada",
+    "vrt-in-okolica": "zahrada",
+    "delavnica-in-orodje": "nastroje",
+    "avto": "auto",
+    "za-male-zivali": "zvirata",
 }
 FALLBACK_CATS = {"", "potraviny", "nonfood"}
 
