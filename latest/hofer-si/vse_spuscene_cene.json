@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-26T14:25:36+00:00",
+        "generated_at": "2026-10-26T14:56:05+00:00",
         "store": "hofer_si",
         "store_url": "https://www.hofer.si",
         "country": "SI",
@@ -8,10 +8,10 @@
         "source": "vse_spuscene_cene",
         "type": "listing",
         "source_url": "https://www.hofer.si/izdelki/vse-spuscene-cene/k/1588161418378360",
-        "product_count": 317,
-        "content_hash": "sha256:b37e067dfae82bbc7ef79d0ed9c04459305a02e8c67f7d3e9e840f615f05ca70",
-        "file_id": "f2f932be-07ca-4a6c-a931-05dfa235afb5",
-        "run_id": "20261026_142506-19908f5e"
+        "product_count": 315,
+        "content_hash": "sha256:c4a52ed8c70830e41fd6080e7427c85ea392185edf2230ca9aeaca6df4850095",
+        "file_id": "34c6ea2d-6c33-421c-a796-02bada969d5f",
+        "run_id": "20261026_145531-af8fd83c"
     },
     "products": [
         {
@@ -8495,70 +8495,6 @@
             "theme": "",
             "tags": [
                 "to_ni_akcija"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "vse_spuscene_cene",
-            "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "permanent"
-        },
-        {
-            "store_product_id": "000000000629863001",
-            "brand": "CERBONA",
-            "name": "Veganska granola, Berryful",
-            "amount": "300",
-            "unit": "g",
-            "product_url": "https://www.hofer.si/izdelek/cerbona-veganska-granola-berryful-000000000629863001",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/f91267e5-d762-4e02-b65a-0191e69f9a34/Veganska%20granola%20Berryful",
-            "category": "potraviny",
-            "price": "3.05",
-            "original_price": "",
-            "comparison_price": "10.17",
-            "comparison_per": "1 kg",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-26",
-            "theme": "",
-            "tags": [
-                "to_ni_akcija",
-                "vegan"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "vse_spuscene_cene",
-            "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "permanent"
-        },
-        {
-            "store_product_id": "000000000629863002",
-            "brand": "CERBONA",
-            "name": "Veganska granola, Cocoa Dream",
-            "amount": "300",
-            "unit": "g",
-            "product_url": "https://www.hofer.si/izdelek/cerbona-veganska-granola-cocoa-dream-000000000629863002",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/a14999f9-d2b5-4153-82f1-6249776b4cd9/Veganska%20granola%20Cocoa%20Dream",
-            "category": "potraviny",
-            "price": "3.05",
-            "original_price": "",
-            "comparison_price": "10.17",
-            "comparison_per": "1 kg",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-26",
-            "theme": "",
-            "tags": [
-                "to_ni_akcija",
-                "vegan"
             ],
             "deposit": "",
             "deposit_type": "",

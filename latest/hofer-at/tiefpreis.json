@@ -1,16 +1,17 @@
 {
     "meta": {
-        "generated_at": "2026-10-24T18:56:45+00:00",
+        "generated_at": "2026-10-26T14:55:31+00:00",
         "store": "hofer_at",
+        "store_url": "https://www.hofer.at",
         "country": "AT",
         "currency": "EUR",
         "source": "tiefpreis",
         "type": "offer",
         "source_url": "https://www.hofer.at/flugblatt/tiefpreis-aktionen",
         "product_count": 38,
-        "content_hash": "sha256:05d7557e35d645f5afdd8d4dcf677421de239cf23038017e783c19d8d7a6a1a4",
-        "file_id": "795c37c9-c788-4083-9a4e-960b98794d9e",
-        "run_id": "20261024_185414-cd36ecf0"
+        "content_hash": "sha256:7136da3cd5ba8ddc9a680ec5d35f6b8bc64bed8afaf93a311ba5f5020496424c",
+        "file_id": "7ed094f6-1eec-449d-932c-f3f116f4e39a",
+        "run_id": "20261026_145427-dd706b6b"
     },
     "products": [
         {
@@ -28,7 +29,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -46,8 +47,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Premium Trauben",
-            "name": "kernlos weiss",
+            "brand": "",
+            "name": "Premium Trauben kernlos weiss",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -59,7 +60,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -90,7 +91,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -121,7 +122,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -139,8 +140,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Bio-Bananen",
-            "name": "Fairtrade",
+            "brand": "",
+            "name": "Bio-Bananen Fairtrade",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -152,7 +153,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -179,12 +180,12 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/747046_KW44_MoDo",
             "category": "maso",
             "price": "5.49",
-            "original_price": "7.99",
+            "original_price": "7.98",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -215,7 +216,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -233,8 +234,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Zurück zum Urpsrung",
-            "name": "Bio-Dinkelweckerl",
+            "brand": "",
+            "name": "Zurück zum Urpsrung Bio-Dinkelweckerl",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -246,7 +247,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -278,7 +279,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -309,7 +310,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -340,7 +341,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -371,7 +372,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -402,7 +403,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -420,8 +421,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Leibnitz",
-            "name": "Pick up!",
+            "brand": "",
+            "name": "Leibnitz Pick up!",
             "amount": "5x28",
             "unit": "g",
             "product_url": "",
@@ -433,7 +434,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -464,7 +465,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -490,12 +491,12 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/816488_KW44_MoDo",
             "category": "bonbony",
             "price": "2.49",
-            "original_price": "3.59",
+            "original_price": "3.99",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -526,7 +527,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -557,7 +558,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -588,7 +589,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -606,8 +607,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Good Choice",
-            "name": "Tramezzini Aufstrich",
+            "brand": "",
+            "name": "Good Choice Tramezzini Aufstrich",
             "amount": "150",
             "unit": "g",
             "product_url": "",
@@ -619,7 +620,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -650,7 +651,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -681,7 +682,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -712,7 +713,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -744,7 +745,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -775,7 +776,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -806,7 +807,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -837,7 +838,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion",
@@ -869,7 +870,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -900,7 +901,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -931,7 +932,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -949,8 +950,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Gourmet Finest Cousine",
-            "name": "Lebkuchen",
+            "brand": "Gourmet",
+            "name": "Finest Cousine Lebkuchen",
             "amount": "275",
             "unit": "g",
             "product_url": "",
@@ -962,7 +963,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -993,7 +994,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1024,7 +1025,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1055,7 +1056,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1073,8 +1074,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Rio",
-            "name": "D'oro Fairtrade Orangensaft",
+            "brand": "Rio D'oro",
+            "name": "Fairtrade Orangensaft",
             "amount": "1",
             "unit": "l",
             "product_url": "",
@@ -1086,7 +1087,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1117,7 +1118,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1148,7 +1149,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"
@@ -1179,7 +1180,7 @@
             "comparison_per": "",
             "valid_from": "2026-10-27",
             "valid_to": "2026-10-29",
-            "source_date": "2026-10-24",
+            "source_date": "2026-10-26",
             "theme": "Wochenstart",
             "tags": [
                 "tiefpreisaktion"

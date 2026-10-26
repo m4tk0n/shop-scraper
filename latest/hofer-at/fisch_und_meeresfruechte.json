@@ -1,16 +1,17 @@
 {
     "meta": {
-        "generated_at": "2026-10-23T09:32:06+00:00",
+        "generated_at": "2026-10-26T14:55:31+00:00",
         "store": "hofer_at",
+        "store_url": "https://www.hofer.at",
         "country": "AT",
         "currency": "EUR",
         "source": "fisch_und_meeresfruechte",
         "type": "listing",
         "source_url": "https://www.hofer.at/produkte/fisch-und-meeresfruechte/k/158816141856710102",
         "product_count": 17,
-        "content_hash": "sha256:6e9d4f781b84e8b730c9863cc1d803beab2e41b736017c253f095190fa5de815",
-        "file_id": "0c0af41b-bd35-4514-9908-44044be93933",
-        "run_id": "20261023_092908-881b595d"
+        "content_hash": "sha256:3cf18f25e2d65031d4eeefc5e7feda97ab1f86bea262b9dc577b18c40e7be766",
+        "file_id": "6b7535c2-dd52-460f-ad97-8a22f6fd8d1a",
+        "run_id": "20261026_145427-dd706b6b"
     },
     "products": [
         {
@@ -28,7 +29,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -59,7 +60,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -90,7 +91,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -121,7 +122,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -152,7 +153,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -184,7 +185,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -216,7 +217,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung",
@@ -248,7 +249,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -279,7 +280,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -310,7 +311,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -335,13 +336,13 @@
             "product_url": "https://www.hofer.at/produkt/almare-seafood-asc-stremellachs-pfeffer-000000000114157002",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/35b997f9-79b1-463c-bd82-c2cb292381db/ASC%20Stremellachs%20Pfeffer",
             "category": "ryby",
-            "price": "2.49",
-            "original_price": "3.29",
-            "comparison_price": "19.92",
+            "price": "3.29",
+            "original_price": "",
+            "comparison_price": "26.32",
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -366,13 +367,13 @@
             "product_url": "https://www.hofer.at/produkt/almare-seafood-asc-stremellachs-natur-000000000114157003",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/2bfca900-ea58-4f35-85ae-57461441f88c/ASC%20Stremellachs%20Natur",
             "category": "ryby",
-            "price": "2.49",
-            "original_price": "3.29",
-            "comparison_price": "19.92",
+            "price": "3.29",
+            "original_price": "",
+            "comparison_price": "26.32",
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -403,7 +404,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -434,7 +435,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -465,7 +466,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -496,7 +497,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
@@ -527,7 +528,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-23",
+            "source_date": "2026-10-26",
             "theme": "",
             "tags": [
                 "kuehlung"
