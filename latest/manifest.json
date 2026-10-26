@@ -1,4 +1,99 @@
 {
-  "generated_at": "2026-10-26T14:15:29+00:00",
-  "stores": {}
+  "generated_at": "2026-10-26T14:26:01+00:00",
+  "stores": {
+    "aldi-ch": [
+      {
+        "file": "aldi-ch/angebote_2026-10-26.json",
+        "source": "angebote",
+        "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-26",
+        "product_count": 67,
+        "content_hash": "sha256:6b98633470e37796ae8b1f73712745dad18b5ce9c1dbc14b38ecb4dd95dc6a3c",
+        "file_id": "baa93fea-44b5-4197-bd1c-fb5f8ff79036",
+        "generated_at": "2026-10-26T14:23:57+00:00"
+      },
+      {
+        "file": "aldi-ch/angebote_2026-10-29.json",
+        "source": "angebote",
+        "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-29",
+        "product_count": 66,
+        "content_hash": "sha256:e362d4bb18ab6faa40bdf2d2fc152c91ed5132d57c43b6b9dbd0027b929ca6d9",
+        "file_id": "598eec36-181b-4460-8dca-57f3bc773fd9",
+        "generated_at": "2026-10-26T14:24:19+00:00"
+      },
+      {
+        "file": "aldi-ch/angebote_2026-11-02.json",
+        "source": "angebote",
+        "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-11-02",
+        "product_count": 77,
+        "content_hash": "sha256:1f6167cf028d35f1210b1e508468adf363102a891afba78e5aecb32ee131fbc9",
+        "file_id": "26a8ea94-c42f-4e9b-ac3e-783779676896",
+        "generated_at": "2026-10-26T14:24:43+00:00"
+      },
+      {
+        "file": "aldi-ch/suessigkeiten_snacks.json",
+        "source": "suessigkeiten_snacks",
+        "source_url": "https://www.aldi-suisse.ch/de/produkte/suessigkeiten-snacks/k/1588161418433054",
+        "product_count": 170,
+        "content_hash": "sha256:d87669fb813e890d71fe0571a266ca6852f5a4959a3f1926bf4ee690313c6852",
+        "file_id": "b72177fd-3fc2-43d2-9a37-d861d4f13a4f",
+        "generated_at": "2026-10-26T14:25:06+00:00"
+      },
+      {
+        "file": "aldi-ch/tiefpreisversprechen.json",
+        "source": "tiefpreisversprechen",
+        "source_url": "https://www.aldi-suisse.ch/de/produkte/tiefpreisversprechen/k/1588161431768066",
+        "product_count": 145,
+        "content_hash": "sha256:fca87959cfe589298314b320f4937ce0e5c19b7c328d3369dfb23bba7b84c7fb",
+        "file_id": "9ecdec4c-385c-4606-8c14-856be0d1b62d",
+        "generated_at": "2026-10-26T14:24:50+00:00"
+      }
+    ],
+    "hofer-si": [
+      {
+        "file": "hofer-si/angebote_2026-10-26.json",
+        "source": "angebote",
+        "source_url": "https://www.hofer.si/posebna-ponudba/2026-10-26",
+        "product_count": 16,
+        "content_hash": "sha256:725aa64708ae1105b6525891043b7cc5def44e3e98120ec602d75afe10e10372",
+        "file_id": "2c7e1e77-3a1b-4950-876f-7139e1bf45ee",
+        "generated_at": "2026-10-26T14:25:10+00:00"
+      },
+      {
+        "file": "hofer-si/angebote_2026-10-29.json",
+        "source": "angebote",
+        "source_url": "https://www.hofer.si/posebna-ponudba/2026-10-29",
+        "product_count": 32,
+        "content_hash": "sha256:a6b57d2209ff2e87c293c3276188f69a52688c8ba6a791775661e4a4b0b48bb6",
+        "file_id": "9370f6da-49c9-4230-b7aa-12e12f8202c8",
+        "generated_at": "2026-10-26T14:25:18+00:00"
+      },
+      {
+        "file": "hofer-si/angebote_2026-11-02.json",
+        "source": "angebote",
+        "source_url": "https://www.hofer.si/posebna-ponudba/2026-11-02",
+        "product_count": 38,
+        "content_hash": "sha256:aa653683cd7abca42418115ee55afd9e3433ef3c3beff1336b92b47c4f73136f",
+        "file_id": "c369071b-eb7e-49f3-9839-ec7e884b55d5",
+        "generated_at": "2026-10-26T14:25:25+00:00"
+      },
+      {
+        "file": "hofer-si/pregled_posebne_ponudbe.json",
+        "source": "pregled_posebne_ponudbe",
+        "source_url": "https://www.hofer.si/izdelki/pregled-posebne-ponudbe/k/1588161418378530",
+        "product_count": 283,
+        "content_hash": "sha256:86af9347d8f853594378d684883701f7ab7a4e3f958016863971d9e420afae67",
+        "file_id": "2e891eea-a123-4c3e-8a65-e5e188f70c6b",
+        "generated_at": "2026-10-26T14:25:48+00:00"
+      },
+      {
+        "file": "hofer-si/vse_spuscene_cene.json",
+        "source": "vse_spuscene_cene",
+        "source_url": "https://www.hofer.si/izdelki/vse-spuscene-cene/k/1588161418378360",
+        "product_count": 317,
+        "content_hash": "sha256:b37e067dfae82bbc7ef79d0ed9c04459305a02e8c67f7d3e9e840f615f05ca70",
+        "file_id": "f2f932be-07ca-4a6c-a931-05dfa235afb5",
+        "generated_at": "2026-10-26T14:25:36+00:00"
+      }
+    ]
+  }
 }
