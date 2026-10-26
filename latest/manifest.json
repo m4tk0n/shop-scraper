@@ -1,4 +1,16 @@
 {
-  "generated_at": "2026-10-26T04:29:35+00:00",
-  "stores": {}
+  "generated_at": "2026-10-26T11:08:57+00:00",
+  "stores": {
+    "aldi-gb": [
+      {
+        "file": "aldi-gb/groceries.json",
+        "source": "groceries",
+        "source_url": "https://www.aldi.co.uk/c/groceries",
+        "product_count": 12,
+        "content_hash": "sha256:0dec600415288288c5c3524d6b6506efccf87f3768d5b2763f76d4a402215ab1",
+        "file_id": "d30515f9-f2ee-4647-a5b1-ce4ce7f8df61",
+        "generated_at": "2026-10-26T11:08:49+00:00"
+      }
+    ]
+  }
 }
