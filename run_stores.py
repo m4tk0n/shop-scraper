@@ -17,7 +17,7 @@ ADAPTERS = {
     "hofer_at": ["hofer_all.py"],
     "aldi_ch": ["aldi_ch.py"],
     "hofer_si": ["hofer_si.py"],
-    "aldi_gb": ["aldi_gb.py"],
+    "aldi_gb": ["aldi_gb.py"],  # Zde je nově zaregistrované Aldi UK
     "aldi_us": ["aldi_us.py"],
     "aldi_hu": ["aldi_hu.py"],
     "aldi_it": ["aldi_it.py"],
