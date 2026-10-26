@@ -18,7 +18,6 @@ from hofer_listings import fetch_listing
 BASE = os.environ.get("STORE_URL", "").rstrip("/")
 DEFAULT_SOURCES = ["groceries"]
 
-# Mapování anglických názvů/slugů kategorií na naše standardní klíče
 HINTS = {
     "fresh-food": "maso",
     "meat-poultry": "maso",
@@ -52,12 +51,10 @@ def source_name(slug):
 
 
 def parse_nav(html):
-    """Dynamicky rozparcuje menu z aldi.co.uk a vytvoří strom kategorií a podkategorií."""
     soup = BeautifulSoup(html, "html.parser")
     tops = {}
     for a in soup.find_all("a", href=True):
         path = urlparse(a["href"]).path
-        # Hledá vzory typu /c/groceries/<kategorie>/<podkategorie> nebo /c/<kategorie>/<podkategorie>
         m = re.fullmatch(r"/c/(?:groceries/)?([^/]+)(?:/([^/]+))?", path)
         if not m:
             continue
@@ -79,7 +76,6 @@ def apply_hint(p, slug):
 
 
 def fetch_category(session, name, top_slug, node):
-    """Projde podkategorie dané sekce a posbírá produkty."""
     pages = node["children"] or ([{"slug": None, "url": node["url"], "label": node["label"]}] if node["url"] else [])
     products, seen = [], set()
     for ch in pages:
@@ -116,7 +112,7 @@ def collect(session, opts):
     for w in wanted:
         node = tops.get(w)
         if not node or not (node["url"] or node["children"]):
-            print(f"  ! Kategorie '{w'}' nebyla v dynamickém menu nalezena, přeskakuji.")
+            print(f"  ! Kategorie '{w}' nebyla v dynamickém menu nalezena, přeskakuji.")
             continue
 
         name = source_name(w)

@@ -18,7 +18,15 @@ from urllib.parse import parse_qs, quote, quote_plus, unquote, urlparse
 SITES = {
     "hofer_at": {"brand": "/marken/{}", "search": "/suchergebnisse?q={}"},
     "aldi_ch": {"brand": "/de/marken/{}", "search": "/de/ergebnisse?q={}"},
+    "hofer_si": {"brand": "/marke/{}", "search": "/iskanje?q={}"},
+    "aldi_gb": {"brand": "/c/groceries/{}", "search": "/c/groceries?q={}"},
+    "aldi_us": {"brand": "/products/{}", "search": "/results?q={}"},
+    "aldi_hu": {"brand": "/hu/termekek/{}", "search": "/hu/kereses?q={}"},
+    "aldi_it": {"brand": "/it/prodotti/{}", "search": "/it/ricerca?q={}"},
+    "aldi_de_sud": {"brand": "/p/{}", "search": "/p/?q={}"},
+    "aldi_au": {"brand": "/en/groceries/{}", "search": "/en/results?q={}"},
 }
+
 
 if __name__ == "__main__" and "STORE" not in os.environ:
     rc = 0
