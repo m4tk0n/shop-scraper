@@ -325,7 +325,7 @@ def slug(s):
 # validity_type:       promo (časově omezená akce) | permanent (trvale nízká cena) | regular (běžný sortiment)
 VALIDITY_SOURCES = ("product", "product_group", "catalog", "unknown")
 VALIDITY_CONFIDENCE = ("verified", "matched", "start_only", "unknown")
-PERMANENT_SOURCES = {"dauerhaft"}
+PERMANENT_SOURCES = {"dauerhaft", "vse_spuscene_cene"}
 WEEKDAYS = {"mo": 0, "di": 1, "mi": 2, "do": 3, "fr": 4, "sa": 5, "so": 6}
 _D = r"(?:(Mo|Di|Mi|Do|Fr|Sa|So)\.?\s*)?(\d{1,2})\.\s?(\d{1,2})\.?(?:\s?(\d{4}))?"
 RANGE_PREFIX_RE = re.compile(rf"\b(?i:von|vom|ab)\s+{_D}\s*(?:(?i:bis)|[–-])\s*{_D}")

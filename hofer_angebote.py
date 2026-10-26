@@ -17,8 +17,8 @@ from hofer_discover import get_discovery
 
 BASE = STORE_URL
 MAX_PAGES = 30
-COMP_RE = re.compile(r"(?:€|CHF)?\s*((?:\d{1,3}(?:[.'’]\d{3})+|\d+)[,.]\d{2})\s*/\s*([\d.,]*\s*[A-Za-z]+)")
-AVAIL_RE = re.compile(r"verfügbar\s+(?:seit|ab)\s+(\d{2})\.(\d{2})\.(\d{4})", re.I)
+COMP_RE = re.compile(r"(?:€|CHF)?\s*((?:\d{1,3}(?:[.'’]\d{3})+|\d+)[,.]\d{2})\s*(?:€|CHF)?\s*/\s*([\d.,]*\s*[A-Za-z]+)")
+AVAIL_RE = re.compile(r"(?:verfügbar|na\s+voljo)\s+(?:seit|ab|od)\s+(\d{1,2})\.\s?(\d{1,2})\.\s?(\d{4})", re.I)
 
 
 def text(el, sel):
@@ -75,7 +75,7 @@ def tile_to_product(t, source, source_url, source_date, theme="", default_group=
     badges = [clean(b.get_text(" ", strip=True)) for b in t.select(".product-tile__badges .base-label")]
     ttxt = clean(t.get_text(" ", strip=True))
     dm = AVAIL_RE.search(ttxt)
-    valid_from = f"{dm.group(3)}-{dm.group(2)}-{dm.group(1)}" if dm else (source_date if fallback_valid_from else "")
+        valid_from = f"{dm.group(3)}-{dm.group(2).zfill(2)}-{dm.group(1).zfill(2)}" if dm else (source_date if fallback_valid_from else "")
     valid_to = parse_until(ttxt)                  # 'gültig bis …' přímo u produktu (zatím nespatřeno, jen pojistka)
     if valid_to:
         vsrc, vconf = "product", "verified"
@@ -85,7 +85,7 @@ def tile_to_product(t, source, source_url, source_date, theme="", default_group=
         vsrc, vconf = "product_group", "start_only"   # den stránky 'Ab Dienstag, 13. Oktober'
     else:
         vsrc, vconf = "unknown", "unknown"
-    tags = derive_tags(brand, name, [b for b in badges if not b.lower().startswith("verfügbar")])
+        tags = derive_tags(brand, name, [b for b in badges if not b.lower().startswith(("verfügbar", "na voljo"))])
     return make_product(
         source,
         store_product_id=pid.group(1).zfill(18) if pid else "",

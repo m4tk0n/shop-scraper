@@ -20,6 +20,11 @@ ADAPTERS = {
     "hofer_si": ["hofer_si.py"],       # přibude po sondě (probe_store.py)
 }
 
+BRANDS = {
+    "hofer_at": ["brands_scrape.py"],
+    "aldi_ch": ["brands_scrape.py"],
+}
+
 def load_stores():
     url = os.environ.get("STORES_URL", "").strip()
     if url:
@@ -39,14 +44,16 @@ def load_stores():
 
 
 def main(argv):
-    flags = [a for a in argv if a.startswith("--")]            # zdroje se nepředávají, každý obchod má jiné
+        brands = "--brands" in argv
+    argv = [a for a in argv if a != "--brands"]
+    flags = argv if brands else [a for a in argv if a.startswith("--")]   # u značek se předávají i jména značek
     only = os.environ.get("ONLY_STORES", "").split()
     rc = ran = 0
     for s in load_stores():
         code = s["code"]
         if only and code not in only:
             continue
-        cmd = ADAPTERS.get(code)
+                cmd = (BRANDS if brands else ADAPTERS).get(code)
         if not cmd:
             print(f"\n!! {code}: aktivní v DB, ale bez adaptéru (ADAPTERS), přeskakuji")
             continue
