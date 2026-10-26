@@ -75,7 +75,7 @@ def tile_to_product(t, source, source_url, source_date, theme="", default_group=
     badges = [clean(b.get_text(" ", strip=True)) for b in t.select(".product-tile__badges .base-label")]
     ttxt = clean(t.get_text(" ", strip=True))
     dm = AVAIL_RE.search(ttxt)
-        valid_from = f"{dm.group(3)}-{dm.group(2).zfill(2)}-{dm.group(1).zfill(2)}" if dm else (source_date if fallback_valid_from else "")
+    valid_from = f"{dm.group(3)}-{dm.group(2).zfill(2)}-{dm.group(1).zfill(2)}" if dm else (source_date if fallback_valid_from else "")
     valid_to = parse_until(ttxt)                  # 'gültig bis …' přímo u produktu (zatím nespatřeno, jen pojistka)
     if valid_to:
         vsrc, vconf = "product", "verified"
