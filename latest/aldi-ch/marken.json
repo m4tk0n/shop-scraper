@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-26T16:12:46+00:00",
+        "generated_at": "2026-10-26T20:39:01+00:00",
         "store": "aldi_ch",
         "store_url": "https://www.aldi-suisse.ch",
         "country": "CH",
@@ -9,9 +9,9 @@
         "type": "listing",
         "source_url": "https://www.aldi-suisse.ch/de/marken",
         "product_count": 1651,
-        "content_hash": "sha256:03ee31740ebc4cf36b2a6f9dd1986190139095c41558c39edab14f82c4c0c0b3",
-        "file_id": "f8b21a35-197c-4af2-b628-e2e7ddc96a18",
-        "run_id": "20261026_160512-714e5132"
+        "content_hash": "sha256:a5b8daf59e1ec6558b9a8badae7bad5944e78d14c2a08b0ef8152b10267cb95d",
+        "file_id": "0338d5e7-5315-42d2-b143-2dfe1fc79999",
+        "run_id": "20261026_203206-cdf8ceb3"
     },
     "products": [
         {
@@ -45624,7 +45624,9 @@
             "valid_to": "",
             "source_date": "2026-10-26",
             "theme": "SCHWEPPES",
-            "tags": [],
+            "tags": [
+                "tiefpreis"
+            ],
             "deposit": "",
             "deposit_type": "",
             "approx_amount": false,
@@ -45653,7 +45655,9 @@
             "valid_to": "",
             "source_date": "2026-10-26",
             "theme": "SCHWEPPES",
-            "tags": [],
+            "tags": [
+                "tiefpreis"
+            ],
             "deposit": "",
             "deposit_type": "",
             "approx_amount": false,
@@ -45682,7 +45686,9 @@
             "valid_to": "",
             "source_date": "2026-10-26",
             "theme": "SCHWEPPES",
-            "tags": [],
+            "tags": [
+                "tiefpreis"
+            ],
             "deposit": "",
             "deposit_type": "",
             "approx_amount": false,

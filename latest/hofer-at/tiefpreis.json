@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-26T14:55:31+00:00",
+        "generated_at": "2026-10-26T20:31:18+00:00",
         "store": "hofer_at",
         "store_url": "https://www.hofer.at",
         "country": "AT",
@@ -9,9 +9,9 @@
         "type": "offer",
         "source_url": "https://www.hofer.at/flugblatt/tiefpreis-aktionen",
         "product_count": 38,
-        "content_hash": "sha256:7136da3cd5ba8ddc9a680ec5d35f6b8bc64bed8afaf93a311ba5f5020496424c",
-        "file_id": "7ed094f6-1eec-449d-932c-f3f116f4e39a",
-        "run_id": "20261026_145427-dd706b6b"
+        "content_hash": "sha256:05d7557e35d645f5afdd8d4dcf677421de239cf23038017e783c19d8d7a6a1a4",
+        "file_id": "8217cf7a-b37f-4380-8ca3-ab6389d8edf1",
+        "run_id": "20261026_202909-b6a1ee6e"
     },
     "products": [
         {
@@ -47,8 +47,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Premium Trauben kernlos weiss",
+            "brand": "Premium Trauben",
+            "name": "kernlos weiss",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -140,8 +140,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Bio-Bananen Fairtrade",
+            "brand": "Bio-Bananen",
+            "name": "Fairtrade",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -180,7 +180,7 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/747046_KW44_MoDo",
             "category": "maso",
             "price": "5.49",
-            "original_price": "7.98",
+            "original_price": "7.99",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-27",
@@ -234,8 +234,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Zurück zum Urpsrung Bio-Dinkelweckerl",
+            "brand": "Zurück zum Urpsrung",
+            "name": "Bio-Dinkelweckerl",
             "amount": "",
             "unit": "",
             "product_url": "",
@@ -421,8 +421,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Leibnitz Pick up!",
+            "brand": "Leibnitz",
+            "name": "Pick up!",
             "amount": "5x28",
             "unit": "g",
             "product_url": "",
@@ -491,7 +491,7 @@
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/816488_KW44_MoDo",
             "category": "bonbony",
             "price": "2.49",
-            "original_price": "3.99",
+            "original_price": "3.59",
             "comparison_price": "",
             "comparison_per": "",
             "valid_from": "2026-10-27",
@@ -607,8 +607,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "",
-            "name": "Good Choice Tramezzini Aufstrich",
+            "brand": "Good Choice",
+            "name": "Tramezzini Aufstrich",
             "amount": "150",
             "unit": "g",
             "product_url": "",
@@ -950,8 +950,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Gourmet",
-            "name": "Finest Cousine Lebkuchen",
+            "brand": "Gourmet Finest Cousine",
+            "name": "Lebkuchen",
             "amount": "275",
             "unit": "g",
             "product_url": "",
@@ -1074,8 +1074,8 @@
         },
         {
             "store_product_id": "",
-            "brand": "Rio D'oro",
-            "name": "Fairtrade Orangensaft",
+            "brand": "Rio",
+            "name": "D'oro Fairtrade Orangensaft",
             "amount": "1",
             "unit": "l",
             "product_url": "",
