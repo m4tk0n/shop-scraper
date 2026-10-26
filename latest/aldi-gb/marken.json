@@ -1,0 +1,47 @@
+{
+    "meta": {
+        "generated_at": "2026-10-26T13:59:22+00:00",
+        "store": "aldi_gb",
+        "store_url": "https://www.aldi.co.uk",
+        "country": "GB",
+        "currency": "GBP",
+        "source": "marken",
+        "type": "listing",
+        "source_url": "https://www.aldi.co.uk/c/groceries",
+        "product_count": 1,
+        "content_hash": "sha256:1a59f5fa7c05c15af3ade262913a376a9aa60a935c72cc59d4fa0a249461979e",
+        "file_id": "8b72cb76-d0d9-445c-a5e4-4dc6bb22c526",
+        "run_id": "20261026_135236-5413d24d"
+    },
+    "products": [
+        {
+            "store_product_id": "000000000710487002",
+            "brand": "CHOCEUR",
+            "name": "Movie Night Filled Bars",
+            "amount": "165",
+            "unit": "g",
+            "product_url": "https://www.aldi.co.uk/product/choceur-movie-night-filled-bars-000000000710487002",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/fbec503d-a790-4757-804f-8e57e7024abb/Movie%20Night%20Filled%20Bars",
+            "category": "cokolady",
+            "price": "1.79",
+            "original_price": "",
+            "comparison_price": "10.85",
+            "comparison_per": "1 KG",
+            "valid_from": "",
+            "valid_to": "",
+            "source_date": "2026-10-26",
+            "theme": "CHOCEUR",
+            "tags": [],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "marken",
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
+        }
+    ]
+}
