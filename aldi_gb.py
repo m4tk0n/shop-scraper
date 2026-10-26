@@ -1,6 +1,6 @@
 ﻿"""ALDI UK (aldi.co.uk) -> JSON ve stejném schématu jako ostatní obchody.
 
-Zjišťuje kategorie dynamicky z menu na úvodní stránce, případně využívá fallback strukturu.
+Zjišťuje kategorie dynamicky z menu na úvodní stránce.
 """
 import os
 os.environ.setdefault("STORE", "aldi_gb")
@@ -18,33 +18,33 @@ from hofer_listings import fetch_listing
 BASE = os.environ.get("STORE_URL", "").rstrip("/")
 DEFAULT_SOURCES = ["groceries"]
 
-# Základní mapování britských kategorií na naše standardní klíče
+# Mapování anglických názvů/slugů kategorií na naše standardní klíče
 HINTS = {
     "fresh-food": "maso",
+    "meat-poultry": "maso",
+    "fish-seafood": "ryby",
     "dairy-eggs": "mlecne_vyrobky",
-    "pantry": "zakladni_potraviny",
+    "milk-butter-eggs": "mlecne_vyrobky",
+    "cheese": "mlecne_vyrobky",
     "bakery": "pecivo",
     "snacks": "sladkosti",
+    "crisps": "chipsy",
+    "chocolate": "cokolady",
+    "biscuits": "susenky",
+    "sweets": "bonbony",
     "drinks": "napoje",
+    "soft-drinks": "napoje",
+    "tea-coffee": "kava_caj",
     "alcohol": "alkohol",
-    "freezer": "potraviny",
+    "beer-cider": "alkohol",
+    "wine": "alkohol",
+    "spirits": "alkohol",
+    "pantry": "zakladni_potraviny",
+    "fruit-veg": "zelenina",
     "household": "domacnost",
     "health-beauty": "hygiena",
 }
 FALLBACK_CATS = {"", "potraviny", "nonfood"}
-
-# Fallback struktura pro případ, že by hlavní menu neprošlo
-FALLBACK_SOURCES = {
-    "fresh-food": "c/groceries/fresh-food",
-    "dairy-eggs": "c/groceries/dairy-eggs",
-    "pantry": "c/groceries/pantry",
-    "bakery": "c/groceries/bakery",
-    "snacks": "c/groceries/snacks",
-    "drinks": "c/groceries/drinks",
-    "alcohol": "c/groceries/alcohol",
-    "freezer": "c/groceries/freezer",
-    "household": "c/groceries/household",
-}
 
 
 def source_name(slug):
@@ -52,11 +52,13 @@ def source_name(slug):
 
 
 def parse_nav(html):
+    """Dynamicky rozparcuje menu z aldi.co.uk a vytvoří strom kategorií a podkategorií."""
     soup = BeautifulSoup(html, "html.parser")
     tops = {}
     for a in soup.find_all("a", href=True):
         path = urlparse(a["href"]).path
-        m = full_match = re.fullmatch(r"/c/groceries/([^/]+)(?:/([^/]+))?", path)
+        # Hledá vzory typu /c/groceries/<kategorie>/<podkategorie> nebo /c/<kategorie>/<podkategorie>
+        m = re.fullmatch(r"/c/(?:groceries/)?([^/]+)(?:/([^/]+))?", path)
         if not m:
             continue
         top, leaf = m.groups()
@@ -77,6 +79,7 @@ def apply_hint(p, slug):
 
 
 def fetch_category(session, name, top_slug, node):
+    """Projde podkategorie dané sekce a posbírá produkty."""
     pages = node["children"] or ([{"slug": None, "url": node["url"], "label": node["label"]}] if node["url"] else [])
     products, seen = [], set()
     for ch in pages:
@@ -102,26 +105,18 @@ def collect(session, opts):
     if r.status_code == 200:
         nav = parse_nav(r.text)
         tops = nav["tops"]
-        print("Objeveno z menu UK:", list(tops))
-    
+        print("Objeveno z menu UK (dynamicky):", list(tops))
+    else:
+        print(f"Menu UK: status {r.status_code}")
+
     wanted = opts["args"] or DEFAULT_SOURCES
     if "all" in wanted:
-        wanted = list(tops.keys()) or list(FALLBACK_SOURCES.keys())
+        wanted = list(tops.keys())
 
     for w in wanted:
         node = tops.get(w)
         if not node or not (node["url"] or node["children"]):
-            # Použijeme fallback cestu, pokud z menu nic nepřišlo
-            path = FALLBACK_SOURCES.get(w, f"c/groceries/{w}")
-            target_url = f"{BASE}/{path}"
-            name = source_name(w)
-            register_source(name, "listing")
-            print(f"\n=== {name} (fallback adresa: {target_url}) ===")
-            items = fetch_listing(session, name, target_url, default_group="food", validity=False)
-            for p in items:
-                apply_hint(p, w)
-            if items:
-                yield {"source": name, "source_url": target_url, "label": "", "products": items}
+            print(f"  ! Kategorie '{w'}' nebyla v dynamickém menu nalezena, přeskakuji.")
             continue
 
         name = source_name(w)
@@ -129,7 +124,7 @@ def collect(session, opts):
         print(f"\n=== {name} ===")
         yield {
             "source": name, 
-            "source_url": node["url"] or node["children"][0]["url"], 
+            "source_url": node["url"] or (node["children"][0]["url"] if node["children"][0] else BASE), 
             "label": "", 
             "products": fetch_category(session, name, w, node)
         }
