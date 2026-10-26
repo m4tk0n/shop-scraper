@@ -153,7 +153,7 @@ jobs:
             if [ -n "$b" ]; then args+=("$b"); fi
           done
           if [ "$FOOD_ONLY" = yes ]; then args+=(--food); fi
-          python brands_scrape.py "${args[@]}"
+                    python run_stores.py --brands "${args[@]}"
         continue-on-error: true
 
       - name: Kontrola výstupu
