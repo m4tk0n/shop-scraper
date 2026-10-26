@@ -1,4 +1,61 @@
 {
-  "generated_at": "2026-10-26T15:38:15+00:00",
-  "stores": {}
+  "generated_at": "2026-10-26T16:12:55+00:00",
+  "stores": {
+    "aldi-ch": [
+      {
+        "file": "aldi-ch/angebote_2026-10-26.json",
+        "source": "angebote",
+        "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-26",
+        "product_count": 67,
+        "content_hash": "sha256:6b98633470e37796ae8b1f73712745dad18b5ce9c1dbc14b38ecb4dd95dc6a3c",
+        "file_id": "1266805d-921a-4853-a78f-fbc808e6c864",
+        "generated_at": "2026-10-26T16:03:53+00:00"
+      },
+      {
+        "file": "aldi-ch/angebote_2026-10-29.json",
+        "source": "angebote",
+        "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-10-29",
+        "product_count": 66,
+        "content_hash": "sha256:e362d4bb18ab6faa40bdf2d2fc152c91ed5132d57c43b6b9dbd0027b929ca6d9",
+        "file_id": "168dba8e-defd-474f-8493-ba9d1920e6fe",
+        "generated_at": "2026-10-26T16:04:19+00:00"
+      },
+      {
+        "file": "aldi-ch/angebote_2026-11-02.json",
+        "source": "angebote",
+        "source_url": "https://www.aldi-suisse.ch/de/aktionen-und-angebote/2026-11-02",
+        "product_count": 77,
+        "content_hash": "sha256:1f6167cf028d35f1210b1e508468adf363102a891afba78e5aecb32ee131fbc9",
+        "file_id": "99516aa9-781c-4fe5-9090-ef4b1e1b503d",
+        "generated_at": "2026-10-26T16:04:47+00:00"
+      },
+      {
+        "file": "aldi-ch/marken.json",
+        "source": "marken",
+        "source_url": "https://www.aldi-suisse.ch/de/marken",
+        "product_count": 1651,
+        "content_hash": "sha256:03ee31740ebc4cf36b2a6f9dd1986190139095c41558c39edab14f82c4c0c0b3",
+        "file_id": "f8b21a35-197c-4af2-b628-e2e7ddc96a18",
+        "generated_at": "2026-10-26T16:12:46+00:00"
+      },
+      {
+        "file": "aldi-ch/suessigkeiten_snacks.json",
+        "source": "suessigkeiten_snacks",
+        "source_url": "https://www.aldi-suisse.ch/de/produkte/suessigkeiten-snacks/k/1588161418433054",
+        "product_count": 170,
+        "content_hash": "sha256:d87669fb813e890d71fe0571a266ca6852f5a4959a3f1926bf4ee690313c6852",
+        "file_id": "53266c1d-c10a-4917-afee-7fd6928525ac",
+        "generated_at": "2026-10-26T16:05:11+00:00"
+      },
+      {
+        "file": "aldi-ch/tiefpreisversprechen.json",
+        "source": "tiefpreisversprechen",
+        "source_url": "https://www.aldi-suisse.ch/de/produkte/tiefpreisversprechen/k/1588161431768066",
+        "product_count": 145,
+        "content_hash": "sha256:fca87959cfe589298314b320f4937ce0e5c19b7c328d3369dfb23bba7b84c7fb",
+        "file_id": "2ba76682-fc3e-4f89-b660-878b6dd4ed2e",
+        "generated_at": "2026-10-26T16:04:53+00:00"
+      }
+    ]
+  }
 }
