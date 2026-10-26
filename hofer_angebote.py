@@ -85,7 +85,10 @@ def tile_to_product(t, source, source_url, source_date, theme="", default_group=
         vsrc, vconf = "product_group", "start_only"   # den stránky 'Ab Dienstag, 13. Oktober'
     else:
         vsrc, vconf = "unknown", "unknown"
-        tags = derive_tags(brand, name, [b for b in badges if not b.lower().startswith(("verfügbar", "na voljo"))])
+        
+    # Tagy vyřešeny mimo if-else, aby nechyběly:
+    tags = derive_tags(brand, name, [b for b in badges if not b.lower().startswith(("verfügbar", "na voljo"))])
+
     return make_product(
         source,
         store_product_id=pid.group(1).zfill(18) if pid else "",
