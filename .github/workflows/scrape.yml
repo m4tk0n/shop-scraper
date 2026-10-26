@@ -1,4 +1,4 @@
-name: scrape
+﻿name: scrape
 
 on:
   schedule:
@@ -11,26 +11,32 @@ on:
         type: choice
         default: vse
         options:
-          - vse        # Hofer + Aldi Suisse + značky
-          - akce       # jen akce: Hofer (angebote, tiefpreis, bier, preiswochen) + Aldi angebote
-          - hofer      # celý Hofer
-          - aldi       # celé Aldi Suisse
-          - znacky     # jen značky (Hofer + Aldi Suisse)
-          - vlastni    # vlastní zdroje z polí níže
+          - vse        # Všechny aktivní obchody + značky
+          - akce       # Jen akce
+          - hofer      # Celý Hofer (AT)
+          - aldi       # Celé Aldi Suisse
+          - aldi_gb    # Jen Aldi Velká Británie
+          - aldi_us    # Jen Aldi USA
+          - aldi_hu    # Jen Aldi Maďarsko
+          - aldi_it    # Jen Aldi Itálie
+          - aldi_de_sud # Jen Aldi Süd (Německo)
+          - aldi_au    # Jen Aldi Austrálie
+          - znacky     # Jen značky
+          - vlastni    # Vlastní zdroje z polí níže
       aldi_all:
         description: "Aldi Suisse: celý sortiment (stovky požadavků; pro vse a aldi)"
         type: boolean
         default: false
       hofer_sources:
-        description: "Jen pro 'vlastni' - zdroje Hofer oddělené mezerou, např. tiefpreis bier sortiment"
+        description: "Jen pro 'vlastni' - zdroje Hofer oddělené mezerou"
         type: string
         default: ""
       aldi_sources:
-        description: "Jen pro 'vlastni' - zdroje Aldi oddělené mezerou, např. angebote suessigkeiten-snacks"
+        description: "Jen pro 'vlastni' - zdroje Aldi oddělené mezerou"
         type: string
         default: ""
       brands:
-        description: "Značky oddělené čárkou, např. HARIBO, KÄGI (prázdné = celý seznam; pro vse, znacky, vlastni)"
+        description: "Značky oddělené čárkou, např. HARIBO, KÄGI"
         type: string
         default: ""
       food_only:
@@ -42,7 +48,7 @@ on:
         type: boolean
         default: false
       dry_run:
-        description: "Zkušební běh: nenahrávat na server a necommitovat (výstup zůstane jen v artefaktu)"
+        description: "Zkušební běh: nenahrávat na server a necommitovat"
         type: boolean
         default: false
 
@@ -64,7 +70,6 @@ env:
   BRANDS_URL: ${{ vars.BRANDS_URL }}
   BRANDS_TOKEN: ${{ secrets.BRANDS_TOKEN }}
   STORES_URL: ${{ vars.STORES_URL }}
-  # volby ručního spuštění (u plánovaného běhu jsou prázdné = běží všechno jako dřív)
   SCOPE: ${{ inputs.scope || 'vse' }}
   ALDI_ALL: ${{ inputs.aldi_all && 'yes' || 'no' }}
   FOOD_ONLY: ${{ inputs.food_only && 'yes' || 'no' }}
@@ -84,35 +89,41 @@ jobs:
       - name: Plán běhu
         id: plan
         run: |
-          # text z formuláře se čistí na bezpečné znaky, než se dostane do příkazové řádky
           san() { echo "$1" | tr ',;' '  ' | tr -cd 'a-zA-Z0-9_ -' | tr -s ' ' | sed 's/^ //;s/ $//'; }
-          h=0; a=0; m=0; hargs=""; aargs=""; prune=0
+          h=0; a=0; m=0; hargs=""; aargs=""; prune=0; only_store=""
+          
           case "$SCOPE" in
             vse)     h=1; a=1; m=1; prune=1 ;;
             akce)    h=1; a=1; hargs="angebote tiefpreis bier preiswochen"; aargs="angebote" ;;
             hofer)   h=1 ;;
             aldi)    a=1 ;;
             znacky)  m=1 ;;
+            aldi_gb|aldi_us|aldi_hu|aldi_it|aldi_de_sud|aldi_au)
+              h=1; only_store="$SCOPE" ;;
             vlastni)
               hargs="$(san "$HOFER_SOURCES")"; aargs="$(san "$ALDI_SOURCES")"
               if [ -n "$hargs" ]; then h=1; fi
               if [ -n "$aargs" ]; then a=1; fi
               if [ -n "$BRANDS_INPUT" ]; then m=1; fi
-              if [ "$h$a$m" = "000" ]; then echo "Pro 'vlastni' vyplň aspoň jedno z polí (Hofer, Aldi, značky)."; exit 1; fi ;;
+              if [ "$h$a$m" = "000" ]; then echo "Pro 'vlastni' vyplň aspoň jedno z polí."; exit 1; fi ;;
             *) echo "Neznámý rozsah: $SCOPE"; exit 1 ;;
           esac
+          
           if [ "$a" = 1 ] && [ -z "$aargs" ] && [ "$ALDI_ALL" = yes ]; then aargs="all"; fi
           ocr=0
           if [ "$h" = 1 ] && [ "$NO_OCR" != yes ]; then ocr=1; fi
+          
           {
             echo "hofer=$h"; echo "aldi=$a"; echo "marken=$m"
             echo "hofer_args=$hargs"; echo "aldi_args=$aargs"
             echo "ocr=$ocr"; echo "prune=$prune"
+            echo "only_store=$only_store"
           } >> "$GITHUB_OUTPUT"
+          
           {
             echo "### Plán běhu"
-            echo "- rozsah: \`$SCOPE\`, zkušební běh: $DRY_RUN, jen potraviny: $FOOD_ONLY, bez OCR: $NO_OCR"
-            echo "- Hofer: $h (\`${hargs:-vše}\`), Aldi Suisse: $a (\`${aargs:-výchozí}\`), značky: $m"
+            echo "- rozsah: \`$SCOPE\`, zkušební běh: $DRY_RUN, jen potraviny: $FOOD_ONLY"
+            echo "- vybraný konkrétní obchod: \`${only_store:-žádný (běží standardní režim)}\`"
           } >> "$GITHUB_STEP_SUMMARY"
 
       - uses: actions/setup-python@v5
@@ -138,8 +149,12 @@ jobs:
 
       - name: Obchody z databáze
         id: stores
-        if: steps.plan.outputs.hofer == '1'
-        run: python run_stores.py ${{ inputs.food_only && '--food' || '' }} ${{ inputs.no_ocr && '--no-ocr' || '' }}
+        if: steps.plan.outputs.hofer == '1' || steps.plan.outputs.aldi == '1' || steps.plan.outputs.only_store != ''
+        run: |
+          if [ -n "${{ steps.plan.outputs.only_store }}" ]; then
+            export ONLY_STORES="${{ steps.plan.outputs.only_store }}"
+          fi
+          python run_stores.py ${{ inputs.food_only && '--food' || '' }} ${{ inputs.no_ocr && '--no-ocr' || '' }}
         continue-on-error: true
 
       - name: Značky (Hofer + Aldi Suisse)
@@ -167,7 +182,6 @@ jobs:
 
       - name: Publikovat nejnovější data do repozitáře
         if: env.DRY_RUN != 'yes'
-        # --prune jen při úplném běhu: částečný běh by jinak smazal zdroje, které se nestahovaly
         run: python publish_latest.py hofer_data latest ${{ steps.plan.outputs.prune == '1' && '--prune' || '' }}
 
       - name: Uložit celý výstup jako artefakt
