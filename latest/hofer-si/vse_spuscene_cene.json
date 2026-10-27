@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-26T14:56:05+00:00",
+        "generated_at": "2026-10-27T10:08:44+00:00",
         "store": "hofer_si",
         "store_url": "https://www.hofer.si",
         "country": "SI",
@@ -8,10 +8,10 @@
         "source": "vse_spuscene_cene",
         "type": "listing",
         "source_url": "https://www.hofer.si/izdelki/vse-spuscene-cene/k/1588161418378360",
-        "product_count": 315,
-        "content_hash": "sha256:c4a52ed8c70830e41fd6080e7427c85ea392185edf2230ca9aeaca6df4850095",
-        "file_id": "34c6ea2d-6c33-421c-a796-02bada969d5f",
-        "run_id": "20261026_145531-af8fd83c"
+        "product_count": 307,
+        "content_hash": "sha256:1dc0a9e5a23b2df0664e55fef002ec68160ec677987fede84b0e7a4f144b7a67",
+        "file_id": "7fefc037-a8c2-450b-afd3-97725acdf2e9",
+        "run_id": "20261027_100815-b5b15ca9"
     },
     "products": [
         {
@@ -29,7 +29,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -60,7 +60,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -91,7 +91,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -122,7 +122,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -153,7 +153,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -184,7 +184,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -215,7 +215,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -246,7 +246,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -277,7 +277,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -308,7 +308,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -339,7 +339,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -370,7 +370,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -401,7 +401,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -432,7 +432,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -463,7 +463,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -494,7 +494,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -525,7 +525,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -556,7 +556,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -587,7 +587,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -618,7 +618,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -649,7 +649,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -680,7 +680,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -711,7 +711,7 @@
             "comparison_per": "10 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -742,7 +742,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -773,7 +773,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -804,7 +804,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -835,7 +835,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -866,7 +866,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -897,7 +897,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -928,7 +928,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -959,7 +959,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -990,7 +990,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1021,7 +1021,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1052,7 +1052,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1083,7 +1083,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1114,7 +1114,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1145,7 +1145,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1176,7 +1176,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1207,7 +1207,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1238,7 +1238,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1269,7 +1269,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1300,7 +1300,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1331,7 +1331,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1362,7 +1362,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1393,7 +1393,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -1425,7 +1425,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1456,7 +1456,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1487,7 +1487,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1518,7 +1518,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1549,38 +1549,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
-            "theme": "",
-            "tags": [
-                "to_ni_akcija"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "vse_spuscene_cene",
-            "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "permanent"
-        },
-        {
-            "store_product_id": "000000000000341226",
-            "brand": "LE GUSTO",
-            "name": "Gorčica v kozarcu",
-            "amount": "680",
-            "unit": "g",
-            "product_url": "https://www.hofer.si/izdelek/le-gusto-gorcica-v-kozarcu-000000000000341226",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/367b0404-9c5a-4bf2-aeeb-b35723b5c682/Gorica%20v%20kozarcu",
-            "category": "potraviny",
-            "price": "1.35",
-            "original_price": "",
-            "comparison_price": "1.99",
-            "comparison_per": "1 kg",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1611,7 +1580,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1642,7 +1611,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1673,7 +1642,7 @@
             "comparison_per": "10 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1704,7 +1673,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1735,7 +1704,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1766,7 +1735,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1797,7 +1766,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1828,7 +1797,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1859,7 +1828,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1890,7 +1859,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1921,7 +1890,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1952,7 +1921,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -1983,7 +1952,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2014,7 +1983,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2045,7 +2014,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2076,7 +2045,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2107,7 +2076,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2138,7 +2107,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2169,7 +2138,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2200,7 +2169,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2231,7 +2200,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -2260,7 +2229,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2291,7 +2260,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2322,7 +2291,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2353,7 +2322,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2384,7 +2353,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2415,7 +2384,7 @@
             "comparison_per": "100 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2446,7 +2415,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2477,7 +2446,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2508,7 +2477,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2539,7 +2508,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2570,7 +2539,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2601,7 +2570,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2632,7 +2601,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2663,7 +2632,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2694,7 +2663,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2725,7 +2694,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2756,7 +2725,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2787,7 +2756,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2818,7 +2787,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2849,7 +2818,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2880,7 +2849,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2911,7 +2880,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2942,7 +2911,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -2973,7 +2942,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3004,7 +2973,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3035,7 +3004,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3066,7 +3035,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3097,7 +3066,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3128,7 +3097,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3159,7 +3128,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3190,7 +3159,7 @@
             "comparison_per": "10 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3221,7 +3190,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3252,7 +3221,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3283,7 +3252,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "bio"
@@ -3314,7 +3283,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3345,7 +3314,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3376,7 +3345,7 @@
             "comparison_per": "10 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3407,7 +3376,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3438,7 +3407,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3469,7 +3438,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3500,69 +3469,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
-            "theme": "",
-            "tags": [
-                "to_ni_akcija"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "vse_spuscene_cene",
-            "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "permanent"
-        },
-        {
-            "store_product_id": "000000000000655673",
-            "brand": "BBQ",
-            "name": "Šiš čevapčiči",
-            "amount": "480",
-            "unit": "g",
-            "product_url": "https://www.hofer.si/izdelek/bbq-sis-cevapcici-000000000000655673",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/0f9858a3-5cd9-4090-93df-7d39b3d5d21d/i%20evapii",
-            "category": "maso",
-            "price": "3.99",
-            "original_price": "",
-            "comparison_price": "8.31",
-            "comparison_per": "1 kg",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-26",
-            "theme": "",
-            "tags": [
-                "to_ni_akcija"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "vse_spuscene_cene",
-            "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "permanent"
-        },
-        {
-            "store_product_id": "000000000000660275",
-            "brand": "BBQ",
-            "name": "Pleskavice",
-            "amount": "480",
-            "unit": "g",
-            "product_url": "https://www.hofer.si/izdelek/bbq-pleskavice-000000000000660275",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/df8fd38b-3f76-489e-97cf-c4d679955d0a/Pleskavice",
-            "category": "maso",
-            "price": "3.19",
-            "original_price": "",
-            "comparison_price": "6.65",
-            "comparison_per": "1 kg",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3593,7 +3500,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3624,7 +3531,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3655,7 +3562,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3686,7 +3593,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3717,7 +3624,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3748,7 +3655,7 @@
             "comparison_per": "100 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3779,7 +3686,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3810,7 +3717,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3841,7 +3748,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3872,7 +3779,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3903,7 +3810,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3934,7 +3841,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3965,7 +3872,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -3996,7 +3903,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4027,7 +3934,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4058,7 +3965,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4089,7 +3996,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4120,7 +4027,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4151,7 +4058,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -4180,7 +4087,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4211,7 +4118,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4242,7 +4149,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4273,7 +4180,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4304,7 +4211,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4335,7 +4242,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4366,7 +4273,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4397,7 +4304,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4428,7 +4335,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4459,7 +4366,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4490,7 +4397,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4521,7 +4428,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4552,7 +4459,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4583,7 +4490,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4614,7 +4521,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4645,7 +4552,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4676,7 +4583,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4707,7 +4614,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4738,7 +4645,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4769,7 +4676,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4800,7 +4707,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4831,7 +4738,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4862,7 +4769,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4893,7 +4800,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4924,7 +4831,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4955,7 +4862,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -4986,7 +4893,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5017,7 +4924,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5048,7 +4955,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5079,7 +4986,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5110,7 +5017,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5141,7 +5048,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5172,7 +5079,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5203,7 +5110,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5234,7 +5141,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5265,7 +5172,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5296,7 +5203,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5327,7 +5234,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5358,7 +5265,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5389,7 +5296,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5420,7 +5327,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5451,7 +5358,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5482,7 +5389,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5513,7 +5420,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5544,7 +5451,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5575,7 +5482,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5606,7 +5513,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5637,7 +5544,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5668,7 +5575,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5699,7 +5606,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5730,7 +5637,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5761,7 +5668,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5792,7 +5699,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5823,7 +5730,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5854,7 +5761,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5885,7 +5792,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5916,7 +5823,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5947,7 +5854,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -5978,7 +5885,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6009,7 +5916,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6040,7 +5947,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6071,7 +5978,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6102,7 +6009,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6133,7 +6040,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6164,7 +6071,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6195,7 +6102,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6226,7 +6133,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6257,7 +6164,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6288,7 +6195,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6319,7 +6226,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6350,7 +6257,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6381,7 +6288,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -6413,7 +6320,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -6445,7 +6352,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6476,7 +6383,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6507,7 +6414,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6538,7 +6445,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6569,7 +6476,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6600,7 +6507,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6631,7 +6538,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6662,7 +6569,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6693,7 +6600,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6724,7 +6631,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6755,7 +6662,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6786,7 +6693,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6817,7 +6724,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6848,7 +6755,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6879,7 +6786,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6910,7 +6817,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6941,7 +6848,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -6972,7 +6879,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7003,7 +6910,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7034,7 +6941,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7065,131 +6972,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
-            "theme": "",
-            "tags": [
-                "to_ni_akcija"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "vse_spuscene_cene",
-            "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "permanent"
-        },
-        {
-            "store_product_id": "000000000497132001",
-            "brand": "BBQ",
-            "name": "Omaka za žar, curry",
-            "amount": "300",
-            "unit": "ml",
-            "product_url": "https://www.hofer.si/izdelek/bbq-omaka-za-zar-curry-000000000497132001",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/3c40f16e-bdfc-4130-9f39-d8c1019dcea8/Omaka%20za%20ar%20curry",
-            "category": "koreni_omacky",
-            "price": "1.45",
-            "original_price": "",
-            "comparison_price": "4.83",
-            "comparison_per": "1 l",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-26",
-            "theme": "",
-            "tags": [
-                "to_ni_akcija"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "vse_spuscene_cene",
-            "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "permanent"
-        },
-        {
-            "store_product_id": "000000000497132002",
-            "brand": "BBQ",
-            "name": "Omaka za žar, jogurt z zelišči",
-            "amount": "300",
-            "unit": "ml",
-            "product_url": "https://www.hofer.si/izdelek/bbq-omaka-za-zar-jogurt-z-zelisci-000000000497132002",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/c27dd365-724a-4f73-9d2f-1aa7305de784/Omaka%20za%20ar%20jogurt%20z%20zelii",
-            "category": "maso",
-            "price": "1.45",
-            "original_price": "",
-            "comparison_price": "4.83",
-            "comparison_per": "1 l",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-26",
-            "theme": "",
-            "tags": [
-                "to_ni_akcija"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "vse_spuscene_cene",
-            "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "permanent"
-        },
-        {
-            "store_product_id": "000000000497132003",
-            "brand": "BBQ",
-            "name": "Omaka za žar, česen",
-            "amount": "300",
-            "unit": "ml",
-            "product_url": "https://www.hofer.si/izdelek/bbq-omaka-za-zar-cesen-000000000497132003",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/83f96165-2abf-4dba-a1b1-59e020c17f68/Omaka%20za%20ar%20esen",
-            "category": "maso",
-            "price": "1.45",
-            "original_price": "",
-            "comparison_price": "4.83",
-            "comparison_per": "1 l",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-26",
-            "theme": "",
-            "tags": [
-                "to_ni_akcija"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "vse_spuscene_cene",
-            "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "permanent"
-        },
-        {
-            "store_product_id": "000000000497132004",
-            "brand": "BBQ",
-            "name": "Omaka za žar, BBQ",
-            "amount": "300",
-            "unit": "ml",
-            "product_url": "https://www.hofer.si/izdelek/bbq-omaka-za-zar-bbq-000000000497132004",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/0af86c2f-ecc4-46bc-a699-2d02a8a2baf1/Omaka%20za%20ar%20BBQ",
-            "category": "maso",
-            "price": "1.45",
-            "original_price": "",
-            "comparison_price": "4.83",
-            "comparison_per": "1 l",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7220,7 +7003,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7251,7 +7034,7 @@
             "comparison_per": "1 pranj",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7282,7 +7065,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7313,7 +7096,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7344,7 +7127,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7375,7 +7158,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7406,7 +7189,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7437,7 +7220,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7468,7 +7251,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7499,7 +7282,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7530,7 +7313,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7561,7 +7344,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7592,7 +7375,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7623,7 +7406,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7654,7 +7437,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -7686,7 +7469,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7717,7 +7500,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7748,7 +7531,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7779,7 +7562,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7810,7 +7593,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7841,7 +7624,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -7873,7 +7656,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7904,7 +7687,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7935,7 +7718,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7966,7 +7749,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -7997,7 +7780,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8028,7 +7811,7 @@
             "comparison_per": "",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8059,7 +7842,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8090,7 +7873,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [],
             "deposit": "",
@@ -8119,7 +7902,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8150,7 +7933,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8181,7 +7964,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8212,7 +7995,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8243,7 +8026,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8274,7 +8057,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8305,7 +8088,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8336,7 +8119,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8367,7 +8150,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8398,7 +8181,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8429,7 +8212,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8460,7 +8243,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8491,7 +8274,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8522,7 +8305,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8553,7 +8336,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8584,7 +8367,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8615,7 +8398,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8646,7 +8429,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8677,7 +8460,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8708,7 +8491,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8739,7 +8522,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -8771,7 +8554,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -8803,7 +8586,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -8835,39 +8618,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
-            "theme": "",
-            "tags": [
-                "to_ni_akcija",
-                "bio"
-            ],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "vse_spuscene_cene",
-            "type": "listing",
-            "validity_source": "product_group",
-            "validity_confidence": "verified",
-            "validity_type": "permanent"
-        },
-        {
-            "store_product_id": "000000000635532004",
-            "brand": "BIO",
-            "name": "Bio hrustljav muesli, čoko-banana",
-            "amount": "500",
-            "unit": "g",
-            "product_url": "https://www.hofer.si/izdelek/bio-bio-hrustljav-muesli-coko-banana-000000000635532004",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/a3707f40-b760-4124-beaf-b9153f639850/Bio%20hrustljav%20muesli%20okobanana",
-            "category": "potraviny",
-            "price": "3.16",
-            "original_price": "",
-            "comparison_price": "6.32",
-            "comparison_per": "1 kg",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -8899,7 +8650,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8930,7 +8681,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -8961,7 +8712,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -8993,7 +8744,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -9025,7 +8776,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -9057,7 +8808,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9088,7 +8839,7 @@
             "comparison_per": "1 pranj",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9119,7 +8870,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9150,7 +8901,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9181,7 +8932,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9212,7 +8963,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9243,7 +8994,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9274,7 +9025,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9305,7 +9056,7 @@
             "comparison_per": "1 x",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9336,7 +9087,7 @@
             "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9367,7 +9118,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9398,7 +9149,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9429,7 +9180,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9460,7 +9211,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -9492,7 +9243,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -9524,7 +9275,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9555,7 +9306,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9586,7 +9337,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9617,7 +9368,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -9649,7 +9400,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -9681,7 +9432,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -9713,7 +9464,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija",
@@ -9745,7 +9496,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
@@ -9776,7 +9527,7 @@
             "comparison_per": "1 kg",
             "valid_from": "",
             "valid_to": "",
-            "source_date": "2026-10-26",
+            "source_date": "2026-10-27",
             "theme": "",
             "tags": [
                 "to_ni_akcija"
