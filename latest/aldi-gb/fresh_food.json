@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-27T18:16:12+00:00",
+        "generated_at": "2026-10-27T20:50:18+00:00",
         "store": "aldi_gb",
         "store_url": "https://www.aldi.co.uk",
         "country": "GB",
@@ -9,9 +9,9 @@
         "type": "listing",
         "source_url": "https://www.aldi.co.uk/products/fresh-food/k/1588161416978050",
         "product_count": 526,
-        "content_hash": "sha256:892fcdd8c4975a338cf24a76901641db240703eddcbb550b155568418d67b35d",
-        "file_id": "05d1aaee-0a8c-42ed-96c0-aa6bdae6d9df",
-        "run_id": "20261027_181521-8fd7a8c1"
+        "content_hash": "sha256:22a96dd70461867ad4c12cb1ba4deacce32de5424556f9baa9b5d8472295aade",
+        "file_id": "14ea38d6-800a-43a7-b9fc-ac96f484e45d",
+        "run_id": "20261027_204921-7e8e1caa"
     },
     "products": [
         {
@@ -1502,9 +1502,9 @@
             "product_url": "https://www.aldi.co.uk/product/nature-s-pick-strawberries-000000000000339980",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/301ccb64-d252-4ab8-a478-0639584795c3/Strawberries",
             "category": "ovoce",
-            "price": "2.99",
+            "price": "2.69",
             "original_price": "",
-            "comparison_price": "7.48",
+            "comparison_price": "6.73",
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",

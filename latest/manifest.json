@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-27T18:37:21+00:00",
+  "generated_at": "2026-10-27T21:12:59+00:00",
   "stores": {
     "aldi-gb": [
       {
         "file": "aldi-gb/alcohol.json",
         "source": "alcohol",
         "source_url": "https://www.aldi.co.uk/products/alcohol/k/1588161416978055",
-        "product_count": 1091,
-        "content_hash": "sha256:129d237dfeb12bb895fcf139aff1ff3231389308680d5fcd6b4e28de5e8f83cb",
-        "file_id": "a3f2fa48-83c2-4d11-9554-70e121e64a88",
-        "generated_at": "2026-10-27T18:19:43+00:00"
+        "product_count": 296,
+        "content_hash": "sha256:c4a313795258b89db49383b123de6b81e012ab797c1a2ed5e89ac32210d42372",
+        "file_id": "5641682f-57d3-4626-99c2-43ba12bc92b7",
+        "generated_at": "2026-10-27T20:53:25+00:00"
       },
       {
         "file": "aldi-gb/autumn_range.json",
@@ -17,8 +17,8 @@
         "source_url": "https://www.aldi.co.uk/products/autumn-range/k/1588161426780060",
         "product_count": 176,
         "content_hash": "sha256:aeec5630810d910783f5641f5b440561ef7cc3d6d9c91a609298e4860cf30b86",
-        "file_id": "293cdc14-827c-4216-be82-ea94d8c15ad0",
-        "generated_at": "2026-10-27T18:22:34+00:00"
+        "file_id": "5be6d6ae-a1f8-46cb-88a1-f641b8fceee3",
+        "generated_at": "2026-10-27T20:56:36+00:00"
       },
       {
         "file": "aldi-gb/baby_toddler.json",
@@ -26,8 +26,8 @@
         "source_url": "https://www.aldi.co.uk/products/baby-toddler/k/1588161416978057",
         "product_count": 79,
         "content_hash": "sha256:176caa678ac7369b9a04c683845029db5784d9f4051306af989d168d879e58e1",
-        "file_id": "38de7c5e-425c-4f2f-963b-10808a459ffe",
-        "generated_at": "2026-10-27T18:21:50+00:00"
+        "file_id": "2adea40a-2a41-4c94-b97a-de119733679e",
+        "generated_at": "2026-10-27T20:55:48+00:00"
       },
       {
         "file": "aldi-gb/bakery.json",
@@ -35,8 +35,8 @@
         "source_url": "https://www.aldi.co.uk/products/bakery/k/1588161416978049",
         "product_count": 175,
         "content_hash": "sha256:6182eb995302b4ca4383e05859c62ebe62a1d4cde4133ca47b1a19d402e6092a",
-        "file_id": "88bf1f5d-9cf1-4965-9ac0-2037dbc2c007",
-        "generated_at": "2026-10-27T18:21:18+00:00"
+        "file_id": "6078f64c-24b5-47e3-92b5-cdee9f6834e8",
+        "generated_at": "2026-10-27T20:55:11+00:00"
       },
       {
         "file": "aldi-gb/chilled_food.json",
@@ -44,8 +44,8 @@
         "source_url": "https://www.aldi.co.uk/products/chilled-food/k/1588161416978051",
         "product_count": 873,
         "content_hash": "sha256:4836d462f11a3834bb5f6fc9feca3a33c730035a8b9bd81102b105a4c5865ef8",
-        "file_id": "e63bab9b-754f-4ce5-a358-3620b46871e3",
-        "generated_at": "2026-10-27T18:18:32+00:00"
+        "file_id": "e7466759-9bbe-4804-8661-a0a177fc7869",
+        "generated_at": "2026-10-27T20:52:56+00:00"
       },
       {
         "file": "aldi-gb/christmas_new_year.json",
@@ -53,8 +53,8 @@
         "source_url": "https://www.aldi.co.uk/products/christmas-new-year/k/1588161427774126",
         "product_count": 246,
         "content_hash": "sha256:6e136d6be5de6bbfb1df31b6e08d87c6415fdb88977a3845e74457397e3f7ea3",
-        "file_id": "80a0da97-9ca3-4994-884a-9b08714968c6",
-        "generated_at": "2026-10-27T18:23:02+00:00"
+        "file_id": "28f1dde2-5935-47da-9dbc-6760d3952968",
+        "generated_at": "2026-10-27T20:57:10+00:00"
       },
       {
         "file": "aldi-gb/drinks.json",
@@ -62,8 +62,8 @@
         "source_url": "https://www.aldi.co.uk/products/drinks/k/1588161416978054",
         "product_count": 199,
         "content_hash": "sha256:7299632e4be44d4a0b9d70c445d9309231d989115a7dd7781fcb16753fc55261",
-        "file_id": "cea54eb0-554b-48cf-a159-1ca19d7fd171",
-        "generated_at": "2026-10-27T18:20:01+00:00"
+        "file_id": "57f41992-e5c2-4779-9d07-b20a8d590832",
+        "generated_at": "2026-10-27T20:53:47+00:00"
       },
       {
         "file": "aldi-gb/food_cupboard.json",
@@ -71,17 +71,17 @@
         "source_url": "https://www.aldi.co.uk/products/food-cupboard/k/1588161416978053",
         "product_count": 1083,
         "content_hash": "sha256:fb020e170273943027bf02af44a1d4cf1a35294b015b5fa4622762b8c2f66c18",
-        "file_id": "7160bc40-3547-4e70-87f8-a722f3073482",
-        "generated_at": "2026-10-27T18:17:25+00:00"
+        "file_id": "1e10a4a5-92a7-4a10-a843-528722c4c859",
+        "generated_at": "2026-10-27T20:51:42+00:00"
       },
       {
         "file": "aldi-gb/fresh_food.json",
         "source": "fresh_food",
         "source_url": "https://www.aldi.co.uk/products/fresh-food/k/1588161416978050",
         "product_count": 526,
-        "content_hash": "sha256:892fcdd8c4975a338cf24a76901641db240703eddcbb550b155568418d67b35d",
-        "file_id": "05d1aaee-0a8c-42ed-96c0-aa6bdae6d9df",
-        "generated_at": "2026-10-27T18:16:12+00:00"
+        "content_hash": "sha256:22a96dd70461867ad4c12cb1ba4deacce32de5424556f9baa9b5d8472295aade",
+        "file_id": "14ea38d6-800a-43a7-b9fc-ac96f484e45d",
+        "generated_at": "2026-10-27T20:50:18+00:00"
       },
       {
         "file": "aldi-gb/frozen_food.json",
@@ -89,8 +89,8 @@
         "source_url": "https://www.aldi.co.uk/products/frozen-food/k/1588161416978056",
         "product_count": 425,
         "content_hash": "sha256:0adce39eca639cae343bd16acda10e546646ad1ca522d24a209f2497d168b24d",
-        "file_id": "3dc34c29-647c-4722-9261-a4bf315a02df",
-        "generated_at": "2026-10-27T18:20:39+00:00"
+        "file_id": "300a5171-abbc-48be-a386-3a26452642b1",
+        "generated_at": "2026-10-27T20:54:27+00:00"
       },
       {
         "file": "aldi-gb/halloween.json",
@@ -98,8 +98,8 @@
         "source_url": "https://www.aldi.co.uk/products/halloween/k/1588161426779144",
         "product_count": 75,
         "content_hash": "sha256:9d120272ccc8185ddd7f9b15ed43c50214965e64b0aac5e399e324f839f92ff3",
-        "file_id": "f6ced88d-1182-4e17-a424-d0a3b0cdc964",
-        "generated_at": "2026-10-27T18:23:12+00:00"
+        "file_id": "1f886ba8-0ed2-4bf0-9aaf-99e4661c10d0",
+        "generated_at": "2026-10-27T20:57:21+00:00"
       },
       {
         "file": "aldi-gb/health_beauty.json",
@@ -107,8 +107,8 @@
         "source_url": "https://www.aldi.co.uk/products/health-beauty/k/1588161416978058",
         "product_count": 82,
         "content_hash": "sha256:50b60d94f18b90dae5bee7e00c8fbf8056c8270353c3311f1558afcae70a74e8",
-        "file_id": "683cd51a-b815-4662-ad88-2029db303712",
-        "generated_at": "2026-10-27T18:21:39+00:00"
+        "file_id": "6350fdf8-36ec-44b4-b1f1-0213eb5fc681",
+        "generated_at": "2026-10-27T20:55:35+00:00"
       },
       {
         "file": "aldi-gb/home_essentials.json",
@@ -116,8 +116,8 @@
         "source_url": "https://www.aldi.co.uk/products/home-essentials/k/1588161416978059",
         "product_count": 92,
         "content_hash": "sha256:758d4f2ff55664971f93729fbf2b7a25a5d4ba9d5668c6e98430fe05e014fb95",
-        "file_id": "ecd2ed3b-9838-43d2-8c40-9e4f3fa49295",
-        "generated_at": "2026-10-27T18:20:56+00:00"
+        "file_id": "83be0064-0bc4-42dd-b0a7-83ee00d936dd",
+        "generated_at": "2026-10-27T20:54:49+00:00"
       },
       {
         "file": "aldi-gb/marken.json",
@@ -125,8 +125,8 @@
         "source_url": "https://www.aldi.co.uk/brands",
         "product_count": 230,
         "content_hash": "sha256:5e3ef9e1718e5deee6dffff714969f4fe3ef714b35a869bd9c37d5a49b79c646",
-        "file_id": "715a5ea4-9737-46e0-bf65-f3f81a3e2669",
-        "generated_at": "2026-10-27T18:37:07+00:00"
+        "file_id": "be3f9aab-a40e-40af-8880-ed4d0e122f8f",
+        "generated_at": "2026-10-27T21:12:49+00:00"
       },
       {
         "file": "aldi-gb/pet_care.json",
@@ -134,8 +134,8 @@
         "source_url": "https://www.aldi.co.uk/products/pet-care/k/1588161416978060",
         "product_count": 33,
         "content_hash": "sha256:15cd361c280fa814600f7ce3276d7d5b5fdaa6a82ff630060ae0c0a6dd721547",
-        "file_id": "ded3710d-3b77-476b-bc38-e5e4e007638b",
-        "generated_at": "2026-10-27T18:22:03+00:00"
+        "file_id": "3b12e7e1-d258-49ce-8b45-44386c6454b7",
+        "generated_at": "2026-10-27T20:56:02+00:00"
       },
       {
         "file": "aldi-gb/price_drops.json",
@@ -143,8 +143,8 @@
         "source_url": "https://www.aldi.co.uk/products/price-drops/k/1588161430418388",
         "product_count": 76,
         "content_hash": "sha256:3cd483d26b65f453fe1df798eec7b5f88f3a321b274f4d7de1d4034266d47e2b",
-        "file_id": "2b2f6c98-dd95-4885-8356-070a3d3b2e1f",
-        "generated_at": "2026-10-27T18:22:19+00:00"
+        "file_id": "130d01f8-18da-4d7f-9aba-23cd1571a086",
+        "generated_at": "2026-10-27T20:56:20+00:00"
       },
       {
         "file": "aldi-gb/vegetarian_plant_based.json",
@@ -152,8 +152,8 @@
         "source_url": "https://www.aldi.co.uk/products/vegetarian-plant-based/k/1588161421881163",
         "product_count": 48,
         "content_hash": "sha256:2293e773fc35d0c66c09fb4393a8638ab2f01b51984b86e24012b82fd6dfe49f",
-        "file_id": "74807494-3136-4273-bb30-cd2f35922d06",
-        "generated_at": "2026-10-27T18:22:13+00:00"
+        "file_id": "3258c067-4cae-48c8-ae97-0065e7cddd9e",
+        "generated_at": "2026-10-27T20:56:14+00:00"
       }
     ],
     "hofer-si": [
@@ -163,8 +163,8 @@
         "source_url": "https://www.hofer.si/posebna-ponudba/2026-10-29",
         "product_count": 32,
         "content_hash": "sha256:a6b57d2209ff2e87c293c3276188f69a52688c8ba6a791775661e4a4b0b48bb6",
-        "file_id": "d68f87bb-1a4a-46ca-8d23-89bc61c4600c",
-        "generated_at": "2026-10-27T18:23:23+00:00"
+        "file_id": "c0564fd1-8312-4635-b0db-c6a0dcd0a463",
+        "generated_at": "2026-10-27T20:57:32+00:00"
       },
       {
         "file": "hofer-si/angebote_2026-11-02.json",
@@ -172,8 +172,8 @@
         "source_url": "https://www.hofer.si/posebna-ponudba/2026-11-02",
         "product_count": 38,
         "content_hash": "sha256:aa653683cd7abca42418115ee55afd9e3433ef3c3beff1336b92b47c4f73136f",
-        "file_id": "4c2fd36c-9dcb-4ab3-8528-ad6995873cbe",
-        "generated_at": "2026-10-27T18:23:30+00:00"
+        "file_id": "3f36cf61-f036-4914-847c-0ce44578976e",
+        "generated_at": "2026-10-27T20:57:41+00:00"
       },
       {
         "file": "hofer-si/pregled_posebne_ponudbe.json",
@@ -181,8 +181,8 @@
         "source_url": "https://www.hofer.si/izdelki/pregled-posebne-ponudbe/k/1588161418378530",
         "product_count": 284,
         "content_hash": "sha256:5cf51f65f5daa4ae0ea224c097a7ae63c600982c0dc7e3c00917be83ef7e4474",
-        "file_id": "fb285494-0a06-423b-9a8e-77a0ac755c6b",
-        "generated_at": "2026-10-27T18:23:52+00:00"
+        "file_id": "4188971b-2092-4dbd-b7c8-6839436a72b9",
+        "generated_at": "2026-10-27T20:58:01+00:00"
       },
       {
         "file": "hofer-si/vse_spuscene_cene.json",
@@ -190,8 +190,8 @@
         "source_url": "https://www.hofer.si/izdelki/vse-spuscene-cene/k/1588161418378360",
         "product_count": 308,
         "content_hash": "sha256:1147672cf25068ad6a61c4d8ba8b36ab4fdec7fe4c3a6a76a3009c9fbb6c62e7",
-        "file_id": "5e6f1558-1104-4e7f-b2d4-8a874bc56544",
-        "generated_at": "2026-10-27T18:23:41+00:00"
+        "file_id": "e583f455-ca61-431f-9d23-9963814f76d2",
+        "generated_at": "2026-10-27T20:57:52+00:00"
       }
     ]
   }
