@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-27T10:08:44+00:00",
+        "generated_at": "2026-10-27T18:23:41+00:00",
         "store": "hofer_si",
         "store_url": "https://www.hofer.si",
         "country": "SI",
@@ -8,10 +8,10 @@
         "source": "vse_spuscene_cene",
         "type": "listing",
         "source_url": "https://www.hofer.si/izdelki/vse-spuscene-cene/k/1588161418378360",
-        "product_count": 307,
-        "content_hash": "sha256:1dc0a9e5a23b2df0664e55fef002ec68160ec677987fede84b0e7a4f144b7a67",
-        "file_id": "7fefc037-a8c2-450b-afd3-97725acdf2e9",
-        "run_id": "20261027_100815-b5b15ca9"
+        "product_count": 308,
+        "content_hash": "sha256:1147672cf25068ad6a61c4d8ba8b36ab4fdec7fe4c3a6a76a3009c9fbb6c62e7",
+        "file_id": "5e6f1558-1104-4e7f-b2d4-8a874bc56544",
+        "run_id": "20261027_182312-f5553788"
     },
     "products": [
         {
@@ -6970,6 +6970,37 @@
             "original_price": "",
             "comparison_price": "5.64",
             "comparison_per": "1 kg",
+            "valid_from": "",
+            "valid_to": "",
+            "source_date": "2026-10-27",
+            "theme": "",
+            "tags": [
+                "to_ni_akcija"
+            ],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "vse_spuscene_cene",
+            "type": "listing",
+            "validity_source": "product_group",
+            "validity_confidence": "verified",
+            "validity_type": "permanent"
+        },
+        {
+            "store_product_id": "000000000497132002",
+            "brand": "BBQ",
+            "name": "Omaka za žar, jogurt z zelišči",
+            "amount": "300",
+            "unit": "ml",
+            "product_url": "https://www.hofer.si/izdelek/bbq-omaka-za-zar-jogurt-z-zelisci-000000000497132002",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/png/scaleWidth/232/c27dd365-724a-4f73-9d2f-1aa7305de784/Omaka%20za%20ar%20jogurt%20z%20zelii",
+            "category": "maso",
+            "price": "1.45",
+            "original_price": "",
+            "comparison_price": "4.83",
+            "comparison_per": "1 l",
             "valid_from": "",
             "valid_to": "",
             "source_date": "2026-10-27",

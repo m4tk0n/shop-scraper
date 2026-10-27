@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-10-27T10:05:19+00:00",
+        "generated_at": "2026-10-27T18:22:19+00:00",
         "store": "aldi_gb",
         "store_url": "https://www.aldi.co.uk",
         "country": "GB",
@@ -8,10 +8,10 @@
         "source": "price_drops",
         "type": "listing",
         "source_url": "https://www.aldi.co.uk/products/price-drops/k/1588161430418388",
-        "product_count": 77,
-        "content_hash": "sha256:07f7857418a7c880bc30aef76cd2252fb4c0f1927de5e3160018731c13a19c94",
-        "file_id": "0ceaf102-3ec4-48d1-89b8-c1d280bba760",
-        "run_id": "20261027_095909-09e2dbbf"
+        "product_count": 76,
+        "content_hash": "sha256:3cd483d26b65f453fe1df798eec7b5f88f3a321b274f4d7de1d4034266d47e2b",
+        "file_id": "2b2f6c98-dd95-4885-8356-070a3d3b2e1f",
+        "run_id": "20261027_181521-8fd7a8c1"
     },
     "products": [
         {
@@ -26,35 +26,6 @@
             "price": "0.49",
             "original_price": "0.55",
             "comparison_price": "0.49",
-            "comparison_per": "1 Each",
-            "valid_from": "",
-            "valid_to": "",
-            "source_date": "2026-10-27",
-            "theme": "Price Drops",
-            "tags": [],
-            "deposit": "",
-            "deposit_type": "",
-            "approx_amount": false,
-            "drained_weight": false,
-            "variants": false,
-            "source": "price_drops",
-            "type": "listing",
-            "validity_source": "unknown",
-            "validity_confidence": "unknown",
-            "validity_type": "regular"
-        },
-        {
-            "store_product_id": "000000000000339891",
-            "brand": "HALLOWEEN AAAHMAZING",
-            "name": "Munchkin Pumpkin",
-            "amount": "",
-            "unit": "",
-            "product_url": "https://www.aldi.co.uk/product/halloween-aaahmazing-munchkin-pumpkin-000000000000339891",
-            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/732510ae-dea9-4dc1-83dc-6609b44f2499/Munchkin%20Pumpkin",
-            "category": "nonfood",
-            "price": "0.35",
-            "original_price": "0.39",
-            "comparison_price": "0.35",
             "comparison_per": "1 Each",
             "valid_from": "",
             "valid_to": "",
