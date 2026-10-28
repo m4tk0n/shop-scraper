@@ -22,6 +22,7 @@ from bs4 import BeautifulSoup
 from hofer_angebote import parse_tiles
 from hofer_common import clean, register_source, run_batches
 from hofer_listings import fetch_listing
+from store_cats import Selector, nearest_parent
 
 BASE = os.environ.get("STORE_URL", "").rstrip("/")      # jen z DB, v kódu žádná adresa
 
@@ -69,6 +70,12 @@ HINTS = {
     "health-beauty": "hygiena", "baby-toddler": "potraviny", "nappies": "hygiena", "wipes-creams-nappy-sacks": "hygiena",
     "pet-care": "zvirata", "home-essentials": "domacnost", "dishwashing": "uklid", "house-cleaning": "uklid",
     "laundry": "prani", "flowers": "zahrada", "batteries": "technika",
+    # sezónní
+    "cheeseboard": "mlecne_vyrobky", "starters": "hotova_jidla", "party-food": "hotova_jidla",
+    "sides-trimmings-sauces": "hotova_jidla", "desserts-sweet-treats": "sladkosti",
+    "halloween-confectionery": "sladkosti", "halloween-drinks": "napoje", "halloween-deli-range": "hotova_jidla",
+    "pumpkins": "zelenina", "autumn-drinks": "napoje", "autumn-midweek-meals": "hotova_jidla",
+    "autumn-freezer-favourites": "hotova_jidla",
 }
 FALLBACK_CATS = {"", "potraviny", "nonfood"}
 CAT_PATH = re.compile(r"/products/((?:[^/]+/)*[^/]+)/k/(\d+)")
@@ -125,10 +132,11 @@ def top_has_more(session, name, url, seen):
     return any((p["product_url"] or (p["name"], p["price"])) not in seen for p in page)
 
 
-def fetch_category(session, name, top, t, nodes):
-    leaves = [sp for sp in t["leaves"] if sp not in SKIP_LEAVES]
+def fetch_category(session, name, top, t, nodes, sel):
+    # aktivní podle DB (store_categories); SKIP_LEAVES platí jen bez DB
+    leaves = [sp for sp in t["leaves"] if sel.active(sp) and (sel.enabled or sp not in SKIP_LEAVES)]
     if t["leaves"] and not leaves:
-        return []                                    # všechny podkategorie jsou vynechané
+        return []                                    # všechny podkategorie jsou vypnuté
     skipped = len(leaves) < len(t["leaves"])
     pages = [{"path": sp, "url": nodes[sp]["url"], "label": nodes[sp]["label"] or sp.split("/")[-1]} for sp in leaves]
     if not pages and t["url"]:
@@ -172,10 +180,22 @@ def collect(session, opts):
     for top, t in tops.items():
         leaves = [sp.split("/", 1)[1] for sp in t["leaves"]]
         print(f"  {top}: {len(leaves)} koncových kategorií", leaves)
-    wanted = opts["args"] or ["all"]
-    if "all" in wanted:
-        wanted = [w for w in tops if w not in SKIP_TOPS]
-        print("Vynechané hlavní kategorie:", sorted(SKIP_TOPS & set(tops)))
+    # kategorie obchodu v DB (store_categories): nové se přidají jako aktivní, stahují se jen aktivní
+    sel = Selector(session)
+    known = set(nodes) | set(tops)
+    sync_nodes = [{"path": top, "parent": "", "name": t["label"] or top, "url": t["url"]} for top, t in tops.items()]
+    sync_nodes += [{"path": sp, "parent": nearest_parent(sp, known), "name": n["label"] or sp.split("/")[-1], "url": n["url"]}
+                   for sp, n in nodes.items() if "/" in sp]
+    sel.sync(sync_nodes)
+    args = opts["args"]
+    if sel.enabled and (not args or "all" in args):
+        wanted = [w for w in tops if sel.active(w)]
+    else:
+        wanted = args or ["all"]
+        if "all" in wanted:
+            wanted = [w for w in tops if w not in SKIP_TOPS]
+            print("Vynechané hlavní kategorie:", sorted(SKIP_TOPS & set(tops)))
+    fetch_sel = Selector.disabled(session) if args else sel     # výslovně zadané kategorie se stahují vždy
     for w in wanted:
         t = tops.get(w)
         if not t or not (t["url"] or t["leaves"]):
@@ -185,7 +205,7 @@ def collect(session, opts):
         register_source(name, "listing")
         print(f"\n=== {name} ===")
         url = t["url"] or nodes[t["leaves"][0]]["url"]
-        yield {"source": name, "source_url": url, "label": "", "products": fetch_category(session, name, w, t, nodes)}
+        yield {"source": name, "source_url": url, "label": "", "products": fetch_category(session, name, w, t, nodes, fetch_sel)}
 
 
 if __name__ == "__main__":

@@ -18,18 +18,27 @@ import hofer_listings
 import hofer_sortiment
 from hofer_common import run_batches
 from hofer_discover import discover
+from store_cats import Selector
 
 
 def collect(session, opts):
     disc = discover(session)
-    opts = dict(opts, discovery=disc)
+    # zdroje (denní nabídky, letáky, sekce) jako kategorie obchodu v DB; kategorie sortimentu doplní hofer_sortiment
+    sel = Selector(session)
+    sel.sync([{"path": "@angebote", "parent": "", "name": "Denní nabídky (Angebote)", "url": ""}]
+             + [{"path": f"@flyer:{n}", "parent": "", "name": f"Leták: {n}", "url": u} for n, u in disc["flyers"].items()]
+             + [{"path": f"@section:{n}", "parent": "", "name": f"Sekce: {n}", "url": u} for n, u in disc["sections"].items()])
+    opts = dict(opts, discovery=disc, selector=sel)
     wanted = set(opts["args"])
     known = set(disc["flyers"]) | set(disc["sections"]) | {"angebote", "sortiment"}
     for w in wanted - known:
         print("Neznámý zdroj:", w, "| nalezené:", sorted(known))
 
-    def want(n):
-        return not wanted or n in wanted
+    def want(n, path=None):
+        """Výslovně zadané zdroje se stahují vždy, jinak rozhoduje active v DB."""
+        if wanted:
+            return n in wanted
+        return sel.active(path) if path else True
 
     batches, errors = [], []
 
@@ -42,16 +51,16 @@ def collect(session, opts):
             errors.append(e)
             print(f"CHYBA zdroje: {type(e).__name__}: {e}")
 
-    if want("angebote"):
+    if want("angebote", "@angebote"):
         run(hofer_angebote.collect(session, dict(opts, args=[])))
-    sections = [n for n in disc["sections"] if want(n)]
+    sections = [n for n in disc["sections"] if want(n, f"@section:{n}")]
     if sections:
         run(hofer_listings.collect(session, dict(opts, args=sections)))
     if want("sortiment"):
         run(hofer_sortiment.collect(session, dict(opts, args=[])))
     tiles = [p for b in batches for p in b["products"]]          # produkty s ID z tohoto běhu
     n_tile_batches = len(batches)
-    flyers = [n for n in disc["flyers"] if want(n)]            # až po dlaždicích: ID se doplní z nich
+    flyers = [n for n in disc["flyers"] if want(n, f"@flyer:{n}")]            # až po dlaždicích: ID se doplní z nich
     if flyers:
         run(hofer_flyer.collect(session, dict(opts, args=flyers, pool=tiles)))
     flyer_items = [p for b in batches[n_tile_batches:] for p in b["products"]]

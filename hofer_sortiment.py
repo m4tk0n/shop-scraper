@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup
 from hofer_common import clean, register_source, run_batches
 from hofer_discover import BASE, NAV_URL
 from hofer_listings import fetch_listing
+from store_cats import Selector
 
 # podkategorie z menu hofer.at -> naše sdílené kategorie
 LEAF_HINTS = {
@@ -54,8 +55,11 @@ def parse_tree(html):
     return {s: n for s, n in tops.items() if n["url"] and (n["children"] or len(n["id"]) >= ref)}
 
 
-def fetch_category(session, name, top_slug, node):
-    pages = node["children"] or [{"slug": None, "url": node["url"], "label": node["label"]}]
+def fetch_category(session, name, top_slug, node, sel):
+    children = [c for c in node["children"] if sel.active(f"{top_slug}/{c['slug']}")]
+    if node["children"] and not children:
+        return []                                          # všechny podkategorie jsou v DB vypnuté
+    pages = children or [{"slug": None, "url": node["url"], "label": node["label"]}]
     products, seen = [], set()
     for ch in pages:
         for p in fetch_listing(session, name, ch["url"], default_group="food", validity=False):
@@ -79,13 +83,24 @@ def collect(session, opts):
         return
     tops = parse_tree(r.text)
     print("Sortiment z menu:", {s: len(n["children"]) for s, n in tops.items()})
+    # kategorie obchodu v DB (store_categories): hofer_all předá společný Selector, samostatně si ho vytvoří sám
+    sel = opts.get("selector") or Selector(session)
+    nodes = []
+    for s, n in tops.items():
+        nodes.append({"path": s, "parent": "", "name": n["label"] or s, "url": n["url"]})
+        nodes += [{"path": f"{s}/{c['slug']}", "parent": s, "name": c["label"], "url": c["url"]} for c in n["children"]]
+    sel.sync(nodes)
+    fetch_sel = Selector.disabled(session) if opts["args"] else sel      # výslovně zadané kategorie se stahují vždy
     for slug, node in tops.items():
         if opts["args"] and slug not in opts["args"]:
+            continue
+        if not opts["args"] and not sel.active(slug):
+            print(f"\n=== {source_name(slug)}: vypnuto v DB, přeskakuji ===")
             continue
         name = source_name(slug)
         register_source(name, "listing")
         print(f"\n=== {name} ===")
-        yield {"source": name, "source_url": node["url"], "label": "", "products": fetch_category(session, name, slug, node)}
+        yield {"source": name, "source_url": node["url"], "label": "", "products": fetch_category(session, name, slug, node, fetch_sel)}
 
 
 if __name__ == "__main__":

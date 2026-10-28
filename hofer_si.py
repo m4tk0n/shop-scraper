@@ -23,6 +23,7 @@ from hofer_angebote import collect_days, parse_tiles
 from hofer_common import clean, register_source, run_batches
 from hofer_discover import find_dates_and_themes
 from hofer_listings import fetch_listing
+from store_cats import Selector
 
 BASE = os.environ.get("STORE_URL", "").rstrip("/")      # jen z DB, v kódu žádná adresa
 DEFAULT_SOURCES = ["angebote", "vse-spuscene-cene", "pregled-posebne-ponudbe"]
@@ -101,9 +102,13 @@ def apply_hint(p, slug):
         p["category"] = hint
 
 
-def fetch_category(session, name, top_slug, node):
-    """Kategorie: podkategorie se stahují zvlášť (kvůli upřesnění kategorie podle menu)."""
-    pages = node["children"] or ([{"slug": None, "url": node["url"], "label": node["label"]}] if node["url"] else [])
+def fetch_category(session, name, top_slug, node, sel):
+    """Kategorie: podkategorie se stahují zvlášť (kvůli upřesnění kategorie podle menu). sel určuje, které jsou aktivní."""
+    children = [c for c in node["children"] if sel.active(f"{top_slug}/{c['slug']}")]
+    if node["children"] and not children:
+        return []                                          # všechny podkategorie jsou v DB vypnuté
+    skipped = len(children) < len(node["children"])
+    pages = children or ([{"slug": None, "url": node["url"], "label": node["label"]}] if node["url"] else [])
     products, seen = [], set()
     for ch in pages:
         food = top_slug in HINTS or ch["slug"] in HINTS
@@ -119,7 +124,7 @@ def fetch_category(session, name, top_slug, node):
                 apply_hint(p, top_slug)
             products.append(p)
         time.sleep(0.4)
-    if node["children"] and node["url"] and top_has_more(session, name, node, seen, "food" if top_slug in HINTS else None):
+    if node["children"] and node["url"] and not skipped and top_has_more(session, name, node, seen, "food" if top_slug in HINTS else None):
         added = 0
         for p in fetch_listing(session, name, node["url"], default_group="food" if top_slug in HINTS else None, validity=False):
             k = p["product_url"] or (p["name"], p["price"])
@@ -146,9 +151,21 @@ def collect(session, opts):
     print("Objeveno z menu:")
     print("  dny:       ", nav["dates"])
     print("  kategorie: ", {s: len(n["children"]) for s, n in tops.items()})
-    wanted = opts["args"] or DEFAULT_SOURCES
-    if "all" in wanted:
-        wanted = ["angebote"] + list(tops)
+    # kategorie obchodu v DB (store_categories): nové se přidají jako aktivní, stahují se jen aktivní
+    sel = Selector(session)
+    nodes = [{"path": "@angebote", "parent": "", "name": "Denní nabídky (posebna ponudba)", "url": ""}]
+    for s, n in tops.items():
+        nodes.append({"path": s, "parent": "", "name": n["label"] or s, "url": n["url"]})
+        nodes += [{"path": f"{s}/{c['slug']}", "parent": s, "name": c["label"], "url": c["url"]} for c in n["children"]]
+    sel.sync(nodes)
+    args = opts["args"]
+    if sel.enabled and (not args or "all" in args):
+        wanted = [w for w in ["angebote"] + list(tops) if sel.active("@angebote" if w == "angebote" else w)]
+    else:
+        wanted = args or DEFAULT_SOURCES
+        if "all" in wanted:
+            wanted = ["angebote"] + list(tops)
+    fetch_sel = Selector.disabled(session) if args else sel     # výslovně zadané kategorie se stahují vždy
     register_source("angebote", "offer")
 
     if "angebote" in wanted:
@@ -165,7 +182,7 @@ def collect(session, opts):
         register_source(name, SPECIAL.get(w, "listing"))
         print(f"\n=== {name} ===")
         url = node["url"] or node["children"][0]["url"]
-        yield {"source": name, "source_url": url, "label": "", "products": fetch_category(session, name, w, node)}
+        yield {"source": name, "source_url": url, "label": "", "products": fetch_category(session, name, w, node, fetch_sel)}
 
 
 if __name__ == "__main__":
