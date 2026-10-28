@@ -70,6 +70,7 @@ env:
   BRANDS_URL: ${{ vars.BRANDS_URL }}
   BRANDS_TOKEN: ${{ secrets.BRANDS_TOKEN }}
   STORES_URL: ${{ vars.STORES_URL }}
+  CATEGORIES_URL: ${{ vars.CATEGORIES_URL }}
   SCOPE: ${{ inputs.scope || 'vse' }}
   ALDI_ALL: ${{ inputs.aldi_all && 'yes' || 'no' }}
   FOOD_ONLY: ${{ inputs.food_only && 'yes' || 'no' }}
