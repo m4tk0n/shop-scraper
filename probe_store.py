@@ -34,7 +34,7 @@ def outline(o, path="", depth=0, out=None, maxdepth=7):
         return out
     if isinstance(o, dict):
         for k, v in list(o.items())[:30]:
-            if k == "config":
+            if k in ("config", "_nextI18Next", "header", "footer", "footerConfig", "cookieBanner", "marcom", "__APOLLO_STATE__"):
                 continue
             p = f"{path}.{k}"
             if isinstance(v, (dict, list)):
@@ -46,6 +46,21 @@ def outline(o, path="", depth=0, out=None, maxdepth=7):
     elif isinstance(o, list) and o:
         outline(o[0], path + "[0]", depth + 1, out, maxdepth)
     return out
+
+
+def apollo_summary(state):
+    """GraphQL cache stránky: typy záznamů, počty a jedna ukázka od každého typu."""
+    print("\n--- __APOLLO_STATE__ (GraphQL cache) ---")
+    groups = {}
+    for k, v in state.items():
+        t = (v.get("__typename") if isinstance(v, dict) else None) or k.split(":")[0]
+        groups.setdefault(t, []).append((k, v))
+    for t, items in sorted(groups.items(), key=lambda x: -len(x[1])):
+        k, v = items[0]
+        print(f"{t}: {len(items)}x | např. {k} = {json.dumps(v, ensure_ascii=False)[:700]}")
+    root = state.get("ROOT_QUERY")
+    if isinstance(root, dict):
+        print("ROOT_QUERY klíče:", [k[:170] for k in list(root)[:20]])
 
 
 def tile_container(el):
@@ -71,16 +86,16 @@ def dump_hints(html, url):
     print("\n--- stopy po datech v HTML ---")
     print("title:", (soup.title.string or "")[:80] if soup.title else "-")
     scripts = [urljoin(url, x["src"]) for x in soup.find_all("script", src=True)]
-    print(f"skripty se src: {len(scripts)}", scripts[:12])
+    print(f"skripty se src: {len(scripts)}", scripts[:3])
     for tag, attr in (("a", "href"), ("iframe", "src"), ("link", "href"), ("img", "src"), ("source", "src"), ("embed", "src"), ("object", "data")):
         hit = [urljoin(url, el.get(attr)) for el in soup.find_all(tag) if el.get(attr) and URL_HINT.search(el.get(attr))]
         if hit:
-            print(f"{tag}[{attr}] s nápovědou ({len(hit)}):", hit[:8])
+            print(f"{tag}[{attr}] s nápovědou ({len(hit)}):", hit[:2])
     blob = " ".join(x.get_text() for x in soup.find_all("script") if not x.get("src"))
     urls = sorted(set(re.findall(r"https?://[^\s\"'\\<>]+", blob)))
-    print(f"inline skripty: {len(blob)} znaků, adres {len(urls)}, s nápovědou:", [u for u in urls if URL_HINT.search(u)][:10])
+    print(f"inline skripty: {len(blob)} znaků, adres {len(urls)}, s nápovědou:", [u for u in urls if URL_HINT.search(u)][:4])
     for x in soup.find_all("script", type=re.compile("json")):
-        print("JSON blok:", x.get("id") or x.get("type"), x.get_text()[:300].replace("\n", " "))
+        print("JSON blok:", x.get("id") or x.get("type"), x.get_text()[:80].replace("\n", " "))
     for el in soup.find_all(["a", "button"]):
         t = el.get_text(" ", strip=True).lower()
         if "stáhnout" in t or "download" in t:
@@ -88,8 +103,12 @@ def dump_hints(html, url):
     nd = soup.find("script", id="__NEXT_DATA__")
     if nd:
         try:
+            data = json.loads(nd.get_text())
             print("\n--- osnova __NEXT_DATA__ ---")
-            print("\n".join(outline(json.loads(nd.get_text()))))
+            print("\n".join(outline(data)))
+            state = data.get("props", {}).get("pageProps", {}).get("__APOLLO_STATE__")
+            if isinstance(state, dict):
+                apollo_summary(state)
         except Exception as e:
             print("__NEXT_DATA__ nejde přečíst:", type(e).__name__)
     if soup.find("a", href=re.compile(r"/products/\d+")):
