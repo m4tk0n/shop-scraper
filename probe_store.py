@@ -6,6 +6,7 @@
 1. běh (jen adresa webu) ukáže strukturu: menu, kategorie, dny, nápovědy.
 Další adresy (stránky s produkty) otestují parsování dlaždic a kategorií.
 """
+import json
 import os
 import re
 import sys
@@ -24,6 +25,44 @@ DAY_RE = re.compile(r"/\d{4}-\d{2}-\d{2}")
 HINTS = re.compile(r"flugblatt|letak|katalog|ponudb|akcij|izdelk|produkt|znamk|marke", re.I)
 # adresy, které naznačují zdroj dat letáku nebo seznamu produktů
 URL_HINT = re.compile(r"\.pdf|\.json|/api/|digitalcontent|publitas|issuu|ipaper|flipbook|leaflet|flyer|letak|catalog", re.I)
+
+
+def outline(o, path="", depth=0, out=None, maxdepth=7):
+    """Stručná osnova JSON: cesty, typy, délky a krátké ukázky hodnot (config se přeskakuje)."""
+    out = out if out is not None else []
+    if len(out) > 150:
+        return out
+    if isinstance(o, dict):
+        for k, v in list(o.items())[:30]:
+            if k == "config":
+                continue
+            p = f"{path}.{k}"
+            if isinstance(v, (dict, list)):
+                out.append(f"{p} {type(v).__name__}[{len(v)}]")
+                if depth < maxdepth:
+                    outline(v, p, depth + 1, out, maxdepth)
+            else:
+                out.append(f"{p} = {str(v)[:70]!r}")
+    elif isinstance(o, list) and o:
+        outline(o[0], path + "[0]", depth + 1, out, maxdepth)
+    return out
+
+
+def tile_container(el):
+    """Nejmenší předek, který obsahuje odkaz na produkt i tlačítko Přidat = celá dlaždice."""
+    cur = el
+    for _ in range(14):
+        if cur.parent is None:
+            return None
+        cur = cur.parent
+        if cur.find(class_=re.compile("add-button")) and cur.find("a", href=re.compile(r"/products/\d+")):
+            return cur
+    return None
+
+
+def short_html(el, limit=5500):
+    h = re.sub(r"<svg.*?</svg>", "<svg/>", str(el), flags=re.S)
+    return h[:limit]
 
 
 def dump_hints(html, url):
@@ -46,13 +85,29 @@ def dump_hints(html, url):
         t = el.get_text(" ", strip=True).lower()
         if "stáhnout" in t or "download" in t:
             print("tlačítko:", t, "| href:", el.get("href"), "| atributy:", {k: v for k, v in el.attrs.items() if k != "class"})
-    a = soup.find("a", href=re.compile(r"/products/\d+"))
-    if a:
-        el = a
-        for _ in range(4):
-            if el.parent is not None and el.parent.name not in ("body", "html"):
-                el = el.parent
-        print("\nHTML prvního produktu (odkaz /products/<id> a okolí):\n", str(el)[:1800])
+    nd = soup.find("script", id="__NEXT_DATA__")
+    if nd:
+        try:
+            print("\n--- osnova __NEXT_DATA__ ---")
+            print("\n".join(outline(json.loads(nd.get_text()))))
+        except Exception as e:
+            print("__NEXT_DATA__ nejde přečíst:", type(e).__name__)
+    if soup.find("a", href=re.compile(r"/products/\d+")):
+        print("\n--- dlaždice produktů ---")
+        sash = soup.find(class_=re.compile("special-offer-sash"))
+        plain = None
+        for h in soup.find_all(class_=re.compile("product-tile-product-heading")):
+            c = tile_container(h)
+            if c is not None and not c.find(class_=re.compile("special-offer-sash")):
+                plain = c
+                break
+        for label, el in (("se slevou", tile_container(sash) if sash else None), ("bez slevy", plain)):
+            if el is not None:
+                print(f"\nDLAŽDICE {label}:\n", short_html(el))
+        for pat in ("price__text", "unit-price__subtext", "promotion__wrapper", "special-offer-sash"):
+            texts = [x.get_text(" ", strip=True) for x in soup.find_all(class_=re.compile(pat))][:4]
+            print(f"texty *{pat}*:", texts)
+        print("odkazy na stránkování:", [x["href"] for x in soup.find_all("a", href=re.compile(r"[?&]page="))][:5])
 
 
 def site_links(base, soup):
