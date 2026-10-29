@@ -22,6 +22,37 @@ from hofer_angebote import next_page_url, parse_tiles   # noqa: E402
 CAT_RE = re.compile(r"/k/\d+")
 DAY_RE = re.compile(r"/\d{4}-\d{2}-\d{2}")
 HINTS = re.compile(r"flugblatt|letak|katalog|ponudb|akcij|izdelk|produkt|znamk|marke", re.I)
+# adresy, které naznačují zdroj dat letáku nebo seznamu produktů
+URL_HINT = re.compile(r"\.pdf|\.json|/api/|digitalcontent|publitas|issuu|ipaper|flipbook|leaflet|flyer|letak|catalog", re.I)
+
+
+def dump_hints(html, url):
+    """Stránka bez dlaždic: kde by mohla být data (skripty, PDF, JSON, tlačítko Stáhnout, HTML prvního produktu)."""
+    soup = BeautifulSoup(html, "html.parser")
+    print("\n--- stopy po datech v HTML ---")
+    print("title:", (soup.title.string or "")[:80] if soup.title else "-")
+    scripts = [urljoin(url, x["src"]) for x in soup.find_all("script", src=True)]
+    print(f"skripty se src: {len(scripts)}", scripts[:12])
+    for tag, attr in (("a", "href"), ("iframe", "src"), ("link", "href"), ("img", "src"), ("source", "src"), ("embed", "src"), ("object", "data")):
+        hit = [urljoin(url, el.get(attr)) for el in soup.find_all(tag) if el.get(attr) and URL_HINT.search(el.get(attr))]
+        if hit:
+            print(f"{tag}[{attr}] s nápovědou ({len(hit)}):", hit[:8])
+    blob = " ".join(x.get_text() for x in soup.find_all("script") if not x.get("src"))
+    urls = sorted(set(re.findall(r"https?://[^\s\"'\\<>]+", blob)))
+    print(f"inline skripty: {len(blob)} znaků, adres {len(urls)}, s nápovědou:", [u for u in urls if URL_HINT.search(u)][:10])
+    for x in soup.find_all("script", type=re.compile("json")):
+        print("JSON blok:", x.get("id") or x.get("type"), x.get_text()[:300].replace("\n", " "))
+    for el in soup.find_all(["a", "button"]):
+        t = el.get_text(" ", strip=True).lower()
+        if "stáhnout" in t or "download" in t:
+            print("tlačítko:", t, "| href:", el.get("href"), "| atributy:", {k: v for k, v in el.attrs.items() if k != "class"})
+    a = soup.find("a", href=re.compile(r"/products/\d+"))
+    if a:
+        el = a
+        for _ in range(4):
+            if el.parent is not None and el.parent.name not in ("body", "html"):
+                el = el.parent
+        print("\nHTML prvního produktu (odkaz /products/<id> a okolí):\n", str(el)[:1800])
 
 
 def site_links(base, soup):
@@ -56,6 +87,7 @@ def test_page(s, url):
     r = s.get(url, timeout=60)
     print(f"\n=== {url}\nstatus {r.status_code}, {len(r.text)} znaků")
     if r.status_code != 200:
+        print("začátek odpovědi:", r.text[:300].replace("\n", " "))
         return
     soup = BeautifulSoup(r.text, "html.parser")
     tiles = soup.find_all("div", class_="product-tile")
@@ -73,6 +105,7 @@ def test_page(s, url):
     elif not tiles:
         cls = Counter(c for el in soup.find_all(class_=True) for c in el["class"] if re.search("product|price|tile|card", c))
         print("žádné product-tile; třídy s product/price/tile/card:", dict(cls.most_common(15)))
+        dump_hints(r.text, url)
 
 
 if __name__ == "__main__":
