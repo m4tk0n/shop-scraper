@@ -1,0 +1,31 @@
+name: probe
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Základní adresa obchodu; pro Tesco leták použij https://www.itesco.cz, pro e-shop https://nakup.itesco.cz"
+        type: string
+        default: "https://www.hofer.si"
+      pages:
+        description: "Volitelné URL stránek oddělené mezerou; použij stránky stejného webu jako v poli url"
+        type: string
+        default: ""
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Sonda
+        env:
+          URL: ${{ inputs.url }}
+          PAGES: ${{ inputs.pages }}
+        run: python probe_store_tesco.py "$URL" $PAGES
+        
