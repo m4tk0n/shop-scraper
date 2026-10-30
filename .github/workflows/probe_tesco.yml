@@ -1,4 +1,4 @@
-pname: probeTesco
+name: probe Tesco
 
 on:
   workflow_dispatch:
@@ -6,11 +6,11 @@ on:
       url:
         description: "Základní adresa obchodu; pro Tesco leták použij https://www.itesco.cz, pro e-shop https://nakup.itesco.cz"
         type: string
-        default: "https://nakup.itesco.cz"
+        default: "https://www.itesco.cz"
       pages:
         description: "Volitelné URL stránek oddělené mezerou; použij stránky stejného webu jako v poli url"
         type: string
-        default: "https://www.itesco.cz/akcni-nabidky/letaky-a-katalogy/supermarkety/tesco-supermarket-rajhrad/tesco-letak-2026-10-29/1"
+        default: ""
 
 jobs:
   probe:
