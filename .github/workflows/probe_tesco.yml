@@ -1,4 +1,4 @@
-pname: probe tesco
+pname: probe_Tesco
 
 on:
   workflow_dispatch:
