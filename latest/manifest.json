@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-07T20:49:05+00:00",
+  "generated_at": "2026-11-08T11:53:15+00:00",
   "stores": {
     "aldi-gb": [
       {
         "file": "aldi-gb/marken.json",
         "source": "marken",
         "source_url": "https://www.aldi.co.uk/brands",
-        "product_count": 3840,
-        "content_hash": "sha256:524f619adf692d96aaacba163df383ce5e282d86c1904ccb95696b6a9e77f378",
-        "file_id": "14a3c74f-e457-44b4-9754-f7a142c67c94",
-        "generated_at": "2026-11-07T20:48:53+00:00"
+        "product_count": 3870,
+        "content_hash": "sha256:2ad5d4d3942eb0586db1b42eea5e9ff2f205d61b14bb159f7f4fe27d560d8a03",
+        "file_id": "86ae8dc5-f16a-4635-9b0d-aeb3ec55d868",
+        "generated_at": "2026-11-08T11:53:05+00:00"
       },
       {
         "file": "aldi-gb/specially_selected.json",
         "source": "specially_selected",
         "source_url": "https://www.aldi.co.uk/products/specially-selected/k/1588161431580089",
-        "product_count": 341,
-        "content_hash": "sha256:c727d68c6175a299c66e360b5a6dc9ee7467f6a09f1c012cd52d944ef7e21628",
-        "file_id": "2275556c-d958-43ab-accf-a902d210be5c",
-        "generated_at": "2026-11-07T20:22:32+00:00"
+        "product_count": 344,
+        "content_hash": "sha256:a2822d2bd6ffbd5df97e40abdb1ed832f313edc28115f5221ba0701132c8b01d",
+        "file_id": "0c72e359-c7ce-47c1-a9aa-1ce7ff920915",
+        "generated_at": "2026-11-08T11:27:27+00:00"
       }
     ]
   }
