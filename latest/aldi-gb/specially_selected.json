@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-11-11T12:02:20+00:00",
+        "generated_at": "2026-11-11T22:53:10+00:00",
         "store": "aldi_gb",
         "store_url": "https://www.aldi.co.uk",
         "country": "GB",
@@ -9,9 +9,9 @@
         "type": "listing",
         "source_url": "https://www.aldi.co.uk/products/specially-selected/k/1588161431580089",
         "product_count": 346,
-        "content_hash": "sha256:bdafb2fe8830d9ac8f431a0e6d303e34a0996581b6f740475230edd30d7b74c3",
-        "file_id": "ffad890e-2ae6-4bcc-9bdd-dc82625c630c",
-        "run_id": "20261111_120154-3f96083f"
+        "content_hash": "sha256:0351f5d7316ef8319d7df56669353e81961ce5d8356fe1fecf092ebdefe51144",
+        "file_id": "ae3b8208-3108-4305-9db3-bef58235b7b3",
+        "run_id": "20261111_225244-57c4fc78"
     },
     "products": [
         {
@@ -1502,9 +1502,9 @@
             "product_url": "https://www.aldi.co.uk/product/specially-selected-irish-cream-liqueur-000000000000582386",
             "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/7da84266-b75f-437f-b40c-e077bba2a460/Irish%20Cream%20Liqueur",
             "category": "potraviny",
-            "price": "7.99",
+            "price": "5.99",
             "original_price": "",
-            "comparison_price": "11.41",
+            "comparison_price": "8.56",
             "comparison_per": "1 L",
             "valid_from": "",
             "valid_to": "",
