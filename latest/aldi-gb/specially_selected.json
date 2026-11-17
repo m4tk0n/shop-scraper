@@ -1,6 +1,6 @@
 {
     "meta": {
-        "generated_at": "2026-11-17T00:21:34+00:00",
+        "generated_at": "2026-11-17T13:45:48+00:00",
         "store": "aldi_gb",
         "store_url": "https://www.aldi.co.uk",
         "country": "GB",
@@ -8,10 +8,10 @@
         "source": "specially_selected",
         "type": "listing",
         "source_url": "https://www.aldi.co.uk/products/specially-selected/k/1588161431580089",
-        "product_count": 398,
-        "content_hash": "sha256:4accef8fcc6e7f2905f5f42cdfa7f2fe1100fe4d862fd7d9b7f62029c8a9424c",
-        "file_id": "ef786988-0fd0-4001-a148-05392aa453cb",
-        "run_id": "20261117_002110-cf2bf384"
+        "product_count": 399,
+        "content_hash": "sha256:e44255587cccd404335ba471d0f725bf2b9a426efabbaf5a201302923145de00",
+        "file_id": "18a48909-394b-47f4-98dc-4f2c067c5de0",
+        "run_id": "20261117_134521-1c8c2d45"
     },
     "products": [
         {
@@ -6416,6 +6416,37 @@
             "price": "2.49",
             "original_price": "",
             "comparison_price": "10.97",
+            "comparison_per": "1 KG",
+            "valid_from": "",
+            "valid_to": "",
+            "source_date": "2026-11-17",
+            "theme": "Specially Selected",
+            "tags": [
+                "while_stock_lasts"
+            ],
+            "deposit": "",
+            "deposit_type": "",
+            "approx_amount": false,
+            "drained_weight": false,
+            "variants": false,
+            "source": "specially_selected",
+            "type": "listing",
+            "validity_source": "unknown",
+            "validity_confidence": "unknown",
+            "validity_type": "regular"
+        },
+        {
+            "store_product_id": "000000000422763001",
+            "brand": "SPECIALLY SELECTED",
+            "name": "Champagne Christmas Pudding",
+            "amount": "400",
+            "unit": "g",
+            "product_url": "https://www.aldi.co.uk/product/specially-selected-champagne-christmas-pudding-000000000422763001",
+            "image_url": "https://dm.emea.cms.aldi.cx/is/image/aldiprodeu/product/jpg/scaleWidth/232/fe39b8b4-8acf-4b46-82d7-d276cd56dd59/Champagne%20Christmas%20Pudding",
+            "category": "sladkosti",
+            "price": "3.99",
+            "original_price": "",
+            "comparison_price": "9.98",
             "comparison_per": "1 KG",
             "valid_from": "",
             "valid_to": "",
